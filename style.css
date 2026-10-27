@@ -48,5 +48,12 @@ td.ok{color:#047857;white-space:nowrap}td.mid{color:#b45309;white-space:nowrap}t
 .warn{background:var(--warm-soft);border:1px solid #fed7aa;color:#7c2d12;border-radius:12px;padding:10px 14px;font-size:14px;margin:14px 0}
 .cta{background:linear-gradient(135deg,#0f766e,#14b8a6);color:#fff;border-radius:16px;padding:20px;margin:30px 0 0;display:flex;gap:14px;align-items:center;justify-content:space-between;flex-wrap:wrap}
 .cta b{font-size:17px}.cta p{margin:2px 0 0;opacity:.9;font-size:14px}.cta .btn{background:#fff;color:var(--brand)}
+.art h1{font-size:26px;line-height:1.35;margin:26px 0 6px}.art .meta{color:var(--mute);font-size:14px;margin-bottom:6px}
+.art .lead{font-size:16.5px;color:#374151;background:#fff;border-left:4px solid var(--brand);padding:10px 14px;border-radius:0 10px 10px 0}
+.art h2{font-size:20px;margin:28px 0 8px;padding-top:4px}.art h3{font-size:17px;margin:20px 0 6px}.art table{width:100%;border-collapse:collapse;font-size:14.5px;background:#fff;display:block;overflow-x:auto}
+.art th,.art td{border:1px solid var(--line);padding:7px 10px;text-align:left;vertical-align:top}.art th{background:#f3f1ec}
+.art blockquote{margin:12px 0;padding:8px 14px;background:#f3f1ec;border-radius:10px;color:#374151}
+.art .srcs{font-size:14px}.art .srcs li{word-break:break-all}
+.plist .item a{font-size:16.5px}
 footer{margin:40px auto 30px;color:var(--mute);font-size:13px;border-top:1px solid var(--line);padding-top:16px}
 @media(max-width:620px){.banks{grid-template-columns:repeat(2,1fr)}.banner h1{font-size:24px}.hero h1{font-size:22px}.logo{font-size:16px}nav{gap:12px;font-size:14px}.grid{gap:10px}.tile{padding:12px}}
