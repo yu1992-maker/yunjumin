@@ -1,0 +1,35 @@
+{
+ "title": "绿卡第一年报税:全球收入、双重居民年与常见错误",
+ "desc": "绿卡持有人第一年报税怎么报:全球收入从哪天算起、双重居民年的限制、FBAR 与 8938 的区别,以及常见错误清单。",
+ "body": "<p>拿到绿卡后,美国税务上你就是居民,要申报全球收入。如果绿卡是年中才生效,当年通常是“双重居民年”(dual-status):居民期之前只报美国来源收入,居民期之后报全球收入。第一年最容易出问题的是起算日期、不能用标准扣除、不能报联合申报,以及漏报海外账户(FBAR / Form 8938)。</p><h2>先搞清楚:你从哪天起算居民</h2><p>IRS 的说法是:满足“绿卡测试”或“实质居住测试”之一,就是税务居民。Pub 519 写明,如果你当年符合绿卡测试、但不符合实质居住测试,居民起算日是“你以合法永久居民身份在美国境内的第一天”。如果两个测试都符合,起算日取两者中较早的一天。</p><ul><li>本站查到的第三方说法是:起算日看“绿卡生效、你人在美国”的日期,并不一定是实体卡寄到的日期。具体日期请对照 I-551 和入境记录,不要凭感觉。</li><li>从 F-1、H-1B 等身份转绿卡的人,可能因为实质居住测试而更早成为税务居民。这种情况要单独算,第三方来源对此说法不一,以 Pub 519 为准。</li></ul><h2>全球收入怎么报</h2><p>居民期内,你和美国公民一样要申报全球收入,包括中国或其他国家的工资、利息、租金、股息、资本利得。Pub 519 提到,居民可以就已向外国缴纳或应计的所得税申请抵免,一般用 Form 1116,随 Form 1040 或 1040-SR 提交。</p><ul><li>银行利息、基金分红要按居民期入账,别因为“钱在国内”就不报。</li><li>外币收入要折算成美元,并保留汇率来源和计算记录。</li><li>在国外已缴税的,考虑 Form 1116,但是否划算要逐项算。</li></ul><h2>双重居民年:有哪些限制</h2><p>IRS 说明,你可以在同一年里先是非居民、后是居民,这种情况要按双重居民身份申报。Pub 519 第 6 章列出的主要限制如下。</p><table><tr><th>项目</th><th>规则(出自 Pub 519)</th></tr><tr><td>标准扣除</td><td>不能使用 Form 1040 / 1040-SR 的标准扣除,但可以列举扣除(itemize)</td></tr><tr><td>联合申报</td><td>不能报联合申报(Pub 519 提到可通过选择居民身份改变,详见第 1 章)</td></tr><tr><td>税率</td><td>已婚且未选择联合申报的,一般用“已婚分开申报”税率;不能用“联合”或“单身”的税表列</td></tr><tr><td>表格</td><td>年底仍是居民的,报 Form 1040 或 1040-SR;并在 “Other” 框写 “Dual Status Return”,附件标 “Dual Status Stmt”</td></tr><tr><td>寄送地址</td><td>用 Form 1040 说明里“双重居民”的地址</td></tr><tr><td>截止日</td><td>年底仍是居民的,次年 4 月 15 日前</td></tr></table><p>另外,有网站称双重居民申报不能电子申报。这是报税公司的说法,本站没有在 IRS 页面上核实到,报税前请看当年 Form 1040 说明确认。</p><h2>第一年报税步骤</h2><ol><li>确认绿卡生效日和每次入境日期,算出居民起算日。</li><li>把全年收入拆成“居民期前”和“居民期后”两段。</li><li>居民期前只列美国来源收入,居民期后列全球收入。</li><li>判断是双重居民年,还是适用其他选择(例如 Pub 519 提到的首年选择 First-Year Choice,详细条件请看原文)。</li><li>汇总海外账户余额,判断是否需要 FBAR 和 Form 8938。</li><li>决定是否要用 Form 1116 抵免外国税。</li><li>按 Pub 519 的要求,在 Form 1040 上标注 “Dual Status Return” 并附说明,再按规定地址寄出。</li></ol><h2>海外账户:FBAR 与 Form 8938 不是一回事</h2><table><tr><th>项目</th><th>FBAR</th><th>Form 8938</th></tr><tr><td>向谁提交</td><td>FinCEN(通过 BSA E-Filing 电子提交,不随税表提交)</td><td>随税表交给 IRS</td></tr><tr><td>门槛</td><td>海外账户合计年内任何时间超过 $10,000</td><td>居住在美国:单身或已婚分开申报,年底超 $50,000 或年内任何时点超 $75,000;联合申报,年底超 $100,000 或年内任何时点超 $150,000</td></tr><tr><td>截止日</td><td>4 月 15 日,自动延期到 10 月 15 日</td><td>随税表,同税表截止日</td></tr></table><p>FBAR 的表格是 FinCEN Form 114。上面的 FBAR 数字来自第三方对 FinCEN 规定的转述,本站没有直接核对到当年 FinCEN 官方页面。Form 8938 门槛同样来自第三方,请再对照 IRS 官方页面。</p><h2>第一年常见错误</h2><ul><li><b>只报美国收入。</b>居民期内国内银行利息、房租、股票收益一样要报。</li><li><b>起算日算错。</b>把收到实体卡的日期当成起算日,或忽略了此前的实质居住天数。</li><li><b>直接按单身标准扣除申报。</b>双重居民年不能用标准扣除。</li><li><b>夫妻直接报联合申报。</b>双重居民年默认不能联合申报,选择居民身份的条件要看 Pub 519 第 1 章。</li><li><b>漏报 FBAR / Form 8938。</b>两者独立,过了税表这一关不代表海外账户已申报。</li><li><b>忘了留外国税单据。</b>要申请外国税抵免,需要缴税凭证和折算依据。</li><li><b>放弃绿卡的手续不清楚。</b>Pub 519 说明,在拿到放弃申请被收到的证明前,你仍是税务居民。</li></ul><h2>常见问题</h2><h3>1. 绿卡下来才两个月,也要报全球收入吗?</h3><p>居民期内的收入要报全球。居民期之前,通常只报美国来源收入。具体分界以居民起算日为准。</p><h3>2. 国内银行账户余额不到 $10,000,还要报 FBAR 吗?</h3><p>FBAR 看的是所有海外账户合计,年内任何时点超过 $10,000 就需要申报。多个账户要加总计算,不是看单个账户。</p><h3>3. FBAR 报了,是不是就不用报 Form 8938?</h3><p>不是。两者门槛、提交对象不同,是分开的义务。需要两个都报的人不少,请分别核对。</p><blockquote>以上内容仅供参考,以 IRS、FinCEN 等官方说明为准。双重居民年、首年选择、外国税抵免等情况较复杂,建议咨询 CPA 或移民 / 税务律师。</blockquote>",
+ "sources": [
+  [
+   "IRS Publication 519 (U.S. Tax Guide for Aliens)",
+   "https://www.irs.gov/publications/p519"
+  ],
+  [
+   "IRS: Determining an Individual's Tax Residency Status",
+   "https://www.irs.gov/individuals/international-taxpayers/determining-an-individuals-tax-residency-status"
+  ],
+  [
+   "FinCEN: FBAR 相关资料",
+   "https://www.fincen.gov/news/news-releases/fbar-filing-requirement-certain-financial-professionals"
+  ],
+  [
+   "Drake Tax: FinCEN 114 FAQ",
+   "https://kb.drakesoftware.com/KB/Drake-Tax/14648.htm"
+  ],
+  [
+   "Taxes for Expats: Form 8938 / FATCA",
+   "https://www.taxesforexpats.com/faq/fatca-reporting-form-8938.html"
+  ],
+  [
+   "Greenback Tax Services: Dual-Status Alien",
+   "https://www.greenbacktaxservices.com/knowledge-center/dual-status-alien-for-us-tax-purposes/"
+  ]
+ ],
+ "cat": "报税",
+ "topic": "绿卡持有人第一年报税：全球收入、双重居民年和常见错误",
+ "date": "2026-10-27",
+ "slug": "20261027-tax-1"
+}
