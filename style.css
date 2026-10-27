@@ -100,6 +100,16 @@ input[type=search]:focus{outline:2px solid #5eead4;border-color:transparent}
 .tocbox a{display:block;padding:5px 0 5px 10px;border-left:2px solid var(--line);color:var(--ink2);line-height:1.5}.tocbox a:hover{border-color:var(--brand);color:var(--brand)}
 .srcbox{background:#f8fafc;border:1px solid var(--line);border-radius:12px;padding:16px 20px;margin-top:32px;font-size:14px}
 .srcbox h3{margin:0 0 8px;font-size:15px}.srcbox ol{margin:0;padding-left:1.3em}.srcbox li{word-break:break-all;margin:4px 0}
+/* 论坛 */
+.boards{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.board{display:flex;gap:14px;background:#fff;border:1px solid var(--line);border-radius:14px;padding:18px;color:var(--ink);transition:box-shadow .15s,transform .15s}
+.board:hover{box-shadow:var(--shadow);transform:translateY(-2px);color:var(--ink)}
+.board .em{font-size:26px;line-height:1;width:48px;height:48px;border-radius:12px;background:#f1f5f9;display:grid;place-items:center;flex:none}
+.board b{display:block;font-size:16.5px}.board span{display:block;font-size:13.5px;color:var(--mute);line-height:1.6;margin-top:2px}.board .go{font-size:13px;color:var(--brand);margin-top:8px;font-weight:600}
+.steps{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin:8px 0 28px}
+.step{background:#fff;border:1px solid var(--line);border-radius:14px;padding:16px}.step i{font-style:normal;display:inline-grid;place-items:center;width:26px;height:26px;border-radius:50%;background:var(--brand);color:#fff;font-size:13px;font-weight:700}
+.step b{display:block;margin:8px 0 2px}.step span{font-size:13.5px;color:var(--mute)}
+@media(max-width:640px){.boards,.steps{grid-template-columns:1fr}}
 /* 页脚 */
 .cta{display:flex;justify-content:space-between;align-items:center;gap:20px;flex-wrap:wrap;background:#0f172a;color:#fff;border-radius:18px;padding:28px 32px;margin:48px 0 0}
 .cta h3{margin:0 0 4px;font-size:20px}.cta p{margin:0;color:#cbd5e1;font-size:14.5px}.cta .btn{background:#14b8a6;color:#04201d}.cta .btn:hover{background:#2dd4bf;color:#04201d}
