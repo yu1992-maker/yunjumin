@@ -21,7 +21,7 @@ nav a.on{color:var(--brand);background:var(--brand-soft);font-weight:600}
 .btn:hover{background:var(--brand-d);color:#fff}.btn.ghost{background:#fff;color:var(--ink);border:1px solid var(--line)}.btn.ghost:hover{border-color:#cbd5e1;color:var(--ink)}
 .btn.sm{padding:7px 14px;font-size:14px}
 .lbl{display:inline-block;font-size:12px;font-weight:600;letter-spacing:.3px;padding:2px 8px;border-radius:6px;background:var(--c-soft,#eef2f6);color:var(--c,#334155)}
-.c-ITIN{--c:#0d6e63;--c-soft:#e6f2f0}.c-美卡{--c:#1d4ed8;--c-soft:#eaf0ff}.c-LLC{--c:#6d28d9;--c-soft:#f1ebff}.c-报税{--c:#b45309;--c-soft:#fff3e0}.c-加拿大{--c:#be123c;--c-soft:#ffecef}
+.c-ITIN{--c:#0d6e63;--c-soft:#e6f2f0}.c-美卡{--c:#1d4ed8;--c-soft:#eaf0ff}.c-LLC{--c:#6d28d9;--c-soft:#f1ebff}.c-报税{--c:#b45309;--c-soft:#fff3e0}.c-加拿大{--c:#be123c;--c-soft:#ffecef}.c-英国{--c:#1e3a8a;--c-soft:#e8edfb}.c-uk{--c:#1e3a8a;--c-soft:#e8edfb}
 .c-itin{--c:#0d6e63;--c-soft:#e6f2f0}.c-card{--c:#1d4ed8;--c-soft:#eaf0ff}.c-tax{--c:#6d28d9;--c-soft:#f1ebff}.c-ca{--c:#be123c;--c-soft:#ffecef}
 /* 首页头图 */
 .hero-x{background:linear-gradient(180deg,#fff 0%,#f6f7f9 100%);border-bottom:1px solid var(--line)}
