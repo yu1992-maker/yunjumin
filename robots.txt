@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yu1992-maker.github.io/yunjumin/sitemap.xml
