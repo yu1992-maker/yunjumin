@@ -1,0 +1,39 @@
+{
+ "title": "单人LLC报税入门:Schedule C与自雇税",
+ "desc": "单人LLC默认按个人报税:用Schedule C算利润,用Schedule SE算15.3%自雇税,并按季度预缴。附流程与常见问题。",
+ "body": "<p>美国单人成员 LLC（SMLLC）默认是“被忽略实体”（disregarded entity），不单独报所得税，收入和支出写在你个人的 1040 上，一般用 <b>Schedule C</b> 报利润，再用 <b>Schedule SE</b> 算自雇税。除了所得税，你还要交 <b>15.3% 的自雇税</b>，而且没有雇主替你预扣，通常要按季度预缴。</p><h2>单人 LLC 的默认税务身份</h2><ul><li>IRS 说明：单人 LLC 默认是 disregarded entity，活动并入所有人的个人申报表。个人所有人通常用 Schedule C（也可能是 Schedule E 或 F，视业务性质而定）。</li><li>自雇税的算法和个体户（sole proprietor）相同。</li><li>想让 LLC 按公司课税，要另外提交 <b>Form 8832</b>（实体分类选择）。入门阶段多数人不需要。</li><li>EIN：有员工或要报某些消费税才必须有。其他情况下所得税可以用所有人的 SSN 或 EIN。开银行账户或州法要求时，也可以申请 EIN（Form SS-4）。</li><li>雇员工资税则是 LLC 用自己的名字和 EIN 单独申报。</li></ul><h2>要填哪些表</h2><table><tr><th>表格</th><th>用途</th></tr><tr><td>Form 1040</td><td>个人所得税主表</td></tr><tr><td>Schedule C</td><td>报告个体经营的收入、支出和净利润（亏损）</td></tr><tr><td>Schedule SE</td><td>根据 Schedule C 的结果计算自雇税（社保 + 医疗保险税）</td></tr><tr><td>Schedule 2</td><td>自雇税要附在这里并入 1040</td></tr><tr><td>Form 1040-ES</td><td>预估税（季度预缴）的计算表和缴款单</td></tr></table><p>IRS 目前的版本是 2025 年度的 Schedule C，对应 2025 年报税季。</p><h2>Schedule C 的基本思路</h2><ol><li><b>先确认这是“生意”</b>：IRS 的标准是主要目的为赚取收入或利润，并且经常、持续地参与。</li><li><b>汇总总收入</b>：平台打款、客户付款、广告分成等都算。</li><li><b>减去普通且必要的经营支出</b>：IRS 的说法是 ordinary and necessary，具体可参考 IRS Publication 334。出差、车辆等支出参考 Publication 463。</li><li><b>得出净利润或亏损</b>：净利润要交所得税和自雇税。</li><li>净亏损通常可以从总收入中扣除，但部分亏损有限制，详见 Publication 334。</li></ol><p>家里有专门用于经营的空间，不管是自有房还是租房，都可以研究<b>家庭办公室扣除</b>。要求比较严，记录要做好。</p><h2>自雇税怎么算</h2><ul><li>IRS：净自雇收入达到 <b>$400</b> 或以上，通常就要交自雇税，也要报税。</li><li>税基一般是净自雇收入的 <b>92.35%</b>。</li><li>税率：社保 <b>12.4%</b> + 医疗保险 <b>2.9%</b> = <b>15.3%</b>。</li><li>社保部分有年度收入上限，每年调整；医疗保险部分没有上限。本站没有核对到最新金额，请到 SSA 官网确认。</li><li>收入很高时，还有额外医疗保险税（Additional Medicare Tax）门槛：夫妻联合申报 $250,000，夫妻分开申报 $125,000，其他人 $200,000。</li><li>算 AGI 时，可以扣除<b>一半的自雇税</b>，在 Schedule SE 里算出。</li></ul><blockquote>举例（简化，仅示意）：净利润 $50,000，税基约 $50,000 × 92.35% = $46,175，自雇税约 $46,175 × 15.3% ≈ $7,065。这只是自雇税，联邦所得税另算。</blockquote><h2>预估税：要按季度交</h2><p>IRS 的规则：个人（包括个体户）预计报税时欠税 <b>$1,000 或以上</b>，一般就要交预估税。你可以在线、用 IRS 应用或电话缴款，也可以随 Form 1040-ES 邮寄。</p><table><tr><th>期别</th><th>2026 年的到期日</th></tr><tr><td>第 1 期</td><td>4 月 15 日</td></tr><tr><td>第 2 期</td><td>6 月 15 日</td></tr><tr><td>第 3 期</td><td>9 月 15 日</td></tr><tr><td>第 4 期</td><td>2027 年 1 月 15 日</td></tr></table><p>以上日期来自 IRS 纳税人倡导服务（Taxpayer Advocate）及 Kiplinger 等多家来源，彼此一致；个别 CPA 网站写成 6 月 16 日，说法不一，以 IRS 和 Form 1040-ES 为准。到期日遇周末或法定假日顺延。现在是 10 月底，今年第 4 期（1 月 15 日）还来得及按实际利润补缴。</p><p><b>避免罚款的安全线</b>（IRS 页面）：补缴后欠税少于 $1,000，或者已缴金额达到“当年税额的 90%”与“上年报税表税额的 100%”中较小者。高收入者另有特殊规则（常见说法是 110%），IRS 此页未写明，请查 Publication 505。</p><h2>新手报税步骤清单</h2><ol><li>全年用单独的 LLC 银行账户，收支分开，保留发票和收据。</li><li>每月或每季度整理一次收入与支出，用表格或记账软件都行。</li><li>季度末估算净利润，算预估税并缴纳。</li><li>年初汇总全年数字，填 Schedule C，再填 Schedule SE。</li><li>把净利润和自雇税并入 1040 一起申报，另查你所在州是否有州所得税和 LLC 年费。</li></ol><h2>外国人持有的单人 LLC 要多一步</h2><p>如果 LLC 的所有人是非美国税务居民（比如境外华人开的佛州 LLC），情况不同：多家税务公司的页面称，这类 LLC 即使没有收入，也要每年提交 <b>Form 5472</b> 和 pro forma Form 1120，漏报罚款常被引为 <b>$25,000</b>。但这些来源都是商业网站，在截止日期、能否电子申报等细节上说法不一，本站没有查到 IRS 原文，请以 IRS 的 Form 5472 说明为准，或直接问 CPA。本文其他内容针对的是美国税务居民（如绿卡持有者）。</p><h2>常见问题</h2><h3>1. 我的 LLC 今年没赚钱，还要报税吗？</h3><p>要看整体申报义务。IRS 的 $400 门槛针对净自雇收入；亏损的话不用交自雇税，但如果有其他收入或别的申报要求，仍需申报。亏损能否抵扣还受限制（见 Publication 334）。</p><h3>2. 单人 LLC 需要先去注册 S-Corp 才能省税吗？</h3><p>不是必须。默认就是按 Schedule C 报税。改成公司课税要提交 Form 8832，这是进阶选择，利润不高时未必划算，建议先和 CPA 算过再决定。</p><h3>3. 为什么没有雇主扣税，我还要提前交？</h3><p>因为自雇者没人代扣所得税、社保和医疗保险税，所以 IRS 要求用 Form 1040-ES 按季度预缴。预计欠税达 $1,000 且没达到安全线，可能被罚款。</p><p><b>提醒：</b>本文仅为一般性介绍，具体金额、日期和表格请以 IRS 等官方网站为准；涉及外国所有人、多州经营、改税务身份等复杂情况，请咨询 CPA / 律师。</p>",
+ "sources": [
+  [
+   "IRS – Self-Employed Individuals Tax Center",
+   "https://www.irs.gov/businesses/small-businesses-self-employed/self-employed-individuals-tax-center"
+  ],
+  [
+   "IRS – Single Member Limited Liability Companies",
+   "https://www.irs.gov/businesses/small-businesses-self-employed/single-member-limited-liability-companies"
+  ],
+  [
+   "IRS – Topic no. 554, Self-employment tax",
+   "https://www.irs.gov/taxtopics/tc554"
+  ],
+  [
+   "IRS – Estimated taxes",
+   "https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes"
+  ],
+  [
+   "IRS – About Schedule C (Form 1040)",
+   "https://www.irs.gov/forms-pubs/about-schedule-c-form-1040"
+  ],
+  [
+   "IRS Taxpayer Advocate – Important tax dates 2026",
+   "https://www.taxpayeradvocate.irs.gov/news/tax-tips/your-tax-to-do-list-important-tax-dates/2026/"
+  ],
+  [
+   "Kiplinger – When Are Estimated Tax Payments Due in 2026?",
+   "https://www.kiplinger.com/taxes/tax-deadline/602538/when-estimated-tax-payments-due"
+  ]
+ ],
+ "cat": "LLC",
+ "topic": "单人 LLC 怎么报税：Schedule C 和自雇税入门",
+ "date": "2026-10-28",
+ "slug": "20261028-llc-llc-schedule-c-1"
+}
