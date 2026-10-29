@@ -1,0 +1,35 @@
+{
+ "title": "ITIN开美国银行账户:Chase、BOA、富国、Citi对比",
+ "desc": "持ITIN能否在Chase、美国银行、富国、Citi开户?本文整理各行的说法、所需材料和分行开户步骤,并标出各来源说法不一之处。",
+ "body": "<p>结论:多数资料称 Chase、Bank of America(BOA)、Citi 可以用 ITIN 代替 SSN 开户,富国(Wells Fargo)官网也提到 SSN 或 ITIN。但各行官网没有专门的“ITIN 清单”,实际是否通过常常看分行。最稳的做法是预约、带齐材料、去分行当面办。</p><h2>先搞清楚:ITIN 是什么、不是什么</h2><p>据 <a target=\"_blank\" rel=\"noopener nofollow\" href=\"https://www.irs.gov/individuals/individual-taxpayer-identification-number\">IRS 官网</a>,ITIN 是 9 位数的税务识别号,给有联邦报税需要、但没有资格拿 SSN 的人。IRS 明确说它只用于联邦税务,不代表工作许可,也不改变移民身份,在税务系统之外不能当身份证件。所以银行收不收 ITIN,是银行自己的风控决定,不是法律义务。</p><ul><li>申请表格是 Form W-7,IRS 称一般需等约 7 周出通知,报税季或海外申请为 9 到 11 周。</li><li>ITIN 过期后,要报税就得先续期。具体到期规则以 IRS 续期页面为准。</li></ul><h2>四家银行对比</h2><table><tr><th>银行</th><th>资料里的说法</th><th>需要注意</th></tr><tr><td>Chase</td><td>多个指南称接受 ITIN,需护照等主证件和美国地址。</td><td>说法不一:有来源称必须提供 SSN 和州 ID;Doctor of Credit 的读者评论两种说法都有。</td></tr><tr><td>Bank of America</td><td>多个来源称可用 ITIN,但要到分行办。</td><td>有来源称各分行执行不一;有来源称无信用记录的非公民可能要求 $100 最低存款,未见官方确认。</td></tr><tr><td>Wells Fargo</td><td>官网帮助页称线上申请需 SSN 或 ITIN;分行需两件有效原件证件。官网储蓄页称没有美国税号的非公民需提供证明国籍或居住地的政府证件。</td><td>非永久居民需预约去分行。Bankrate 那篇没有提到富国是否收 ITIN。</td></tr><tr><td>Citi</td><td>Bankrate 称可凭 ITIN 在分行开户。</td><td>Doctor of Credit 评论里还有“外国护照加带地址的官方文件”的说法,来源较旧。分行主要集中在大城市。</td></tr></table><blockquote>提醒:Doctor of Credit 那篇文章首发于 2017 年,评论没有标日期,只能当线索,不能当现行政策。</blockquote><h2>要带什么</h2><p>据 <a target=\"_blank\" rel=\"noopener nofollow\" href=\"https://www.bankrate.com/banking/non-us-citizens-bank-accounts/\">Bankrate</a>,通常需要下面这些:</p><ul><li>有效护照,或绿卡、外国驾照作为第二证件。</li><li>ITIN 通知信(CP565)或 ITIN 卡。这两样 Bankrate 没有提到,请先向分行确认。</li><li>美国地址证明:近期水电账单、正式信件或工资单。</li><li>开户存款:有的银行要求,有的不要。富国 Everyday Checking 最低存款为 $25(Bankrate)。</li></ul><p>富国官网特别写明,证件要原件,不收电子版或复印件。</p><h2>分行开户步骤</h2><ol><li>在银行官网预约分行柜台,Bankrate 称 Chase、BOA、Citi 都有线上预约入口。</li><li>预约前打电话问清楚:该分行是否接受 ITIN,要哪些证件。</li><li>带齐原件到场,明确告诉柜员“用 ITIN 开户,没有 SSN”。</li><li>先开最基础的 Checking,再看要不要加 Savings。</li><li>被拒时,问明原因,换一家分行或另一家银行再试。</li></ol><p>Bankrate 提到,大银行网站常写“需要 SSN”,这可能只针对线上申请。多数线上系统收不到没有 SSN 的申请,所以要去分行。</p><h2>怎么选</h2><ul><li>想先试成功率:BOA 和 Chase 在资料里被提得最多,可先试。</li><li>附近没有 Citi:它分行集中在大城市,先查分行定位。</li><li>被大行拒绝:可以考虑信用合作社(Credit Union)等小机构,本站未核实它们的具体政策。</li></ul><h2>常见问题</h2><h3>问:ITIN 可以开信用卡吗?</h3><p>有些来源称部分银行的信用卡可以用 ITIN 申请,但本站未找到官方说明。申请前请问清楚,以免白查信用。</p><h3>问:网上能开吗?</h3><p>说法不一。富国官网称线上需 SSN 或 ITIN,并且要是合法美国居民;另有来源称 ITIN 持有人必须去分行。以当天官网要求和分行答复为准。</p><h3>问:被拒了怎么办?</h3><p>换分行或换银行。Doctor of Credit 评论和 BOA 的资料都显示,同一家银行不同分行的执行可能不同。</p><p><b>以官方为准,复杂情况请咨询 CPA 或律师。</b>银行政策经常调整,本文整理自公开资料,各来源质量不一,出发前请直接向分行确认。</p>",
+ "sources": [
+  [
+   "IRS:Individual Taxpayer Identification Number (ITIN)",
+   "https://www.irs.gov/individuals/individual-taxpayer-identification-number"
+  ],
+  [
+   "Bankrate:非美国公民银行账户",
+   "https://www.bankrate.com/banking/non-us-citizens-bank-accounts/"
+  ],
+  [
+   "Doctor of Credit:无需 SSN 开户的银行/信用合作社",
+   "https://www.doctorofcredit.com/?p=45823"
+  ],
+  [
+   "Wells Fargo:开户所需证件",
+   "https://www.wellsfargo.com/help/checking-savings/open-close-account-faqs/"
+  ],
+  [
+   "Wells Fargo:Everyday Checking 开户证件",
+   "https://www.wellsfargo.com/checking/everyday/identification-required-to-open/"
+  ],
+  [
+   "Wise:没有 SSN 如何开美国银行账户",
+   "https://wise.com/us/blog/bank-account-without-ssn"
+  ]
+ ],
+ "cat": "ITIN",
+ "topic": "用 ITIN 开美国银行账户：Chase、BOA、富国、Citi 分行开户对比",
+ "date": "2026-10-29",
+ "slug": "20261029-itin-itin-chase-boa-citi-1"
+}
