@@ -1,0 +1,35 @@
+{
+ "title": "自己报税还是找CPA/EA?费用与适用情况对比",
+ "desc": "华人报税怎么选:自己用软件、找EA还是找CPA?对比费用、适用情形、海外账户申报和选人要点。",
+ "body": "<p>简单情况(只有W-2工资、没有海外账户)自己用软件报最划算;有海外账户、自雇、出租房、跨州或跨国收入,建议找 EA 或 CPA。就费用来说,据 2025 年 NATP 费用调查(二手报道),基础 1040 平均约 $280(CPA)、$228(EA)、$185(无证书报税员)。</p><h2>三种方式一眼对比</h2><table><tr><th>方式</th><th>大致费用</th><th>适合谁</th><th>风险/缺点</th></tr><tr><td>IRS Free File 引导式软件</td><td>$0(限收入)</td><td>收入低、情况简单</td><td>要符合收入上限,各合作软件另有条件</td></tr><tr><td>Free File Fillable Forms</td><td>$0(无收入上限)</td><td>会看表格、愿意自己算</td><td>只是电子版表格,没有问答引导</td></tr><tr><td>商业报税软件</td><td>各家不同,以官网为准</td><td>W-2、少量投资</td><td>遇到海外资产、跨国收入容易填错</td></tr><tr><td>无证书报税员</td><td>约 $185(NATP 2025)</td><td>简单申报</td><td>有 PTIN 不代表水平,也不一定能代表你面对 IRS</td></tr><tr><td>EA(注册税务师)</td><td>约 $228</td><td>个人+小生意,税务专精</td><td>要自己核对资质</td></tr><tr><td>CPA</td><td>约 $280</td><td>复杂情况、需要整体规划</td><td>价格较高,有些 CPA 不专做个税</td></tr></table><p>上面的 CPA/EA/无证书数字来自 2025 年 NATP 费用调查的二手报道,本站未能打开原始报告。NATP 报道的平均时薪约 $182。</p><h2>免费报税:收入上限说法不一</h2><ul><li>IRS 官网 Free File 页面写的是:引导式软件适用于 AGI <b>$95,000 以下</b>,Fillable Forms 不限收入。页面未标明对应哪个报税年度,并显示「Free File 已关闭,请 2027 年 1 月再来」。</li><li>多个二手媒体/博客说 2026 报税季(报 2025 年度)上限是 <b>$89,000</b>。</li><li>两个数字不一致,本站无法判断哪个对应哪一年,开始报税前请直接看 IRS.gov 当期页面。</li><li>IRS Direct File:二手来源称 2026 季已停止,本站未找到 IRS 官方页面确认。</li></ul><h2>什么情况可以自己报</h2><ol><li>收入主要是 W-2 工资,一个州居住。</li><li>没有海外账户或海外资产需要申报。</li><li>没有自雇、出租房、加密货币大量交易。</li><li>能看懂软件提示,愿意核对每一项。</li></ol><h2>什么情况建议找 EA / CPA</h2><ul><li><b>有海外银行账户:</b>FBAR(FinCEN 114)门槛是任一时点所有海外账户合计超过 $10,000。IRS 页面说明:截止日为次年 4 月 15 日,自动延期到 10 月 15 日,无需申请;必须通过 FinCEN 的 BSA E-Filing 电子递交,不能附在报税表里。</li><li><b>Form 8938(FATCA):</b>随税表一起报,门槛按居住身份和报税身份而定。二手来源称美国居民单身是年底 $50,000 或全年任一时点 $75,000,本站未能对照官方说明,请以 Form 8938 说明书为准。</li><li><b>自雇或开 LLC:</b>NSA 的旧调查提到 Schedule C 附加费约 $184(调查年份不明)。</li><li><b>出租房、卖股票、卖房:</b>折旧、成本基础容易出错。</li><li><b>收到 IRS 来信、需要有人代表你对接:</b>只有律师、CPA、EA 能在 IRS 面前代表纳税人(IRS 说明)。</li></ul><h2>怎么选人:步骤</h2><ol><li>先问对方是 CPA、EA、律师还是无证书报税员。</li><li>到 IRS 的 Directory of Federal Tax Return Preparers 查证书或 Annual Filing Season Program 记录。</li><li>问清楚收费方式(按表格、按小时),最好书面报价,并问是否包含州税和海外申报。</li><li>确认对方会在报税表上签名并写 PTIN;不要找只收现金、不签名的人。</li><li>对「保证大额退税」保持警惕。</li><li>交文件前,确认对方有处理中美跨境情况的经验。</li></ol><h2>常见问题</h2><h3>EA 和 CPA 哪个更好?</h3><p>没有统一答案。EA 是联邦认证、只专注税务;CPA 是州执照,不少 CPA 的主业是审计或公司会计。看对方做不做你这类案子,比看头衔重要。</p><h3>有海外账户但余额不大,还要报吗?</h3><p>FBAR 看的是所有海外账户合计,任何一个时点超过 $10,000 就要报。多个小账户加起来可能超线。</p><h3>报税后发现填错了怎么办?</h3><p>本站没有查到足够官方资料,不给具体做法。一般需要修正申报,建议尽快联系 EA/CPA 评估。</p><blockquote>以官方为准,复杂情况请咨询 CPA / 律师。本文数字来自 IRS.gov 页面与二手报道,金额和门槛每年可能调整。</blockquote>",
+ "sources": [
+  [
+   "IRS:Free File",
+   "https://www.irs.gov/filing/free-file-do-your-federal-taxes-for-free"
+  ],
+  [
+   "IRS:FBAR",
+   "https://www.irs.gov/businesses/small-businesses-self-employed/report-of-foreign-bank-and-financial-accounts-fbar"
+  ],
+  [
+   "IRS:Choosing a Tax Professional",
+   "https://www.irs.gov/tax-professionals/choosing-a-tax-professional"
+  ],
+  [
+   "IRS Newsroom:选择可靠的报税员",
+   "https://irs.gov/newsroom/choosing-a-reputable-tax-preparer-is-vital-to-tax-security"
+  ],
+  [
+   "Accounting Today:What do tax preparers charge?",
+   "https://www.accountingtoday.com/news/what-do-tax-preparers-charge"
+  ],
+  [
+   "Accounting Today:NSA 1040 费用调查",
+   "https://www.accountingtoday.com/news/nsa-says-1040-prep-runs-from-110-to-201"
+  ]
+ ],
+ "cat": "报税",
+ "topic": "自己报税还是找 CPA / EA：费用和适用情况对比",
+ "date": "2026-10-28",
+ "slug": "20261028-tax-cpa-ea-1"
+}
