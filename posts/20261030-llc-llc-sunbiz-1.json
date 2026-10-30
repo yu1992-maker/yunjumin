@@ -1,0 +1,39 @@
+{
+ "title": "佛州LLC改名、改地址、改注册代理人：Sunbiz怎么改",
+ "desc": "佛州 LLC 改名要提交 Articles of Amendment（$25），改注册代理人用 Statement of Change，改地址多数可在年报里改。附 IRS、银行后续步骤。",
+ "body": "<p>佛州 LLC <b>改名</b>要向州务厅提交 Articles of Amendment，官方表格编号 CR2E049，多个来源给出的费用是 $25。<b>改注册代理人</b>可以单独提交 Statement of Change（LLC 版），费用 $25，也可以在年报里顺带改。<b>改地址</b>是否能只靠年报，各来源说法不一，下面分开说明。</p><p>说明：本站未能直接打开 dos.fl.gov 的部分页面（返回 403），下列金额主要来自官方费用页的搜索摘要和第三方指南，提交前请在 Sunbiz 官网再核对一遍。</p><h2>三种修改一览</h2><table><tr><th>要改什么</th><th>用什么文件</th><th>费用（查到的）</th><th>能否走年报</th></tr><tr><td>公司名称</td><td>Articles of Amendment（CR2E049）</td><td>$25；可选认证副本 $30（第三方来源）</td><td>不能（多个来源一致）</td></tr><tr><td>注册代理人 / 注册地址</td><td>Statement of Change of Registered Agent and/or Registered Office（LLC 版，第三方称 RA-2）</td><td>$25（官方费用页列为 Change of Registered Agent $25.00）</td><td>可以，随年报改无额外单项费用</td></tr><tr><td>主要办公地址（Principal Address）/ 邮寄地址</td><td>年报，或 Articles of Amendment</td><td>年报 $138.75（第三方来源）</td><td><b>说法不一</b></td></tr></table><h2>一、LLC 改名：Articles of Amendment</h2><ol><li><b>先查名字能不能用</b>：新名字必须与州内已登记的实体名称有明显区别，并以 LLC 或 Limited Liability Company 结尾（第三方指南说法）。可在 Sunbiz 名称搜索里查。</li><li><b>填表</b>：Articles of Amendment to Articles of Organization（CR2E049），写明原名称和新名称。</li><li><b>提交并付费</b>：可在 Sunbiz 网上提交，也可邮寄给 Division of Corporations。费用多个来源为 $25。</li><li><b>确认生效</b>：在 Sunbiz 搜索公司，确认名称已更新，并下载新的 filing 文件备用。</li></ol><p>注意：改名只改了法律上的名字，银行、税务、执照、合同不会自动更新，见下文清单。生效日期是否可以延后，本站没查到明确规则，需要的话请查表格说明。</p><h2>二、改注册代理人：Statement of Change</h2><ol><li>先找好新的注册代理人，并取得对方<b>书面同意</b>（有来源称没有同意文件，申报不完整）。</li><li>注册地址必须是佛州的实际街道地址，不能是邮政信箱（P.O. Box）。</li><li>提交 Statement of Change，费用 $25。</li><li>也可以在每年的年报里更新代理人，不另收单项费用（年报本身要交费）。</li></ol><p>处理时间<b>说法不一</b>：有的说约一周，有的代理公司说通常当天处理。提交方式也有来源说可网上或邮寄，也有说要邮寄，以 Sunbiz 当前页面为准。</p><h2>三、改地址：年报还是 Amendment？</h2><p>这一点<b>各来源说法不一</b>：</p><ul><li>一类来源说，主要办公地址、邮寄地址、注册代理人可以通过年报更新，不用另外提交 amendment，前提是年报没有逾期，并在 5 月 1 日前提交。</li><li>另一类来源说，LLC 的名称和主要地址不能靠年报改，要提交 Articles of Amendment。</li></ul><p>实务上的稳妥做法：<b>5 月 1 日前年报窗口内</b>，在网上年报里直接改地址，这是 Sunbiz 年报的常规功能；年报之外想马上改，就提交 amendment 或咨询 Sunbiz。年报费用第三方普遍写 $138.75，逾期滞纳金有来源写 $400，修正已提交年报有来源写 $50，这几项官方页未能核实。</p><h2>四、改完 Sunbiz 之后还要做的事</h2><ul><li><b>IRS</b>：改名后 EIN 不变，不需要重新申请。IRS 对公司改名的做法是在报税表上勾选改名，或写信到报税地址，由有权签字的人签名，并附州里的改名文件。以上是 IRS 对公司（corporation）的说明，LLC 的具体做法 IRS 页面没有直接写，建议问 CPA。</li><li><b>Form 8822-B</b>：用于通知 IRS 邮寄地址、营业地点或 responsible party 变更，<b>不用于改名</b>。多个来源称 responsible party 变更须在 60 天内通知。</li><li><b>FinCEN BOI</b>：根据搜索结果，FinCEN 2025 年 3 月的临时规则已豁免美国本土公司，2026 年 8 月的最终规则将豁免定为永久（具体日期各来源略有出入）。所以佛州本土 LLC 一般不用再报 BOI 更新；外国公司另有规定。</li><li><b>银行</b>：带新的 filing 文件去银行改户名，改名前先问清需要什么文件。</li><li><b>其他</b>：营业执照、销售税登记、合同、网站、发票、保险、域名和 Stripe/PayPal 等收款账户都要用新名字。</li></ul><h2>五、常见问题</h2><h3>问：改名后需要重新申请 EIN 吗？</h3><p>答：不需要。IRS 指引把改名列为不需要新 EIN 的情形，但应通知 IRS。</p><h3>问：只改注册代理人，要交 $25 吗？</h3><p>答：单独提交 Statement of Change 是 $25。如果赶在年报里改，没有单独这一项费用。</p><h3>问：能不能只在年报里改公司名字？</h3><p>答：不能。多个来源明确说名字必须通过 Articles of Amendment 改。</p><blockquote>以上内容仅供参考，费用和流程以 Sunbiz（dos.fl.gov）和 IRS 官方页面为准；涉及税务、银行或多成员 LLC 等复杂情况，请咨询 CPA 或律师。</blockquote>",
+ "sources": [
+  [
+   "Florida Division of Corporations - LLC Fees",
+   "https://dos.fl.gov/sunbiz/forms/fees/llc-fees/"
+  ],
+  [
+   "Florida DOS - Articles of Amendment to Articles of Organization (CR2E049)",
+   "https://dos.fl.gov/media/702399/cr2e049.pdf"
+  ],
+  [
+   "IRS - Form 8822-B",
+   "https://www.irs.gov/pub/irs-pdf/f8822b.pdf"
+  ],
+  [
+   "Steptoe - FinCEN final rule on BOI for US companies",
+   "https://www.steptoe.com/en/news-publications/international-compliance-blog/fincen-issues-final-rule-eliminating-beneficial-ownership-reporting-for-us-companies-and-us-persons.html"
+  ],
+  [
+   "BDO - FinCEN final rule",
+   "https://www.bdo.com/insights/tax/fincen-final-rule-permanently-relieves-us-companies-of-beneficial-ownership-reporting-obligations"
+  ],
+  [
+   "Zenind - How to Change a Registered Agent in Florida",
+   "https://www.zenind.com/help/post/how-to-change-a-registered-agent-in-florida-forms-fees-and-filing-steps"
+  ],
+  [
+   "Florida Registered Agent - Change Registered Agent",
+   "https://www.floridaregisteredagent.com/florida-business-resources/change-florida-registered-agent/"
+  ]
+ ],
+ "cat": "LLC",
+ "topic": "佛州 LLC 改名、改地址、改注册代理人：Sunbiz 上怎么改",
+ "date": "2026-10-30",
+ "slug": "20261030-llc-llc-sunbiz-1"
+}
