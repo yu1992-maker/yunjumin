@@ -1,0 +1,35 @@
+{
+ "title": "信用卡自动还款失败被收滞纳金:怎么申请退还",
+ "desc": "自动还款失败被收滞纳金,先打电话要求一次性减免,不行再向CFPB投诉。本文含话术、证据清单和费用上限规则。",
+ "body": "<p>自动还款失败被收了滞纳金,<b>最快的办法是在费用出现后尽快打电话给发卡行,要求一次性减免(goodwill waiver)</b>。银行拒绝时,再书面申诉,最后向 CFPB 投诉。法律上没有“自动还款失败必须退费”的明文规定,所以能否退款主要看你的账户记录和银行的酌情处理。</p><h2>先判断:失败是谁的原因</h2><p>退款成功率取决于这一步。先查清楚原因,再决定怎么说。</p><table><tr><th>失败原因</th><th>你的立场</th><th>建议证据</th></tr><tr><td>银行系统出错、扣款指令没执行</td><td>最强,可要求退全部费用和利息</td><td>自动还款设置页截图、银行确认信</td><td></td></tr><tr><td>支票账户余额不足</td><td>中等,按首次失误请求减免</td><td>往来账户流水</td></tr><tr><td>账户或路由号变更、换卡后未更新</td><td>较弱,但仍可请求减免</td><td>更新记录、客服通话记录</td></tr><tr><td>自动还款只设了最低还款额,你以为是全额</td><td>较弱,属于设置问题</td><td>当初设置页面截图</td></tr></table><h2>第一步:收集证据(10 分钟)</h2><ol><li>下载含滞纳金的账单,圈出到期日和费用金额。</li><li>截图自动还款设置页,包括扣款日期、金额类型和扣款账户。</li><li>下载支票账户流水,看那天有没有尝试扣款、是否被退回。</li><li>记下你过去的按时还款记录,例如“用卡 X 年,从未逾期”。</li></ol><h2>第二步:打电话要求减免</h2><p>多个消费者理财指南的共同建议是:<b>费用出现后越早打越好,打电话比在线聊天或邮件有效</b>。如果是第一次逾期,银行通常愿意减免,但重复申请基本不会成功,所以这个机会最好用在真正需要的时候。</p><p>电话话术(英文):</p><blockquote>I noticed a late fee on my statement dated [日期]. I've had this account for [X] years with on-time payments, and my autopay [failed because of ___ / was set up correctly]. I've since made the payment. Could you waive the late fee as a one-time courtesy?</blockquote><ul><li>语气客气、简短、直接,不要找借口。</li><li>先确认已经补缴了还款。</li><li>被拒时礼貌地要求转给主管(supervisor / retention department)。</li><li>记下通话日期、客服姓名和工号,最好拿到参考编号。</li><li>如果同时被收了利息,要一并问能否退回。</li></ul><h2>第三步:书面申诉</h2><p>电话没成,就通过银行 App 的安全消息或寄信再申请一次,附上证据。银行系统出错的情况尤其适合这一步,写清楚时间线,再附上截图。</p><p>注意区分两件事。<b>滞纳金(late fee)</b>在逾期当天就会产生;<b>信用报告上的逾期记录</b>通常要拖到 30 天以上才会上报。如果后者也出了问题,要另写 goodwill letter 请银行撤销记录,具体可参考 <a target=\"_blank\" rel=\"noopener nofollow\" href=\"https://www.bankrate.com/personal-finance/credit/goodwill-letters-get-late-payments-removed-credit-report\">Bankrate 的说明</a>。</p><h2>第四步:向 CFPB 投诉</h2><p>银行不退,可以向消费者金融保护局(CFPB)投诉。官网建议<b>先和公司自己沟通</b>,再来投诉。</p><ol><li>在 CFPB 官网投诉页面在线提交,通常不到 10 分钟。也可以打 (855) 411-2372,电话需要 25 到 30 分钟,周一到周五美东时间 9:00 到 18:00 接听。</li><li>只写最重要的日期、金额和沟通经过,用自己的话说清楚。</li><li>附上账单和银行回信,附件上限 50 页。</li><li>填写姓名、邮箱、电话和地址,公司需要地址才能回复。</li></ol><p>响应时间:大多数公司在 15 天内回复,个别情况下先说“处理中”,最终回复在 60 天内。公司回复后你有 60 天可以提交反馈。</p><p>一份第三方(ValuePenguin)分析了 1.3 万多件 CFPB 投诉,称约 56% 的滞纳金投诉人拿到了退款,不同银行差别很大。这是二手分析,不是 CFPB 官方数据,仅供参考。</p><h2>法律上能依靠什么</h2><ul><li><b>费用上限:</b>按 Regulation Z §1026.52(b)(2)(i),滞纳金不能超过“与违约相关的金额”,逾期的情况下一般就是最低还款额。最低还款额只有 $15,滞纳金就最高 $15。</li><li><b>一事一费:</b>同一事件不能收多笔违约费用。如果一次退回的付款同时造成逾期和退票,银行只能选一种费用收取。银行也可以选择每个账单周期最多收一笔。</li><li><b>$8 上限已失效:</b>CFPB 2024 年的 $8 滞纳金上限规则,已在 2025 年 4 月 15 日被德州北区联邦法院撤销,从未生效。所以不能援引 $8。参见 <a target=\"_blank\" rel=\"noopener nofollow\" href=\"https://www.goodwinlaw.com/en/insights/blogs/2025/05/cfpb-agrees-to-eliminate-$8-cap-on-credit-card-late-fees\">Goodwin 的报道</a>。</li></ul><h2>目前的滞纳金上限是多少:说法不一</h2><table><tr><th>来源</th><th>首次/重复</th></tr><tr><td>CFPB 网站上的 §1026.52 页面正文</td><td>$27 / $38(正文基数,按 CPI 逐年调整)</td></tr><tr><td>2024 年规则前的常见说法(Mondaq)</td><td>$30 / $41</td></tr><tr><td>部分报道对 2024 年之后的说法</td><td>$32 / $43</td></tr></table><p>本站没有查到官方文件能确认哪个是今年的现行金额。重复违规的较高金额,适用于同一类违规在当期或之后六个账单周期内再次发生的情况。建议直接看账单上的实际金额,并对照发卡行的费用表。</p><h2>常见问题</h2><h3>1. 银行第一次就拒绝,还要继续吗?</h3><p>要。可以换个时间再打一次,请对方转给主管,或者发书面申诉。每次通话都记下参考编号。仍被拒绝,就进入 CFPB 投诉。</p><h3>2. 滞纳金退了,利息还会再收吗?</h3><p>不一定。滞纳金和利息是分开处理的。申请时要明确问“利息能否一并调整”。例如有网友说,某张卡的发卡行拒绝退利息,这只是个别案例,不代表通例。</p><h3>3. 自动还款失败会影响信用分吗?</h3><p>滞纳金当天就会收取,但逾期一般要 30 天以上才会上报信用局。尽快补缴,通常能避免记录上报。如果已经上报,再向银行申请 goodwill 删除。</p><h2>提醒</h2><p>以上内容整理自 CFPB、法院裁决报道和消费者理财媒体,具体金额和规则以发卡行条款及官方为准。涉及大额费用、被上报信用局或纠纷升级时,请咨询 CPA 或律师。</p>",
+ "sources": [
+  [
+   "CFPB:提交投诉",
+   "https://www.consumerfinance.gov/complaint/"
+  ],
+  [
+   "CFPB:Regulation Z §1026.52 限制违约费用",
+   "https://www.consumerfinance.gov/rules-policy/regulations/1026/52/"
+  ],
+  [
+   "Goodwin:CFPB 同意取消 $8 滞纳金上限",
+   "https://www.goodwinlaw.com/en/insights/blogs/2025/05/cfpb-agrees-to-eliminate-$8-cap-on-credit-card-late-fees"
+  ],
+  [
+   "National Law Review:CFPB 滞纳金规则被德州联邦法院撤销",
+   "https://natlawreview.com/article/cfpb-late-fee-rule-vacated-texas-federal-court"
+  ],
+  [
+   "Bankrate:Goodwill 信与删除逾期记录",
+   "https://www.bankrate.com/personal-finance/credit/goodwill-letters-get-late-payments-removed-credit-report"
+  ],
+  [
+   "Mondaq:CFPB 滞纳金最终规则要点",
+   "https://www.mondaq.com/unitedstates/financial-services/1439214/key-takeaways-from-the-cfpbs-final-rule-restricting-credit-card-late-fees"
+  ]
+ ],
+ "cat": "美卡",
+ "topic": "信用卡自动还款失败被收滞纳金：怎么申请退还",
+ "date": "2026-10-30",
+ "slug": "20261030-card-1"
+}
