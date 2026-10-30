@@ -1,0 +1,31 @@
+{
+ "title": "Hard Pull 和 Soft Pull：申请信用卡掉多少分",
+ "desc": "申请信用卡的 hard pull 通常让 FICO 掉不到 5 分，影响一年内消退；soft pull 不影响分数。附区别、清单和常见问题。",
+ "body": "<p>结论：申请信用卡会产生一次 hard pull（hard inquiry）。按 FICO 官方说法，对大多数人，多一次查询扣分不到 5 分。Bankrate 提到最多可能到 10 分。Soft pull 完全不影响分数。Hard pull 在报告上最多留 2 年，但 FICO 只计算最近 12 个月内的。</p><h2>Hard Pull 和 Soft Pull 的区别</h2><table><tr><th>项目</th><th>Hard Pull</th><th>Soft Pull</th></tr><tr><td>常见场景</td><td>正式申请信用卡、房贷、车贷</td><td>查自己的分数、预审批（prequalified）、雇主背调、保险报价、银行 App 里的免费分数、发卡行主动调整额度</td></tr><tr><td>影响分数</td><td>可能小幅下降</td><td>不影响</td></tr><tr><td>在报告上的时间</td><td>最多 2 年</td><td>仅你自己能看到，不影响评分</td></tr></table><p>以上场景来自 <a target=\"_blank\" rel=\"noopener nofollow\" href=\"https://www.bankrate.com/credit-cards/how-credit-inquiries-affect-credit-score/\">Bankrate</a> 和 <a target=\"_blank\" rel=\"noopener nofollow\" href=\"https://www.myfico.com/crediteducation/CreditChecks.aspx\">myFICO</a>。</p><h2>到底掉多少分</h2><ul><li><b>FICO 官方（myFICO）</b>：对大多数人，多一次查询会让 FICO 分数少不到 5 分。</li><li><b>Bankrate</b>：一次 hard inquiry 最多可能降 10 分，同时转引 FICO 的“不到 5 分”。</li><li><b>个别网站</b>：有的写 1 分到 20 多分不等，来源不够明确，仅供参考。</li><li><b>人群差异</b>：myFICO 说明，信用档案很薄（账户少、历史短）的人，影响可能更大。</li></ul><p>各来源说法不一，但数量级一致：<b>一次是个位数的小幅下降，不是大问题</b>。查询在 FICO 评分中只占约 10%，付款记录和欠款比例的权重大得多。</p><h2>影响多久消退</h2><ol><li>申请当天：报告上出现一条 hard inquiry。</li><li>12 个月内：FICO 会计入分数。</li><li>12 个月后：仍显示在报告上，但 FICO 不再计分。myFICO 自己出具的报告只显示 12 个月。</li><li>24 个月后：从报告上消失。</li></ol><p>注意：FICO 之外的其他模型（如 VantageScore）规则可能不同，本文没有查到它们的具体数字。</p><h2>信用卡申请不享受“合并查询”</h2><p>房贷、车贷、学生贷款有 rate shopping 规则：短时间内多次查询合并算一次。窗口长度因版本而异，旧版 FICO 为 14 天，新版为 45 天，不同来源也有 15 天的写法。<b>信用卡申请不适用这个规则</b>，Bankrate 指出每张卡的申请都会各记一次 hard inquiry。同一天申请 3 张卡，就是 3 次查询。Bankrate 建议两次卡申请之间至少隔 90 天。</p><h2>申请前的实用步骤</h2><ol><li>先用发卡行官网的“预审批 / prequalify”工具查一下。这类检查是 soft pull，不扣分。</li><li>预审批不等于批准。Chase 的预审批属于 soft pull，正式提交申请时才做 hard pull（<a target=\"_blank\" rel=\"noopener nofollow\" href=\"https://www.cardrates.com/advice/chase-prequalify-and-preapproval-credit-cards/\">CardRates</a>；<a target=\"_blank\" rel=\"noopener nofollow\" href=\"https://ramp.com/blog/chase-business-credit-card-pre-approval\">Ramp</a>）。</li><li>确认自己近期没有大额贷款申请（房贷、车贷）在进行。</li><li>错开申请时间，别一次集中申请多张。</li><li>申请后用银行 App 或 myFICO 查看分数变化，确认只有预期的查询记录。</li></ol><h2>不同发卡行抽哪家征信局</h2><p>本站没有查到权威、统一的说法。有论坛帖子称 Chase 多数抽 Experian，并提到可能因州而异，但这是二手信息，未经核实。想知道具体抽哪一家，可以去 Doctor of Credit 的发卡行征信局列表核对，或直接问发卡行客服。此外，有网友称 Chase 的商业卡 hard pull 一般不上个人信用报告，同样是个案说法，不能当作规则。</p><h2>常见问题</h2><h3>1. 自己查信用分会扣分吗？</h3><p>不会。查自己的报告或分数是 soft inquiry，myFICO 明确说不影响 FICO 分数。银行 App 里的免费分数同理。</p><h3>2. 一年申请几张卡会很伤吗？</h3><p>单看查询，每次只是个位数扣分，12 个月后不再计分。但新开账户还会拉低平均账龄，而且发卡行看到短期内大量查询可能更谨慎，所以不建议扎堆申请。</p><h3>3. 看到 hard inquiry 但自己没申请过，怎么办？</h3><p>先核对是不是自己或家人申请过，或者是租房、开通服务时被查过。确认没有授权的话，向对应机构提出异议，并考虑冻结信用报告。具体流程以征信局官网为准。</p><blockquote>以上内容基于公开资料整理，政策和评分模型会更新，请以官方信息为准；涉及具体信用修复、债务或法律问题，请咨询 CPA / 律师。</blockquote>",
+ "sources": [
+  [
+   "myFICO：Credit Checks 与 FICO 分数",
+   "https://www.myfico.com/crediteducation/CreditChecks.aspx"
+  ],
+  [
+   "Bankrate：信用查询如何影响信用分",
+   "https://www.bankrate.com/credit-cards/how-credit-inquiries-affect-credit-score/"
+  ],
+  [
+   "CardRates：Chase 预审批与预资格",
+   "https://www.cardrates.com/advice/chase-prequalify-and-preapproval-credit-cards/"
+  ],
+  [
+   "Ramp：Chase 商业卡预审批",
+   "https://ramp.com/blog/chase-business-credit-card-pre-approval"
+  ],
+  [
+   "myFICO 论坛：Chase 与个人信用报告讨论",
+   "https://ficoforums.myfico.com/t5/Business-Credit/Does-Chase-Ink-Report-on-Personal-Credit/m-p/6657947"
+  ]
+ ],
+ "cat": "美卡",
+ "topic": "Hard Pull 和 Soft Pull：申请信用卡会掉多少信用分",
+ "date": "2026-10-29",
+ "slug": "20261029-card-hard-pull-soft-pull-1"
+}
