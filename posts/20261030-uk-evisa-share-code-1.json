@@ -1,0 +1,27 @@
+{
+ "title": "英国 eVisa 与 share code:开户、租房怎么证明身份",
+ "desc": "英国 eVisa 是纯线上记录,开户和租房要靠 share code 证明身份。本文讲怎么生成、给谁用、有效期,以及银行拒收时怎么办。",
+ "body": "<p>英国的 eVisa 是只存在于网上的身份和移民身份记录,没有实体卡。开户或租房时,你要在 GOV.UK 的 View and Prove 服务里生成一个 share code,把它和出生日期一起发给银行或房东,对方在官网上输入就能核对。租房和开户用的是不同用途的 code,不能混用。</p><h2>先搞清楚:eVisa 和 share code 是什么</h2><ul><li><b>eVisa</b>:英国内政部(UKVI)保存的线上记录,内容是你的身份和移民身份。官方给金融机构的指引说,它属于 2010 年《身份证件法》第 7 条下的身份证件,包含姓名、出生日期和国籍。</li><li><b>share code</b>:你在 View and Prove 服务里生成的一串代码,限时有效。对方凭 code 加你的出生日期,在 GOV.UK 查你的当前状态,同时会看到与证件关联的面部照片。</li><li><b>实体卡(BRP/BRC)</b>:正在被 eVisa 取代。官方说,持有效 BRC 的人同时有 eVisa,卡上的信息“可能已不准确”。</li></ul><h2>第一步:建好 UKVI 账户</h2><ol><li>准备好证件信息(护照或 BRP 的详情)、出生日期,以及能收验证码的手机或邮箱。</li><li>在 GOV.UK 登录或注册 UKVI 账户。</li><li>如果你换过护照或登录信息,要用更新后的资料登录。</li><li>姓名、国籍、证件有变动,要及时更新。</li><li>资料有误或进不去账户,联系 UKVI Resolution Centre:电话 0300 790 6268(周一至周五 8:00–20:00,周末 9:30–16:30,英国时间);用不了 0300 号码的,打 +44 (0)203 875 4669。</li></ol><h2>第二步:按用途生成 share code</h2><p>官方说明,code 只能用于你生成时选择的用途。给房东的 code 不能给雇主用,反过来也一样。</p><table><tr><th>场景</th><th>生成时选的用途</th><th>对方在哪里查</th></tr><tr><td>租房(英格兰)</td><td>租房(right to rent)</td><td>房东或中介用“View a tenant's right to rent in England”</td></tr><tr><td>开银行账户</td><td>“something else”(其他)</td><td>银行用“Check someone's immigration status”</td></tr><tr><td>找工作</td><td>工作(right to work)</td><td>雇主用“View a job applicant's right to work details”</td></tr></table><p>开户选“something else”这一点,来自民间组织 the3million 的说明,GOV.UK 的页面本身没写得这么细。该组织还说,这类 code 以 S 开头。</p><h2>有效期:30 天还是 90 天</h2><p><b>各来源说法不一。</b>GOV.UK 面向欧盟公民的指南写的是 90 天,期间可以重复使用,生成新 code 不会让旧 code 失效。但一份较早的服务说明和爱丁堡大学的指南写的是 30 天。较早的版本可能已经过时,但本站没找到官方改期的公告。实际以你在服务页面看到的有效期为准。</p><p>官方给金融机构的页面没写具体天数,租房页面也没有。</p><h2>租房时怎么做</h2><ol><li>登录 View and Prove,选择“证明你的租房权利”。</li><li>生成 code,连同出生日期发给房东或中介。</li><li>对方在官网输入后,就能看到你能不能租、能租多久。</li></ol><ul><li>GOV.UK 页面名称是“Prove your right to rent in England”。官方指南说,房东和中介用的是“in England”的服务,其他地区(苏格兰、威尔士、北爱)是否适用,页面没有明确说明。</li><li>用 code 是一种选择。你也可以拿符合条件的证件原件让房东核对,房东不能仅因为你没用 code 就拒绝。</li><li>用护照里的签证贴纸(vignette)作为居留权证明的人,不能用这个服务。</li><li>BRP 过期后,官方租房页面说,实体卡在到期日后 18 个月内仍可使用。</li></ul><h2>开银行账户时怎么做</h2><ol><li>先问银行是否接受 eVisa 加 share code。一些大学提醒,并非所有银行都熟悉这套流程。</li><li>生成 code(用途选“something else”)。</li><li>把 code 和出生日期发给银行,银行在官网核对。</li><li>如果银行要求你出示实体 BRP,把官方指引《Residence documents: information for financial providers》发给他们。</li></ol><p>有高校提醒,在英国只待 6 个月以内的人,部分银行可能不给开户,线上银行通常更灵活。这是学校的建议,不是官方规定。</p><h2>银行拒收怎么办</h2><ul><li>the3million 说,确实有银行和金融机构拒收 share code 或 eVisa。</li><li>先拿出官方金融机构指引,请对方走内部合规流程。</li><li>仍被不公平对待,可以向 Financial Ombudsman 投诉,并向 the3million 报告。</li></ul><h2>常见问题</h2><h3>问:没有 BRP 卡,怎么证明身份?</h3><p>用 eVisa 加 share code。官方说,收到的身份状态书面通知不能用作工作权利或获取服务的证明,只供自己留存。</p><h3>问:同一个 code 能给多个房东用吗?</h3><p>官方说,有效期内同一个 code 可以重复使用,生成新 code 不会让旧的作废。但用途要选对,租房 code 只能用于租房。</p><h3>问:有实体证件但登录不了 View and Prove 怎么办?</h3><p>官方说,持有 BRC/P 等实体证件又进不了服务的人,可以用该证件证明身份。出行时也要随身带实体证件。</p><blockquote>以上内容基于 2026 年 10 月查到的公开资料。政策和服务细节可能变化,请以 GOV.UK 官方页面为准;涉及复杂的移民或租约问题,请咨询移民律师或持牌顾问。</blockquote>",
+ "sources": [
+  [
+   "GOV.UK: Prove your right to rent in England",
+   "https://www.gov.uk/prove-right-to-rent/get-a-share-code-online"
+  ],
+  [
+   "GOV.UK: View and prove your immigration status(EU/EEA/瑞士公民指南)",
+   "https://www.gov.uk/government/publications/view-and-prove-your-immigration-status-evisa/your-immigration-status-an-introduction-for-eu-eea-and-swiss-citizens-accessible-version"
+  ],
+  [
+   "GOV.UK: Residence documents: information for financial providers",
+   "https://www.gov.uk/government/publications/biometric-residence-documents-information-for-financial-providers/residence-documents-information-for-financial-providers"
+  ],
+  [
+   "the3million: Bank share code FAQ",
+   "https://the3million.org.uk/faq/bank-sharecode"
+  ]
+ ],
+ "cat": "英国",
+ "topic": "英国 eVisa 和 share code：开户、租房时怎么证明身份",
+ "date": "2026-10-30",
+ "slug": "20261030-uk-evisa-share-code-1"
+}
