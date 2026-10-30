@@ -1,0 +1,35 @@
+{
+ "title": "自雇者能扣哪些费用：电脑手机网络家庭办公室",
+ "desc": "自雇者可按业务使用比例扣电脑、手机、网费；家庭办公室须专用且经常使用，可用简化法每平方英尺5美元。",
+ "body": "<p>能扣，但要符合条件：电脑、手机、网络这类费用，只能扣“用于业务的那部分”；家庭办公室必须“专用且经常使用”才能扣。个人和业务混用的东西，要按比例分摊，并留好记录。以下以美国联邦税为主，州税规则另查。</p><h2>先搞清楚一个原则</h2><p>费用必须和你的业务直接相关，才算可扣的经营费用。纯个人开销不能扣。自雇的人（Schedule C）才能扣；以雇员身份（W-2）在家办公，家庭办公室部分按 IRS 的 Pub 587 流程图是不能扣的。</p><h2>一张表看懂四类费用</h2><table><tr><th>项目</th><th>怎么扣</th><th>要点</th></tr><tr><td>电脑、平板、打印机</td><td>按业务使用比例；金额大可考虑一次性扣除或折旧</td><td>混用就按比例；保留发票</td></tr><tr><td>手机和话费</td><td>按业务使用比例</td><td>不要求必须有单独的业务线路，但要能说明比例</td></tr><tr><td>网络费</td><td>按业务使用比例</td><td>本站未在 IRS 页面查到专门针对网费的条文，通行做法是同样按比例分摊</td></tr><tr><td>家庭办公室</td><td>简化法或实际费用法</td><td>必须专用、经常使用</td></tr></table><h2>电脑和设备：一次扣完还是分年扣</h2><ul><li><b>小额设备：</b>IRS 的“小额安全港”（de minimis safe harbor）允许每张发票或每件物品不超过 <b>$2,500</b> 的有形财产直接当期扣除（有审计财务报表的企业是 $5,000）。需要每年在按时提交的联邦报税表后附一份声明，标题为“Section 1.263(a)-1(f) de minimis safe harbor election”，写明姓名、地址和税号。一旦选择，当年所有符合条件的支出都要按这个办法处理。</li><li><b>大额设备：</b>可以用 Section 179 一次性扣除。Pub 334 写明 2025 年的 179 条款扣除上限为 <b>$250 万</b>，购买的合格资产超过 <b>$400 万</b>后开始递减。个体户基本碰不到这个上限，但 179 扣除不能超过业务的应税收入。</li><li><b>奖励折旧（bonus depreciation）：</b>多个二手来源称，新法（OBBBA）把 100% 奖励折旧恢复为永久，适用于 2025 年 1 月 19 日之后投入使用的合格资产；这一点本站未在 IRS 页面直接核实，细节以 Form 4562 说明为准。</li><li><b>2026 年的购买：</b>本站没有查到 2026 年的官方数字，报 2026 年税时请重新核对 Form 4562 说明。</li></ul><h2>手机和网络：按比例，别写 100%</h2><ol><li>估算业务使用比例，例如用一两个月的通话记录、流量或工作时段来推算。</li><li>用月费乘以这个比例，得出可扣金额。例如业务使用 60%，就扣 60%。</li><li>把推算方法和账单一起留存。</li></ol><p>说法不一的地方：有的指南称只有手机和服务完全用于业务才能扣 100%；也有税务人士提醒，100% 业务使用的申报容易引起注意。保守做法是只扣有记录支持的比例。以上这些来自二手资料，本站没能在 IRS 页面核对原文。</p><h2>家庭办公室：三个条件</h2><ul><li><b>专用（exclusive use）：</b>这块区域只用于业务。既当办公室又当客厅、饭厅，通常就不符合。例外：存放库存或产品样品、日托场所。</li><li><b>经常使用（regular use）：</b>偶尔、顺便用不算。</li><li><b>主要营业地点：</b>你在这里做行政或管理工作，并且没有其他固定场所用来做大部分行政管理工作；或者在这里接待客户，且使用是实质性、不可或缺的；或者是独立建筑，如工作室、车库。</li></ul><p>如果只是“合适、方便”，不能扣。投资理财之类不属于经营活动，也不能当作办公室理由。</p><h2>家庭办公室的两种算法</h2><h3>简化法</h3><ol><li>办公面积乘以 <b>$5</b>，面积最多算 <b>300 平方英尺</b>，也就是最高 $1,500。</li><li>用这个金额与“家庭业务总收入减去与家无关的业务费用”比较，取较小者。</li><li>每年在按时提交的原始报税表上选择，该年选定后不能撤销。</li></ol><p>用简化法时，不能再扣该办公区的实际房屋费用和折旧；房贷利息、房产税照常作为个人项目处理。</p><h3>实际费用法</h3><ul><li>算出业务面积占全屋比例（或房间数法，限房间大小相近）。</li><li>直接费用（只用于办公区）全额扣；间接费用（整套房子）按比例扣；与办公室无关的不能扣。</li><li>自有住房可折旧，土地不可折旧。2025 年开始使用办公区的，按 39 年直线法；公务用房改变用途前的做法以 Pub 587 为准。</li><li>用 <b>Form 8829</b> 计算，结果填入 Schedule C；合伙人和 Schedule F 申报者用 Pub 587 里的工作表。</li><li>总额受收入限制，超出的部分可结转到以后年度（用实际费用法）。</li></ul><h2>记录怎么留</h2><ul><li>买电脑、手机的发票或收据。</li><li>手机、网络账单，加一页比例推算说明。</li><li>办公区面积、全屋面积，最好附一张平面图和照片。</li><li>家庭办公室的水电、保险、房租或房贷等账单（实际费用法需要）。</li></ul><h2>常见问题</h2><h3>1. 在沙发上、餐桌上办公能扣家庭办公室吗？</h3><p>通常不能。区域要专用，混用就不符合专用使用的要求。可以考虑只扣电脑、网络的业务比例。</p><h3>2. 简化法和实际费用法选哪个？</h3><p>简化法省事，最高 $1,500，不用算折旧。如果房子大、办公区大、房租或水电高，实际费用法可能扣得更多，但要多做记录，还要面对折旧回收等后续问题。每年都可以重新选择。</p><h3>3. 在雇主那里上班、回家副业接活，手机电脑能扣吗？</h3><p>副业收入（Schedule C）部分的业务使用比例可以扣；作为 W-2 雇员的工作部分，不能扣。收入少于费用时，办公室扣除还受收入限制。</p><blockquote>以上内容仅供参考，请以 IRS 等官方为准；情况复杂（多州、折旧、混合用途、审计风险）请咨询 CPA 或律师。</blockquote>",
+ "sources": [
+  [
+   "IRS Publication 587 (2025) Business Use of Your Home",
+   "https://www.irs.gov/publications/p587"
+  ],
+  [
+   "IRS Publication 334 Tax Guide for Small Business",
+   "https://www.irs.gov/publications/p334"
+  ],
+  [
+   "IRS Home Office Deduction",
+   "https://www.irs.gov/businesses/small-businesses-self-employed/home-office-deduction"
+  ],
+  [
+   "IRS Tangible Property Final Regulations (de minimis safe harbor)",
+   "https://www.irs.gov/businesses/small-businesses-self-employed/tangible-property-final-regulations"
+  ],
+  [
+   "Thomson Reuters: One Big Beautiful Bill Act (OBBBA) of 2025",
+   "https://www.thomsonreuters.com/en-us/help/fixed-assets-cs/calculation/one-big-beautiful-bill.html"
+  ],
+  [
+   "TurboTax: Can cellphone expenses be tax deductible with a business?",
+   "https://turbotax.intuit.com/tax-tips/small-business-taxes/can-cellphone-expenses-be-tax-deductible-with-a-business/L6NQvycMO"
+  ]
+ ],
+ "cat": "报税",
+ "topic": "自雇者能扣哪些费用：电脑、手机、网络、家庭办公室",
+ "date": "2026-10-30",
+ "slug": "20261030-tax-1"
+}
