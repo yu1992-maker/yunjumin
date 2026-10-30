@@ -1,0 +1,39 @@
+{
+ "title": "附属卡能帮ITIN建信用吗?Authorized User 实测要点",
+ "desc": "ITIN 用户当附属卡持卡人能否建信用,取决于发卡行是否接受 ITIN、是否上报以及信用局能否把记录挂到你名下。",
+ "body": "<p>结论:<b>有可能,但不保证。</b>被加为附属卡持卡人(Authorized User,简称 AU)这件事本身不违法,也可能让账户出现在你的信用报告上。但 ITIN 用户要同时过三关:发卡行肯不肯加没有 SSN 的人、会不会向信用局上报 AU 账户、信用局能不能把记录挂到你的 ITIN 档案上。三关里任何一关卡住,都白加。</p><p>本站查到的资料里,没有一份官方文件专门讲“ITIN + AU”这个组合。下面的内容来自 Doctor of Credit、myFICO、Experian、NerdWallet 等,有些是读者评论或第三方整理,已标注。</p><h2>AU 是怎么帮你建信用的</h2><ul><li>主卡持卡人的账户(开卡时间、额度、还款记录)可能被复制到你的信用报告上。</li><li>myFICO 说明:AU 账户可以出现在你的信用报告并影响 FICO 分数,好坏都会影响。</li><li>你<b>不需要为这笔债务负法律责任</b>。如果账户出现逾期,可以要求被移除,记录会从你的报告上拿掉(myFICO)。</li><li>新版本的 FICO 分数里,AU 账户的权重低于你自己名下的账户;旧版本则与主卡账户同等对待(myFICO)。</li></ul><h2>ITIN 用户要过的三关</h2><table><tr><th>关卡</th><th>现状</th><th>来源与说法</th></tr><tr><td>1. 发卡行是否加 ITIN 持有人为 AU</td><td>各家不同</td><td>Doctor of Credit 的读者评论称 Capital One 允许 ITIN 持有人当 AU,Citibank 不行。该文发布于 2015 年 8 月,政策可能已变。另一篇指南称“并非所有发卡行都要求 SSN 才能加 AU”,没有逐家列出。</td></tr><tr><td>2. 发卡行是否上报 AU 账户</td><td>多数大行会报,但不是强制</td><td>多个第三方指南称大多数发卡行会向三大信用局上报 AU。Experian 说明发卡行没有义务上报。小银行、地区性银行不稳定。</td></tr><tr><td>3. 信用局能否建立 ITIN 档案</td><td>不确定</td><td>Doctor of Credit 那篇文章没有说 AU 记录是否会出现在 ITIN 档案上。第三方网站说,信用局会把档案挂在 ITIN 下,用的是同一套 FICO 模型,但这些是二手说法,本站未能用官方文件核实。</td></tr></table><h2>信用局那边的现实</h2><p>据 Doctor of Credit(2015 年文章,可能已过时):</p><ul><li><b>Experian</b>:可以用 ITIN 申请报告,但网上系统只认 SSN,要走邮寄。</li><li><b>Equifax</b>:没有 SSN 不提供报告,可能要求提供 SSN 证明。</li><li><b>TransUnion</b>:要求有效 SSN,个别人在被拒贷(adverse action)后拿到过报告,但不稳定。</li></ul><p>Self 的指南称,ITIN 持有人无法通过 annualcreditreport.com 在线拿报告,只能分别向各信用局邮寄申请。各来源说法不一,建议以各信用局官网当前规定为准。</p><h2>怎么试:步骤清单</h2><ol><li><b>先问主卡人的发卡行</b>:直接打客服电话,问“能否加一位只有 ITIN、没有 SSN 的人为 AU?”。拿到明确答复再操作。</li><li><b>再问是否上报</b>:问“AU 账户会不会向 Experian、Equifax、TransUnion 上报?”。不上报就没有意义。</li><li><b>选好主卡</b>:账龄长、额度高、从不逾期、使用率低的卡才有帮助。使用率高或有逾期的卡,会拖累你(myFICO)。</li><li><b>加入后 1–2 个月</b>,向信用局邮寄申请你的报告(Experian 对 ITIN 相对可行),确认账户有没有出现。</li><li><b>同时开一张自己名下的卡</b>:AU 账户的权重比不上自己的账户(myFICO)。可以考虑接受 ITIN 的发卡行,或者担保卡(secured card)。</li></ol><h2>需要注意的风险</h2><ul><li><b>主卡人逾期会连累你</b>:FICO 下负面记录可能影响 AU 的分数。另有说法称 Experian 不把 AU 账户的逾期放进报告,各来源不一致,不要依赖。</li><li><b>关系要信得过</b>:主卡人随时可以把你移除,记录也会随之消失。</li><li><b>买房贷款用处有限</b>:Fannie Mae 规定,人工审核的贷款中,AU 账户一般不能用于审核,有列出的例外情况。</li><li><b>不要买“租 AU 位置”的服务</b>:本站没有查到可靠来源支持这类服务,费用和风险都很大。</li></ul><h2>AU 之外的选择</h2><ul><li><b>接受 ITIN 的信用卡</b>:Doctor of Credit 2015 年文章列出 American Express、Citibank、Bank of America(需到分行)等接受 ITIN;Discover 自 2014 年 11 月起不再接受。Bankrate 的说法不同,称 Chase 和 Wells Fargo 接受 ITIN,Discover、Citi、Credit One 要求 SSN。<b>各来源说法不一</b>,以发卡行当前页面为准。</li><li><b>担保卡 / 学生卡</b>:部分发卡行接受 ITIN 或护照(Majority 等第三方整理)。</li><li><b>被拒也不要紧</b>:NerdWallet 称发卡行一般不能因为你用 ITIN 就拒绝申请,但可以因为信用记录太薄而拒绝。</li></ul><h2>常见问题</h2><h3>Q1:ITIN 有“单独的信用分”吗?</h3><p>没有官方的“ITIN 信用分”。第三方指南说,分数用的是同一套模型,但前提是信用局有你的档案。Doctor of Credit 指出,ITIN 的信用记录追踪得没有 SSN 完整。</p><h3>Q2:加了 AU 后,我的 ITIN 报告一定会有这张卡吗?</h3><p>不一定。要看发卡行是否上报、信用局能否把记录挂到你名下。本站没有查到官方说明,建议加入后实际邮寄申请报告核对。</p><h3>Q3:以后拿到 SSN,AU 的记录还有用吗?</h3><p>本站没有查到官方来源说明 ITIN 档案和 SSN 档案如何合并。一般的建议是拿到 SSN 后,向三大信用局确认并要求合并旧记录,具体以各信用局的说明为准。</p><h2>提醒</h2><p>以上信息整理自公开资料,发卡行政策变化很快,尤其是 2015 年的旧文章。<b>请以发卡行和信用局官方说明为准;涉及移民身份、贷款或复杂情况,请咨询 CPA 或律师。</b></p>",
+ "sources": [
+  [
+   "Doctor of Credit:ITIN 信用卡、信用报告与信用分指南",
+   "https://www.doctorofcredit.com/complete-guide-to-itins-applying-for-credit-cards-credit-reports-credit-scores/"
+  ],
+  [
+   "myFICO:Authorized User 与 FICO 分数",
+   "https://www.myfico.com/credit-education/faq/scores/authorized-user"
+  ],
+  [
+   "NerdWallet:如何用 ITIN 申请信用卡",
+   "https://www.nerdwallet.com/article/credit-cards/apply-credit-card-itin-number"
+  ],
+  [
+   "Bankrate:没有 SSN 申请信用卡",
+   "https://www.bankrate.com/credit-cards/credit-card-without-social-security-number/amp"
+  ],
+  [
+   "Experian:AU 账户是否上报三大信用局",
+   "https://experian.com/blogs/ask-experian/are-authorized-user-accounts-reported-to-all-three-bureaus"
+  ],
+  [
+   "Self:用 ITIN 查信用分",
+   "https://www.self.inc/blog/how-to-check-credit-score-with-itin-number"
+  ],
+  [
+   "Fannie Mae Selling Guide:B3-5.3-06 AU 信用",
+   "https://selling-guide.fanniemae.com/Selling-Guide/Origination-thru-Closing/Subpart-B3-Underwriting-Borrowers/Chapter-B3-5-Credit-Assessment/Section-B3-5-3-Traditional-Credit-History/1032991071/B3-5-3-06-Authorized-Users-of-Credit-10-30-2009.htm"
+  ]
+ ],
+ "cat": "ITIN",
+ "topic": "成为附属卡持卡人（Authorized User）能帮 ITIN 用户建信用吗",
+ "date": "2026-10-30",
+ "slug": "20261030-itin-authorized-user-itin-1"
+}
