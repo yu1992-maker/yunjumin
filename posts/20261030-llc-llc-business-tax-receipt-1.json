@@ -1,0 +1,39 @@
+{
+ "title": "佛州LLC要办营业执照吗?县和城市BTR办理指南",
+ "desc": "佛州没有全州通用营业执照,但LLC通常要向县和城市申请Business Tax Receipt,每年9月30日到期,逾期有罚款。",
+ "body": "<p>结论:佛罗里达州没有“全州通用”的营业执照,但绝大多数 LLC 只要在本地实际经营,就要向所在县(tax collector)和/或城市申请 Business Tax Receipt(BTR,旧称 Occupational License)。在 Sunbiz 注册 LLC 只是成立公司,不等于拿到了经营许可。本站整理如下,具体金额和流程各县市不同,下单前务必到当地官网核实。</p><h2>BTR 是什么,县和城市要不要都办</h2><p>BTR 是地方政府收的“经营税”凭证,依据佛州法规第 205 章。第三方指南(如 Bizee)普遍说:佛州没有全州通用的一般营业执照,由县和市分别处理。</p><ul><li><b>只办县</b>:公司在非市区(unincorporated)地址,通常只对县。</li><li><b>县和市都办</b>:Miami-Dade 县官方说明,位于市内的企业需要同时拿到市的 receipt 和县的 receipt。</li><li><b>有先后顺序</b>:Pembroke Pines 的说明提到,先拿市的 BTR,之后还要拿 Broward 县的 BTR。</li></ul><p>各县市要求不同,是否两个都要办,以你公司地址所在的市和县官网为准。</p><h2>办理步骤</h2><ol><li>先在 Sunbiz(dos.fl.gov)成立 LLC,拿到文件编号,并申请 EIN。</li><li>确认经营地址属于哪个县、哪个市(查 property appraiser 或市政府网站)。</li><li>向市的 planning/zoning 部门确认该地址允许你的业务类型(居家办公是否可行,各地规定不同,本站未能统一核实,请直接问当地)。</li><li>先办市 BTR(如果该市要求),再到县 tax collector 办县 BTR。</li><li>受监管行业(地产、建筑、餐饮、美容等)先拿州级专业执照,再办 BTR。</li><li>卖应税商品或服务,另需向州税局(Florida Department of Revenue)登记销售税,这与 BTR 是两回事。</li></ol><h2>什么时候交、什么时候过期</h2><p>据佛州法规 205.053(2026 版):</p><table><tr><th>项目</th><th>规定</th></tr><tr><td>开始发售</td><td>每年 7 月 1 日起</td></tr><tr><td>缴费截止</td><td>每年 9 月 30 日前(遇周末/假日顺延到下一个工作日)</td></tr><tr><td>到期</td><td>次年 9 月 30 日</td></tr></table><p>也就是说,今天是 10 月 30 日,如果你的 BTR 还没续,已经进入逾期状态。新开业者在年中申请,同样到当年 9 月 30 日到期,各县是否按比例收费要看当地规定。</p><h2>逾期和无证经营的罚款</h2><table><tr><th>情形</th><th>法规 205.053 的规定</th></tr><tr><td>逾期续期</td><td>10 月 10%,之后每月再加 5%,总额不超过当年税额的 25%</td></tr><tr><td>应办未办就经营</td><td>另加税额 25% 的罚款</td></tr><tr><td>收到通知 150 天仍不缴</td><td>可能被民事追讨,罚款最高 $250,另加诉讼费和律师费</td></tr></table><p>说法不一:Oviedo 市网页写的是 10 月 10%、11 月 15%、12 月 20%,与州法条文和 Miami-Dade、Hillsborough、Polk 的“每月加 5%、上限 25%”不同。以你所在市县公布的为准。另有网站称无证经营超过 3 月 31 日罚款升到 100%,没有查到出处,本站不采信。</p><h2>费用多少</h2><p>BTR 金额由各县市按行业和规模自行定,没有统一数字,小型服务类公司通常不算高,但要看当地税率表。本站没有核实到可以通用的金额,请到所在县 tax collector 的 license categories 页面查你的行业分类。</p><h2>别和 Sunbiz 年报混淆</h2><ul><li>Sunbiz 年报:每年 1 月 1 日至 5 月 1 日提交,多家第三方网站称 LLC 费用 $138.75,5 月 2 日起罚 $400。这些数字来自第三方,没找到 dos.fl.gov 原页面,提交前请在官网确认。</li><li>BTR:每年 9 月 30 日前向县/市缴,和年报是两套独立的义务。</li></ul><h2>常见问题</h2><h3>问:我的 LLC 只在网上经营、住在家里,也要办吗?</h3><p>答:要看你的经营地址所在的县市。多数地方对居家经营也要求 BTR,个别地方有豁免或特殊规定,各来源说法不一,请直接打电话或查当地官网。</p><h3>问:县已经办了,城市还要办吗?</h3><p>答:位于市区内通常两个都要(Miami-Dade、Pembroke Pines/Broward 的官方说明都是这样),市区外则一般只办县。以地址为准。</p><h3>问:忘了续期怎么办?</h3><p>答:尽快补办。依州法,10 月起罚 10%,之后每月加 5%,上限 25%;长期不办还可能被追讨。联系当地 tax collector 问清欠款。</p><blockquote>以上内容以官方为准。涉及行业许可、分区、税务等复杂情况,请咨询 CPA 或律师。</blockquote>",
+ "sources": [
+  [
+   "Florida Statutes 205.053(Business Tax Receipts)",
+   "https://m.flsenate.gov/Statutes/205.053"
+  ],
+  [
+   "Miami-Dade Tax Collector - Local Business Tax Receipt",
+   "https://www.mdctaxcollector.gov/services/local-business-tax-receipt"
+  ],
+  [
+   "Pembroke Pines LBTR Information Sheet",
+   "https://www.ppines.com/DocumentCenter/View/12173/Information-Sheet-LBTR-092520"
+  ],
+  [
+   "Hillsborough County Tax Collector - Business Tax Services",
+   "https://hillstaxfl.gov/taxes/business-tax-services/"
+  ],
+  [
+   "City of Oviedo - Business Tax Receipt",
+   "https://cityofoviedo.net/480/Business-Tax-Receipt"
+  ],
+  [
+   "Bizee - How to get a Florida business license",
+   "https://bizee.com/licenses/how-to-get-florida-business-license"
+  ],
+  [
+   "UpCounsel - Florida LLC Annual Fees",
+   "https://www.upcounsel.com/florida-llc-annual-fees"
+  ]
+ ],
+ "cat": "LLC",
+ "topic": "佛州 LLC 要不要申请营业执照：县和城市的 Business Tax Receipt 怎么办",
+ "date": "2026-10-30",
+ "slug": "20261030-llc-llc-business-tax-receipt-1"
+}
