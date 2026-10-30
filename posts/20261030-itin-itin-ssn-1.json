@@ -1,0 +1,35 @@
+{
+ "title": "ITIN 和 SSN 的区别:能用来做什么、不能做什么",
+ "desc": "ITIN 只用于报税,不能工作、不能领社保福利;SSN 由社保局发放。本文对比两者用途、申请方式、有效期和常见限制。",
+ "body": "<p>ITIN 和 SSN 都是 9 位数字,格式也都是 NNN-NN-NNNN,但用途完全不同。SSN 由社会安全局(SSA)发放,可用于工作、报税和社保记录;ITIN 由 IRS 发放,按 IRS 的说法只用于联邦税务,不代表移民身份,也不授权你合法工作。ITIN 以数字 9 开头,给的是需要报税、但没资格拿 SSN 的人。</p><h2>一句话对比</h2><table><tr><th>项目</th><th>SSN</th><th>ITIN</th></tr><tr><th>发放机构</th><td>社会安全局(SSA)</td><td>IRS</td></tr><tr><th>申请表</th><td>Form SS-5</td><td>Form W-7</td></tr><tr><th>谁能拿</th><td>公民、绿卡持有人,以及 DHS 授权工作的非公民;无工作授权者仅限有合法的非工作理由</td><td>有联邦税务用途、但不符合 SSN 资格的人(包括其配偶、被抚养人),不论移民身份</td></tr><tr><th>号码特征</th><td>9 位数字</td><td>9 位数字,以 9 开头</td></tr><tr><th>合法工作</th><td>可以(工作类 SSN)</td><td>不可以</td></tr><tr><th>社保福利</th><td>可累积记录</td><td>不能因 ITIN 获得</td></tr><tr><th>EITC(劳动所得税抵免)</th><td>符合条件可申请</td><td>不能申请</td></tr><tr><th>费用</th><td>免费</td><td>向 IRS 申请不收费(找代理机构另算)</td></tr></table><h2>ITIN 能用来做什么</h2><ul><li><b>报联邦所得税</b>:提交 1040 等申报表、申请退税或其他税务优惠。</li><li><b>作为配偶或被抚养人的税号</b>:前提是对方能被你用来申请税务优惠,或自己要报税。</li><li><b>银行开户(视银行而定)</b>:不少银行和信用合作社接受 ITIN,有的还要求到分行办理、多交几份证件。线上银行做法不一,有来源说线上开户一般要 SSN,也有说部分网银接受 ITIN,说法不一,开户前务必先打电话问。</li><li><b>信用卡(视发卡行而定)</b>:有些发卡机构接受 ITIN,但不是全部。担保卡(secured card)通常更容易通过。Bankrate 该页面未列出具体发卡行,本站不在此点名。</li></ul><h2>ITIN 不能做什么</h2><p>IRS 明确列出:</p><ol><li>不能让你领取社会安全福利。</li><li>不能申请 EITC。</li><li>不提供也不改变移民身份。</li><li>不授权在美国合法工作。</li><li>不能当作联邦税务体系之外的身份证明。</li></ol><p>另外,雇主入职(I-9 / W-4)通常需要 SSN,用 ITIN 无法替代。</p><h2>谁需要 ITIN、谁不需要</h2><ul><li><b>需要</b>:有联邦报税义务或要申请退税、又拿不到 SSN 的外国人,包括居民外国人和非居民外国人,以及他们的配偶和被抚养人。</li><li><b>不需要</b>:美国公民、绿卡持有人、持美国工作签证的非居民外国人,以及任何有资格申请 SSN 的人。</li></ul><h2>怎么申请 ITIN:步骤</h2><ol><li>确认自己没有也无资格获得 SSN。</li><li>填写 Form W-7,勾选申请类型和对应原因。</li><li>准备证明身份和外国身份的文件。</li><li>通常要把<b>联邦报税表和 W-7 一起寄出</b>,不要单独提交报税表;符合例外情形的除外。</li><li>通过邮寄或亲自办理(IRS 说明可邮寄或当面)。不要把 W-7 附在延期申请(Form 4868)或预估税款缴费单(voucher)里。</li><li>等待:IRS 说一般约 7 周出通知;1 月 15 日至 4 月 30 日报税季,或从海外申请,可能需要 9 到 11 周。</li></ol><p>如果报税期限前来不及,可以先不带 ITIN 申请延期,再等号码下来。</p><h2>SSN 怎么申请</h2><ol><li>用 Form SS-5,可先在线开始,再预约到社保局办事处完成。</li><li>提供 I-94、EAD(I-766)或标明可工作的入境章等证明,须为原件或认证副本,复印件和公证件不收。</li><li>申请免费。</li></ol><p>SSA 的出版物称,一般只有 DHS 授权工作的非公民才能拿 SSN;没有工作授权的人,只有证明确有合法的非工作理由才能拿,而且这类号码不能用来工作。以上出自 SSA 的 EN-05-10096 出版物(2023 年 4 月版),办理前请到 ssa.gov 核对最新要求。</p><h2>ITIN 的有效期和续期</h2><ul><li>ITIN 在<b>连续三个纳税年度都没有出现在联邦报税表上</b>时,于第三个未使用年度之后的 12 月 31 日过期。</li><li>如果你要把这个 ITIN 用在联邦报税表上,过期了就要续期;只用于 1099 等信息申报表则不需要续期。</li><li>续期用 Form W-7,勾选“Renew an existing ITIN”,仍要勾选原因,6e、6f 栏填已有的 ITIN 和当初的姓名。姓名有变要附结婚证或法院命令等。</li><li>如果后来拿到了 SSN,不要续期。</li></ul><p>关于续期是否必须附报税表,说法不一:IRS 续期页面没有说续期本身要附报税表,但配偶和被抚养人为申请税务优惠而续期,必须附上联邦报税表及相应表格;也有第三方文章(Greenback Tax Services)说多数续期要附当年报税表。以最新的 W-7 说明为准。</p><h2>常见问题</h2><h3>1. 有 ITIN 能合法打工吗?</h3><p>不能。IRS 明确说 ITIN 不授权在美国合法工作。要工作需要 DHS 授权,再去申请 SSN。</p><h3>2. 后来拿到 SSN,ITIN 怎么办?</h3><p>以后报税改用 SSN,不要再续期 ITIN。具体怎样把过去的记录和新号码对应,可问报税的 CPA。</p><h3>3. 有 ITIN 能办信用卡、房贷吗?</h3><p>信用卡看发卡行,有的接受,有的不接受。房贷方面,本站这次没查到可靠的放贷机构细则,不下结论,请直接问贷款机构。</p><blockquote>以上内容以 IRS、SSA 等官方网站为准;涉及移民身份、报税或续期的复杂情况,请咨询 CPA 或移民律师。</blockquote>",
+ "sources": [
+  [
+   "IRS:Individual Taxpayer Identification Number (ITIN)",
+   "https://www.irs.gov/individuals/individual-taxpayer-identification-number"
+  ],
+  [
+   "IRS:Taxpayer Identification Numbers (TIN)",
+   "https://www.irs.gov/individuals/international-taxpayers/taxpayer-identification-numbers-tin"
+  ],
+  [
+   "IRS:Renew an ITIN",
+   "https://www.irs.gov/tin/itin/renew-an-itin"
+  ],
+  [
+   "SSA:Social Security Numbers for Noncitizens (EN-05-10096)",
+   "https://www.ssa.gov/pubs/EN-05-10096.pdf"
+  ],
+  [
+   "Bankrate:Apply for a credit card with an ITIN",
+   "https://www.bankrate.com/credit-cards/advice/apply-for-credit-card-itin/"
+  ],
+  [
+   "Greenback Tax Services:ITIN Expiration and Renewal",
+   "https://www.greenbacktaxservices.com/knowledge-center/how-to-check-if-itin-is-expired/"
+  ]
+ ],
+ "cat": "ITIN",
+ "topic": "ITIN 和 SSN 有什么区别：能用来做什么、不能做什么",
+ "date": "2026-10-30",
+ "slug": "20261030-itin-itin-ssn-1"
+}
