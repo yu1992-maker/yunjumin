@@ -1,0 +1,35 @@
+{
+ "title": "新墨西哥州注册LLC教程:州务卿网上申请步骤与费用",
+ "desc": "新墨西哥州LLC只能在州务卿网站在线申请,州费50美元,据查无年报。本文讲清准备材料、操作步骤、EIN和后续合规。",
+ "body": "<p>在新墨西哥州(NM)注册 LLC,现在只能通过州务卿(Secretary of State)的在线门户 enterprise.sos.nm.gov 提交,州政府申请费为 <b>50 美元</b>(另可能有少量线上手续费)。流程大致是:取名、找注册代理人、网上建账号、填 Articles of Organization、付款、等批准、再去 IRS 免费申请 EIN。</p><p>本文依据州务卿网站、IRS 官网和引用法条的公开资料整理。部分细节(手续费、审批时长)各来源说法不一,文中会标明。</p><h2>先看全局:费用与时间</h2><table><tr><th>项目</th><th>内容</th><th>备注</th></tr><tr><td>州申请费</td><td>50 美元</td><td>依据 NMSA 1978 § 53-19-63(A)</td></tr><tr><td>线上手续费</td><td>说法不一</td><td>有的来源称约 1.5 美元,有的称 1.95 美元,以付款页面为准</td></tr><tr><td>审批时间</td><td>说法不一</td><td>第三方网站从 1–3 个工作日到 1–2 周都有,甚至有写约 2 个月的。官方未查到明确承诺</td></tr><tr><td>EIN</td><td>0 美元</td><td>IRS 明确说“永远不需要为 EIN 付费”</td></tr><tr><td>年报</td><td>据查无</td><td>多个来源称 NM LLC 无年报,引用法条的资料称费用清单里没有年报费</td></tr></table><h2>第一步:准备材料</h2><ul><li><b>LLC 名称</b>:必须可与已有名称区分,并带有允许的后缀,如 LLC、L.L.C.、LC、L.C.、limited company、limited liability company。</li><li><b>注册代理人(Registered Agent)</b>:需要姓名和在新墨西哥州的街道地址(registered office)。代理人还要出具签字的接受任命声明,随申请一起提交。</li><li><b>主要营业地址</b>:如果与注册地址不同,需要填写。</li><li><b>管理方式</b>:是否由经理(manager)管理;是否作为单成员 LLC。</li><li><b>签署人</b>:Articles 须由设立人签字,并写明姓名和身份。</li></ul><p>按引用法条的资料,Articles 里<b>不需要</b>写成员或经理的名字,也不要求写经营目的,这是它比较隐私、省事的地方。但这些来自第三方整理,提交前请对照官方表格。</p><h2>第二步:在州务卿网站申请</h2><ol><li>打开 <b>enterprise.sos.nm.gov</b>,注册账号并登录。</li><li>登录后在左侧 <b>Forms</b> 标签里找到国内 LLC 的 Articles of Organization。</li><li>按页面填写名称、注册代理人、地址、管理方式等。</li><li>上传或确认注册代理人的接受声明。</li><li>在线付款,州费 50 美元。</li><li>提交后等待批准。LLC 在州务卿<b>备案(filed)时</b>成立,或在你于 Articles 中写明的较晚日期成立。</li><li>批准后下载带备案章的文件,保存好。开银行账户、申请 EIN 会用到。</li></ol><blockquote>州务卿网站写明,所有商业备案已转为线上办理,不再接受纸质申请。如有疑问,可打 Business Services Division 电话 505-827-3600。</blockquote><h2>第三步:申请 EIN</h2><p>LLC 批准后,先去 IRS 官网免费申请 EIN。IRS 提醒:公司或 LLC 要<b>先在州里成立</b>,否则申请可能被延误。</p><ul><li>在线工具办公时间(美东):周一至周五 6:00–次日 1:00,周六 6:00–21:00,周日 18:00–24:00。</li><li>需要负责人(responsible party)的 SSN 或 ITIN,以及实体类型。</li><li>必须一次填完,闲置 15 分钟会超时。</li><li>每位负责人每天只能申请一个 EIN。</li><li>主要营业地在美国境外的,不能用在线工具,要改用电话、传真或邮寄。无 SSN/ITIN 的外国人也请查 IRS 最新说明。</li></ul><p>网上有很多收费代办 EIN 的网站,官方是免费的,不必花钱。</p><h2>第四步:成立之后的事</h2><ul><li><b>年报</b>:多个来源称新墨西哥州 LLC 没有年报要求,也没有报纸公告要求。这些多为商业网站,官方页面未直接查到,建议向州务卿确认。</li><li><b>BOI(受益所有人报告)</b>:商业网站说法不一。据本站所知,FinCEN 在 2025 年 3 月的临时最终规则中已将美国本土公司排除在报告义务之外,有页面仍写有罚款,疑似过时。以 fincen.gov/boi 最新公告为准。</li><li><b>联邦税</b>:单成员 LLC 默认按个人税务实体处理,多成员默认按合伙企业。具体申报方式请咨询 CPA。</li><li><b>营业执照和州税</b>:新墨西哥州有 gross receipts tax(毛收入税)等,是否需要登记取决于业务,本站未逐项核实。</li></ul><h2>常见问题</h2><h3>问:不住在新墨西哥州,可以注册吗?</h3><p>可以先找一家在当地有地址的注册代理人。注册代理人必须提供新墨西哥州的街道地址。但你在居住州可能还需要做外州公司登记,请另行查你所在州的规定。</p><h3>问:LLC 批准要等多久?</h3><p>说法不一:第三方网站有写 1–3 个工作日、1–2 周,也有写更久的。官方未查到明确承诺,建议留足时间,不要卡着开户日期提交。</p><h3>问:为什么常听说“新墨西哥州 LLC 免费或没有维护费”?</h3><p>“免费”是营销说法,实际州费是 50 美元。省的是年报费,但注册代理人的年费仍要自己付,通常按代理公司定价收取。</p><p><b>提醒:</b>以上内容仅供参考,费用、流程和规则可能变化,请以新墨西哥州务卿、IRS、FinCEN 官方信息为准。涉及税务、移民身份、多成员或境外股东等复杂情况,请咨询 CPA 或律师。</p>",
+ "sources": [
+  [
+   "新墨西哥州务卿 Business Services",
+   "https://www.sos.nm.gov/business-services/"
+  ],
+  [
+   "IRS:在线申请 EIN",
+   "https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online"
+  ],
+  [
+   "ezel.ai:新墨西哥州 LLC 设立要求(引用 NMSA § 53-19)",
+   "https://ezel.ai/surveys/domestic-llc-formation-filing-requirements/new-mexico"
+  ],
+  [
+   "ezel.ai:新墨西哥州 LLC 年报要求",
+   "https://ezel.ai/surveys/llc-annual-report-requirements/new-mexico"
+  ],
+  [
+   "Inc Authority:新墨西哥州 LLC 指南",
+   "https://www.incauthority.com/blog/how-to-create-a-new-mexico-llc"
+  ],
+  [
+   "FinCEN:BOI",
+   "https://www.fincen.gov/boi"
+  ]
+ ],
+ "cat": "LLC",
+ "topic": "在新墨西哥州注册 LLC：州务卿网上申请一步步教程",
+ "date": "2026-10-31",
+ "slug": "20261031-llc-llc-1"
+}
