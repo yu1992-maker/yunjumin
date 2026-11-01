@@ -1,0 +1,106 @@
+{
+ "date": "2026-11-01",
+ "sections": [
+  {
+   "key": "itin",
+   "title": "🧾 ITIN 能办什么卡 / 开什么户",
+   "items": []
+  },
+  {
+   "key": "card",
+   "title": "💳 美卡动态",
+   "items": [
+    {
+     "title": "出了5/24 10年前申过csp csr. 现在拿不了开卡奖励了",
+     "link": "https://www.uscardforum.com/t/topic/543654",
+     "src": "美卡论坛·最新",
+     "note": "Chase：出5/24后，10年前申过的CSP/CSR拿不了开卡奖励，Chase 门槛收紧。"
+    },
+    {
+     "title": "Bank Of America Surveys New/Updated Travel Card, No Annual Fee + Transfer Partners?",
+     "link": "https://www.doctorofcredit.com/bank-of-america-surveys-new-updated-travel-card-no-annual-fee-transfer-partners/",
+     "src": "Doctor of Credit",
+     "note": "BofA：正在调研 Travel Rewards 卡或新卡产品，可能有无年费新卡或规则变化。"
+    },
+    {
+     "title": "Limited-Time Offer: Earn $1,000+ Toward Travel With the Capital One Venture Rewards Credit Card - The Motley Fool",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPVDNoVnNKXzJmalR2NVNzQTlERDAzVE1qZFRYamVId2E4RlNicGZ0OTY0OTV4YzdqN3VmaFB6R2wtSzhVNVh1QWZDNkhuY20ySlQ5clZFTzUxcHB4TEhKZl9fOVFBNGxEQ2JMc3dDZDZoZ2llM1dIRFpGVEQ4TWtRUkdCTDNCVmg5U19vZGpIZkVlaFBqV2ptdnlCd2U1bi1teGxTTjFDR0Z6c05YU3QzVWxjQ1dzamdfZEFkaWxNVkJQWXJINzdWQk5wOHV1TmlEaWlvaERWTzI?oc=5",
+     "src": "Google 新闻",
+     "note": "Capital One Venture 限时优惠：开卡消费可赚 1000 美元以上旅行积分。"
+    },
+    {
+     "title": "amex sales team offer 成功绕开 1/90",
+     "link": "https://www.uscardforum.com/t/topic/543622",
+     "src": "美卡论坛·热门",
+     "note": "Amex：上一张商务白金仅开60多天即批新卡，1/90 规则似乎可绕开。"
+    }
+   ]
+  },
+  {
+   "key": "tax",
+   "title": "🏢 LLC 与报税",
+   "items": [
+    {
+     "title": "PayStubs.net Releases Comprehensive Guide on the New $2,000 IRS Form 1099 Reporting Threshold for 2026 Payments - The Des Moines Register",
+     "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxON3RpaE1vZDdGVDY2b3VUd2NtdFo3MkN5TC1WdGdEU0h4VV9UNV9VcGJKLUllZTJfYXZsZUU4blI2eHNYWVhkX1BocGNza1Nfc2xLN19UYUpjUXNmUnRfUUxGYnRzdzJJVWR4X3k2cVNhM19CT1RFZWlCUkl3eWZvNW5laE9iWGQ0c3gzdm9aNDM1Q0xFT2RUMUpiazl5Nm5XN3JpNDJRTmp1d29jejlBblZIWS15UnQxbHlJZHc2QUdJYVViRE5IQTVIcEVjQnJjVmgxTU1qR2lvMlBxTThMMGhiYVJjd0Z4UkxlN0RYUC1yZ20wdTA3QV9JVHh2OE10?oc=5",
+     "src": "Google 新闻",
+     "note": "2026 年起 1099 表格申报门槛升至 2000 美元，付款给承包商需注意。"
+    },
+    {
+     "title": "Steps For Managing Your Small Business’s Taxes - Forbes",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcGZHQVBuRVF6WlZSR0JDYUF2eld3aVU1NjJBSjhQaWtWOE5XODlScThkajlXZktGald4UVJKRzdkTzFvOFFIcUdyVGJSVzdvT2x6V1pDWGRJY2ZCX2NLRjBmVGJsU1dGRzU2dDdhc3YxR2h0emxSeWZEbWNYcVdfWVA5dTd4NUFGMnRUbm1xcEE3Nkx0cDQ0LXB2Y2VKakk?oc=5",
+     "src": "Google 新闻",
+     "note": "小企业税务管理步骤（Forbes），适合 LLC 主理人对照检查报税事项。"
+    },
+    {
+     "title": "10 Year-End Tax Questions Every Business Owner Should Ask - EisnerAmper",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTVVDNWdBWUxYRzdaaFlvV2V4N3AwVlo5T3JOdmE0ZE9pbm91X1JDT0tzd2lvbWZhSVNnTmpaN0plM05aeFJYVFJ5TWFyV0d3RXJ2TlFYbk5qOWJqUmxpNlh3STdFLVNrem9wMlF0UjBnaDBNdkF6T2RraU5qVmxiSjNGeFM4cGcxWlNET0FhUzAxR21JM0ZrZm93?oc=5",
+     "src": "Google 新闻",
+     "note": "年终税务十问（EisnerAmper）：小公司年底前该核对哪些事项。"
+    }
+   ]
+  },
+  {
+   "key": "uk",
+   "title": "🇬🇧 英国卡与账户",
+   "items": [
+    {
+     "title": "Get £240 by Switching to Santander - Moneyfacts",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbDRETHU2UG5vdXZnblh1VlV3ZjBJZU04cHZQU2pQQnJqRmhsVjhvRDJLMy1BWnh3d1RZanBBOG1fNUtlRE5nNUR5SDZXendPSjNzeU5BRTVVZkZLUGhnTGVjdXVXc21fV2d1MTR4dUVYcFBWNGNHMFhIZ2gzMkhrZE1YVU4tWEZj?oc=5",
+     "src": "Google 新闻",
+     "note": "Santander 切换账户送 £240，需从其他英国银行转过来，新到英国的可留意。"
+    },
+    {
+     "title": "5 banks offering free cash payments of up to £210 before Christmas - Birmingham Live",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVHJsSUJOaC1VWkJTOFpmaGtVX3l5RFMzR2tLNEhQMkZiaEZtME15ZGhRd1Y2YWQ3TVlqN2NMUFhrUXBzZ3ZLMkxrRC1SalU2Z0FtX0Njd2puVlh2dWlCWURGdERhektmSG5fck1QSTFNcmFtSEIyalozaTlmMmhNT0ZfVXFrMGZkSXZ6Tm1CMDgyczg0QWJR0gGXAUFVX3lxTE1UcmxJQk5oLVVaQlM4WmZoa1VfeXlEUzNHa0s0SFAyRmJoRm0wTXlkaFF3VjZhZDdNWWo3Y0xQWGtRcHNndksyTGtELVJqVTZnQW1fQ2N3am5WWHZ1aUJZREZ0RGF6S2ZIbl9yTVBJMU1yYW1IQjJqWjNpOWYyaE1PRl9VcWswZmRJdnpObUIwODJzODRBYlE?oc=5",
+     "src": "Google 新闻",
+     "note": "5 家英国银行圣诞前送现金，最高 £210，多为开户奖励。"
+    },
+    {
+     "title": "HSBC Premier Mastercard Review (2026) - Mainly Miles",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE94ZWR3SWw3ZGZQVG1Jb2YzWDhkeU5iZnBPUjhIZ1BFUnFmTk1BTDhvb3ZIRnhKSzFDZGZTUldYTmsxdm1ycjhTcjBiRHBJU0hNVmZzVmVCQ0pIaWFWMktzVXRKRlhTMWtqR1dRaWRqc1RpcHAzbVdFMzRBdw?oc=5",
+     "src": "Google 新闻",
+     "note": "HSBC Premier Mastercard 2026 评测，可参考英国信用卡的权益与门槛。"
+    }
+   ]
+  },
+  {
+   "key": "ca",
+   "title": "🍁 加拿大信用卡",
+   "items": [
+    {
+     "title": "Amex and Hilton launch first Hilton Honors credit card in Canada - The Points Guy",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMmFkUFM2bGw1cElMWDl1MlJPU19UemNKbkZOYVFWTFh4ZjZvQjlNMzVQcjQzRUxxRlptSk9hbnJzMUZSRm5NS08wX0tqYUxJaFNia1o5b29ycjRSTzRqTHpLSVlHNnYzUUdteUlSRkp2QjBLMWx6U3h6Y1FfS3VHYndpNF91aWpET2RPcUpyaGpETzBybXpWVzRlQQ?oc=5",
+     "src": "Google 新闻",
+     "note": "Amex 与 Hilton 推出加拿大首张 Hilton Honors 信用卡，Amex Canada 新卡可关注。"
+    },
+    {
+     "title": "How to Build a Credit Score in Canada? 2026 Guide - Turkville",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOREdRc3N0VExWclRzVjYtRUpUdHA4NHEzWURXaHFENDRrTE1Ub3lLYXFZYUx3T0NpdnVkNXdraXRBbW1WR1lfUy1YcGlqY1JsdXdwMy1QWHVvb2l1Z3V4WlkwLWhOR1o1YUpsRHBrUHJucnByN012TkhTcDB4eVB5RGFuNzFXRk1R?oc=5",
+     "src": "Google 新闻",
+     "note": "加拿大信用分建立指南（2026），适合无信用记录的新移民参考起步方法。"
+    }
+   ]
+  }
+ ]
+}
