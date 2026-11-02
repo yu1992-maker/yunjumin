@@ -1,0 +1,27 @@
+{
+ "title": "报税要准备哪些文件:2026年度报税完整清单",
+ "desc": "华人报税前要备齐的文件清单:收入表格、身份资料、抵扣凭证、海外账户申报,附 FBAR 与 8938 门槛对照表。",
+ "body": "<p>报税前要备齐四类文件:<b>身份资料</b>(本人、配偶、受抚养人的 SSN 或 ITIN)、<b>收入表格</b>(W-2、各类 1099 等)、<b>抵扣和抵免凭证</b>,以及华人常漏掉的<b>海外账户资料</b>。IRS 的原则是:凡是支持你报表上收入、扣除或抵免的单据,都要留好。</p><p>本文按 2026 年度(2027 年春季申报)整理。IRS 目前能查到的官方“收集资料”提示是针对 2024 年度的,表格名称基本沿用,具体以当年 IRS 页面为准。</p><h2>一、身份资料</h2><ul><li>本人、配偶、所有受抚养人的 SSN 或 ITIN。</li><li>去年的报税表(核对个人信息,部分软件也要用)。</li><li>银行账号和 routing number(直接退税、或缴税用)。</li><li>护照、绿卡等身份文件(有些报税师会要求,自助报税软件通常不用)。</li></ul><p>关于 ITIN:它是 9 开头的 9 位数税号,供无法拿到 SSN 的人使用。根据 IRS 页面,<b>用 ITIN 不能申请 earned income credit</b>。申请 ITIN 用 Form W-7,目前要连同一份联邦报税表一起寄出,符合例外的需附证明。ITIN 的有效期和续期规则,上述页面没有写,请去 IRS 的 ITIN FAQ 页面确认。</p><h2>二、收入类文件</h2><p>IRS 列出“大多数纳税人会收到”的表格如下:</p><table><tr><th>表格</th><th>内容</th></tr><tr><td>W-2</td><td>雇主工资和预扣税</td></tr><tr><td>1099-NEC</td><td>非雇员报酬(自由职业、零工)</td></tr><tr><td>1099-MISC</td><td>其他杂项收入</td></tr><tr><td>1099-INT</td><td>银行利息</td></tr><tr><td>1099-G</td><td>政府付款,如失业金、州退税</td></tr><tr><td>1095-A</td><td>医保市场(Marketplace)保险声明,申请保费补贴的人必备</td></tr></ul></table><p>此外常见的还有:炒股的 1099-B 和 1099-DIV、房租收入记录、赌博奖金 W-2G、奖学金等。这几项的具体规定本文没有逐项核对官方来源,按你的实际情况向券商、平台索取即可。</p><p>一般 1 月底前雇主会寄出 W-2,自由职业者的 1099 也是同样时间。<b>有表格迟迟没收到,先联系发放方,不要靠估算硬报。</b></p><h2>三、抵扣和抵免凭证</h2><ul><li>房贷利息 Form 1098、房产税账单。</li><li>州和地方所得税或销售税记录。</li><li>长期护理保险保费。</li><li>慈善捐款收据。</li><li>自雇或开店的收入、费用明细与发票。</li><li>其他“收据、已兑现支票和支持文件”(IRS 原话的意思:凡是能证明收入、扣除或抵免的)。</li></ul><p>是否要逐项列举(itemize)取决于你的金额是否超过标准扣除额,先备齐,再让软件或报税师比较。</p><h2>四、华人最容易漏的:海外账户</h2><p>在国内有银行账户、证券账户、保险现金价值账户的,要看两个门槛。根据 IRS 页面:</p><table><tr><th>项目</th><th>FBAR(FinCEN 114)</th><th>Form 8938</th></tr><tr><td>向谁申报</td><td>FinCEN,在 BSA E-Filing 系统电子提交,<b>不随报税表提交</b></td><td>IRS,<b>附在报税表上</b></td></tr><tr><td>门槛</td><td>全部海外账户合计,年内任何时点超过 $10,000</td><td>见下表</td></tr><tr><td>截止日</td><td>次年 4 月 15 日,自动延期到 10 月 15 日,无需申请</td><td>随报税表(含延期)</td></tr></table><h3>Form 8938 门槛(IRS 页面)</h3><table><tr><th>身份</th><th>年底超过</th><th>年内任何时点超过</th></tr><tr><td>住在美国,单身</td><td>$50,000</td><td>$75,000</td></tr><tr><td>住在美国,已婚联合报税</td><td>$100,000</td><td>$150,000</td></tr><tr><td>住在美国,已婚分开报税</td><td>$50,000</td><td>$75,000</td></tr><tr><td>住在海外,单身</td><td>$200,000</td><td>$300,000</td></tr><tr><td>住在海外,已婚联合</td><td>$400,000</td><td>$600,000</td></tr></table><p>8938 的前提是你本来就有报税义务。两个表<b>不能互相替代</b>,可能都要交。所以每个海外账户要准备:银行名称和地址、账号、<b>年内最高余额</b>(折算成美元)。FBAR 不包括 IRA 和退休计划账户。</p><h2>报税前自查步骤</h2><ol><li>列出本年所有收入来源,对照上面的表格,看有没有漏收的。</li><li>登录雇主、银行、券商网站,下载电子版表格。</li><li>确认每个家人的税号。</li><li>汇总抵扣凭证,按类别分文件夹保存。</li><li>整理海外账户最高余额,判断要不要交 FBAR 和 8938。</li><li>所有文件扫描备份,至少保留到你认为不再被查的年限(保存年限本站未核对,请问 CPA)。</li></ol><h2>常见问题</h2><h3>问:到了 2 月还没收到某张 1099,怎么办?</h3><p>答:先联系发放方要求补发或下载电子版,不要凭记忆估算申报。IRS 也说,表格有误会延迟退税。</p><h3>问:国内账户只有几千美元,要报吗?</h3><p>答:要看<b>所有海外账户合计</b>在年内任何时点是否超过 $10,000,不是看单个账户或年底余额。不超过就不用交 FBAR。</p><h3>问:FBAR 和 8938 只交一个行吗?</h3><p>答:不行。IRS 明确说交 8938 不能代替 FBAR,两者分别提交,各有各的门槛。</p><blockquote>以上内容仅供参考,请以 IRS、FinCEN 等官方信息为准。涉及海外资产、自雇、ITIN 等复杂情况,请咨询 CPA 或律师。</blockquote>",
+ "sources": [
+  [
+   "IRS:Gathering records is the first step of tax preparation",
+   "https://www.irs.gov/newsroom/gathering-records-is-the-first-step-of-tax-preparation"
+  ],
+  [
+   "IRS:Report of Foreign Bank and Financial Accounts (FBAR)",
+   "https://www.irs.gov/businesses/small-businesses-self-employed/report-of-foreign-bank-and-financial-accounts-fbar"
+  ],
+  [
+   "IRS:Summary of FATCA reporting for U.S. taxpayers",
+   "https://www.irs.gov/businesses/corporations/summary-of-fatca-reporting-for-us-taxpayers"
+  ],
+  [
+   "IRS:Taxpayer Identification Numbers (TIN)",
+   "https://www.irs.gov/individuals/international-taxpayers/taxpayer-identification-numbers-tin"
+  ]
+ ],
+ "cat": "报税",
+ "topic": "报税要准备哪些文件：一份完整的清单",
+ "date": "2026-11-02",
+ "slug": "20261102-tax-1"
+}
