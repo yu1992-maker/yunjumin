@@ -1,0 +1,43 @@
+{
+ "title": "新墨西哥LLC开通Stripe和PayPal:外国人注意事项",
+ "desc": "外国人用新墨西哥LLC收Stripe、PayPal款的开通步骤、EIN、报税表5472、BOI现状和常见被拒原因。",
+ "body": "<p>外国人可以用新墨西哥(NM)LLC申请Stripe和PayPal收款,但要先有EIN和美国银行账户,开通后每年还要向IRS报Form 5472。多数卡住的人不是被支付平台拒绝,而是资料对不上,或者漏报税表。本文的官方内容来自IRS、FinCEN和新墨西哥州务卿网站;Stripe、PayPal的具体审核细节,本站没能取得官方原文,只有第三方服务商的说法,文中会标明。</p><h2>先搞清楚整体流程</h2><ol><li>在新墨西哥州州务卿网站(enterprise.sos.nm.gov)网上注册LLC。州务卿页面写明所有商业申报都已改为线上办理。</li><li>向IRS申请EIN。</li><li>开美国银行账户(部分平台要求收款账户属于该公司)。</li><li>申请Stripe、PayPal商家账户,提交公司和实际受益人资料。</li><li>开通后按时报税,外资单人LLC每年报Form 5472。</li></ol><h2>新墨西哥LLC的州费用</h2><p>州务卿页面没有列出费用,打电话到商业服务处(505-827-3600)才能确认。多家代办公司的说法比较一致:</p><table><tr><th>项目</th><th>第三方说法</th></tr><tr><td>设立费</td><td>$50,一次性</td></tr><tr><td>年报</td><td>多数说没有;个别页面前后矛盾</td></tr><tr><td>州特许经营税</td><td>多数说没有</td></tr></table><p>这些都来自代办公司,不是官方来源。<b>说法不一</b>的地方(年报),下单前请向州务卿确认。另外,代办公司常把新墨西哥宣传成“隐私好”,但LLC在银行、Stripe、PayPal面前都要披露实际所有人,并不匿名。</p><h2>EIN:外国人怎么申请</h2><p>IRS官网写明,主要营业地在美国境外的申请人不能用线上申请,要改用电话、传真或邮寄。代办公司的说法是:没有SSN或ITIN时,SS-4表的责任人栏位写“Foreign”(此点未在IRS页面上核实)。EIN批下来前,先不要去申请Stripe,因为EIN确认函没到就申请是常见的被拒原因。</p><h2>Stripe:要准备什么</h2><p>Stripe官方“Global availability”页面列出了支持的国家和地区,页面没有写“业务必须注册在支持国家”这样的规则。以下几点来自Doola、Zenind等代办公司和论坛文章,<b>不是Stripe官方说法</b>:</p><ul><li>公司名称和EIN会与IRS记录核对,不一致会导致验证失败。</li><li>常见被拒原因:公司名称对不上、EIN确认函还没拿到、收款银行账户不在支持的国家。</li><li>多数文章说实际受益人不需要SSN,可以用护照,但不同文章对“外国税号能否替代”说法不一。</li><li>有的文章提到要美国地址和电话,获取方式可以有多种。</li></ul><h3>实操建议</h3><ol><li>公司名称、地址、EIN在所有资料里写法完全一致,包括“LLC”后缀。</li><li>先开美国银行账户,再提交Stripe。</li><li>被拒或要补充资料时,按平台要求提交文件,不要反复注册新账户。</li></ol><h2>PayPal商家账户</h2><p>PayPal官方帮助页本站没能打开(返回403),所以没有官方资料可引用。常见做法是:用LLC名称和EIN开商家账户,提交实际所有人的身份证件和公司文件,并绑定美国银行账户。具体要求以PayPal页面当时显示为准。</p><h2>税务:外资单人LLC每年要报Form 5472</h2><p>外国人100%持有的美国单人LLC(视同忽略实体,DE),在IRS眼里按规则要作为公司报Form 5472。IRS表格说明里的要点:</p><table><tr><th>项目</th><th>IRS说明</th></tr><tr><td>表格</td><td>Form 5472,附在形式上的(pro forma)Form 1120上,1120只需填名称、地址和第1页B、E项</td></tr><tr><td>标注</td><td>在1120顶部写“Foreign-owned U.S. DE”</td></tr><tr><td>提交方式</td><td>不能电子申报;传真855-887-7737,或邮寄到Ogden, UT的PIN Unit(1973 Rulon White Blvd, M/S 6112)</td></tr><tr><td>延期</td><td>到期日前用Form 7004,同样传真或邮寄到上述专用地址</td></tr><tr><td>罚款</td><td>未按时或按规定提交、或未保存相关记录:$25,000;被IRS通知后超过90天仍未改正,每个关联方每30天再加$25,000</td></tr></table><p>IRS页面没有直接写截止日期。代办公司普遍说是4月15日(日历年度),本站按此理解,请以IRS说明和你的税年为准。<b>注意:</b>公司往来不多也要报。LLC与所有人之间的出资、提款等,通常就是需要报的“关联方交易”。</p><h2>FinCEN的BOI报告现状</h2><p>FinCEN网站显示:2025年3月的临时规则把BOI报告限定为外国实体,而且是依外国法设立、并已在美国州或部落辖区登记经营的实体。2026年8月11日的最终规则(2026年8月14日生效)沿用这个方向。FinCEN明确写“U.S. companies are exempt”,所以在新墨西哥设立的LLC目前<b>不需要</b>提交BOI。一些旧文章仍写着“外国人的LLC也要报BOI”,那是2024年的状况,已过时。</p><h2>常见问题</h2><h3>没有SSN能开Stripe吗?</h3><p>多家第三方文章说可以,用护照验证实际受益人。Stripe官方页面没有直接说明,以开户时的提示为准。</p><h3>PayPal和Stripe一定要美国银行账户吗?</h3><p>Stripe方面,第三方文章说收款账户要属于公司且在支持的国家,非美国账户是常见被拒原因。PayPal的官方说明本站没查到。建议先开美国账户,省去反复。</p><h3>新墨西哥LLC还需要报BOI吗?</h3><p>目前不用。FinCEN说美国公司豁免。不过规则前几年多次改动,每年报税前最好再看一眼FinCEN的BOI页面。</p><blockquote>以上内容以官方来源为准。涉及外国人持有LLC的税务、银行合规等复杂情况,请咨询CPA或律师。</blockquote>",
+ "sources": [
+  [
+   "IRS – Instructions for Form 5472",
+   "https://www.irs.gov/instructions/i5472"
+  ],
+  [
+   "IRS – About Form 5472",
+   "https://www.irs.gov/forms-pubs/about-form-5472"
+  ],
+  [
+   "IRS – Get an employer identification number",
+   "https://www.irs.gov/businesses/small-businesses-self-employed/get-an-employer-identification-number"
+  ],
+  [
+   "FinCEN – Beneficial Ownership Information",
+   "https://www.fincen.gov/boi"
+  ],
+  [
+   "New Mexico Secretary of State – Business Services",
+   "https://www.sos.nm.gov/business-services/"
+  ],
+  [
+   "Stripe – Global availability",
+   "https://stripe.com/global"
+  ],
+  [
+   "Doola – How to create a US Stripe account",
+   "https://doola.com/blog/how-to-create-a-us-stripe-account"
+  ],
+  [
+   "Business Anywhere – Stripe and PayPal for Non-Resident US LLCs",
+   "https://businessanywhere.io/stripe-paypal-non-resident-us-llcs-what-to-know/"
+  ]
+ ],
+ "cat": "LLC",
+ "topic": "新墨西哥 LLC 收 Stripe、PayPal 付款：外国人开通要注意什么",
+ "date": "2026-11-03",
+ "slug": "20261103-llc-llc-stripe-paypal-1"
+}
