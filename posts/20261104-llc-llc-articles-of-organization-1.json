@@ -1,0 +1,31 @@
+{
+ "title": "新墨西哥LLC成立文件怎么填:Articles of Organization 全流程",
+ "desc": "在新墨西哥州务卿 SOS Enterprise 网站在线提交 LLC 成立文件的步骤、要填的栏目、$50 费用和常见被拒原因。",
+ "body": "<p>新墨西哥 LLC 的成立文件叫 Articles of Organization(表格全称 Domestic LLC Articles of Organization),现在只能在州务卿的在线系统 SOS Enterprise(enterprise.sos.nm.gov)提交,不再收纸质申请。州费为 <b>$50</b>(不退款),另有信用卡手续费。多数来源称普通 LLC 不用年报。</p><h2>先搞清楚:在哪儿提交、花多少钱</h2><table><tr><th>项目</th><th>内容</th><th>来源情况</th></tr><tr><td>提交方式</td><td>仅在线,州务卿官网称“所有商业申报已改为线上”,不再接受纸质申请</td><td>官方页面</td></tr><tr><td>州费</td><td>$50,不退款</td><td>LegalZoom 等多家一致</td></tr><tr><td>刷卡手续费</td><td>说法不一:有的写约 $1.50–$1.95,有的写合计约 $52;LegalZoom 未列金额</td><td>以付款页面显示为准</td></tr><tr><td>名称预留(可选)</td><td>$20,保留 120 天</td><td>LegalZoom、Bizee 等</td></tr><tr><td>审批时间</td><td>说法不一:有的写 1–3 个工作日,LegalZoom 称时间会浮动,不给固定天数</td><td>在后台看实时状态</td></tr></table><p>少数老网页还写着“一式两份、墨水签字、邮寄”,那是过时信息,不要照做。</p><h2>提交前要准备的资料</h2><ul><li>LLC 名称(先查重名,名称不可用是新墨西哥被拒的常见原因之一)</li><li>注册代理人(Registered Agent)的姓名和新墨西哥州<b>街道地址</b>,不能是邮政信箱 P.O. Box</li><li>公司主要办公地址</li><li>管理方式:成员管理(member-managed)还是经理管理(manager-managed)</li><li>组织者(Organizer)的姓名、联系方式和签名;组织者不必是成员</li><li>一张可以在线支付的信用卡</li></ul><h2>Articles of Organization 要填哪些栏目</h2><table><tr><th>栏目</th><th>怎么填</th></tr><tr><td>LLC 名称</td><td>必须带 LLC、L.L.C.、Limited Liability Company、Limited Company、LC 或 L.C. 之一</td></tr><tr><td>注册代理人及地址</td><td>填代理人姓名和新墨西哥州街道地址。有来源提到代理人要另外签署接受委任的文件,请在系统里确认是否需要上传</td></tr><tr><td>主要办公地址</td><td>填公司实际或邮寄的主要地址</td></tr><tr><td>存续期限</td><td>选永久(perpetual),或写明具体解散日期</td></tr><tr><td>管理结构</td><td>必填,二选一:成员管理或经理管理</td></tr><tr><td>组织者</td><td>姓名、联系方式、签名</td></tr><tr><td>生效日期</td><td>默认为提交日,也可设延后生效,最多 90 天后</td></tr></table><p>以上栏目来自 LegalZoom 的整理,州务卿页面本身没有列出栏目明细,实际表单可能有细微差异。</p><h2>在线提交步骤</h2><ol><li>打开 <b>enterprise.sos.nm.gov</b>,注册账号或登录。LegalZoom 提到 2024 年 12 月之前创建的旧账号已经不能用,需要重新注册。</li><li>登录后在左侧 <b>Forms</b> 标签里,选择国内 LLC 的初始申报(Domestic LLC Articles of Organization)。</li><li>按上表填写各栏,按要求上传 PDF。</li><li>用信用卡支付 $50 及手续费。</li><li>在账户 dashboard 里跟踪审批状态,通过后下载证明文件。</li></ol><h2>通过后还要做什么</h2><ul><li><b>EIN</b>:到 IRS 官网免费申请。多成员 LLC 一般需要;单成员 LLC 在雇人、选择按公司纳税或银行要求时需要。</li><li><b>州税登记</b>:LegalZoom 提到要按业务类型办理州税登记和 Gross Receipts Tax(总收入税),具体请向新墨西哥税务部门确认。</li><li><b>年费和年报</b>:Inc Authority 等来源称成立后没有年费或年度维护费,LegalZoom 也称普通 LLC 不要求年报。仍建议向州务卿核实。</li><li>开银行账户时,银行通常要看成立文件和 EIN 确认信。</li></ul><h2>常见问题</h2><h3>1. 可以邮寄纸质表格吗?</h3><p>不行。州务卿官网明确说明所有商业申报已改为线上,不再接受纸质申请。网上流传的邮寄方法是旧信息。</p><h3>2. 注册代理人可以填自己吗?</h3><p>资料里只要求代理人有新墨西哥州街道地址,不能是 P.O. Box。人在外州或国外,通常要请当地的注册代理公司,费用另算。</p><h3>3. 提交后多久能批下来?</h3><p>说法不一。有来源写 1–3 个工作日,LegalZoom 说时间会变化。以 SOS 后台显示的状态为准。</p><p><b>提醒:</b>本文只供参考,费用、表格和流程以新墨西哥州务卿官网为准;涉及税务、外国人身份或多人合伙等复杂情况,请咨询 CPA 或律师。</p>",
+ "sources": [
+  [
+   "LegalZoom - How to Start an LLC in New Mexico",
+   "https://www.legalzoom.com/articles/how-to-start-an-llc-in-new-mexico"
+  ],
+  [
+   "New Mexico Secretary of State - Business Services",
+   "https://www.sos.nm.gov/business-services/"
+  ],
+  [
+   "Inc Authority - How to Start a Free LLC in New Mexico",
+   "https://www.incauthority.com/blog/how-to-create-a-new-mexico-llc"
+  ],
+  [
+   "Bizee - New Mexico LLC",
+   "https://bizee.com/llc/new-mexico"
+  ],
+  [
+   "LLC University - New Mexico LLC Articles of Organization",
+   "https://www.llcuniversity.com/new-mexico-llc/forms/"
+  ]
+ ],
+ "cat": "LLC",
+ "topic": "新墨西哥 LLC 在州务卿网站怎么提交成立文件：Articles of Organization 要填什么",
+ "date": "2026-11-04",
+ "slug": "20261104-llc-llc-articles-of-organization-1"
+}
