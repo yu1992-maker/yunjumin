@@ -1,0 +1,39 @@
+{
+ "title": "新墨西哥LLC名字查重:州里能用吗、商标冲突怎么办",
+ "desc": "新墨西哥LLC起名要先查州务卿记录,再查USPTO商标。州里通过不等于没有商标风险,本文讲清步骤和撞名处理。",
+ "body": "<p>新墨西哥 LLC 的名字，第一步是在州务卿（Secretary of State）的在线 Business Search 里查，名称必须与州内已有的名称“可区分”。但<b>州里能注册，不代表没有商标风险</b>：州务卿查的是州内记录，不查联邦商标库，所以还要自己去 USPTO 查一遍。</p><h2>先说结论：两道关，各查各的</h2><table><tr><th>关卡</th><th>查什么</th><th>在哪查</th><th>通过意味着什么</th></tr><tr><td>州名称关</td><td>与州内已有实体、已保留名称是否可区分</td><td>新墨西哥州务卿 Business Search</td><td>只代表州里可以登记这个名字</td></tr><tr><td>商标关</td><td>是否与别人的注册商标或实际使用的品牌太像</td><td>USPTO 商标搜索（tmsearch.uspto.gov）、谷歌、域名、社交账号</td><td>降低被投诉、被要求改名的风险</td></tr></table><h2>新墨西哥对 LLC 名字的法定要求</h2><p>下面依据新墨西哥州法 NMSA 53-19-3（Justia 上的 2017 和 2021 版本）。<b>说法不一的地方：</b>两个版本文字有差异，2021 版增加了在章程中写明不同“假名”（assumed name）的要求。正式提交前请以州官方现行条文为准。</p><ul><li><b>必须含公司类型后缀：</b>名称要包含 “limited liability company” 或 “limited company”，或缩写 L.L.C.、LLC、L.C.、LC。“limited” 可缩写为 ltd.，“company” 可缩写为 co.。</li><li><b>必须可区分（distinguishable）：</b>不能与州内已有的实体名称、在本州获准经营的外州实体名称、以及根据 53-19-4 保留的名称相同或无法区分。</li><li><b>例外：</b>2017 版条文提到，如果申请人提交了确立该名称优先权的法院判决证明，可不受此限。这属于特殊情形，建议找律师处理。</li></ul><p>顺带一提：有第三方指南说新墨西哥州务卿没有公布“怎样算可区分”的具体细则。所以“多加一个字母”“改个标点”这类小改动是否通过，没有官方标准可参照，只能靠搜索和申请结果判断。</p><h2>怎么在州里查名字：步骤</h2><ol><li>打开新墨西哥州务卿的 Business Services 页面，进入在线门户（enterprise.sos.nm.gov）。官方页面写明，商业申报现在全部在线办理，不再收纸质申请。</li><li>用 Business Search 搜你想用的完整名字，再搜核心词（去掉 LLC、Co. 等后缀）。</li><li>换写法再搜：单复数、连字符、缩写、拼写相近的词。第三方指南也建议先搜完整名称，再搜词干和变体。</li><li>注意结果里不仅有“正常存续”的公司，也要看已解散、已撤销的状态。已解散的名称能否被他人使用，本站没有查到官方说明，不要自行假设。</li><li>搜不到相同名称，也不等于一定能过。提交时州务卿仍会审核，没有人能保证你的名字提交时还可用。</li></ol><h2>名字想先占着：名称保留</h2><p>法条里提到了“53-19-4 保留的名称”，说明新墨西哥有名称保留机制。有第三方网站说可保留 120 天，<b>本站没有在官方页面核实到这个天数，也没查到费用</b>，请到州务卿门户或致电 Business Services Division 确认。官方页面列出的电话是 505-827-3600；另有第三方网站写的是 505-827-4508，两者不一致，建议以官方页面为准。</p><h2>州里通过了，为什么还要查商标</h2><p>多家律所文章的共同观点是：</p><ul><li>州级名称登记主要是行政性质，不赋予你在市场上的专有权。</li><li>商标权来自实际使用（普通法商标），通常只限于经营所在地区；联邦注册才能在全国范围确立权利。</li><li>有伊利诺伊州律所文章指出，州务卿在核准名称时，并不会去搜自己州的商标库，也不会搜 USPTO 全国库。</li><li>Trademark Engine 的说明页也强调：州里批准了名字，不代表这个名字就能获得商标保护。</li></ul><p>以上多为律所或服务商文章，不是政府原文；USPTO 页面本身只说明商标是“任何词、短语、符号、图案或其组合”，用来标识商品或服务来源。</p><h2>商标自查清单</h2><ol><li>在 USPTO 商标搜索（tmsearch.uspto.gov）里搜名字，看有没有同样或读音、意思相近的商标，重点看<b>同一行业、相近商品或服务</b>。</li><li>搜谷歌和 Google Maps，看有没有没注册但在用的同名品牌。这类也可能有普通法权利。</li><li>搜域名，.com 是否已被占用。</li><li>搜 Instagram、YouTube、TikTok、小红书等账号名。</li><li>搜新墨西哥州内是否有类似的假名、商标登记。有第三方说州里提供商标和虚构名称的搜索入口，也有第三方说州里没有 DBA 登记，<b>说法不一</b>，以州务卿官网为准。</li><li>名称想长期用，且要做网站、App、广告，考虑在注册前请商标律师做一次正式查册。</li></ol><h2>遇到冲突怎么办</h2><table><tr><th>情况</th><th>建议做法</th></tr><tr><td>州系统里已有同名或无法区分的名称</td><td>换名，或加入有实质区别的词。不要只改标点。</td></tr><tr><td>名字已被你的人注册，但对方已解散</td><td>先向州务卿确认该名称是否已可用。</td></tr><tr><td>州里能过，但撞了别人的联邦注册商标（同行业）</td><td>最稳的做法是换名。继续用有被发律师函、被迫改名、被平台下架的风险。</td></tr><tr><td>撞的是不同行业的商标</td><td>风险较低但不是零，知名品牌尤其敏感，建议咨询商标律师。</td></tr><tr><td>你已经注册了LLC，才收到商标投诉</td><td>先别无视，保留证据，找律师看对方权利范围和你的使用时间，再决定改名、协商或抗辩。</td></tr></table><h2>给华人创业者的几个实用建议</h2><ul><li>名字要考虑中英文都好记，避免直接音译常见品牌。</li><li>新墨西哥适合与否，主要看你是否在当地有业务、是否接受当地的申报要求，不要只因为名字能过就选州。</li><li>先查再买域名和 Logo 设计，避免改名时一起作废。</li><li>如果以后在别的州经营，要在该州办外州登记，名称在那个州可能被占用，到时可能要用假名。</li></ul><h2>常见问题</h2><h3>问：州务卿批准了名字，就能放心用吗？</h3><p>答：不能。州里只检查与自己记录是否可区分，通常不查联邦商标库。你要自己查 USPTO 和市场上的实际使用。</p><h3>问：名字只差一个字母，州里会过吗？</h3><p>答：没有官方公布的细则可保证，要看审核结果。从商标角度，这种近似名字风险更高，不建议。</p><h3>问：想先占住名字，该怎么做？</h3><p>答：法条有名称保留制度，具体期限和费用请在州务卿门户或电话里确认，本站未能在官方页面核实。</p><p><b>提醒：</b>以上内容整理自公开资料，具体规则、费用和流程以新墨西哥州务卿和 USPTO 官方页面为准；涉及商标纠纷、复杂股权或跨州经营，请咨询 CPA 或律师。</p>",
+ "sources": [
+  [
+   "New Mexico Secretary of State – Business Services",
+   "https://www.sos.nm.gov/business-services/"
+  ],
+  [
+   "Justia – NMSA 53-19-3 (2021)",
+   "https://law.justia.com/codes/new-mexico/2021/chapter-53/article-19/section-53-19-3/"
+  ],
+  [
+   "Justia – NMSA 53-19-3 (2017)",
+   "https://law.justia.com/codes/new-mexico/2017/chapter-53/article-19/section-53-19-3/"
+  ],
+  [
+   "USPTO – What is a trademark",
+   "https://www.uspto.gov/trademarks/basics/what-trademark"
+  ],
+  [
+   "Illinois Lawyer Now – Business name vs. trademark rights",
+   "https://www.illinoislawyernow.com/2025/07/its-never-enough-just-to-register-your-business-name-with-the-secretary-of-state/"
+  ],
+  [
+   "Trademark Engine – Can I trademark a state-approved business name",
+   "https://www.trademarkengine.com/help/can-i-trademark-a-business-name-approved-by-my-state/"
+  ],
+  [
+   "LLC University – New Mexico LLC name search",
+   "https://www.llcuniversity.com/new-mexico-llc/search"
+  ]
+ ],
+ "cat": "LLC",
+ "topic": "新墨西哥 LLC 名字怎么查重：州里能用吗，和商标冲突怎么办",
+ "date": "2026-11-04",
+ "slug": "20261104-llc-llc-2"
+}
