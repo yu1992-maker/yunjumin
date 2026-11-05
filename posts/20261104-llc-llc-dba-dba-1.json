@@ -1,0 +1,35 @@
+{
+ "title": "新墨西哥LLC用DBA做网站品牌:要登记吗?在哪登记",
+ "desc": "新墨西哥目前多数来源称LLC用DBA无需州或县登记,但个别来源说法不一。本文讲清做法、风险和核实方式。",
+ "body": "<p>结论先说:<b>多数来源称新墨西哥(NM)没有通用的州级或县级 DBA(假名)登记,LLC 用品牌名做网站通常不用先“登记 DBA”。</b>但有个别商业网站说可以向州务卿(Secretary of State)登记商号,说法不一,本站没有查到州政府官方页面的明确确认,开工前请直接向 NM 州务卿核实。</p><h2>各来源怎么说</h2><table><tr><th>来源</th><th>说法</th></tr><tr><td>InCorp</td><td>NM 是少数没有通用州级 DBA 登记的州;独资和普通合伙没有州或县的假名登记。该页称 LLC、公司可以采用假名,InCorp 代办收 $99 服务费加州费(服务费不是州费)</td></tr><tr><td>LegalZoom</td><td>没有要提交给州务卿的表格,没有申请费,没有州发的 DBA 证书。但同一篇文章里别处又写“法律要求 DBA 登记”,自相矛盾</td></tr><tr><td>Bizee</td><td>称需要另向州务卿登记商号,且商号登记不产生新的法律实体</td></tr><tr><td>File.Business(代办公司)</td><td>称州费 $25、每 5 年续期,通过 enterprise.sos.nm.gov 办理。属商业服务网站,可信度有限</td></tr><tr><td>某县页面(自动生成)</td><td>让人向县书记官提交 Assumed Name Certificate,与其他来源冲突,不建议采信</td></tr></table><p>另外,2018 年 NM 立法文件的说明提到,州法只允许外州(foreign)实体登记假名,这与“本州 LLC 无需登记”的多数说法大体吻合,但属旧资料。</p><h2>实际怎么操作</h2><ol><li><b>先确认 LLC 已成立。</b>多个来源称向州务卿提交 Articles of Organization 的州费为 $50(网上办理可能另加约 $2 手续费),代办公司另收服务费。多数来源称 NM LLC 没有年度报告和年费,但 llcbuddy 称有年报,说法不一,以州务卿为准。</li><li><b>查名字。</b>查州务卿的企业名称库、州商标库、美国商标局(USPTO)数据库,再查域名和社交账号。</li><li><b>打电话或在线问州务卿:</b>“NM 本州 LLC 用品牌名经营,需不需要或能不能登记商号?费用多少?”把答复截图或记录保存。</li><li><b>如果官方说可登记,再决定是否登记;</b>如果说无需登记,就直接使用品牌名,但按下面的规范标注法律名称。</li></ol><h2>没有登记也要做的事</h2><ul><li><b>合同和收款:</b>用“法律名称 d/b/a 品牌名”的写法签署。</li><li><b>发票和网站页脚:</b>醒目写品牌名,同时在页脚或收款信息中写明法律名称(含 LLC)。</li><li><b>税务:</b>税务仍用 LLC 法律名称和 EIN 申报,品牌名不产生新的纳税主体。</li><li><b>银行:</b>开户通常需要 Articles of Organization、签署的 Operating Agreement 和 EIN 确认信,各银行要求不同,先打电话。如果想让账户显示品牌名,请问银行是否要求出示假名证明。</li></ul><h2>DBA 不等于商标</h2><p>商号或 DBA 不给你独占权。想保护网站品牌,有两条路:</p><ul><li><b>NM 州商标:</b>InCorp 称州务卿提供自愿性商标和服务标志登记,有效期 10 年可续。LegalZoom 称州费 $50(一个类别)、每增加一个类别 $25,保护范围仅限 NM。</li><li><b>联邦商标(USPTO):</b>LegalZoom 称每个类别 $250 或 $350 起,全国有效。商标官费可能调整,以 USPTO 官网为准。</li></ul><p>网站品牌如果面向全美用户,真正有保护作用的是联邦商标,而不是 DBA。</p><h2>如果 LLC 在 NM 以外经营</h2><p>如果你的 NM LLC 实际在别的州(例如居住州)开展业务,那个州可能要求外州 LLC 注册,并有自己的假名规则。本站没有查到相关细节,请另行核实当地规定。</p><h2>常见问题</h2><h3>1. 不登记 DBA,用品牌名收款违法吗?</h3><p>多数来源称 NM 没有通用的 DBA 登记要求,所以一般不是违法点。但要在合同、发票上同时标明法律名称,并向州务卿确认。</p><h3>2. 登记了 DBA 就拥有这个品牌名吗?</h3><p>不是。多个来源说明商号登记不等于商标,不提供专属权。要保护品牌需考虑商标。</p><h3>3. 代办公司说“必须登记 DBA”,要信吗?</h3><p>先别付钱。上面可见,代办公司之间说法就不一致。请直接联系州务卿,并要求对方给出法条或官方页面依据。</p><blockquote>以官方为准:本文所列多为商业网站的说法,未能找到州政府官方页面的明确原文,具体请以 NM 州务卿(sos.nm.gov)答复为准。涉及复杂情况(多州经营、商标纠纷、税务)请咨询 CPA 或律师。</blockquote>",
+ "sources": [
+  [
+   "LegalZoom - File a DBA in New Mexico",
+   "https://usaa.legalzoom.com/articles/file-a-dba-in-new-mexico"
+  ],
+  [
+   "InCorp - New Mexico DBA",
+   "https://www.incorp.com/preview/start-a-business/dba/new-mexico"
+  ],
+  [
+   "Bizee - New Mexico business names",
+   "https://bizee.com/new-mexico-llc/new-mexico-business-names"
+  ],
+  [
+   "File.Business - File a DBA in New Mexico 2026",
+   "https://design.file.business/blog/file-a-dba-in-new-mexico-2026"
+  ],
+  [
+   "NM Legislature - SB0254 FIR (2018)",
+   "https://www.nmlegis.gov/Sessions/18%20Regular/firs/SB0254.PDF"
+  ],
+  [
+   "New Mexico Secretary of State",
+   "https://www.sos.nm.gov"
+  ]
+ ],
+ "cat": "LLC",
+ "topic": "新墨西哥 LLC 用 DBA 做网站品牌：DBA 要不要登记、在哪里登记",
+ "date": "2026-11-04",
+ "slug": "20261104-llc-llc-dba-dba-1"
+}
