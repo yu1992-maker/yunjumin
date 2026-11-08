@@ -1,0 +1,39 @@
+{
+ "title": "App/网站收用户数据:小LLC要隐私政策吗?App Store审核要求",
+ "desc": "小LLC做App或网站收用户数据,基本都需要隐私政策。本文讲法律依据、App Store与Google Play的审核要求和上架清单。",
+ "body": "<p>结论:只要你的 App 或网站收集用户个人信息(邮箱、账号、设备 ID、统计数据都算),不管 LLC 多小,都应该写隐私政策。App Store 对此是硬性要求:没有可打开的隐私政策链接,基本过不了审。</p><h2>一、法律上:小 LLC 要不要写?</h2><p>美国没有一部覆盖所有州的统一隐私法,所以要分层来看:</p><table><tr><th>法律</th><th>谁适用</th><th>对小 LLC 的意思</th></tr><tr><td>CalOPPA(加州在线隐私保护法)</td><td>面向加州居民、收集个人信息的商业网站和 App,运营者在哪里都算</td><td>二手资料(Termly 等合规公司的总结)显示,只要有加州用户就要公开隐私政策;下载量一大,基本绕不开</td></tr><tr><td>CCPA(加州消费者隐私法)</td><td>在加州经营的营利企业,满足任一条件:年收入超过 2500 万美元;买卖或分享 10 万以上加州居民/家庭的个人信息;50% 以上收入来自出售个人信息</td><td>刚起步的小 LLC 通常达不到,但数据量上去后要重新评估</td></tr><tr><td>佛州数字权利法案(FDBR)</td><td>全球年收入超过 10 亿美元,并满足其他条件(如广告收入占比 50% 以上、运营 25 万款以上应用的应用商店等)</td><td>一般不适用小公司。但律所总结提到,儿童保护等部分条款没有收入门槛;敏感数据买卖的条款是否也不看规模,说法不一,本站未核对法条原文</td></tr><tr><td>COPPA(儿童在线隐私保护)</td><td>面向儿童的网站/App,也可能涉及一般受众的网站(通常指 13 岁以下)</td><td>FTC 强调要取得可验证的家长同意。做儿童相关产品,风险最高</td></tr></table><p>所以在法律层面,即使你够不上 CCPA 或佛州法,CalOPPA 加上商店规则,已经让\"写一份隐私政策\"成为默认动作。</p><h2>二、App Store 审核怎么要求</h2><p>以下来自 Apple 官方《App Store 审核指南》第 5.1 节:</p><ol><li><b>5.1.1(i) 隐私政策</b>:所有 App 必须在 App Store Connect 的元数据栏和 App 内\"容易找到的位置\"都放隐私政策链接。</li><li><b>政策必须写清</b>:收集哪些数据、怎么收集、有哪些用途;接收数据的第三方(分析工具、广告网络、第三方 SDK 等)会提供与你政策同等的保护;数据保留和删除政策,以及用户如何撤回同意、申请删除数据。</li><li><b>5.1.1(ii) 同意</b>:收集用户或使用数据要取得同意,即使数据被认为是匿名的;还要给用户方便的撤回同意方式。</li><li><b>5.1.1(iii) 数据最小化</b>:只要求与核心功能相关的数据。</li><li><b>5.1.1(v) 账号删除</b>:App 支持创建账号,就必须在 App 内提供删除账号的入口;没有重要的账号功能,就别强制登录。</li><li><b>5.1.2 数据使用与分享</b>:未经许可不得使用或分享个人数据;分享给第三方(包括第三方 AI)要明确披露并取得明确许可;跟踪用户活动必须通过 App Tracking Transparency 取得许可。</li><li><b>5.1.4 儿童</b>:面向儿童的 App 原则上不应带第三方分析或广告;凡能收集未成年人个人信息的 App 必须有隐私政策并遵守儿童隐私法。</li></ol><h3>别忘了 App 隐私详情(\"营养标签\")</h3><p>Apple 要求提交新 App 和更新时都填写 App 隐私详情:逐项说明收集什么数据、用途、是否关联用户身份、是否用于跟踪,<b>并且包括你集成的第三方 SDK 的做法</b>。产品页上还要填公开可访问的隐私政策 URL(必填),以及可选的\"隐私选择\"URL。</p><h2>三、Google Play 也一样</h2><p>Google Play 的帮助中心要求:政策里要说明 App 如何访问、收集、使用和分享用户数据;Play Console 里要填隐私政策链接,并要完成\"数据安全\"(Data safety)表单。据多家二手资料,即使不收集数据也要提交政策和表单,仅内部测试轨道的 App 可免填数据安全表单。具体以 Play Console 当前页面为准。</p><h2>四、上架前检查清单</h2><ul><li>先盘点:你的代码和每个 SDK(统计、崩溃日志、广告、登录)到底收了什么数据。</li><li>隐私政策放在公开网址,不能要登录,不能失效,最好 LLC 官网上长期固定。</li><li>App 内设置页放同一个链接。</li><li>政策里写清:数据种类、用途、第三方、保留期限、怎么申请删除、联系邮箱。</li><li>有账号就做 App 内删除账号。</li><li>App 隐私详情和 Data safety 表单的答案,要和政策、实际代码一致。</li><li>面向加州用户的,政策里说明如何处理\"Do Not Track\"信号(CalOPPA 要求)。</li><li>不碰儿童:隐私政策写明不面向 13 岁以下,并且产品设计也别吸引儿童。</li></ul><h2>五、隐私政策从哪来</h2><ul><li><b>自己写</b>:最便宜,但要做到与实际收集的数据逐条一致。</li><li><b>生成器</b>(Termly、iubenda 等):省事,但生成的内容也要你自己核对。</li><li><b>律师审</b>:涉及健康、金融、儿童、位置等敏感数据时值得做。</li></ul><p>最大的坑是政策与实际不符:政策写\"不收集\",代码里却接了广告 SDK。这既可能被审核拒绝,也是监管机构最爱抓的情形。</p><h2>常见问题</h2><h3>问:我的 App 完全不收集数据,还要隐私政策吗?</h3><p>按 Apple 指南,\"所有 App\"都要有隐私政策链接。有二手资料称不收数据也要放政策,Google Play 同样如此。简短写明\"不收集任何个人信息\"即可。</p><h3>问:收入很小,达不到 CCPA 门槛就没事了吗?</h3><p>不是。CCPA 门槛只决定你要不要遵守 CCPA 的具体义务;CalOPPA 的公开政策要求、商店规则、COPPA(如涉及儿童)都不看你的收入。</p><h3>问:用户要求删除数据,我必须做吗?</h3><p>Apple 要求政策说明如何申请删除,账号类 App 还要提供 App 内删除账号。至于州法上的具体删除义务,取决于你是否适用相关法律,建议咨询律师。</p><blockquote>以官方为准,复杂情况(儿童、健康、金融、位置、广告变现等)请咨询 CPA / 律师。本文不构成法律意见。</blockquote>",
+ "sources": [
+  [
+   "Apple App Store 审核指南",
+   "https://developer.apple.com/app-store/review/guidelines/"
+  ],
+  [
+   "Apple App 隐私详情",
+   "https://developer.apple.com/app-store/app-privacy-details/"
+  ],
+  [
+   "加州检察长办公室 CCPA",
+   "https://oag.ca.gov/privacy/ccpa"
+  ],
+  [
+   "FTC 儿童隐私(COPPA)",
+   "https://www.ftc.gov/business-guidance/privacy-security/childrens-privacy"
+  ],
+  [
+   "Google Play 用户数据政策",
+   "https://support.google.com/googleplay/android-developer/answer/10144311"
+  ],
+  [
+   "Burr & Forman:佛州数字权利法案摘要",
+   "https://www.burr.com/newsroom/articles/floridas-digital-bill-of-rights-a-summary-of-key-points-for-large-online-platforms"
+  ],
+  [
+   "Termly:CalOPPA 解读",
+   "https://termly.io/resources/articles/caloppa/"
+  ]
+ ],
+ "cat": "LLC",
+ "topic": "做 App 或网站收用户数据：小 LLC 要写隐私政策吗，App Store 审核怎么要求",
+ "date": "2026-11-08",
+ "slug": "20261108-llc-app-llc-app-store-1"
+}
