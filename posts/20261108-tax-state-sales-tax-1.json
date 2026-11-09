@@ -1,0 +1,35 @@
+{
+ "title": "佛州无州所得税:联邦报税怎么选州销售税扣除",
+ "desc": "佛州没有州所得税,itemize 时在 Schedule A 第 5 行选 State Sales Tax,用 IRS 计算器或销售税表估算即可。",
+ "body": "<p>佛州没有州所得税,所以在联邦报税时,Schedule A 的“州和地方税”这一项,只能选 State and Local General Sales Tax(州和地方一般销售税),没有所得税可选。前提是你要 itemize(列举扣除);如果直接用标准扣除,这个选择就用不上。本站整理了判断步骤和算法,数字请以 IRS 最新页面为准。</p><h2>先判断:值不值得 itemize</h2><p>销售税扣除只有在 Schedule A 上 itemize 才能用。2025 年标准扣除额(据 IRS 及多家报税网站转述):</p><table><tr><th>报税身份</th><th>2025 标准扣除</th><th>2026(已公布)</th></tr><tr><td>单身 / 已婚分报</td><td>$15,750</td><td>$16,100</td></tr><tr><td>户主 Head of Household</td><td>$23,625</td><td>$24,150</td></tr><tr><td>已婚合报</td><td>$31,500</td><td>$32,200</td></tr></table><p>另有一个来源(Axios)把户主金额写成 $23,635,疑似笔误,多数来源是 $23,625。65 岁以上或视障者另有附加扣除。</p><p>佛州人要 itemize 通常需要:房贷利息、房产税、慈善捐款、销售税等加起来明显超过上表。常见情形是买了房、房贷利息和房产税较高的人。租房、没什么大额开销的人,多半标准扣除更划算。</p><h2>州和地方税的选择规则</h2><ul><li>州和地方的“所得税”和“一般销售税”只能二选一,不能同时扣。</li><li>在 Schedule A 第 5a 行勾选销售税选项。</li><li>房产税(real estate tax)和个人财产税另外算,与这个选择无关。</li><li>佛州没有州所得税,所以实际上销售税是你唯一的选项。</li></ul><h2>两种算法</h2><h3>方法一:IRS 销售税表 + 大额购买(多数人用这个)</h3><p>IRS 提供 Sales Tax Deduction Calculator,根据你的收入、报税身份、被抚养人数、居住地邮编来估算一年的销售税。IRS 页面说明:</p><ul><li>需要准备:收入资料(W-2、1099 等)、大额购买的收据、邮编、在各地居住的日期。</li><li>不会问姓名、地址、SSN 或银行账号,也不保存你输入的信息。</li><li>同一邮编内有多个税区时,计算器取各税区税率的平均值。</li><li>大额购买不包含在表格里,要另外加。IRS 的理由是这类东西不是每年都买,算进表里会造成重复受益。</li></ul><p>大额购买的具体类别(如车辆、船等)以 IRS 页面和 Schedule A 说明为准,本站未逐项核对。</p><h3>方法二:保留全年收据,加总实际销售税</h3><p>IRS 页面写明,你始终有权用收据加总实际缴纳的一般销售税。优点是可能更高(比如这一年消费特别多),缺点是要保存全年收据,非常麻烦。除非你确实有大笔消费,一般没必要。</p><h2>报税步骤清单</h2><ol><li>算一下 itemize 总额:房贷利息、房产税、捐款、医疗超额部分等。</li><li>打开 IRS Sales Tax Deduction Calculator,输入收入、邮编等,得到估算金额。</li><li>如果当年买了车、船或装修大件,把这些的销售税另外加上。</li><li>把金额填到 Schedule A 的州和地方税部分,并勾选 5a 的销售税选项。</li><li>和标准扣除比较,选较大的那个。报税软件通常会自动比较。</li></ol><h2>SALT 上限:说法不一</h2><p>州和地方税(销售税、房产税等)合计有上限,这里各来源不一致:</p><table><tr><th>来源</th><th>说法</th></tr><tr><td>IRS 销售税计算器页面</td><td>合计上限 $10,000(已婚分报 $5,000)</td></tr><tr><td>NerdWallet、SoFi、SuperMoney 等转述新法(OBBBA)</td><td>2025 年上限 $40,000(分报 $20,000);2026 年约 $40,400;高收入(MAGI 超过 $500,000)会逐步下调,但不低于 $10,000</td></tr></table><p>此外,新法恢复到 $10,000 的年份,来源也有出入(有的说 2029 年后,有的说 2030 年起)。IRS 计算器页面可能没有更新,报 2025 年度税时请直接看 2025 年 Schedule A 说明书里的上限,以说明书为准。对多数佛州家庭来说,销售税加房产税未必超过上限,但在高房产税地区或高收入家庭,这个数字值得核对。</p><h2>佛州人常见注意事项</h2><ul><li>佛州没有州所得税,所以不需要在联邦税里选“所得税”,也没有州所得税退款可扣。</li><li>如果当年搬家(比如从别州搬来佛州),计算器会问各地居住日期,分段计算。</li><li>不 itemize 就不用纠结这一项,直接用标准扣除。</li></ul><h2>常见问题</h2><h3>问:我在佛州,可以不选销售税、改选所得税吗?</h3><p>答:联邦层面,所得税和销售税二选一。佛州没有州所得税,所以你实际上只有销售税可选(前提是 itemize)。</p><h3>问:一定要留购物收据吗?</h3><p>答:用 IRS 计算器 / 销售税表一般不需要留全年收据,但大额购买需要收据。要按实际金额算,则必须有收据。</p><h3>问:销售税扣除和房产税能一起扣吗?</h3><p>答:可以。房产税单独扣,但州和地方税合计受 SALT 上限限制。具体上限见上面“说法不一”一节。</p><blockquote>以上内容仅供参考,以 IRS 等官方为准;情况复杂(例如大额购买、跨州搬家、高收入)请咨询 CPA / 律师。</blockquote>",
+ "sources": [
+  [
+   "IRS Topic No. 503, Deductible taxes",
+   "https://www.irs.gov/taxtopics/tc503"
+  ],
+  [
+   "IRS Sales Tax Deduction Calculator",
+   "https://www.irs.gov/credits-deductions/individuals/sales-tax-deduction-calculator"
+  ],
+  [
+   "SoFi: Changes to the SALT deduction in 2025-26",
+   "https://www.sofi.com/learn/content/changes-to-the-salt-tax-deduction/"
+  ],
+  [
+   "NerdWallet: SALT Deduction 2025 and 2026",
+   "https://www.nerdwallet.com/blog/taxes/state-local-tax-deduction-salt-cap"
+  ],
+  [
+   "Bankrate: Sales tax deduction",
+   "https://www.bankrate.com/taxes/sales-tax-deduction"
+  ],
+  [
+   "IRS 2025 标准扣除额(第三方转述)",
+   "https://taxformprocessing.com/news/2025/standard-deduction.html"
+  ]
+ ],
+ "cat": "报税",
+ "topic": "佛州没有州所得税：联邦报税时怎么选 State Sales Tax 扣除",
+ "date": "2026-11-08",
+ "slug": "20261108-tax-state-sales-tax-1"
+}
