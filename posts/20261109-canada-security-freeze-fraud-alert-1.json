@@ -1,0 +1,35 @@
+{
+ "title": "加拿大能冻结信用报告吗?Security Freeze 与 Fraud Alert 区别",
+ "desc": "加拿大冻结信用报告要看省份:魁北克已有,安省据报道 2026 年 7 月起开放。一文讲清冻结与欺诈警示的区别和操作。",
+ "body": "<p><b>结论:加拿大能不能冻结信用报告,要看你住哪个省。</b>魁北克自 2023 年起可以;安大略据 Credit Karma 报道从 2026 年 7 月 1 日起开放;其他省多数还没有。没有冻结的地方,通常用 Fraud Alert(欺诈警示)代替。两者的核心区别是:Fraud Alert 只是提醒放贷机构多核实身份,Security Freeze 则直接锁住报告、不让放贷机构查看。</p><h2>先说清:冻结和欺诈警示各是什么</h2><p>加拿大联邦金融消费者管理局(FCAC)的页面是这样区分的:</p><ul><li><b>Fraud Alert(也叫 identity alert)</b>:告诉放贷机构你可能是欺诈受害者,放贷方批准信贷前须联系你。</li><li><b>Security Freeze</b>:锁住你的信用报告,阻止放贷机构调取,帮助防止骗子以你的名义开户。官方原话还提醒:是否可用取决于所在省或地区,申请贷款前要先解除冻结。</li></ul><table><tr><th>项目</th><th>Fraud Alert</th><th>Security Freeze</th></tr><tr><td>作用</td><td>加一条提醒,要求额外核实身份</td><td>锁住报告,放贷方无法调取</td></tr><tr><td>防护强度</td><td>较弱(NerdWallet 称其不如冻结安全)</td><td>较强</td></tr><tr><td>是否全国可用</td><td>基本全国可申请</td><td>视省份而定</td></tr><tr><td>申请新信贷前</td><td>不用解除</td><td>要先解除或暂时解冻</td></tr><tr><td>需要分别向两家机构办理</td><td>是</td><td>是</td></tr></table><h2>哪些省可以冻结</h2><ul><li><b>魁北克</b>:2023 年的《信用评估机构法》(Credit Assessment Agents Act)允许居民冻结信用报告,多家来源一致。</li><li><b>安大略</b>:Credit Karma 称安省居民自 2026 年 7 月 1 日起可通过 Equifax Canada 和 TransUnion Canada 使用冻结。本站没能找到官方页面确认这个日期已生效,办理前请到两家机构官网核实。另有来源称 TransUnion 有额外一年(至 2027 年 7 月 1 日)的过渡期,这一点同样未经官方核实。</li><li><b>不列颠哥伦比亚(BC)</b>:Credit Karma 称已宣布立法计划,没有给日期。</li><li><b>其他省</b>:信用报告在加拿大由省级监管,需各省自己立法。具体以 Equifax、TransUnion 官网为准。</li></ul><p>注意:2018 年 CBC 那篇「加拿大没有冻结」的报道已经过时,不要拿它当现状。</p><h2>Fraud Alert 的几个细节(各来源说法不一)</h2><ul><li><b>费用</b>:NerdWallet 称 Equifax 和 TransUnion 都免费;FCAC 页面写的是机构可能要求出示身份证件,并且可能收费。说法不一,办理时问清楚。</li><li><b>有效期</b>:NerdWallet 说是 6 年,除非你提前取消;另有来源提到 90 天。说法不一,请以机构当场告知为准。</li><li><b>谁能申请</b>:有来源称只有欺诈或身份盗用受害者可以申请,也有来源称任何人都可以。说法不一。FCAC 列出的情形包括:怀疑被欺诈、钱包/证件/手机被偷、家里或车被撬。</li><li><b>生效时间</b>:NerdWallet 引用 TransUnion 的说法,激活后立即出现在报告上。</li></ul><h2>怎么办理:步骤清单</h2><ol><li>确认你所在省份是否支持冻结(魁北克肯定可以;安省先看两家官网)。</li><li>分别联系 Equifax Canada 和 TransUnion Canada。两家不共享警示或冻结,必须各办一次。联系入口见 FCAC 页面链接的两家官网「Contact us」页面。</li><li>不能冻结的省份,就申请 Fraud Alert。</li><li>准备好身份证明,问清楚费用和有效期,并留好确认记录。</li><li>要申请信用卡、贷款、租房、手机合约前,先解除或临时解冻,办完再恢复。</li><li>如果已被盗用,向加拿大反欺诈中心(CAFC)报告,电话 1-888-495-8501,也可在线报案,并联系当地警方、银行和信用卡公司。</li></ol><h2>华人新移民和跨境居民要注意</h2><ul><li>美国的冻结(Security Freeze)和加拿大的是两套独立体系。在美国冻结,不影响加拿大的 Equifax/TransUnion,反过来也一样。</li><li>刚来加拿大、信用档案很薄的人,被冒名开户时更难发现,建议定期查看两家的免费报告。NerdWallet 建议经常检查,查看陌生账户和查询记录。</li><li>如果将来要办房贷、车贷、租房查信用,冻结会让流程多一步,提前解冻即可。</li></ul><h2>冻结之外的其他办法</h2><ul><li><b>信用监控</b>:约每月 30 加元(NerdWallet),部分银行对客户免费。注意有来源指出,即便付费的监控订阅也不包含冻结。</li><li><b>身份盗用保险</b>:NerdWallet 称 Equifax 起价为每月 34.95 加元,保额最高可到 100 万加元;你的家庭保险可能已含部分保障。</li><li><b>定期查免费报告</b>:两家都可免费获取。</li></ul><h2>常见问题</h2><h3>1. 住在没有冻结的省份,怎么办?</h3><p>先申请 Fraud Alert,再定期查两家报告,并考虑信用监控。同时留意你所在省的立法动向。</p><h3>2. 冻结会影响信用分吗?</h3><p>本站查到的来源没有明确说明冻结会不会影响分数,请向 Equifax、TransUnion 直接确认。可以确定的是,冻结期间放贷机构无法调取报告,所以申请新贷款前要先解冻。</p><h3>3. 只办一家机构够吗?</h3><p>不够。两家各有自己的系统,互不通报,所以 Fraud Alert 和冻结都要分别办理。</p><blockquote>以上内容以官方为准:各省法律和两家信用机构的规则、费用、有效期可能变化。涉及身份被盗、纠纷或复杂情况,请咨询 CPA 或律师。</blockquote>",
+ "sources": [
+  [
+   "FCAC:Checking your credit report for errors and fraud",
+   "https://www.canada.ca/en/financial-consumer-agency/services/credit-reports-score/check-errors"
+  ],
+  [
+   "Credit Karma Canada:Credit Freezes Are Expanding in Canada",
+   "https://www.creditkarma.ca/credit/i/credit-freezes-expanding-in-canada"
+  ],
+  [
+   "NerdWallet Canada:Credit freeze alternatives",
+   "https://www.nerdwallet.com/ca/p/article/finance/credit-freeze-alternatives"
+  ],
+  [
+   "TransUnion Canada:Fraud victims resources",
+   "https://transunion.ca/assistance/fraud-victims-resources"
+  ],
+  [
+   "CBC:Credit freezes are not available in Canada(旧报道)",
+   "https://www.cbc.ca/lite/story/1.4937903"
+  ],
+  [
+   "Competition Bureau:How to report fraud and scams in Canada",
+   "https://competition-bureau.canada.ca/en/node/369"
+  ]
+ ],
+ "cat": "加拿大",
+ "topic": "加拿大能不能冻结信用报告（Security Freeze）：和 Fraud Alert 有什么区别",
+ "date": "2026-11-09",
+ "slug": "20261109-canada-security-freeze-fraud-alert-1"
+}
