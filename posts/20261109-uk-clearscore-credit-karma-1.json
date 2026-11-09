@@ -1,0 +1,35 @@
+{
+ "title": "ClearScore 和 Credit Karma 英国信用分为何不同",
+ "desc": "ClearScore 用 Equifax 数据、满分 1000，Credit Karma 用 TransUnion、满分 710，数据和算法都不同，分数不能直接比。",
+ "body": "<p>ClearScore 和 Credit Karma 的分数不一样，是因为它们背后是两家不同的信用机构：ClearScore 显示的是 Equifax 的数据，Credit Karma 显示的是 TransUnion 的数据。两家机构各自持有一份你的记录，用各自的公式和各自的满分来打分，所以数字本来就不该相等。不要拿 ClearScore 的 700 和 Credit Karma 的 700 直接比大小。</p><h2>先看清：你看到的是谁的分数</h2><p>英国没有统一的“国家信用分”，主要有三家信用机构（CRA）：Experian、Equifax、TransUnion。ClearScore、Credit Karma 都不是信用机构，只是把某家机构的数据展示给你。</p><table><tr><th>App / 网站</th><th>数据来源</th><th>满分（按来源所述）</th></tr><tr><td>ClearScore</td><td>Equifax</td><td>1000</td></tr><tr><td>Credit Karma（英国）</td><td>TransUnion</td><td>710</td></tr><tr><td>Experian 自家</td><td>Experian</td><td>Experian 官网写 1250；其他来源写 999（说法不一）</td></tr></table><p>上面的 ClearScore 1000、Credit Karma 710、Experian 1250 来自 Experian 官方指南页面；Credit Karma 官方文章同样写 710，并称 Experian 为 999、Equifax 为 1000。Experian 的满分各来源说法不一，本站建议以 Experian 官网当前显示为准。另有来源提到 TransUnion 新旧评分体系的上限不同（旧 710、新 999），也属于说法不一，具体以你在 App 里看到的刻度为准。</p><h2>为什么同一个人会差这么多</h2><h3>1. 数据不同</h3><p>放贷机构并不是把你的信息同时报给三家。Experian 指南明确说，不同放贷方不会向每家机构都报数据，更新到达的时间也可能不同。有来源举例：能源账单的还款可能只报给其中一家，而信用卡还款报给另外两家。所以三份报告内容本来就有出入。</p><h3>2. 算法不同</h3><p>Credit Karma 官方文章写道，每家机构计算分数的公式都略有不同。比如对近期逾期、信用额度使用率这类因素，各家的权重可能不一样。</p><h3>3. 刻度不同</h3><p>满分不同，数字自然差很远。有来源给过一个例子：同一个人在三家分别是 872、743、598，但在各自的体系里都属于“良好”。这个例子来自第三方文章，只能说明现象，不代表你的情况。Experian 指南也说，数字看起来差很远是“完全正常”的。</p><h2>看分数时的正确做法</h2><ol><li><b>先确认来源机构。</b>打开 App 先看它用的是 Equifax、TransUnion 还是 Experian。</li><li><b>只和自己比。</b>同一个 App 里，看自己的分数是升还是降、落在哪个等级（如 Good、Excellent），不要跨 App 比数字。</li><li><b>三家各查一次。</b>想全面了解，就 ClearScore（Equifax）、Credit Karma（TransUnion）再加 Experian 各看一遍。</li><li><b>重点查报告里的错误。</b>地址、姓名、旧账户、错误的逾期记录，发现后向对应机构申请更正。</li><li><b>差距特别大就查原因。</b>有来源建议，如果两家差距异常大，值得去核对报告内容。</li></ol><h2>放贷机构到底看什么</h2><p>Experian 指南提到，放贷方可能查三家中的任意一家或全部，也常结合申请表信息、收入和自家记录来判断，最终由放贷方决定。如果申请被拒，你可以问对方用了哪家机构的报告，对方有义务告知。也就是说，App 上的分数只是参考，不是放贷方看到的那个数字。</p><h2>刚到英国、没有信用记录的人</h2><ul><li>新来的人在各家机构下的记录都可能很薄，分数低或很少，不代表“信用差”，只是数据少。</li><li>尽量让姓名、地址在选民登记册、银行账户、手机合同等地方保持一致，这有利于机构把你和记录对上。</li><li>该点：这一段是通用做法，各家机构的具体权重没有统一官方说法，本站未查到可引用的精确数据。</li></ul><h2>更新频率说法不一</h2><p>关于两个 App 多久刷新一次，查到的来源说法不一：有的说都是每周更新，有的说 Credit Karma 免费版是每月更新；Credit Karma 官方那篇文章没有写刷新频率。想知道准确频率，请直接看 App 里的说明。</p><h2>常见问题</h2><h3>问：两个分数哪个更“准”？</h3><p>答：都不是“更准”或“更假”。它们是不同机构基于各自数据和公式给出的结果。放贷方看哪一家由它自己决定，所以建议每家都看看。</p><h3>问：ClearScore 显示 Excellent，Credit Karma 却只是 Good，要紧吗？</h3><p>答：通常不用紧张，因为刻度和等级划分本来就不同。真正要看的是报告里有没有错误、有没有逾期或多余的账户。如果差别大，就逐项对比两份报告。</p><h3>问：查自己的分数会拉低分数吗？</h3><p>答：本站这次查到的来源没有就此给出明确说法，所以不下结论。一般来说，自己查看和放贷方做的正式申请查询是不同性质，但具体请以各机构官网说明为准。</p><blockquote>以上内容仅供参考，请以各机构官方说明为准；涉及移民身份、贷款纠纷或复杂情况，请咨询持牌的专业人士（如会计师或律师）。</blockquote>",
+ "sources": [
+  [
+   "Credit Karma UK：为什么不同机构的分数不同",
+   "https://www.creditkarma.co.uk/insights/i/why-does-my-credit-score-differ-between-credit-reporting-agencies"
+  ],
+  [
+   "Experian UK：Why is my credit score different on different sites?",
+   "https://www.experian.co.uk/consumer/guides/why-is-my-credit-score-different-on-different-sites.html"
+  ],
+  [
+   "ClearScore：What are credit reference agencies",
+   "https://www.clearscore.com/credit-score/what-are-credit-reference-agencies"
+  ],
+  [
+   "Check My File：Why is my credit score different",
+   "https://www.checkmyfile.com/help-centre/articles/why-is-my-credit-score-different-on-different-sites"
+  ],
+  [
+   "TotallyMoney：TransUnion 报告为何与 Experian/Equifax 不同",
+   "https://help.totallymoney.com/en/articles/165147-why-is-my-transunion-report-different-from-my-experian-equifax-one"
+  ],
+  [
+   "TransUnion UK：What is a credit reference agency",
+   "https://www.transunion.co.uk/consumer/blog/what-is-a-credit-reference-agency"
+  ]
+ ],
+ "cat": "英国",
+ "topic": "ClearScore 和 Credit Karma 的英国分数为什么不一样",
+ "date": "2026-11-09",
+ "slug": "20261109-uk-clearscore-credit-karma-1"
+}
