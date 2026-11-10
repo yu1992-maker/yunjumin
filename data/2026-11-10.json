@@ -1,0 +1,131 @@
+{
+ "date": "2026-11-10",
+ "sections": [
+  {
+   "key": "itin",
+   "title": "🧾 ITIN 能办什么卡 / 开什么户",
+   "items": [
+    {
+     "title": "Onepay开户得500",
+     "link": "https://www.uscardforum.com/t/topic/545839",
+     "src": "美卡论坛·最新",
+     "note": "Onepay 借记账户可用 ITIN 开户（需美国手机和地址），标题称开户得 500"
+    },
+    {
+     "title": "Boundless 被拒且 recon 失败，继续复议还是重新申请？",
+     "link": "https://www.uscardforum.com/t/topic/545821",
+     "src": "美卡论坛·最新",
+     "note": "Boundless 卡：持 ITIN 无 SSN 申请被拒，recon 失败，讨论复议还是重申"
+    },
+    {
+     "title": "No Social Security number | The IRS maintains a mandatory process for these foreign nationals: who must file Form W-7 - El Cronista",
+     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPa0tWQUtWa1NsTjZCZmJLU1d1U2dMWUJQckcyMEFOc1FBbURxZEpvaG1wRlBzdmI2UjF4VURGQWhLR1o2NWxXakhzNmp5M1I3OTBtSGFjUHEyOHdFdXJITVBPNTI3ZlhoUTVYcG93c210WmNFNGVablI1aXFkaEdPYTdLRG1TbUxpNG5BOU5lTGpiUWU3WWs3V29FUkEycHNCelRHZVY0TktTRVRvc2lOSWxhZjgzNWNVTEM5RllJdGxGNVlfcXM4OTlWY29iLTBqQkxnbkJTdDdpZlVmcVBOV0FIR2ROZw?oc=5",
+     "src": "Google 新闻",
+     "note": "IRS 要求特定外国人提交 W-7 申请 ITIN（新闻，无具体卡和银行信息）"
+    }
+   ]
+  },
+  {
+   "key": "card",
+   "title": "💳 美卡动态",
+   "items": [
+    {
+     "title": "Banks Updating Terms To Restrict AI Access",
+     "link": "https://www.doctorofcredit.com/banks-updating-terms-to-restrict-ai-access/",
+     "src": "Doctor of Credit",
+     "note": "Amex、BofA、Citi、Chase 更新条款，禁止账户被 AI 代为访问"
+    },
+    {
+     "title": "(Update) American Express & Fanatics Announce Partnership – New Credit Card, FanCash Transfer Partner & More",
+     "link": "https://www.doctorofcredit.com/american-express-fanatics-announce-partnership-new-credit-card-fancash-transfer-partner-more/",
+     "src": "Doctor of Credit",
+     "note": "Amex 与 Fanatics 推出新联名卡，MR 积分可转 FanCash"
+    },
+    {
+     "title": "3天开7张卡时间建议",
+     "link": "https://www.uscardforum.com/t/topic/545741",
+     "src": "美卡论坛·热门",
+     "note": "Chase 5/24 下 3 天开 7 张卡的时间安排讨论"
+    },
+    {
+     "title": "Chase offers four Hyatt free-night awards - InsideFlyer",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcUtZSHpTTnB4b0cyRkdubGdVU01TMUpFWGZ6S1VEb3o5QV9lV19pd1FjSFhVcVZsbEY3Wndqb09OVkNqaGU0eWVTUXdianFzU0NpYzhTTG1oZlhwR18zT3VpQWliVGtSNHZvMHZ4U1ZOVEhIZEE5MF8wMC1zYnR4cVZR?oc=5",
+     "src": "Google 新闻",
+     "note": "Chase 提供 4 个 Hyatt 免费住宿奖励，需看自己是否有资格"
+    }
+   ]
+  },
+  {
+   "key": "tax",
+   "title": "🏢 LLC 与报税",
+   "items": [
+    {
+     "title": "IRS releases tax inflation adjustments for tax year 2027; taxpayers continue to benefit from the Working Families Tax Cuts - Beaver County Radio",
+     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNTUVSZXhsdjJLZi0teW04QWNQUEx3U3MzYi1jX0UwTUlIRVAzU0l6aTZ3UHdYZmd4SlA2T3ZLQmRNc3ktRXNiSE1LdzZ2OWIwMFRmc1dzeTFOVndZN3BKU2hsazN2QkUwam1aOTNvdGs4bEN6NzlFT2dwQnIyY2xBYTZEXzRSY3cwcHNNNTZJc1dXYm55T1NXa2x1b3d3OUR4cnd0WXYwRmhNeXl1Q0JQR0oyNkNINHUyR1NvVFVJZ1YwWXkwRWw3LUwzbDhLQU81TmNjY0dwMmQtTjN5OGRWdThaci1DazUzaE9KbVh3?oc=5",
+     "src": "Google 新闻",
+     "note": "IRS 公布 2027 年通胀调整（标准扣除等），个人报税参考"
+    },
+    {
+     "title": "IRS Is Sending Crypto Users Tax Letters—Here's What You Need to Know - Bitcoin News",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWlJ3emVHczlDanN2Y2lUMEJNTi1mZEU5bk81RWM4WEhVMFdIU3g5THVXZlgtcDQwZk94TUQ0X00wQjkxZDJmQXZCUF9XUVdCUnVHWG1GNlVUdUp6Y2FERE5iUGpqNlhpdUgtUWtfVUhXWVFTUERIbmpuaFhrY0JidXhHR0tvUnZNN3hoS3Mwb2xZeTJJY2xfdA?oc=5",
+     "src": "Google 新闻",
+     "note": "IRS 向加密货币用户发税务信函，需核对交易记录和申报"
+    },
+    {
+     "title": "How To Start An LLC In Mississippi (2026 Guide) - BizReport",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pTmN4dW4tRy1DMGpmbGV6ckNabHdOREd1cU5KTkhEamVTVlZpSEJUdWlBaFFVRVZIRXVIam1hSVI4Ujd1MGRWQVVYRWVScFRhRS1lVUxvWVdQSGpHYWpraGs0VWY?oc=5",
+     "src": "Google 新闻",
+     "note": "Mississippi 设立 LLC 2026 指南，可了解小公司注册流程"
+    }
+   ]
+  },
+  {
+   "key": "uk",
+   "title": "🇬🇧 英国卡与账户",
+   "items": [
+    {
+     "title": "From £300 free cash to FREE Disney+ – the high street bank accounts with the best perks - The Sun",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BTnN2VEs2MDlVSG1CMFVrZ29UUWFvckFfYTg3R21XRjNaZXBqeU5PNmJPTUEzeEl2dUZCOUJ1Tk92ejFINnVKalJWLS1wQ0hicWN0Q2ZFRnZPUkQtTlI5M191ckRtZlhUVll5WU5DZU1wZw?oc=5",
+     "src": "Google 新闻",
+     "note": "高街银行开户送现金和权益对比（最高 £300），适合新到英国的人"
+    },
+    {
+     "title": "Santander hands customers free £240 with change before Christmas - Daily Express",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQjdSb1ZGV3ZaU25kbXc2dFlTXzkzci1wVDBhQm1ieEV5TURNYUMycXd0RnVweW5oSFM1ODJkU0NxSUF0MnhIOHI4SGNZT0NNY0VPOWdiam9YcHJYWnQ5dXdqTVItOTlKTHRXRzMtZThZSFdDTUF3WXU2N05GQkFCODhGYXc2ZG1ZVTlObtIBkgFBVV95cUxNbFhIc2dvWUZhTEVrdzdfSU1hTmh1N3FFcTl6OHdvRVcyYnhGcWRVOGM5RGVpbldlNWpMSDRfYjdfcEp4WWlvOWxUZUNoYzFUM185Z3c3SE4xams4SzQtOGoxdFRkazNBUnZST093VGQwdEdPaGt3MHR6aEpVbEVwVkNRbWpGc3dJUFc2aHlCWktKdw?oc=5",
+     "src": "Google 新闻",
+     "note": "Santander 圣诞前送 £240，多为转户或开户优惠，需看具体条件"
+    },
+    {
+     "title": "Best Online Banks Of 2026 - Forbes",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4yLW82c3R4MGlNMGdfNDJoUlNLS09LS25JYnY3YTFIN1p6clZXaTA5WUNVWjZYbnFVTnZUcFkxelhXbnZ4QVBEOS1iWEtMQ2hqaWo0MWpiYnpXTUxReFJIU29Nd2ZsSUJQ?oc=5",
+     "src": "Google 新闻",
+     "note": "Forbes 2026 网上银行榜单，可对比 Monzo、Revolut 类账户"
+    }
+   ]
+  },
+  {
+   "key": "ca",
+   "title": "🍁 加拿大信用卡",
+   "items": [
+    {
+     "title": "American Express and Marriott Bonvoy® Expand Canadian Card Portfolio with New No-Annual-Fee Card and Enhanced Benefits - PR Newswire Canada",
+     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPVnJnNGlKVWZ6RG1EeXVmcjVESXVzYzJsY3FRNG54amcxdHB3U2FLUG5FZWp5OUF6bWNtRGJNeHVDbVFnS3NpcEVlZ1ZETkZMbDVEZWUtY3J5TkdxU09fbC1sbThGUy1lNDNkQXE2TndyR0NySnJ4ODlRWkVDbWhNTHNGMk81Q3BaUVNXSVB0V3I2b3JzenFocFN4SXVxWDBMQjZfQkxlN1BJU0dHYkFOZHNMaXpNMmxoZGNIQXRoS2NGa1AxTEdZODNIcDNWV2k5c2dZdDJpcUZSSzdIR3NMc3ZCR25DR3J3aGlWY3FDdHhCVmx6NjhubFFYWExIUnhoN1E?oc=5",
+     "src": "Google 新闻",
+     "note": "Amex 与 Marriott 推出加拿大新的免年费卡，权益升级"
+    },
+    {
+     "title": "加拿大万豪卡改恶",
+     "link": "https://www.uscardforum.com/t/topic/545829",
+     "src": "美卡论坛·最新",
+     "note": "Amex 加拿大万豪卡年费涨至 $150，免费夜需 $3000 低消"
+    },
+    {
+     "title": "Patience, consistency are key for young Canadians building their credit score - CTV News",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdTVUMHBLbmc4QTdiZjNWdVFZU3RpNllUMGcwX3pKVTZ2ek1QM3JOdGwtTGRTZ1ZTay1MZXVXaEcyaGJwMDlBSm5rdnVwVjV5WUNpa19yUnBKa0hIeUpuMTh1NmstaGFrb2VUcUEyb1VKQ0VQNk5Ma1NDYk1ra0d6T3ZiUVJyc0hvR2NlSzVJYTBCTjVQVjhpTmZmTksxRzQ0cEJZM2JxMDBMT2xRSkJsNnFLLTF1UldD?oc=5",
+     "src": "Google 新闻",
+     "note": "CTV：年轻加拿大人建立信用分的方法，适合无信用记录的新移民"
+    }
+   ]
+  }
+ ]
+}
