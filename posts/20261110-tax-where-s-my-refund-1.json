@@ -1,0 +1,35 @@
+{
+ "title": "报完税退税没到?Where's My Refund 查询与催退税全攻略",
+ "desc": "IRS 退税迟迟没到怎么办:Where's My Refund 怎么查、状态怎么看、几天后能打电话、卡住后找谁。",
+ "body": "<p>报完税退税没到,先用 IRS 官方的 Where's My Refund(退税查询工具)查状态,需要准备 SSN 或 ITIN、报税身份(Filing Status)、退税金额的准确数字。电子报税一般约 3 周内到账,邮寄纸质报税通常要 6 周以上,没过这个时间窗口,打电话也查不出更多信息。</p><h2>先搞清楚:正常要等多久</h2><p>根据 IRS 官方退税页面(irs.gov/refunds):</p><table><tr><th>报税方式</th><th>最早能查到状态</th><th>一般到账时间</th></tr><tr><td>电子报税(当年报表)</td><td>提交后 24 小时</td><td>约 3 周(从 e-file 日期算)</td></tr><tr><td>电子报税(往年报表)</td><td>提交后 3 天</td><td>官方页面未单列,往往更久</td></tr><tr><td>邮寄纸质报表</td><td>寄出约 4 周后</td><td>IRS 收到后 6 周或更久</td></tr></table><p>注意:“约 3 周”是常见情况,不是承诺。第三方网站对“多少比例在 21 天内到账”的数字说法不一,不要拿某个百分比当保证。</p><h2>怎么查:三种官方入口</h2><ol><li><b>Where's My Refund(退税追踪器):</b>不用登录。需要输入 SSN 或 ITIN、报税身份、<b>退税金额(必须和报表上完全一致)</b>、税年。</li><li><b>IRS Online Account:</b>登录后可看退税状态、税务记录、更正报表(Amended Return)状态,还能设置邮件通知。</li><li><b>IRS 手机 App(IRS2Go):</b>功能与网页追踪器类似。</li></ol><p>自动语音热线:800-829-1954(退税),更正报表另有热线 866-464-2050。这些号码来自 IRS 官方页面。</p><h2>状态怎么看</h2><p>追踪器通常显示三个阶段:Return Received(已收到)→ Refund Approved(已批准)→ Refund Sent(已寄出/已发送)。IRS 官方的退税页面没有逐条解释这些状态,以上说法来自第三方税务网站的归纳,以实际页面提示为准。</p><ul><li><b>Refund Sent 但银行没到账:</b>有第三方来源建议,直接存款等 5 个工作日、纸质支票等约 5 周后再联系 IRS;说法不一,别急着打电话,先查银行账号是否填对、是否被银行退回。</li><li><b>页面提示需要更多时间或有信件:</b>多半是审核,留意邮箱里的 IRS 来信(Notice)。</li></ul><h2>退税慢的常见原因(IRS 官方列出)</h2><ul><li>报表有常见错误,比如漏签名、计算错误</li><li>申报 Earned Income Credit(EIC),法律规定要拖到 2 月中旬以后才发</li><li>申报 Additional Child Tax Credit,需要更多审核时间</li><li>提交了更正报表(Form 1040-X),需要和原报表对照</li><li>申请 Injured Spouse(被连累配偶)减免,人工处理</li></ul><p>另外,退税可能被<b>抵扣(Offset)</b>:欠的往年税、儿童抚养费、联邦机构非税债务、州所得税等,都可能从退税里扣。扣款通知由 Bureau of the Fiscal Service 寄出,<b>IRS 自己看不到抵扣明细</b>,要问就联系 Fiscal Service。</p><h2>超过时间窗口后,怎么一步步催</h2><ol><li><b>确认时间:</b>电子报税满 21 天、纸质满 6 周后仍无进展,再动作。</li><li><b>核对信息:</b>金额、税年、报税身份是否输错;银行账号是否正确。</li><li><b>打 IRS 电话:</b>先用自动热线 800-829-1954;需要真人时,第三方来源称可拨 800-829-1040,但只有过了正常处理期才能查到更多。住在海外的朋友,请到 IRS.gov 查“海外纳税人联系方式”,本站未能核实具体号码。</li><li><b>留记录:</b>每次通话的日期、号码、工号/参考号都记下来。</li><li><b>求助 Taxpayer Advocate Service(TAS,纳税人倡导者服务):</b>如果拖延造成实际困难,可提交 Form 911(Request for Taxpayer Advocate Service Assistance)。TAS 官网说明可用其资格工具(Qualifier Tool)先判断是否符合受理条件。据第三方来源,TAS 通常 30 天内回复,不接受处于 suspense 状态的退税延迟求助;细节请以 TAS 官网为准。</li></ol><h2>支票丢了或没收到(Refund Trace)</h2><ul><li>支票应在寄出后 4 周内到,满 4 周再动作。</li><li>单身、已婚分开报税、户主:在追踪器或 App 里发起追踪(仅限当年退税),或打 800-829-1954。</li><li>已婚联合报税(MFJ):打 800-829-1040,或寄 Form 3911(Taxpayer Statement Regarding Refund)。</li><li>未兑现的支票不到 1 年:作废后重发;超过 1 年:重发并附 CP32 通知。</li><li>已被兑现:Bureau of the Fiscal Service 会寄“索赔包”,审核最长约 6 周。</li></ul><h2>如果是报错了</h2><p>发现报表有错,要提交更正报表(Form 1040-X)。IRS 说明可用报税软件 e-file 当年及过去 2 年的更正报表,并提供“Where's My Amended Return?”追踪入口。更正报表官方页面没给出明确处理时长,别指望几周内搞定。</p><h2>常见问题</h2><h3>问:状态一直是 Return Received,正常吗?</h3><p>答:在 3 周窗口内很常见。超过后先核对报表是否有错或有 IRS 来信,再打热线或求助 TAS。</p><h3>问:退税金额比我算的少,是为什么?</h3><p>答:可能被用来抵扣往年欠税或其他欠款(如抚养费、州税)。看 Fiscal Service 寄来的通知,IRS 本身没有明细。</p><h3>问:可以反复打电话催吗?</h3><p>答:没用。在正常处理期内,客服能看到的信息和网站基本一致。过了窗口再打,并记录每次通话。</p><blockquote>以上内容仅供一般参考,政策、电话和时间可能调整,请以 IRS.gov 官方信息为准;情况复杂(如被抵扣、身份盗用、更正报表、涉外收入)请咨询 CPA 或律师。</blockquote>",
+ "sources": [
+  [
+   "IRS:Refunds(退税状态、时间、热线、Refund Trace)",
+   "https://www.irs.gov/refunds"
+  ],
+  [
+   "IRS:Where's My Refund",
+   "https://www.irs.gov/refunds"
+  ],
+  [
+   "IRS:File your tax return(e-file 选项)",
+   "https://www.irs.gov/filing/e-file-options"
+  ],
+  [
+   "Taxpayer Advocate Service(TAS)",
+   "https://www.taxpayeradvocate.irs.gov/get-help/"
+  ],
+  [
+   "TAS:Contact us / 提交协助请求",
+   "https://taxpayeradvocate.irs.gov/contact-us"
+  ],
+  [
+   "TaxSlayer:Understanding the IRS Where's My Refund Tool(第三方)",
+   "https://support.taxslayer.com/hc/en-us/articles/360015700732-Understanding-the-IRS-Where-s-My-Refund-Tool"
+  ]
+ ],
+ "cat": "报税",
+ "topic": "报完税退税没到：Where's My Refund 怎么查",
+ "date": "2026-11-10",
+ "slug": "20261110-tax-where-s-my-refund-1"
+}
