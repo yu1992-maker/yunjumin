@@ -1,0 +1,47 @@
+{
+ "title": "Amex Pay Over Time 是什么?算循环欠款吗、伤信用分吗",
+ "desc": "讲清 Amex Pay Over Time 的运作、利息、是否上报信用局、对信用分的影响,以及 2027 年 2 月起无法关闭的传闻。",
+ "body": "<p>Amex Pay Over Time(简称 POT)让部分 Amex 账单卡(Green/Gold/Platinum 等)像信用卡一样,把符合条件的消费留到下个月还,但要付利息。它在功能上等于循环欠款。至于信用分,Amex 称 POT 额度不会上报,但第三方说法不一,实际要看你信用报告上显示什么。</p><h2>Pay Over Time 是什么</h2><ul><li>本来是账单卡(charge card),要求每期全额还清。开启 POT 后,可以选择对部分符合条件的消费只还最低还款额或任意金额,剩下的带利息结转。</li><li>Amex 官网的说法是:可以自己选择是否、何时带余额,上限为你的 Pay Over Time Limit,这个额度与你的总消费能力是分开的。</li><li>Experian 的介绍:只对你选择延后还的消费付利息;只要每期按时还最低额,还款没有期限。</li><li>早期 Doctor of Credit 文章(2016 年,较旧)提到:只有超过 $100 的消费才符合条件,且开通时 Amex 不做硬查询。现行门槛请以账户内说明为准。</li></ul><h2>是不是“循环欠款”</h2><p>从使用方式看,是。带到下期的金额要付利息,功能上与信用卡循环余额一样。但在信用评分里的算法,各来源说法不一(见下一节)。</p><h2>利息怎么算</h2><ul><li>APR 为浮动利率,与 Prime Rate 挂钩。以 Amex Business Platinum 的持卡协议为例,是 Prime + 10.99% 到 Prime + 19.99%;具体取决于申请时的信用状况。个人卡的数字请看你自己的 Cardmember Agreement。</li><li>协议中提到,加入 POT 的消费从交易日起计息。</li><li>Business Platinum 协议有罚息:在 12 个账期内 2 次没在结账日前还够最低还款额,适用 Prime + 25.99%。其他卡种条款可能不同。</li><li>Plan It 是另一个功能:把大额消费拆成每月固定还款,收固定月费,同样在 POT 额度内。它与 POT 的按 APR 计息不同。</li></ul><h2>会不会影响信用分</h2><table><tr><th>说法</th><th>来源</th></tr><tr><td>POT 额度不上报(个人卡和商业卡都是),不影响信用分</td><td>The Points Guy 引用 Amex</td></tr><tr><td>POT 不是真正的信用额度,不出现在信用报告上</td><td>CreditCards.com</td></tr><tr><td>账单卡没有预设额度,信用局只看到余额,没法按常规方式算使用率</td><td>The Points Guy</td></tr><tr><td>POT 额度现在常被上报,刷满会被当作 100% 使用率</td><td>某第三方文章(说法不一)</td></tr><tr><td>余额会计入整体报告余额,可能影响使用率</td><td>Upgraded Points</td></tr></table><p>结论:官方和多数主流媒体称不影响,但也有来源持相反看法,论坛帖子多为个人经验,不能当作定论。本站无法确认哪一种适用于你。</p><h3>自己怎么验证</h3><ol><li>登录 Experian、Equifax、TransUnion 查看免费报告(annualcreditreport.com)。</li><li>找到你的 Amex 账户行,看有没有“信用额度/High Credit”以及账户类型是 Charge 还是 Revolving。</li><li>带 POT 余额的那一期结账后,对比报告中的余额与额度栏位有没有变化。</li></ol><h2>2027 年 2 月起可能不能关闭</h2><ul><li>有媒体转述 Doctor of Credit 的报道:Amex 通知持卡人,自 2027 年 2 月 1 日起 POT 将一直保持开启,不能再关闭。</li><li>本站未能打开 Doctor of Credit 原文核对细节;The Points Guy 那篇指南也没有提到此事。请以你收到的 Amex 通知和官网为准。</li><li>目前若想关闭,据 Your Mile May Vary(2026 年 3 月文章):登录账户,搜索 Pay Over Time,把状态设为 Inactive,不需要打电话。</li></ul><h2>要不要开</h2><ul><li><b>适合:</b>一次性大额支出、短期周转,且清楚 APR 成本。</li><li><b>不适合:</b>习惯性带余额。The Points Guy 提醒,带余额可能让你少拿积分,并产生可观利息。</li><li>想避免误触:开启状态下,符合条件的消费可能自动进入 POT 余额(YMMV),所以每期要看账单上选的是“全额”还是“部分”。</li><li>申请新卡的影响:早期有报告称开通 POT 可能影响新申请,YMMV 作者称近期数据显示影响不大。</li></ul><h2>常见问题</h2><h3>Q1:开通 POT 会做硬查询吗?</h3><p>Doctor of Credit 2016 年的文章称 Amex 不做硬查询,Amex 也表示带余额不需要额外信用审查。文章较旧,请以现行条款为准。</p><h3>Q2:用了 POT 就一定会被扣信用分吗?</h3><p>不一定。Amex 称额度不上报、不影响信用分,但也有来源称余额或额度可能被计入使用率。以你自己的信用报告为准。</p><h3>Q3:全额还清还会有利息吗?</h3><p>只对你选择延后的那部分消费计息;按 Amex 的说法,全额还清就不付利息。但进入 POT 的消费据协议从交易日起计息,具体请看账单说明。</p><blockquote>以上内容以官方为准,复杂情况请咨询 CPA / 律师。</blockquote>",
+ "sources": [
+  [
+   "Amex Payment Flexibility",
+   "https://www.americanexpress.com/en-us/benefits/payment-flexibility/"
+  ],
+  [
+   "The Points Guy: Amex Pay Over Time 指南",
+   "https://thepointsguy.com/credit-cards/american-express/your-ultimate-guide-to-amex-pay-over-time/"
+  ],
+  [
+   "NerdWallet: Amex Pay Over Time",
+   "https://www.nerdwallet.com/credit-cards/learn/amex-pay-over-time"
+  ],
+  [
+   "Doctor of Credit: Amex Pay Over Time",
+   "https://doctorofcredit.com/american-express-pay-time-everything-need-know"
+  ],
+  [
+   "Your Mile May Vary: 如何关闭 Pay Over Time",
+   "https://yourmileagemayvary.com/2024/03/09/amex-pay-over-time/"
+  ],
+  [
+   "Experian: Pay Over Time 如何运作",
+   "https://www.experian.com/blogs/ask-experian/how-do-pay-over-time-plans-work/"
+  ],
+  [
+   "CreditCards.com: Amex Pay Over Time",
+   "https://creditcards.com/card-advice/american-express-pay-over-time"
+  ],
+  [
+   "Upgraded Points: 何时使用 Pay Over Time",
+   "https://upgradedpoints.com/credit-cards/when-does-pay-over-time-make-sense/"
+  ],
+  [
+   "Amex Business Platinum 持卡协议(2024-08-01)",
+   "https://americanexpress.com/content/dam/amex/en-us/company/legal/cardmember-agreements/public-site-adhoc-2024-08-01/business-platinum-08-01-2024.pdf"
+  ]
+ ],
+ "cat": "美卡",
+ "topic": "Amex Pay Over Time 是什么：会不会算循环欠款、影响信用分",
+ "date": "2026-11-10",
+ "slug": "20261110-card-amex-pay-over-time-1"
+}
