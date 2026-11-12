@@ -1,0 +1,31 @@
+{
+ "title": "收到1099-NEC没有W-2:自由职业收入报税全流程",
+ "desc": "拿到1099-NEC不是W-2,收入要用Schedule C和Schedule SE申报。本文讲自雇税15.3%、预估税、可扣除项和常见疑问。",
+ "body": "<p>收到 1099-NEC 说明对方把你当独立承包人(自雇),不是员工。这笔钱要在 Form 1040 里附上 <b>Schedule C</b> 报收入和费用,再用 <b>Schedule SE</b> 算自雇税。没有 W-2 也没有预扣税,税要自己算、自己交。</p><h2>先搞清楚:1099-NEC 和 W-2 的区别</h2><table><tr><th>项目</th><th>W-2(员工)</th><th>1099-NEC(自雇)</th></tr><tr><td>税款预扣</td><td>雇主代扣</td><td>一般没有,自己交</td></tr><tr><td>社保/医保税</td><td>雇主和员工各付一部分</td><td>自己付全部(自雇税)</td></tr><tr><td>报税表</td><td>直接填入 1040</td><td>Schedule C + Schedule SE</td></tr><tr><td>费用扣除</td><td>基本没有</td><td>业务开支可从收入中扣</td></tr></table><p>IRS 对 Form 1099-NEC 的说明很简单:用来报告非员工报酬(nonemployee compensation)。</p><h2>报税步骤</h2><ol><li><b>汇总所有收入。</b>把每张 1099-NEC 的金额加起来。没收到表格的收入也要报。本站查到的 IRS 页面没有写明“没表格是否免报”,但自雇收入以实际收入为准,请自己留好银行记录和发票。</li><li><b>填 Schedule C(Form 1040)。</b>IRS 说明它用来报告独资经营或零工(gig work)的收入或亏损。收入减去业务开支,得到净利润。</li><li><b>填 Schedule SE。</b>用 Schedule C 的结果计算社保和医保税。</li><li><b>扣除一半自雇税。</b>IRS 允许在算调整后总收入(AGI)时扣除自雇税的“雇主等值部分”。这只降低所得税,不改变自雇税本身。</li><li><b>看是否能用 QBI 扣除。</b>独资经营者可能适用,最高可扣合格业务收入的 20%,用 Form 8995 或 8995-A。</li><li><b>算预估税,以后按季度交。</b>见下文。</li></ol><h2>自雇税怎么算</h2><ul><li>自雇税率为 <b>15.3%</b>,其中社保 12.4%,医保 2.9%(来源:IRS)。</li><li>2026 年社保部分只对前 <b>$184,500</b> 的收入征收。该页面没有列出 2025 年的上限。</li><li>净自雇收入 <b>$400 或以上</b>,就要交自雇税并填 Schedule SE。</li><li>收入很高时还有 0.9% 的额外医保税。起征点:单身/户主 $200,000,夫妻联合申报 $250,000,夫妻分开申报 $125,000。</li></ul><h2>哪些开支可以扣</h2><p>业务开支从业务收入中扣除,得到净利润。净亏损通常可以从总收入中扣,但有些亏损受限制。常见项目:</p><ul><li>工作用的软件、设备、网站费用</li><li>专业服务费(会计、法律)</li><li>家庭办公室扣除:IRS 说明房主和租客都可以申请</li></ul><p>具体哪些项目合格、怎么算,请看 IRS Publication 334(小企业税务指南)。保留收据和记录。</p><h2>预估税:不预扣,要自己按季度交</h2><ul><li>预计申报时要补税 <b>$1,000 或以上</b>,通常就要交预估税(来源:IRS)。</li><li>用 Form 1040-ES 估算,可以在线、电话、IRS App 或寄支票付款。</li><li>一年分四个付款期,各有截止日。IRS 该页面没有列具体日期,请查 Form 1040-ES。</li><li>避免罚款的安全线:补税少于 $1,000,或已付金额达到今年税额的 90%,或去年税额的 100%,取较小者。</li><li>高收入者有特殊规则,常说的 110% 规则该页面没有提到,IRS 让读者看 Publication 505。</li><li>少付可能被罚,即使你最后能退税也一样。用 Form 2210 计算。</li></ul><h2>1099-NEC 金额不对怎么办</h2><ol><li>先联系付款方,请对方更正并重新开表。</li><li>对方不改,自己仍按实际收入申报,并留好证明文件。</li><li>多张表格或同一客户重复开表时,逐张核对,不要重复计入。</li></ol><p>关于 1099-NEC 的开表门槛(过去是 $600),本站这次查到的 IRS 页面没有说明,也没有确认 2026 年起是否调整。门槛只影响付款方要不要开表,<b>不影响你要不要报收入</b>,具体请看 IRS 的 1099-MISC/1099-NEC 说明。</p><h2>常见问题</h2><h3>问:只有一张 1099-NEC,金额很小,还用填 Schedule C 吗?</h3><p>答:净自雇收入达到 $400 就要申报并交自雇税。更低的金额是否需要申报,还要看你的其他收入情况。</p><h3>问:我能不能把 1099-NEC 的收入当成“其他收入”填就算了?</h3><p>答:不建议。这样不能扣除业务开支,也容易漏掉自雇税。IRS 的做法是用 Schedule C 加 Schedule SE。</p><h3>问:没交预估税会怎样?</h3><p>答:可能被罚,即使最后你能退税也一样。可以用 Form 2210 计算,或按上面的安全线提前补交。</p><blockquote>以官方为准,复杂情况(多州收入、非居民身份、成立 LLC/S corp 等)请咨询 CPA 或律师。</blockquote>",
+ "sources": [
+  [
+   "IRS:Self-Employed Individuals Tax Center",
+   "https://www.irs.gov/businesses/small-businesses-self-employed/self-employed-individuals-tax-center"
+  ],
+  [
+   "IRS:Self-Employment Tax (Social Security and Medicare Taxes)",
+   "https://www.irs.gov/businesses/small-businesses-self-employed/self-employment-tax-social-security-and-medicare-taxes"
+  ],
+  [
+   "IRS:Estimated Taxes",
+   "https://www.irs.gov/businesses/small-businesses-self-employed/estimated-taxes"
+  ],
+  [
+   "IRS:About Form 1099-NEC",
+   "https://www.irs.gov/forms-pubs/about-form-1099-nec"
+  ],
+  [
+   "IRS:Qualified Business Income Deduction",
+   "https://www.irs.gov/newsroom/qualified-business-income-deduction"
+  ]
+ ],
+ "cat": "报税",
+ "topic": "收到 1099-NEC 没有 W-2：自由职业收入怎么报税",
+ "date": "2026-11-11",
+ "slug": "20261111-tax-1099-nec-w-2-1"
+}
