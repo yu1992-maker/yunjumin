@@ -1,0 +1,928 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<meta name="color-scheme" content="light dark" />
+<meta name="description" content="Nimbreon Systems LLC — information technology company building mobile apps, websites, and web platforms for businesses." />
+<link rel="icon" href="data:," />
+<title>Nimbreon Systems LLC — Apps, Websites &amp; IT Solutions</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700;800&family=Manrope:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
+<style>
+:root{
+  --bg:#f6f7f9; --bg2:#eef1f4; --surface:#ffffff; --surface2:#f0f3f6;
+  --ink:#0c1524; --ink2:#33415c; --muted:#5b6b84; --line:#dde3ea;
+  --accent:#0e7c66; --accent-ink:#0a5f4f; --accent-soft:#e2f2ec;
+  --amber:#d98e1f; --amber-soft:#fbf0da;
+  --navy:#0a111f; --navy2:#101b30; --navy-line:rgba(255,255,255,.12);
+  --on-navy:#eef3f8; --on-navy-mut:#9fb0c6;
+  --radius:14px; --radius-lg:20px;
+  --shadow:0 18px 44px -18px rgba(12,21,36,.22);
+  --font-d:"Archivo",system-ui,sans-serif; --font-b:"Manrope",system-ui,sans-serif; --font-m:"IBM Plex Mono",ui-monospace,monospace;
+}
+@media (prefers-color-scheme: dark){
+  :root{
+    --bg:#0a0f18; --bg2:#0d1420; --surface:#111927; --surface2:#0f1725;
+    --ink:#e9eff6; --ink2:#c3cfdd; --muted:#93a3ba; --line:#22304a;
+    --accent:#2fbf9f; --accent-ink:#5fd8bd; --accent-soft:#12312a;
+    --amber:#e8a93f; --amber-soft:#33270f;
+    --shadow:0 18px 44px -18px rgba(0,0,0,.6);
+  }
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+@media (prefers-reduced-motion: reduce){ html{scroll-behavior:auto} *{animation:none!important;transition:none!important} }
+body{margin:0;font-family:var(--font-b);background:var(--bg);color:var(--ink);line-height:1.6;font-size:16.5px;-webkit-font-smoothing:antialiased}
+img{max-width:100%}
+a{color:var(--accent-ink)}
+.wrap{max-width:1180px;margin:0 auto;padding:0 22px}
+.mono{font-family:var(--font-m);font-size:.78rem;letter-spacing:.14em;text-transform:uppercase}
+h1,h2,h3{font-family:var(--font-d);line-height:1.12;margin:0;color:var(--ink);letter-spacing:-.01em}
+h2{font-size:clamp(1.7rem,3.4vw,2.45rem);font-weight:800}
+h3{font-size:1.18rem;font-weight:700}
+p{margin:0}
+.lede{color:var(--muted);font-size:1.06rem;max-width:62ch}
+.kicker{display:inline-flex;align-items:center;gap:.55rem;color:var(--accent-ink);font-family:var(--font-m);font-size:.76rem;letter-spacing:.16em;text-transform:uppercase;font-weight:600}
+.kicker::before{content:"";width:26px;height:2px;background:var(--accent);border-radius:2px}
+.sec{padding:84px 0}
+.sec-head{max-width:720px;margin-bottom:42px}
+.sec-head h2{margin:.55rem 0 .7rem}
+.btn{display:inline-flex;align-items:center;gap:.5rem;font-family:var(--font-b);font-weight:700;font-size:.98rem;padding:.82rem 1.45rem;border-radius:10px;border:1.5px solid transparent;cursor:pointer;text-decoration:none;transition:transform .15s ease,background .15s ease,border-color .15s ease}
+.btn:active{transform:scale(.98)}
+.btn-pri{background:var(--accent);color:#fff}
+.btn-pri:hover{background:var(--accent-ink)}
+.btn-ghost{background:transparent;color:var(--ink);border-color:var(--line)}
+.btn-ghost:hover{border-color:var(--accent);color:var(--accent-ink)}
+.btn-light{background:#fff;color:#0a111f}
+.btn-outline-l{background:transparent;color:var(--on-navy);border-color:var(--navy-line)}
+.btn-outline-l:hover{border-color:var(--accent)}
+/* ---------- header ---------- */
+header.site{position:sticky;top:0;z-index:60;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
+.nav{display:flex;align-items:center;justify-content:space-between;gap:1rem;height:68px}
+.brand{display:flex;align-items:center;gap:.65rem;text-decoration:none;color:var(--ink)}
+.mark{width:38px;height:38px;display:grid;place-items:center;flex:none;font-family:var(--font-d);font-weight:800;font-size:2.15rem;line-height:1;color:#1b3bcc;letter-spacing:-.02em}
+footer .mark{color:#fff}
+.brand b{font-family:var(--font-d);font-size:1.06rem;font-weight:800;letter-spacing:-.01em;line-height:1.05;display:block}
+.brand small{font-family:var(--font-m);font-size:.62rem;letter-spacing:.22em;text-transform:uppercase;color:var(--muted);display:block}
+.nav-links{display:flex;align-items:center;gap:1.55rem}
+.nav-links a{color:var(--ink2);text-decoration:none;font-weight:600;font-size:.95rem}
+.nav-links a:hover{color:var(--accent-ink)}
+.nav-cta{padding:.58rem 1.1rem;font-size:.92rem}
+.burger{display:none;background:none;border:1px solid var(--line);border-radius:9px;width:42px;height:42px;cursor:pointer;color:var(--ink);font-size:1.15rem;line-height:1}
+.mobile-menu{display:none;border-top:1px solid var(--line);padding:14px 22px 20px;background:var(--bg)}
+.mobile-menu.open{display:block}
+.mobile-menu a{display:block;padding:.62rem 0;color:var(--ink);text-decoration:none;font-weight:600;border-bottom:1px solid var(--line)}
+.mobile-menu a:last-child{border-bottom:none}
+/* ---------- hero ---------- */
+.hero{background:var(--navy);color:var(--on-navy);position:relative;overflow:hidden}
+.hero::after{content:"";position:absolute;inset:0;background-image:linear-gradient(rgba(255,255,255,.045) 1px,transparent 1px),linear-gradient(90deg,rgba(255,255,255,.045) 1px,transparent 1px);background-size:56px 56px;mask-image:radial-gradient(ellipse 90% 70% at 30% 20%,#000 30%,transparent 75%);pointer-events:none}
+.hero .wrap{position:relative;z-index:1;display:grid;grid-template-columns:1.02fr .98fr;gap:54px;padding-top:76px;padding-bottom:84px;align-items:center}
+.hero .kicker{color:#5fd8bd}.hero .kicker::before{background:#2fbf9f}
+.hero h1{color:#fff;font-size:clamp(2.3rem,4.6vw,3.55rem);font-weight:800;margin:1rem 0 1.1rem}
+.hero h1 .hl{color:#2fbf9f}
+.hero p.sub{color:var(--on-navy-mut);font-size:1.1rem;max-width:52ch}
+.hero-ctas{display:flex;gap:.8rem;flex-wrap:wrap;margin-top:1.9rem}
+.hero-points{display:flex;gap:1.6rem;flex-wrap:wrap;margin-top:2.3rem;padding-top:1.6rem;border-top:1px solid var(--navy-line)}
+.hero-points div b{font-family:var(--font-d);display:block;color:#fff;font-size:1rem}
+.hero-points div span{color:var(--on-navy-mut);font-size:.86rem}
+/* device mockups */
+.stage{position:relative;min-height:430px}
+.browser{position:absolute;left:0;top:6px;width:88%;background:#0e1830;border:1px solid rgba(255,255,255,.14);border-radius:16px;box-shadow:0 34px 70px -24px rgba(0,0,0,.65);overflow:hidden}
+.browser-bar{display:flex;align-items:center;gap:.45rem;padding:.65rem .9rem;border-bottom:1px solid rgba(255,255,255,.1)}
+.dot{width:10px;height:10px;border-radius:50%}
+.urlbar{margin-left:.5rem;flex:1;background:rgba(255,255,255,.07);border-radius:6px;font-family:var(--font-m);font-size:.68rem;color:#9fb0c6;padding:.28rem .6rem}
+.browser-body{padding:18px 20px 22px}
+.bb-nav{display:flex;justify-content:space-between;align-items:center;margin-bottom:16px}
+.bb-logo{width:86px;height:12px;border-radius:6px;background:#2fbf9f}
+.bb-links{display:flex;gap:8px}.bb-links i{width:34px;height:8px;border-radius:4px;background:rgba(255,255,255,.22);display:block}
+.bb-h{width:72%;height:20px;border-radius:6px;background:rgba(255,255,255,.9);margin-bottom:9px}
+.bb-h2{width:52%;height:20px;border-radius:6px;background:rgba(255,255,255,.45);margin-bottom:14px}
+.bb-p{width:88%;height:9px;border-radius:5px;background:rgba(255,255,255,.18);margin-bottom:7px}
+.bb-p2{width:64%;height:9px;border-radius:5px;background:rgba(255,255,255,.18);margin-bottom:18px}
+.bb-row{display:flex;gap:10px}
+.bb-card{flex:1;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.1);border-radius:10px;padding:12px}
+.bb-card i{display:block;width:22px;height:22px;border-radius:7px;background:#2fbf9f;margin-bottom:9px}
+.bb-card b{display:block;height:9px;border-radius:5px;background:rgba(255,255,255,.55);margin-bottom:6px}
+.bb-card span{display:block;height:8px;width:78%;border-radius:4px;background:rgba(255,255,255,.2)}
+.bb-btn{width:118px;height:32px;border-radius:8px;background:#2fbf9f;margin-top:16px}
+.phone{position:absolute;right:0;bottom:0;width:172px;background:#0e1830;border:1px solid rgba(255,255,255,.16);border-radius:26px;box-shadow:0 30px 60px -20px rgba(0,0,0,.7);padding:12px 12px 16px}
+.phone::before{content:"";display:block;width:52px;height:5px;border-radius:3px;background:rgba(255,255,255,.25);margin:0 auto 12px}
+.ph-app{display:flex;align-items:center;gap:8px;margin-bottom:13px}
+.ph-app i{width:26px;height:26px;border-radius:8px;background:#2fbf9f;display:block;flex:none}
+.ph-app b{display:block;height:9px;width:64px;border-radius:5px;background:rgba(255,255,255,.75)}
+.ph-app span{display:block;height:7px;width:44px;border-radius:4px;background:rgba(255,255,255,.3);margin-top:4px}
+.ph-hero{height:74px;border-radius:12px;background:linear-gradient(135deg,#123a33,#0e7c66);padding:10px;margin-bottom:10px}
+.ph-hero b{display:block;height:10px;width:70%;border-radius:5px;background:rgba(255,255,255,.85);margin-bottom:6px}
+.ph-hero span{display:block;height:8px;width:48%;border-radius:4px;background:rgba(255,255,255,.45)}
+.ph-row{display:flex;gap:8px;margin-bottom:8px}
+.ph-tile{flex:1;height:44px;border-radius:10px;background:rgba(255,255,255,.07);border:1px solid rgba(255,255,255,.09)}
+.ph-line{height:9px;border-radius:5px;background:rgba(255,255,255,.16);margin-bottom:7px}
+.ph-line.s{width:62%}
+.ph-cta{height:30px;border-radius:9px;background:#2fbf9f;margin-top:11px}
+.chip-float{position:absolute;background:#fff;color:#0a111f;border-radius:12px;box-shadow:var(--shadow);padding:.6rem .85rem;font-size:.8rem;font-weight:700;display:flex;align-items:center;gap:.5rem}
+.chip-float .cdot{width:9px;height:9px;border-radius:50%;background:var(--accent)}
+.chip-a{left:-6px;bottom:64px}
+.chip-b{right:6px;top:-14px}
+/* stack strip */
+.stack{background:var(--navy2);border-top:1px solid var(--navy-line)}
+.stack .wrap{display:flex;align-items:center;gap:1.2rem;padding-top:16px;padding-bottom:16px;flex-wrap:wrap}
+.stack .mono{color:#7e93b1}
+.stack ul{display:flex;gap:1.4rem;flex-wrap:wrap;list-style:none;margin:0;padding:0}
+.stack li{font-family:var(--font-m);font-size:.85rem;color:#c9d6e8}
+/* ---------- services ---------- */
+.svc-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.svc{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius-lg);padding:28px 26px;display:flex;flex-direction:column}
+.svc .ic{width:48px;height:48px;border-radius:12px;background:var(--accent-soft);display:grid;place-items:center;margin-bottom:16px;color:var(--accent-ink)}
+.svc h3{margin-bottom:.5rem}
+.svc p{color:var(--muted);font-size:.95rem}
+.svc ul{list-style:none;margin:16px 0 0;padding:14px 0 0;border-top:1px solid var(--line)}
+.svc li{padding:.28rem 0 .28rem 1.35rem;position:relative;font-size:.92rem;color:var(--ink2);font-weight:600}
+.svc li::before{content:"";position:absolute;left:0;top:.72em;width:14px;height:8px;border-left:2.5px solid var(--accent);border-bottom:2.5px solid var(--accent);transform:rotate(-45deg) translateY(-2px)}
+.svc .tag{align-self:flex-start;font-family:var(--font-m);font-size:.68rem;letter-spacing:.12em;text-transform:uppercase;background:var(--amber-soft);color:#8a5c07;border-radius:99px;padding:.28rem .65rem;margin-bottom:14px;font-weight:600}
+@media (prefers-color-scheme: dark){.svc .tag{color:var(--amber)}}
+/* ---------- build types ---------- */
+.build-sec{background:var(--bg2)}
+.build-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.build{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius-lg);overflow:hidden}
+.build-vis{height:170px;background:var(--navy);position:relative;overflow:hidden;padding:20px}
+.build-vis .mini{position:absolute;border-radius:10px;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.14)}
+.build-body{padding:22px 24px 26px}
+.build-body p{color:var(--muted);font-size:.95rem;margin-top:.45rem}
+.build-body .mono{color:var(--accent-ink)}
+/* ---------- approach ---------- */
+.steps{display:grid;grid-template-columns:300px 1fr;gap:26px;align-items:start}
+.step-list{display:flex;flex-direction:column;gap:8px}
+.step-btn{display:flex;align-items:center;gap:.9rem;text-align:left;background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:14px 16px;cursor:pointer;font-family:var(--font-b);color:var(--ink);width:100%}
+.step-btn .n{font-family:var(--font-m);font-size:.8rem;width:34px;height:34px;flex:none;border-radius:9px;background:var(--surface2);display:grid;place-items:center;color:var(--muted);font-weight:600}
+.step-btn b{font-size:.99rem;font-weight:700}
+.step-btn[aria-selected="true"]{border-color:var(--accent)}
+.step-btn[aria-selected="true"] .n{background:var(--accent);color:#fff}
+.step-panel{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius-lg);padding:32px;min-height:300px}
+.step-panel .mono{color:var(--accent-ink)}
+.step-panel h3{font-size:1.45rem;margin:.5rem 0 .7rem}
+.step-panel p{color:var(--muted);max-width:58ch}
+.step-panel ul{list-style:none;margin:18px 0 0;padding:0;display:grid;grid-template-columns:1fr 1fr;gap:.5rem 1.4rem}
+.step-panel li{padding-left:1.3rem;position:relative;font-weight:600;font-size:.95rem;color:var(--ink2)}
+.step-panel li::before{content:"";position:absolute;left:0;top:.68em;width:13px;height:7px;border-left:2.5px solid var(--accent);border-bottom:2.5px solid var(--accent);transform:rotate(-45deg) translateY(-2px)}
+/* ---------- about ---------- */
+.about-grid{display:grid;grid-template-columns:1.1fr .9fr;gap:48px;align-items:start}
+.about-grid p+p{margin-top:1rem}
+.about-grid p{color:var(--muted)}
+.about-grid p b{color:var(--ink)}
+.facts{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius-lg);padding:8px 26px}
+.facts div{display:flex;justify-content:space-between;gap:1rem;padding:15px 0;border-bottom:1px solid var(--line)}
+.facts div:last-child{border-bottom:none}
+.facts dt{font-family:var(--font-m);font-size:.74rem;letter-spacing:.12em;text-transform:uppercase;color:var(--muted);padding-top:.2rem}
+.facts dd{margin:0;font-weight:700;text-align:right}
+.values{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:44px}
+.value{border-top:3px solid var(--accent);padding-top:16px}
+.value h3{font-size:1.02rem;margin-bottom:.35rem}
+.value p{color:var(--muted);font-size:.93rem}
+/* ---------- assessment ---------- */
+.assess-sec{background:var(--navy);color:var(--on-navy)}
+.assess-sec h2{color:#fff}
+.assess-sec .lede{color:var(--on-navy-mut)}
+.assess-sec .kicker{color:#5fd8bd}.assess-sec .kicker::before{background:#2fbf9f}
+.assess{display:grid;grid-template-columns:1.15fr .85fr;gap:26px;align-items:start}
+.q-block{margin-bottom:26px}
+.q-block h3{color:#fff;font-size:1.02rem;margin-bottom:.7rem}
+.q-block h3 span{font-family:var(--font-m);color:#5fd8bd;font-size:.78rem;margin-right:.5rem}
+.opts{display:flex;flex-wrap:wrap;gap:9px}
+.opt{background:rgba(255,255,255,.06);border:1.5px solid rgba(255,255,255,.16);color:var(--on-navy);border-radius:99px;padding:.55rem 1.05rem;font-family:var(--font-b);font-weight:600;font-size:.92rem;cursor:pointer}
+.opt:hover{border-color:#2fbf9f}
+.opt.sel{background:#2fbf9f;border-color:#2fbf9f;color:#06231c}
+.summary{background:#fff;color:#0c1524;border-radius:var(--radius-lg);padding:28px;position:sticky;top:92px}
+.summary .mono{color:var(--accent-ink)}
+.summary h3{font-size:1.25rem;margin:.45rem 0 .8rem}
+.sum-row{display:flex;justify-content:space-between;gap:1rem;padding:.55rem 0;border-bottom:1px dashed #dde3ea;font-size:.94rem}
+.sum-row span{color:#5b6b84}.sum-row b{text-align:right}
+.sum-note{color:#5b6b84;font-size:.88rem;margin:14px 0 18px}
+.summary .btn{width:100%;justify-content:center}
+/* ---------- insights ---------- */
+.ins-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.ins{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius-lg);padding:28px 26px;display:flex;flex-direction:column}
+.ins .mono{color:var(--accent-ink)}
+.ins h3{margin:.6rem 0 .55rem;font-size:1.12rem}
+.ins p{color:var(--muted);font-size:.94rem;flex:1}
+.ins a{margin-top:16px;font-weight:700;text-decoration:none;font-size:.94rem}
+.ins a:hover{text-decoration:underline}
+/* ---------- faq ---------- */
+.faq-list{max-width:820px}
+.faq{border:1px solid var(--line);border-radius:12px;background:var(--surface);margin-bottom:10px;overflow:hidden}
+.faq button{width:100%;display:flex;justify-content:space-between;align-items:center;gap:1rem;background:none;border:none;cursor:pointer;padding:18px 20px;font-family:var(--font-b);font-weight:700;font-size:1rem;color:var(--ink);text-align:left}
+.faq button .x{font-size:1.3rem;color:var(--accent-ink);font-weight:400;transition:transform .2s;flex:none}
+.faq.open button .x{transform:rotate(45deg)}
+.faq .a{display:none;padding:0 20px 19px;color:var(--muted);font-size:.96rem}
+.faq.open .a{display:block}
+/* ---------- contact ---------- */
+.contact-grid{display:grid;grid-template-columns:.9fr 1.1fr;gap:44px;align-items:start}
+.c-card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius-lg);padding:26px;margin-bottom:16px}
+.c-card .mono{color:var(--accent-ink)}
+.c-card b{display:block;font-size:1.12rem;margin-top:.35rem;font-family:var(--font-d)}
+.c-card p{color:var(--muted);font-size:.93rem;margin-top:.3rem}
+form.cform{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius-lg);padding:30px}
+.cform label{display:block;font-weight:700;font-size:.9rem;margin-bottom:16px}
+.cform input,.cform select,.cform textarea{width:100%;margin-top:6px;padding:.72rem .85rem;border:1.5px solid var(--line);border-radius:9px;font-family:var(--font-b);font-size:.97rem;background:var(--bg);color:var(--ink)}
+.cform input:focus,.cform select:focus,.cform textarea:focus{outline:none;border-color:var(--accent)}
+.cform .row{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+.form-note{font-size:.85rem;color:var(--muted);margin-top:12px}
+/* ---------- legal pages ---------- */
+.legal-page{display:none}
+.legal-page.open{display:block}
+.legal-wrap{max-width:840px}
+.legal-page .updated{font-family:var(--font-m);font-size:.8rem;letter-spacing:.1em;text-transform:uppercase;color:var(--muted);margin-top:.8rem}
+.legal-body{margin-top:34px}
+.legal-body h3{font-size:1.12rem;margin:30px 0 .5rem}
+.legal-body h3:first-child{margin-top:0}
+.legal-body p{color:var(--muted);margin-bottom:.8rem}
+.legal-body p b,.legal-body li b{color:var(--ink)}
+.legal-body ul{margin:0 0 .9rem;padding-left:1.25rem;color:var(--muted)}
+.legal-body li{margin-bottom:.35rem}
+.legal-back{display:inline-flex;align-items:center;gap:.45rem;font-weight:700;text-decoration:none;margin-top:36px}
+.legal-back:hover{text-decoration:underline}
+/* ---------- footer ---------- */
+footer{background:var(--navy);color:var(--on-navy-mut);padding:52px 0 34px}
+.foot{display:flex;justify-content:space-between;gap:2rem;flex-wrap:wrap;padding-bottom:30px;border-bottom:1px solid var(--navy-line)}
+.foot .brand b{color:#fff}.foot .brand small{color:#7e93b1}
+.foot nav{display:flex;gap:1.5rem;flex-wrap:wrap}
+.foot nav a{color:var(--on-navy-mut);text-decoration:none;font-weight:600;font-size:.93rem}
+.foot nav a:hover{color:#fff}
+.foot-base{display:flex;justify-content:space-between;gap:1rem;flex-wrap:wrap;padding-top:22px;font-size:.86rem}
+/* reveal */
+.rv.in{animation:rise .55s ease both}
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion: reduce){.rv{opacity:1;transform:none}}
+/* ---------- responsive ---------- */
+@media (max-width:1020px){
+  .hero .wrap{grid-template-columns:1fr;padding-bottom:64px}
+  .stage{min-height:400px;max-width:560px}
+  .svc-grid,.build-grid,.ins-grid{grid-template-columns:1fr 1fr}
+  .steps{grid-template-columns:1fr}
+  .step-list{flex-direction:row;flex-wrap:wrap}
+  .step-btn{width:auto}
+  .assess,.about-grid,.contact-grid{grid-template-columns:1fr}
+  .summary{position:static}
+}
+@media (max-width:680px){
+  .nav-links{display:none}
+  .burger{display:grid;place-items:center}
+  .sec{padding:60px 0}
+  .svc-grid,.build-grid,.ins-grid,.values{grid-template-columns:1fr}
+  .stage{min-height:360px}
+  .browser{width:96%}
+  .phone{width:138px}
+  .chip-a{bottom:26px}
+  .step-panel{padding:24px}
+  .step-panel ul{grid-template-columns:1fr}
+  .cform .row{grid-template-columns:1fr}
+  .hero-points{gap:1.1rem}
+}
+</style>
+</head>
+<body>
+
+<header class="site">
+  <div class="wrap nav">
+    <a class="brand" href="#top" aria-label="Nimbreon Systems LLC — home">
+      <span class="mark" aria-hidden="true">N</span>
+      <span><b>Nimbreon Systems</b><small>LLC · Information Technology</small></span>
+    </a>
+    <nav class="nav-links" aria-label="Primary">
+      <a href="#services">Services</a>
+      <a href="#work">What We Build</a>
+      <a href="#approach">Approach</a>
+      <a href="#about">About</a>
+      <a href="#insights">Insights</a>
+      <a href="#faq">FAQ</a>
+      <a class="btn btn-pri nav-cta" href="#contact">Start a Project</a>
+    </nav>
+    <button class="burger" id="burger" aria-label="Open menu" aria-expanded="false">☰</button>
+  </div>
+  <div class="mobile-menu" id="mobileMenu">
+    <a href="#services">Services</a>
+    <a href="#work">What We Build</a>
+    <a href="#approach">Approach</a>
+    <a href="#about">About</a>
+    <a href="#assessment">2-Minute Assessment</a>
+    <a href="#insights">Insights</a>
+    <a href="#faq">FAQ</a>
+    <a href="#contact">Contact</a>
+  </div>
+</header>
+
+<main id="top">
+
+<!-- ================= HERO ================= -->
+<section class="hero">
+  <div class="wrap">
+    <div>
+      <span class="kicker">Nimbreon Systems LLC</span>
+      <h1>We build <span class="hl">apps</span> and <span class="hl">websites</span> that move business forward.</h1>
+      <p class="sub">Nimbreon Systems is an information technology company. We design, build, and maintain mobile apps, business websites, and web platforms — one accountable team from first sketch to long-term support.</p>
+      <div class="hero-ctas">
+        <a class="btn btn-pri" href="#contact">Start a Project →</a>
+        <a class="btn btn-outline-l" href="#assessment">Take the 2-Minute Assessment</a>
+      </div>
+      <div class="hero-points">
+        <div><b>Mobile Apps</b><span>iOS &amp; Android, one codebase</span></div>
+        <div><b>Websites &amp; Platforms</b><span>Fast, secure, easy to manage</span></div>
+        <div><b>Ongoing Support</b><span>We stay after launch day</span></div>
+      </div>
+    </div>
+    <div class="stage" aria-hidden="true">
+      <div class="browser">
+        <div class="browser-bar">
+          <span class="dot" style="background:#e0655a"></span><span class="dot" style="background:#e2b34a"></span><span class="dot" style="background:#43b581"></span>
+          <span class="urlbar">yourbusiness.com</span>
+        </div>
+        <div class="browser-body">
+          <div class="bb-nav"><span class="bb-logo"></span><span class="bb-links"><i></i><i></i><i></i><i></i></span></div>
+          <div class="bb-h"></div><div class="bb-h2"></div>
+          <div class="bb-p"></div><div class="bb-p2"></div>
+          <div class="bb-row">
+            <div class="bb-card"><i></i><b></b><span></span></div>
+            <div class="bb-card"><i></i><b></b><span></span></div>
+            <div class="bb-card"><i></i><b></b><span></span></div>
+          </div>
+          <div class="bb-btn"></div>
+        </div>
+      </div>
+      <div class="phone">
+        <div class="ph-app"><i></i><div><b></b><span></span></div></div>
+        <div class="ph-hero"><b></b><span></span></div>
+        <div class="ph-row"><div class="ph-tile"></div><div class="ph-tile"></div></div>
+        <div class="ph-line"></div><div class="ph-line"></div><div class="ph-line s"></div>
+        <div class="ph-cta"></div>
+      </div>
+      <div class="chip-float chip-b"><span class="cdot"></span>iOS · Android · Web</div>
+      <div class="chip-float chip-a"><span class="cdot"></span>Design · Build · Support</div>
+    </div>
+  </div>
+</section>
+
+<div class="stack" aria-label="Technologies we work with">
+  <div class="wrap">
+    <span class="mono">What we deliver</span>
+    <ul>
+      <li>iOS Apps</li><li>Android Apps</li><li>Business Websites</li><li>Online Stores</li><li>Web Platforms</li><li>Dashboards</li><li>Cloud &amp; Email Setup</li><li>AI Features</li><li>Ongoing Support</li>
+    </ul>
+  </div>
+</div>
+
+<!-- ================= SERVICES ================= -->
+<section class="sec" id="services">
+  <div class="wrap">
+    <div class="sec-head rv">
+      <span class="kicker">Services</span>
+      <h2>Everything a digital product needs, under one roof</h2>
+      <p class="lede">Most of our work falls into six services. They connect: an app needs a backend, a website needs hosting and care, and every product needs a plan before a single screen is designed.</p>
+    </div>
+    <div class="svc-grid">
+      <article class="svc rv">
+        <span class="tag">Core Service</span>
+        <div class="ic"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="7" y="2.5" width="10" height="19" rx="2.5"/><path d="M10.5 18.8h3"/></svg></div>
+        <h3>Mobile App Development</h3>
+        <p>Native-quality apps for iPhone and Android from a single codebase — designed around your customers, ready for the App Store and Google Play.</p>
+        <ul><li>iOS &amp; Android apps</li><li>Cross-platform development</li><li>App Store submission &amp; updates</li><li>Push, payments &amp; accounts</li></ul>
+      </article>
+      <article class="svc rv">
+        <span class="tag">Core Service</span>
+        <div class="ic"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3" y="4.5" width="18" height="13" rx="2"/><path d="M3 8.5h18M8 21h8"/></svg></div>
+        <h3>Website Design &amp; Development</h3>
+        <p>Business websites that load fast, read clearly, and turn visitors into enquiries — built so your team can update them without a developer.</p>
+        <ul><li>Company &amp; marketing sites</li><li>E-commerce stores</li><li>Landing pages &amp; redesigns</li><li>CMS your team can run</li></ul>
+      </article>
+      <article class="svc rv">
+        <div class="ic"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M8 6 3.5 12 8 18M16 6l4.5 6L16 18M13.2 4l-2.4 16"/></svg></div>
+        <h3>Custom Software &amp; Web Platforms</h3>
+        <p>When spreadsheets and off-the-shelf tools stop fitting, we build the system that does: portals, dashboards, booking and internal tools.</p>
+        <ul><li>Customer portals &amp; dashboards</li><li>Booking &amp; workflow systems</li><li>API integrations</li><li>Internal business tools</li></ul>
+      </article>
+      <article class="svc rv">
+        <div class="ic"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M7 18.5a4.5 4.5 0 1 1 .6-8.96A5.5 5.5 0 0 1 18.3 11 3.7 3.7 0 0 1 17.5 18.5H7Z"/></svg></div>
+        <h3>Cloud &amp; IT Infrastructure</h3>
+        <p>Hosting, domains, email, and cloud setup handled properly from day one — so your product is fast, backed up, and not tied to one laptop.</p>
+        <ul><li>Cloud hosting &amp; deployment</li><li>Domain &amp; business email setup</li><li>Backups &amp; monitoring</li><li>Migration from old systems</li></ul>
+      </article>
+      <article class="svc rv">
+        <div class="ic"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 20V10M10 20V4M16 20v-8M21 20H3"/></svg></div>
+        <h3>Data &amp; AI Integration</h3>
+        <p>Practical AI and data features inside the products you already use — search, chat, recommendations, and reporting that saves staff time.</p>
+        <ul><li>AI chat &amp; support assistants</li><li>Smart search &amp; recommendations</li><li>Reporting dashboards</li><li>Data cleanup &amp; migration</li></ul>
+      </article>
+      <article class="svc rv">
+        <div class="ic"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M12 3 5 5.8v5.4c0 4.5 3 7.7 7 9.3 4-1.6 7-4.8 7-9.3V5.8L12 3Z"/><path d="m9 11.8 2.2 2.2 3.8-4"/></svg></div>
+        <h3>Security, Maintenance &amp; Support</h3>
+        <p>Software is never “finished.” We keep your app and website patched, secure, monitored, and improving — month after month.</p>
+        <ul><li>Security updates &amp; patching</li><li>Uptime &amp; error monitoring</li><li>Small fixes &amp; improvements</li><li>Priority support plans</li></ul>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- ================= WHAT WE BUILD ================= -->
+<section class="sec build-sec" id="work">
+  <div class="wrap">
+    <div class="sec-head rv">
+      <span class="kicker">What We Build</span>
+      <h2>Three kinds of product, one standard of finish</h2>
+      <p class="lede">Most projects start as one of these. Many grow into the next — a website gains online ordering, then an app, then a dashboard behind both.</p>
+    </div>
+    <div class="build-grid">
+      <article class="build rv">
+        <div class="build-vis" aria-hidden="true">
+          <div class="mini" style="left:20px;top:20px;width:70%;height:26px"></div>
+          <div class="mini" style="left:20px;top:60px;width:52%;height:16px;background:rgba(47,191,159,.35)"></div>
+          <div class="mini" style="left:20px;top:96px;width:27%;height:52px"></div>
+          <div class="mini" style="left:calc(20px + 29%);top:96px;width:27%;height:52px"></div>
+          <div class="mini" style="left:calc(20px + 58%);top:96px;width:27%;height:52px"></div>
+        </div>
+        <div class="build-body">
+          <span class="mono">01 · Websites</span>
+          <h3 style="margin-top:.4rem">Websites that sell while you sleep</h3>
+          <p>Company sites, online stores, and service pages with clear structure, fast load times, and enquiry forms that actually reach your inbox.</p>
+        </div>
+      </article>
+      <article class="build rv">
+        <div class="build-vis" aria-hidden="true">
+          <div class="mini" style="left:50%;top:16px;transform:translateX(-50%);width:86px;height:140px;border-radius:16px"></div>
+          <div class="mini" style="left:50%;top:34px;transform:translateX(-50%);width:62px;height:34px;background:rgba(47,191,159,.35)"></div>
+          <div class="mini" style="left:50%;top:80px;transform:translateX(-50%);width:62px;height:9px"></div>
+          <div class="mini" style="left:50%;top:96px;transform:translateX(-50%);width:62px;height:9px"></div>
+          <div class="mini" style="left:50%;top:122px;transform:translateX(-50%);width:62px;height:20px;background:#2fbf9f;border-color:transparent"></div>
+        </div>
+        <div class="build-body">
+          <span class="mono">02 · Mobile Apps</span>
+          <h3 style="margin-top:.4rem">Apps your customers keep</h3>
+          <p>Booking, ordering, loyalty, and service apps for iOS and Android — with accounts, payments, and notifications built in from the start.</p>
+        </div>
+      </article>
+      <article class="build rv">
+        <div class="build-vis" aria-hidden="true">
+          <div class="mini" style="left:20px;top:20px;width:56px;height:130px"></div>
+          <div class="mini" style="left:90px;top:20px;width:calc(100% - 130px);height:58px"></div>
+          <div class="mini" style="left:90px;top:92px;width:calc(50% - 72px);height:58px;background:rgba(47,191,159,.3)"></div>
+          <div class="mini" style="left:calc(50% + 6px);top:92px;width:calc(50% - 46px);height:58px"></div>
+        </div>
+        <div class="build-body">
+          <span class="mono">03 · Platforms</span>
+          <h3 style="margin-top:.4rem">Platforms that run the business</h3>
+          <p>Admin dashboards, customer portals, and internal systems that replace patchwork spreadsheets and give your team one source of truth.</p>
+        </div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- ================= APPROACH ================= -->
+<section class="sec" id="approach">
+  <div class="wrap">
+    <div class="sec-head rv">
+      <span class="kicker">Approach</span>
+      <h2>A clear process, no surprises</h2>
+      <p class="lede">Five stages, each with a defined output. You always know what is happening, what it costs, and what comes next. Select a stage to see what it includes.</p>
+    </div>
+    <div class="steps rv">
+      <div class="step-list" role="tablist" aria-label="Project stages" id="stepList"></div>
+      <div class="step-panel" id="stepPanel" role="tabpanel"></div>
+    </div>
+  </div>
+</section>
+
+<!-- ================= ABOUT ================= -->
+<section class="sec" id="about" style="padding-top:20px">
+  <div class="wrap">
+    <div class="about-grid">
+      <div class="rv">
+        <span class="kicker">About</span>
+        <h2 style="margin:.55rem 0 .8rem">A small IT company, built for long-term work</h2>
+        <p><b>Nimbreon Systems LLC</b> is a United States information technology company working across apps, websites, and the systems behind them. We were founded on a simple observation: most small and mid-sized businesses don’t need a bigger agency — they need one technical partner who understands the whole stack and answers the phone after launch.</p>
+        <p>That is the role we fill. We scope honestly, build in the open with weekly progress you can see, and stay on as your support team once the product is live. Whether it is your first company website or an app your customers will use every day, the standard is the same: clear communication, clean engineering, and software that earns its keep.</p>
+      </div>
+      <dl class="facts rv">
+        <div><dt>Company</dt><dd>Nimbreon Systems LLC</dd></div>
+        <div><dt>Focus</dt><dd>Apps · Websites · IT</dd></div>
+        <div><dt>Based</dt><dd>United States</dd></div>
+        <div><dt>Website</dt><dd>nimbreonsystems.com</dd></div>
+        <div><dt>Contact</dt><dd><a href="mailto:contact@nimbreonsystems.com" style="text-decoration:none">contact@nimbreonsystems.com</a></dd></div>
+      </dl>
+    </div>
+    <div class="values">
+      <div class="value rv"><h3>Scope before code</h3><p>We write down what we are building — and what we are not — before development starts. Fewer surprises, firmer prices.</p></div>
+      <div class="value rv"><h3>Built to be maintained</h3><p>Standard technology, documented handover, and no lock-in tricks. Your product stays understandable and movable.</p></div>
+      <div class="value rv"><h3>Launch is the midpoint</h3><p>Real users find real problems. We plan for updates, measurement, and support from the first conversation.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- ================= ASSESSMENT ================= -->
+<section class="sec assess-sec" id="assessment">
+  <div class="wrap">
+    <div class="sec-head rv">
+      <span class="kicker">2-Minute Assessment</span>
+      <h2>Scope your project in three questions</h2>
+      <p class="lede">Answer honestly and we will outline the likely shape of your project — then send it straight to our inbox, pre-filled. No account, no obligation.</p>
+    </div>
+    <div class="assess">
+      <div id="assessForm"></div>
+      <aside class="summary rv" aria-live="polite">
+        <span class="mono">Your project outline</span>
+        <h3 id="sumTitle">Let’s define it together</h3>
+        <div class="sum-row"><span>Type</span><b id="sumType">—</b></div>
+        <div class="sum-row"><span>Must-haves</span><b id="sumFeat">—</b></div>
+        <div class="sum-row"><span>Timeline</span><b id="sumTime">—</b></div>
+        <div class="sum-row"><span>Suggested first step</span><b id="sumStep">Discovery call</b></div>
+        <p class="sum-note" id="sumNote">Pick a project type to see a tailored recommendation. When you are ready, send the outline to us and we will reply with next steps and a scoped estimate.</p>
+        <a class="btn btn-pri" id="sumSend" href="mailto:contact@nimbreonsystems.com?subject=Project%20enquiry%20—%20Nimbreon%20Systems">Send this outline to Nimbreon →</a>
+      </aside>
+    </div>
+  </div>
+</section>
+
+<!-- ================= INSIGHTS ================= -->
+<section class="sec" id="insights">
+  <div class="wrap">
+    <div class="sec-head rv">
+      <span class="kicker">Insights</span>
+      <h2>Plain-English notes on building digital products</h2>
+      <p class="lede">Short, practical reads for business owners planning an app or a website — the questions we answer most often, written down.</p>
+    </div>
+    <div class="ins-grid">
+      <article class="ins rv">
+        <span class="mono">Guide · Apps</span>
+        <h3>App or mobile website? How to decide</h3>
+        <p>If customers return weekly, pay, or book, an app usually earns its place. If they visit twice a year to check opening hours, a fast mobile website wins — and costs a fraction as much. Here is the decision framework we use with clients.</p>
+        <a href="#faq">Read the short version in our FAQ ↓</a>
+      </article>
+      <article class="ins rv">
+        <span class="mono">Guide · Websites</span>
+        <h3>What a business website actually needs in 2026</h3>
+        <p>Speed, clarity, and trust signals beat visual fireworks. The essentials: sub-two-second loads, one clear action per page, working contact routes, and content your team can update without calling a developer.</p>
+        <a href="#services">See how our web service covers it ↑</a>
+      </article>
+      <article class="ins rv">
+        <span class="mono">Guide · Budgeting</span>
+        <h3>How software projects are really priced</h3>
+        <p>Price follows scope, integrations, and how finished the design must be — not the number of screens. The cheapest way to control cost is a written scope and a staged build: launch the core, then grow it with real feedback.</p>
+        <a href="#assessment">Scope yours in 2 minutes ↑</a>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- ================= FAQ ================= -->
+<section class="sec" id="faq" style="padding-top:10px">
+  <div class="wrap">
+    <div class="sec-head rv">
+      <span class="kicker">FAQ</span>
+      <h2>Questions, answered straight</h2>
+    </div>
+    <div class="faq-list" id="faqList"></div>
+  </div>
+</section>
+
+<!-- ================= CONTACT ================= -->
+<section class="sec" id="contact" style="background:var(--bg2)">
+  <div class="wrap">
+    <div class="sec-head rv">
+      <span class="kicker">Contact</span>
+      <h2>Tell us what you want to build</h2>
+      <p class="lede">One message is enough to start. Describe the idea in plain words — we will reply with honest first thoughts, a suggested approach, and what a scoped estimate would need from you.</p>
+    </div>
+    <div class="contact-grid">
+      <div>
+        <div class="c-card rv">
+          <span class="mono">Email</span>
+          <b><a href="mailto:contact@nimbreonsystems.com" style="color:inherit;text-decoration:none">contact@nimbreonsystems.com</a></b>
+          <p>The fastest route. Project enquiries, support, and general questions all land here.</p>
+        </div>
+        <div class="c-card rv">
+          <span class="mono">Company</span>
+          <b>Nimbreon Systems LLC</b>
+          <p>Information technology · App &amp; web development<br />United States · nimbreonsystems.com</p>
+        </div>
+        <div class="c-card rv">
+          <span class="mono">What happens next</span>
+          <b>A scoped reply, not a sales pitch</b>
+          <p>We read every enquiry ourselves, answer questions directly, and only propose a build when we understand the problem.</p>
+        </div>
+      </div>
+      <form class="cform rv" id="contactForm">
+        <div class="row">
+          <label>Your name<input type="text" id="fName" autocomplete="name" placeholder="e.g. Jordan Lee" /></label>
+          <label>Your email<input type="email" id="fEmail" autocomplete="email" placeholder="Your email address" /></label>
+        </div>
+        <label>What do you need?
+          <select id="fType">
+            <option value="Mobile app">Mobile app</option>
+            <option value="Website">Website</option>
+            <option value="Web platform / custom software">Web platform / custom software</option>
+            <option value="Cloud, email & IT setup">Cloud, email &amp; IT setup</option>
+            <option value="Support for an existing product">Support for an existing product</option>
+            <option value="Something else">Something else</option>
+          </select>
+        </label>
+        <label>About the project<textarea id="fMsg" rows="5" placeholder="What should it do? Who is it for? Any deadline we should know about?"></textarea></label>
+        <button type="submit" class="btn btn-pri" style="width:100%;justify-content:center">Compose Email to Nimbreon →</button>
+        <p class="form-note">This opens your own email app with everything pre-filled to <b>contact@nimbreonsystems.com</b> — nothing is sent until you press send there.</p>
+      </form>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<!-- ================= PRIVACY POLICY ================= -->
+<section class="sec legal-page" id="privacy" aria-labelledby="privacyTitle">
+  <div class="wrap legal-wrap">
+    <span class="kicker">Legal</span>
+    <h2 id="privacyTitle" style="margin-top:.55rem">Privacy Policy</h2>
+    <p class="updated">Last updated: October 31, 2026</p>
+    <div class="legal-body">
+      <p>This Privacy Policy explains what information <b>Nimbreon Systems LLC</b> (“Nimbreon Systems,” “we,” “us”) collects through this website, how we use it, and the choices you have. It applies to this website and to enquiries sent to us through it.</p>
+
+      <h3>Information we collect</h3>
+      <p>We only collect information that you choose to give us. Specifically:</p>
+      <ul>
+        <li><b>Contact form:</b> your name, your email address, the type of project you select, and the project details you write in your message.</li>
+        <li><b>Project assessment:</b> the answers you select in our 2-minute assessment — project type, features, and timeline — if you choose to send the resulting outline to us.</li>
+        <li><b>Email correspondence:</b> anything you include in emails you send to <a href="mailto:contact@nimbreonsystems.com">contact@nimbreonsystems.com</a>.</li>
+      </ul>
+      <p>Both the contact form and the assessment work through your own email app: they prepare a pre-filled email in your mail program, and nothing is transmitted to us until you press send in that app. We do not operate user accounts on this website, and we do not ask for payment details through it.</p>
+
+      <h3>How we use your information</h3>
+      <p>We use the information you send us to:</p>
+      <ul>
+        <li>Read and respond to your enquiry;</li>
+        <li>Understand your project and prepare a scoped estimate or proposal;</li>
+        <li>Communicate with you about a project or support engagement you ask us about; and</li>
+        <li>Keep ordinary business records of our correspondence.</li>
+      </ul>
+      <p>We do not use enquiry information for unrelated marketing, and we will not add you to a mailing list without your permission.</p>
+
+      <h3>We do not sell your information</h3>
+      <p><b>We do not sell, rent, or trade your personal information to anyone.</b> We share it only where necessary to operate our business — for example, with the email and hosting providers that deliver your message to us — or where we are required to do so by law.</p>
+
+      <h3>How long we keep it</h3>
+      <p>We keep enquiry emails and related correspondence for as long as reasonably needed to respond to you, to provide services you engage us for, and to maintain normal business and legal records. You may ask us to delete your information sooner, as described below.</p>
+
+      <h3>Your choices and deletion requests</h3>
+      <p>You may ask us at any time what personal information we hold about you, ask us to correct it, or ask us to delete it. To make a request, email us at <a href="mailto:contact@nimbreonsystems.com">contact@nimbreonsystems.com</a> from the email address you used to contact us, and tell us what you would like us to do. We will respond to deletion requests promptly and confirm once your information has been removed, except where we are required to retain a record by law.</p>
+
+      <h3>Security</h3>
+      <p>We take reasonable steps to protect the information you send us against unauthorized access, loss, or misuse. No method of transmission or storage is completely secure, so we cannot guarantee absolute security.</p>
+
+      <h3>Changes to this policy</h3>
+      <p>If we change this policy, we will post the updated version on this page and revise the “Last updated” date above. Continued use of this website after a change means you accept the updated policy.</p>
+
+      <h3>Contact us</h3>
+      <p>Questions about this policy or about your information: email <a href="mailto:contact@nimbreonsystems.com">contact@nimbreonsystems.com</a>.</p>
+    </div>
+    <a class="legal-back" href="#top">← Back to the Nimbreon Systems home page</a>
+  </div>
+</section>
+
+<!-- ================= TERMS OF SERVICE ================= -->
+<section class="sec legal-page" id="terms" aria-labelledby="termsTitle">
+  <div class="wrap legal-wrap">
+    <span class="kicker">Legal</span>
+    <h2 id="termsTitle" style="margin-top:.55rem">Terms of Service</h2>
+    <p class="updated">Last updated: October 31, 2026</p>
+    <div class="legal-body">
+      <p>These Terms of Service (“Terms”) govern your use of this website, operated by <b>Nimbreon Systems LLC</b> (“Nimbreon Systems,” “we,” “us”). By using this website, you agree to these Terms. If you do not agree, please do not use the site.</p>
+
+      <h3>Our services</h3>
+      <p>Nimbreon Systems LLC is a United States information technology company. We provide mobile app development, website design and development, custom software and web platforms, cloud and IT infrastructure services, data and AI integration, and ongoing maintenance and support.</p>
+
+      <h3>Services are provided on a project basis</h3>
+      <p>All services are provided <b>on a project basis</b>. Each engagement begins with a written scope, proposal, or agreement agreed between you and Nimbreon Systems that describes the work, deliverables, schedule, and price for that project. That project document — not this website — governs the work we do for you. Nothing on this website is a commitment to undertake any particular project.</p>
+
+      <h3>Estimates are not binding quotes</h3>
+      <p>Any estimate, price indication, timeline, or recommendation we give — on this website, through the project assessment, or in early correspondence — is <b>preliminary and not a binding quote</b>. Prices and timelines become binding only when they are <b>confirmed in writing</b> in an agreed scope, proposal, or signed agreement for your project. If the scope of a project changes, the price and schedule may change too, and any such change will be confirmed in writing before the additional work begins.</p>
+
+      <h3>Website content is general information</h3>
+      <p>The content of this website — including our service descriptions, guides, insights, and FAQ — is provided for <b>general information only</b>. It is <b>not legal, financial, tax, or other professional advice</b>, and it should not be relied on as a substitute for advice from a qualified professional about your specific situation.</p>
+
+      <h3>Intellectual property</h3>
+      <p>The content, design, and branding of this website belong to Nimbreon Systems LLC and may not be copied or reused without our written permission. Ownership of deliverables we create for clients — including apps, websites, and code — is governed by the written agreement for that project.</p>
+
+      <h3>Acceptable use</h3>
+      <p>You agree to use this website lawfully and not to misuse it — for example, by attempting to disrupt it, access it or its systems without authorization, or submit false or misleading enquiries.</p>
+
+      <h3>Third-party services and links</h3>
+      <p>Projects and this website may involve third-party platforms and services (such as app stores, hosting, and payment providers). Those services are governed by their own terms, and we are not responsible for them.</p>
+
+      <h3>Limitation of liability</h3>
+      <p>This website is provided “as is,” without warranties of any kind. To the fullest extent permitted by law, Nimbreon Systems LLC is not liable for any damages arising from your use of this website or reliance on its general content. Liability arising from an actual client project is governed by the written agreement for that project.</p>
+
+      <h3>Changes to these Terms</h3>
+      <p>We may update these Terms from time to time. The current version will always be posted on this page with its “Last updated” date, and continued use of the website after a change means you accept the updated Terms.</p>
+
+      <h3>Contact us</h3>
+      <p>Questions about these Terms: email <a href="mailto:contact@nimbreonsystems.com">contact@nimbreonsystems.com</a>.</p>
+    </div>
+    <a class="legal-back" href="#top">← Back to the Nimbreon Systems home page</a>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <div class="foot">
+      <a class="brand" href="#top" style="text-decoration:none">
+        <span class="mark" aria-hidden="true">N</span>
+        <span><b>Nimbreon Systems</b><small>LLC · Information Technology</small></span>
+      </a>
+      <nav aria-label="Footer">
+        <a href="#services">Services</a><a href="#work">What We Build</a><a href="#approach">Approach</a><a href="#about">About</a><a href="#assessment">Assessment</a><a href="#faq">FAQ</a><a href="#contact">Contact</a><a href="#privacy">Privacy Policy</a><a href="#terms">Terms of Service</a>
+      </nav>
+    </div>
+    <div class="foot-base">
+      <span>© 2026 Nimbreon Systems LLC. All rights reserved. · <a href="#privacy" style="color:inherit;font-weight:600">Privacy Policy</a> · <a href="#terms" style="color:inherit;font-weight:600">Terms of Service</a></span>
+      <span>Email: <a href="mailto:contact@nimbreonsystems.com" style="color:inherit;text-decoration:none;font-weight:600">contact@nimbreonsystems.com</a></span>
+      <span>Apps · Websites · Web Platforms · IT Support — nimbreonsystems.com</span>
+    </div>
+  </div>
+</footer>
+
+<script>
+(function(){
+  "use strict";
+  /* mobile menu */
+  var burger=document.getElementById('burger'), menu=document.getElementById('mobileMenu');
+  burger.addEventListener('click',function(){
+    var open=menu.classList.toggle('open');
+    burger.setAttribute('aria-expanded',open?'true':'false');
+    burger.textContent=open?'✕':'☰';
+  });
+  menu.addEventListener('click',function(e){ if(e.target.tagName==='A'){ menu.classList.remove('open'); burger.textContent='☰'; } });
+
+  /* reveal on scroll */
+  if('IntersectionObserver' in window){
+    var io=new IntersectionObserver(function(es){ es.forEach(function(en){ if(en.isIntersecting){ en.target.classList.add('in'); io.unobserve(en.target);} }); },{threshold:.12});
+    document.querySelectorAll('.rv').forEach(function(el){ io.observe(el); });
+  } else { document.querySelectorAll('.rv').forEach(function(el){ el.classList.add('in'); }); }
+
+  /* approach stepper */
+  var steps=[
+    {n:'01',t:'Discover',h:'We start with the problem, not the product',p:'A short working session — plus a review of anything you already have — to pin down who the product is for, what success looks like, and what the first version must do. You get a written scope and a firm estimate before any building starts.',pts:['Goals & audience workshop','Written scope & firm estimate','Technical recommendations','Honest go / no-go advice']},
+    {n:'02',t:'Design',h:'Screens you can click before we build them',p:'We design the key screens and flows as an interactive prototype, so you and your team can react to something real. Revisions happen here, where they are cheap — not after development.',pts:['Wireframes & visual design','Clickable prototype','Copy & content guidance','Design sign-off checkpoint']},
+    {n:'03',t:'Build',h:'Development in weekly, visible increments',p:'Your product is built in short cycles with a live preview link you can open any time. Questions get answered as they come up, and the scope document — not memory — decides what is included.',pts:['Weekly progress previews','Staging link from week one','Payments, accounts & integrations','Content loaded & checked']},
+    {n:'04',t:'Launch',h:'Tested, submitted, and switched on carefully',p:'We test on real devices, handle App Store and Google Play submission, configure hosting, domains, and analytics, and launch with a rollback plan in place — not crossed fingers.',pts:['Real-device QA testing','App Store & Play submission','Hosting, domain & email setup','Launch-day monitoring']},
+    {n:'05',t:'Grow',h:'Support and small improvements, every month',p:'After launch we keep watch: security updates, backups, error monitoring, and a steady rhythm of small improvements driven by how people actually use the product.',pts:['Security updates & backups','Uptime & error monitoring','Monthly improvement time','Priority support channel']}
+  ];
+  var list=document.getElementById('stepList'), panel=document.getElementById('stepPanel');
+  steps.forEach(function(s,i){
+    var b=document.createElement('button');
+    b.className='step-btn'; b.setAttribute('role','tab'); b.setAttribute('aria-selected', i===0?'true':'false');
+    b.innerHTML='<span class="n">'+s.n+'</span><b>'+s.t+'</b>';
+    b.addEventListener('click',function(){
+      list.querySelectorAll('.step-btn').forEach(function(x){ x.setAttribute('aria-selected','false'); });
+      b.setAttribute('aria-selected','true'); renderStep(s);
+    });
+    list.appendChild(b);
+  });
+  function renderStep(s){
+    panel.innerHTML='<span class="mono">Stage '+s.n+'</span><h3>'+s.h+'</h3><p>'+s.p+'</p><ul>'+s.pts.map(function(x){return '<li>'+x+'</li>';}).join('')+'</ul>';
+  }
+  renderStep(steps[0]);
+
+  /* assessment */
+  var groups=[
+    {key:'type',q:'What are you building?',multi:false,opts:['Mobile app','Business website','Online store','Web platform / portal','Not sure yet']},
+    {key:'feat',q:'Which of these must it have?',multi:true,opts:['User accounts','Payments','Booking','Push notifications','Admin dashboard','Maps & location','AI features','None of these']},
+    {key:'time',q:'What timeline are you aiming for?',multi:false,opts:['ASAP — under 6 weeks','1–3 months','3–6 months','Exploring for now']}
+  ];
+  var answers={type:null,feat:[],time:null};
+  var form=document.getElementById('assessForm');
+  groups.forEach(function(g,gi){
+    var blk=document.createElement('div'); blk.className='q-block';
+    var h=document.createElement('h3'); h.innerHTML='<span>Q'+(gi+1)+'</span>'+g.q+(g.multi?' <span style="color:#9fb0c6;font-family:var(--font-b);font-size:.8rem">(pick any)</span>':'');
+    blk.appendChild(h);
+    var ow=document.createElement('div'); ow.className='opts';
+    g.opts.forEach(function(o){
+      var b=document.createElement('button'); b.type='button'; b.className='opt'; b.textContent=o; b.setAttribute('aria-pressed','false');
+      b.addEventListener('click',function(){
+        if(g.multi){
+          var i=answers.feat.indexOf(o);
+          if(i>-1){ answers.feat.splice(i,1); b.classList.remove('sel'); b.setAttribute('aria-pressed','false'); }
+          else{ answers.feat.push(o); b.classList.add('sel'); b.setAttribute('aria-pressed','true'); }
+          if(o==='None of these' && b.classList.contains('sel')){
+            answers.feat=['None of these'];
+            ow.querySelectorAll('.opt').forEach(function(x){ if(x!==b){ x.classList.remove('sel'); x.setAttribute('aria-pressed','false'); } });
+          } else if(o!=='None of these'){
+            var ni=answers.feat.indexOf('None of these');
+            if(ni>-1){ answers.feat.splice(ni,1); ow.querySelectorAll('.opt').forEach(function(x){ if(x.textContent==='None of these'){ x.classList.remove('sel'); x.setAttribute('aria-pressed','false'); } }); }
+          }
+        } else {
+          answers[g.key]=o;
+          ow.querySelectorAll('.opt').forEach(function(x){ x.classList.remove('sel'); x.setAttribute('aria-pressed','false'); });
+          b.classList.add('sel'); b.setAttribute('aria-pressed','true');
+        }
+        updateSummary();
+      });
+      ow.appendChild(b);
+    });
+    blk.appendChild(ow); form.appendChild(blk);
+  });
+  function stepFor(){
+    if(!answers.type) return 'Discovery call';
+    if(answers.type==='Not sure yet') return 'Free scoping session';
+    if(answers.type==='Mobile app') return 'Prototype-first plan';
+    if(answers.type==='Web platform / portal') return 'Technical scoping workshop';
+    return 'Design & build proposal';
+  }
+  function noteFor(){
+    if(!answers.type) return 'Pick a project type to see a tailored recommendation. When you are ready, send the outline to us and we will reply with next steps and a scoped estimate.';
+    var n='Based on your answers, we would start with a '+stepFor().toLowerCase()+' and a written scope before quoting a firm price.';
+    if(answers.feat.indexOf('Payments')>-1) n+=' Payments are included in the plan — we build on Stripe so card data never touches your servers.';
+    if(answers.feat.indexOf('AI features')>-1) n+=' For AI features we prototype against your real content first, so you see value before committing to the full build.';
+    if(answers.time==='ASAP — under 6 weeks') n+=' On a tight timeline we would stage the launch: core features first, the rest right after.';
+    return n;
+  }
+  function updateSummary(){
+    document.getElementById('sumType').textContent=answers.type||'—';
+    document.getElementById('sumFeat').textContent=answers.feat.length?answers.feat.join(', '):'—';
+    document.getElementById('sumTime').textContent=answers.time||'—';
+    document.getElementById('sumStep').textContent=stepFor();
+    document.getElementById('sumTitle').textContent=answers.type?('Your '+answers.type.toLowerCase()+' project'):'Let’s define it together';
+    document.getElementById('sumNote').textContent=noteFor();
+    var lines=['Project outline — Nimbreon Systems assessment','','Type: '+(answers.type||'not chosen'),'Must-haves: '+(answers.feat.length?answers.feat.join(', '):'not chosen'),'Timeline: '+(answers.time||'not chosen'),'Suggested first step: '+stepFor(),'','Please reply with next steps and a scoped estimate.'];
+    document.getElementById('sumSend').href='mailto:contact@nimbreonsystems.com?subject='+encodeURIComponent('Project outline — '+(answers.type||'new project'))+'&body='+encodeURIComponent(lines.join('\n'));
+  }
+  updateSummary();
+
+  /* FAQ */
+  var faqs=[
+    {q:'How much does an app or website cost?',a:'It depends on scope, not screen count. A focused business website is a smaller engagement than a two-platform app with payments and accounts. That is why every project starts with a written scope and a firm estimate — you approve the number before we build, and staged builds (core first, extras later) are always an option.'},
+    {q:'How long does a typical project take?',a:'A standard business website usually runs 3–6 weeks from signed scope. A first-version mobile app is typically 8–14 weeks, including App Store and Google Play review time. Your estimate will include a schedule, and the weekly preview link shows progress against it.'},
+    {q:'Do I need an app, or is a mobile website enough?',a:'If people will return weekly, book or pay repeatedly, or need notifications, an app earns its place. If visits are occasional and informational, a fast mobile-friendly website delivers most of the value for a fraction of the cost. We will tell you honestly which side your idea falls on — including when the answer is “just the website.”'},
+    {q:'Who owns the app, website, and code when it is done?',a:'You do. The domain, accounts, content, and code are registered and delivered in your company’s name, with documentation. We keep working with most clients after launch by choice — support plans are optional, never a lock-in.'},
+    {q:'Can you take over or fix an existing app or website?',a:'Yes — recovery and takeover work is a regular part of what we do. We start with a technical audit of what exists (code, hosting, accounts, and security), tell you plainly what is worth keeping, and then repair, rebuild, or maintain from there.'},
+    {q:'What support do you offer after launch?',a:'Support plans cover security updates, backups, uptime and error monitoring, small content and feature changes, and a priority channel when something breaks. Software that is not maintained quietly becomes a liability — we make sure yours does not.'},
+    {q:'Where are you based, and who do you work with?',a:'Nimbreon Systems LLC is a U.S. information technology company. We work remotely with clients across the United States and beyond — most collaboration happens over video calls and shared preview links, which keeps overheads (and prices) sensible.'}
+  ];
+  var fl=document.getElementById('faqList');
+  faqs.forEach(function(f,i){
+    var d=document.createElement('div'); d.className='faq'+(i===0?' open':'');
+    d.innerHTML='<button aria-expanded="'+(i===0?'true':'false')+'"><span>'+f.q+'</span><span class="x" aria-hidden="true">+</span></button><div class="a">'+f.a+'</div>';
+    d.querySelector('button').addEventListener('click',function(){
+      var open=d.classList.toggle('open');
+      this.setAttribute('aria-expanded',open?'true':'false');
+    });
+    fl.appendChild(d);
+  });
+
+  /* contact form -> mailto */
+  document.getElementById('contactForm').addEventListener('submit',function(e){
+    e.preventDefault();
+    var name=document.getElementById('fName').value.trim(),
+        email=document.getElementById('fEmail').value.trim(),
+        type=document.getElementById('fType').value,
+        msg=document.getElementById('fMsg').value.trim();
+    var body=['Name: '+(name||'—'),'Email: '+(email||'—'),'Project type: '+type,'','About the project:',msg||'—'].join('\n');
+    window.location.href='mailto:contact@nimbreonsystems.com?subject='+encodeURIComponent('Project enquiry — '+type)+'&body='+encodeURIComponent(body);
+  });
+
+  /* legal pages (#privacy / #terms) shown as standalone pages */
+  var mainEl=document.querySelector('main'),
+      privacyEl=document.getElementById('privacy'),
+      termsEl=document.getElementById('terms'),
+      baseTitle=document.title;
+  function showLegal(which){
+    var showHome=!which;
+    mainEl.style.display=showHome?'':'none';
+    privacyEl.classList.toggle('open',which==='privacy');
+    termsEl.classList.toggle('open',which==='terms');
+    document.title=which==='privacy'?'Privacy Policy — Nimbreon Systems LLC':which==='terms'?'Terms of Service — Nimbreon Systems LLC':baseTitle;
+    return showHome;
+  }
+  function route(anchor){
+    var h=location.hash;
+    if(h==='#privacy'){ showLegal('privacy'); window.scrollTo(0,0); return; }
+    if(h==='#terms'){ showLegal('terms'); window.scrollTo(0,0); return; }
+    var wasLegal=privacyEl.classList.contains('open')||termsEl.classList.contains('open');
+    if(showLegal(null)&&wasLegal&&anchor){
+      var t=document.querySelector(anchor);
+      if(t) t.scrollIntoView();
+    }
+  }
+  document.querySelectorAll('a[href^="#"]').forEach(function(a){
+    a.addEventListener('click',function(e){
+      var href=a.getAttribute('href');
+      if(href==='#privacy'||href==='#terms'||privacyEl.classList.contains('open')||termsEl.classList.contains('open')){
+        e.preventDefault();
+        if(location.hash!==href){ history.pushState(null,'',href); }
+        route(href==='#top'?null:href);
+        if(href==='#top') window.scrollTo(0,0);
+      }
+    });
+  });
+  window.addEventListener('hashchange',function(){ route(location.hash==='#top'?null:location.hash); });
+  window.addEventListener('popstate',function(){ route(location.hash==='#top'?null:location.hash); });
+  route(null);
+})();
+</script>
+</body>
+</html>
