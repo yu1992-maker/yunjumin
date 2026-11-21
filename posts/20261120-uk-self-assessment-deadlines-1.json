@@ -1,0 +1,35 @@
+{
+ "slug": "20261120-uk-self-assessment-deadlines-1",
+ "cat": "英国",
+ "date": "2026-11-20",
+ "topic": "英国 Self Assessment 自报税：谁要报、截止日期和罚款",
+ "title": "英国自报税 Self Assessment：谁要报、2027年1月31日截止与罚款",
+ "desc": "2025/26 税年网上报税截止 2027 年 1 月 31 日，第一次报要在 2026 年 10 月 5 日前注册。本文讲谁要报、关键日期、迟报罚款和 2026 年新上线的 MTD。",
+ "body": "<p>先说结论：英国大多数打工人工资由雇主 PAYE 代扣税，<b>不用自己报</b>；但有自雇、房租、海外收入等情况的，要做 <b>Self Assessment（自我评估报税）</b>。<b>2025/26 税年（2025-04-06 至 2026-04-05）网上报税和缴税的截止日是 2027 年 1 月 31 日</b>。</p>\n<p>以下整理自 GOV.UK 和 HMRC 官方资料（2026 年 11 月查询），以官网为准。</p>\n<h2>谁需要报</h2>\n<p>常见需要报的情况，例如：</p>\n<ul><li>自雇（sole trader）一年收入超过 £1,000；</li><li>是合伙企业（partnership）的合伙人；</li><li>有出租房产等没有被代扣税的收入；</li><li>有需要在英国交税的海外收入；</li><li>领了 Child Benefit，而你或伴侣收入超过 £60,000。</li></ul>\n<p>拿不准就用 GOV.UK 的在线检查工具（Check if you need to send a Self Assessment tax return）测一下。<b>以后不用报了要主动告诉 HMRC</b>，否则 HMRC 仍会等你的申报，不交会被罚。</p>\n<h2>2025/26 税年关键日期</h2>\n<table><tr><th>事项</th><th>截止时间</th></tr>\n<tr><td>第一次报税，注册 Self Assessment</td><td>2026 年 10 月 5 日（之后注册，HMRC 会另给一个 3 个月后的期限）</td></tr>\n<tr><td>纸质报税表</td><td>2026 年 10 月 31 日 23:59 前寄到</td></tr>\n<tr><td>想通过税码（tax code）分期扣欠税</td><td>2026 年 12 月 30 日前网上提交</td></tr>\n<tr><td><b>网上报税 + 缴税</b></td><td><b>2027 年 1 月 31 日 23:59</b></td></tr>\n<tr><td>第二笔预缴（payment on account，如适用）</td><td>2027 年 7 月 31 日</td></tr></table>\n<p>以前注册过、但上一年没报的，要先把账户<b>重新激活</b>。</p>\n<h2>迟报、迟缴罚多少</h2>\n<ul><li>迟报：先罚 <b>£100</b>，<b>就算一分税都不欠也罚</b>；</li><li>超过 3 个月：每天加 £10，最多 £900；</li><li>超过 6 个月：再罚应缴税款的 5% 或 £300，取较高者；</li><li>迟缴：30 天、6 个月、12 个月各罚未缴税款的 5%，另加利息。</li></ul>\n<p>有合理理由（reasonable excuse）可以申请免罚。</p>\n<h2>2026 年新变化：Making Tax Digital（MTD）</h2>\n<p>从 <b>2026 年 4 月 6 日</b>起，自雇和房东的<b>自雇+房租总营业额（扣费用前）超过 £50,000</b> 的，要用兼容软件记账、每季度向 HMRC 报一次（第一次季度更新截止 2026 年 8 月 7 日）。门槛 2027 年 4 月降到 £30,000，2028 年 4 月降到 £20,000。HMRC 说第一年（2026/27）迟交季度更新<b>不记罚分</b>，但年度报税和缴税迟了照样罚。</p>\n<h2>常见问题</h2>\n<h3>问：我只有工资，雇主已经扣税了，要报吗？</h3><p>答：一般不用。有上面列的其他收入，或者 HMRC 发信要你报，才需要报。</p>\n<h3>问：在苏格兰税率一样吗？</h3><p>答：不一样，苏格兰对工资等收入有自己的税档，报税时系统会按你的居住地计算。</p>\n<p><b>提醒：</b>以上整理自 GOV.UK 公开资料，日期和金额以 GOV.UK 为准；情况复杂（海外收入、多份收入、公司）建议咨询英国注册会计师或税务顾问。</p>",
+ "sources": [
+  [
+   "GOV.UK – Self Assessment tax returns: deadlines",
+   "https://www.gov.uk/self-assessment-tax-returns/deadlines"
+  ],
+  [
+   "GOV.UK – Check if you need to send a Self Assessment tax return",
+   "https://www.gov.uk/check-if-you-need-tax-return"
+  ],
+  [
+   "GOV.UK – Self Assessment deadline: 100 days to go",
+   "https://www.gov.uk/government/news/self-assessment-deadline-incoming-100-days-to-go"
+  ],
+  [
+   "GOV.UK – Making Tax Digital for Income Tax",
+   "https://www.gov.uk/government/collections/making-tax-digital-for-income-tax"
+  ],
+  [
+   "GOV.UK – Check when to sign up for MTD for Income Tax",
+   "https://www.gov.uk/guidance/check-when-to-sign-up-for-making-tax-digital-for-income-tax"
+  ],
+  [
+   "GOV.UK – Using MTD for Income Tax for the first time",
+   "https://www.gov.uk/guidance/use-making-tax-digital-for-income-tax/using-making-tax-digital-for-income-tax-for-the-first-time"
+  ]
+ ]
+}

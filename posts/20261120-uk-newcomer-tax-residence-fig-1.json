@@ -1,0 +1,39 @@
+{
+ "slug": "20261120-uk-newcomer-tax-residence-fig-1",
+ "cat": "英国",
+ "date": "2026-11-20",
+ "topic": "新到英国怎么交税：税务居民、免税额、税率和海外收入 4 年新制度",
+ "title": "新到英国怎么交税：税务居民、£12,570免税额与海外收入4年新规",
+ "desc": "2026/27 个人免税额 £12,570，20%/40%/45% 三档；住满 183 天通常是税务居民；2025 年 4 月起新来的人可申请 4 年海外收入免税（FIG）。",
+ "body": "<p>先说结论：搬到英国后，要先弄清<b>自己是不是英国税务居民</b>。是的话，原则上全球收入都要在英国交税；但<b>2025 年 4 月 6 日起</b>，此前连续 10 年不在英国居住的新居民，可以申请 <b>4 年海外收入和收益免税（FIG 制度）</b>，这项制度取代了以前的 remittance basis。</p>\n<p>以下整理自 GOV.UK 和 HMRC 官方资料（2026 年 11 月查询），以官网为准。</p>\n<h2>一、你是不是英国税务居民</h2>\n<p>英国用<b>法定居民测试（Statutory Residence Test，SRT）</b>判断。GOV.UK 的例子是：一个税年（4 月 6 日到次年 4 月 5 日）在英国<b>超过 183 天</b>，就是英国税务居民。天数不到也可能因为在英国有住所、工作等被认定为居民，情况复杂的要按完整测试逐项核对。</p>\n<h2>二、2026/27 税率和免税额（英格兰、威尔士、北爱尔兰）</h2>\n<table><tr><th>年收入（税前）</th><th>税率</th></tr>\n<tr><td>£12,570 以内（个人免税额）</td><td>0%</td></tr>\n<tr><td>£12,571 – £50,270</td><td>20% 基本税率</td></tr>\n<tr><td>£50,271 – £125,140</td><td>40% 高税率</td></tr>\n<tr><td>超过 £125,140</td><td>45% 附加税率</td></tr></table>\n<p>个人免税额 £12,570 已冻结；收入超过 £100,000 后，免税额会逐步减少。<b>苏格兰</b>对工资等收入有自己的 6 档税率（19% 到 48%），不按上表。</p>\n<h2>三、海外收入：4 年 FIG 新制度</h2>\n<ul><li><b>谁能申请：</b>成为英国税务居民前，至少<b>连续 10 个税年</b>不是英国居民；只能在<b>成为居民后的头 4 年</b>内申请。</li>\n<li><b>怎么申请：</b>要在 Self Assessment 报税里申请，而且<b>每一年、每一笔海外收入来源都要单独申请</b>；没用的年份不能留到以后。</li>\n<li><b>代价：</b>申请的那一年会<b>失去个人免税额（£12,570）和资本利得税年度免税额</b>。海外收入不多的人，申请反而可能吃亏，要先算一下。</li>\n<li><b>中途离开：</b>4 年里某年不是英国居民，那一年不能申请，也不会顺延。</li></ul>\n<h2>四、要不要自己报税</h2>\n<p>只有英国工资、雇主 PAYE 已代扣的，一般不用报。有海外收入需要在英国交税，或者想申请 FIG 制度，就要做 <b>Self Assessment</b>。2025/26 税年网上报税截止 2027 年 1 月 31 日；第一次报要在 2026 年 10 月 5 日前注册。</p>\n<h2>常见问题</h2>\n<h3>问：我在国内的存款利息、房租要在英国交税吗？</h3><p>答：成了英国税务居民，原则上要申报；符合条件可以申请 4 年 FIG 免税，但要权衡失去免税额的代价。国内已交的税，可能可以按中英税收协定抵免，具体问专业人士。</p>\n<h3>问：183 天怎么算？</h3><p>答：按税年（4 月 6 日起）算在英国的天数，规则细节（比如过夜才算一天）以 HMRC 的 SRT 指南为准。</p>\n<p><b>提醒：</b>以上整理自 GOV.UK 公开资料，税率、门槛以 GOV.UK 为准；涉及海外收入、信托、双重居民的情况，建议咨询英国注册会计师或税务顾问。</p>",
+ "sources": [
+  [
+   "GOV.UK – Income Tax rates and Personal Allowances",
+   "https://www.gov.uk/income-tax-rates"
+  ],
+  [
+   "GOV.UK – Income Tax rates and allowances (current and past)",
+   "https://www.gov.uk/government/publications/rates-and-allowances-income-tax/income-tax-rates-and-allowances-current-and-past"
+  ],
+  [
+   "GOV.UK – Check if you can claim the 4-year FIG regime",
+   "https://www.gov.uk/guidance/check-if-you-can-claim-the-4-year-foreign-income-and-gains-regime"
+  ],
+  [
+   "GOV.UK – HS266 Foreign income and gains (FIG) regime (2026)",
+   "https://www.gov.uk/government/publications/foreign-income-and-gains-fig-regime-self-assessment-helpsheet-hs266/hs266-foreign-income-and-gains-fig-regime-2026"
+  ],
+  [
+   "GOV.UK – UK tax residence guidance",
+   "https://www.gov.uk/government/collections/uk-tax-residence-guidance"
+  ],
+  [
+   "GOV.UK – Changes to the taxation of non-UK domiciled individuals",
+   "https://www.gov.uk/government/publications/2024-non-uk-domiciled-individuals-policy-summary/changes-to-the-taxation-of-non-uk-domiciled-individuals"
+  ],
+  [
+   "GOV.UK – Self Assessment tax returns: deadlines",
+   "https://www.gov.uk/self-assessment-tax-returns/deadlines"
+  ]
+ ]
+}
