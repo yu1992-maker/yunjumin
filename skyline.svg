@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2400 420" preserveAspectRatio="xMidYMax slice">
+<!-- 云居民论坛背景长卷：美国 → 英国 → 加拿大 地标与街景（原创线条剪影） -->
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0"/><stop offset="1" stop-color="#e8f3f1" stop-opacity=".9"/></linearGradient>
+<linearGradient id="us" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#9db4c9"/><stop offset="1" stop-color="#c9d7e4"/></linearGradient>
+<linearGradient id="uk" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a9a7c6"/><stop offset="1" stop-color="#d2d1e4"/></linearGradient>
+<linearGradient id="ca" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d5a8ab"/><stop offset="1" stop-color="#ead1d2"/></linearGradient>
+<linearGradient id="far" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d9e6ea"/><stop offset="1" stop-color="#eef4f5"/></linearGradient>
+</defs>
+<rect width="2400" height="420" fill="url(#sky)"/>
+<!-- 远景：落基山 / 城市轮廓 -->
+<path d="M0 330 L60 300 L120 318 L180 286 L240 312 L300 296 L360 320 L420 300 L480 316 V420 H0Z" fill="url(#far)"/>
+<path d="M1700 330 L1780 250 L1830 290 L1900 210 L1960 270 L2010 240 L2080 300 L2150 230 L2220 290 L2290 250 L2400 320 V420 H1700Z" fill="url(#far)"/>
+<path d="M1880 218 L1900 210 L1916 226 L1904 222 L1896 232Z M2140 238 L2150 230 L2164 246 L2152 242Z" fill="#fff" opacity=".8"/>
+
+<!-- ========== 美国 ========== -->
+<g fill="url(#us)">
+<!-- 自由女神像 -->
+<rect x="70" y="330" width="90" height="70"/><rect x="86" y="300" width="58" height="34"/>
+<path d="M104 300 L106 230 Q115 214 124 230 L126 300Z"/>
+<circle cx="115" cy="210" r="11"/>
+<path d="M104 206 L98 196 M108 202 L104 190 M115 200 L115 186 M122 202 L126 190 M126 206 L132 196" stroke="url(#us)" stroke-width="3" stroke-linecap="round"/>
+<path d="M122 228 L134 170 L140 172 L130 230Z"/><path d="M131 170 Q137 152 143 170Z"/>
+<path d="M104 236 L96 262 L104 264Z"/>
+<!-- 纽约天际线 + 帝国大厦 -->
+<rect x="190" y="290" width="40" height="110"/><rect x="236" y="250" width="34" height="150"/>
+<rect x="276" y="230" width="44" height="170"/><rect x="286" y="200" width="24" height="32"/><rect x="292" y="176" width="12" height="26"/><rect x="296.5" y="140" width="3" height="38"/>
+<rect x="326" y="270" width="38" height="130"/><rect x="370" y="240" width="30" height="160"/><path d="M370 240 L385 214 L400 240Z"/>
+<rect x="406" y="300" width="40" height="100"/>
+<!-- 金门大桥 -->
+<rect x="480" y="372" width="400" height="10"/>
+<rect x="548" y="200" width="10" height="200"/><rect x="566" y="200" width="10" height="200"/><rect x="548" y="230" width="28" height="6"/><rect x="548" y="290" width="28" height="6"/>
+<rect x="770" y="200" width="10" height="200"/><rect x="788" y="200" width="10" height="200"/><rect x="770" y="230" width="28" height="6"/><rect x="770" y="290" width="28" height="6"/>
+</g>
+<path d="M480 340 Q520 300 562 204 Q670 360 784 204 Q830 300 880 340" fill="none" stroke="#9db4c9" stroke-width="3"/>
+<g stroke="#b8c9d8" stroke-width="1.4">
+<path d="M590 250 V372 M620 296 V372 M650 326 V372 M680 338 V372 M710 326 V372 M740 296 V372 M520 318 V372"/></g>
+<!-- 美国街景：路灯 + 黄色校车风格的车 + 星条旗 -->
+<g fill="#a9bed1">
+<rect x="905" y="300" width="4" height="100"/><path d="M897 300 H917 L912 290 H902Z"/>
+<rect x="930" y="250" width="3" height="150"/><path d="M933 252 h40 v26 h-40z" fill="#c4d3e0"/>
+<path d="M933 256 h40 M933 262 h40 M933 268 h40 M933 274 h40" stroke="#a9bed1" stroke-width="2"/><rect x="933" y="252" width="16" height="12" fill="#9db4c9"/>
+</g>
+
+<!-- ========== 英国 ========== -->
+<g fill="url(#uk)">
+<!-- 大本钟（伊丽莎白塔） -->
+<rect x="1010" y="200" width="44" height="200"/><rect x="1004" y="190" width="56" height="16"/>
+<rect x="1012" y="160" width="40" height="32"/><path d="M1008 160 L1032 112 L1056 160Z"/><rect x="1030.5" y="92" width="3" height="22"/>
+<!-- 议会大厦 -->
+<rect x="1060" y="300" width="170" height="100"/><path d="M1060 300 l8 -14 l8 14 M1090 300 l8 -14 l8 14 M1120 300 l8 -14 l8 14 M1150 300 l8 -14 l8 14 M1180 300 l8 -14 l8 14 M1210 300 l8 -14 l8 14"/>
+<!-- 伦敦眼 -->
+<rect x="1262" y="380" width="70" height="20"/><path d="M1297 262 L1270 384 H1276 L1297 280 L1318 384 H1324Z"/>
+<!-- 塔桥 -->
+<rect x="1360" y="356" width="300" height="12"/>
+<rect x="1410" y="230" width="44" height="170"/><path d="M1406 230 L1432 196 L1458 230Z"/><rect x="1404" y="226" width="56" height="8"/>
+<rect x="1560" y="230" width="44" height="170"/><path d="M1556 230 L1582 196 L1608 230Z"/><rect x="1554" y="226" width="56" height="8"/>
+<rect x="1454" y="262" width="106" height="10"/>
+<!-- 红色电话亭 + 双层巴士 -->
+<rect x="1640" y="330" width="22" height="70" rx="3"/><path d="M1638 330 Q1651 318 1664 330Z"/>
+</g>
+<circle cx="1297" cy="290" r="68" fill="none" stroke="#a9a7c6" stroke-width="4"/>
+<circle cx="1297" cy="290" r="6" fill="#a9a7c6"/>
+<g stroke="#bdbbd6" stroke-width="1.5"><path d="M1297 222 V358 M1229 290 H1365 M1249 242 L1345 338 M1345 242 L1249 338"/></g>
+<g fill="#a9a7c6"><circle cx="1297" cy="222" r="4"/><circle cx="1365" cy="290" r="4"/><circle cx="1297" cy="358" r="4"/><circle cx="1229" cy="290" r="4"/><circle cx="1345" cy="242" r="4"/><circle cx="1249" cy="242" r="4"/><circle cx="1345" cy="338" r="4"/><circle cx="1249" cy="338" r="4"/></g>
+<g fill="#c9c7de"><rect x="1032" y="214" width="0" height="0"/></g>
+<circle cx="1032" cy="176" r="10" fill="#e9e8f2"/>
+<g fill="#b9b7d2"><rect x="1675" y="322" width="96" height="66" rx="8"/><circle cx="1695" cy="392" r="8" fill="#a9a7c6"/><circle cx="1751" cy="392" r="8" fill="#a9a7c6"/></g>
+<g fill="#e4e3ef"><rect x="1683" y="330" width="16" height="12"/><rect x="1703" y="330" width="16" height="12"/><rect x="1723" y="330" width="16" height="12"/><rect x="1743" y="330" width="20" height="12"/>
+<rect x="1683" y="356" width="16" height="12"/><rect x="1703" y="356" width="16" height="12"/><rect x="1723" y="356" width="16" height="12"/></g>
+
+<!-- ========== 加拿大 ========== -->
+<g fill="url(#ca)">
+<!-- 渥太华国会和平塔 -->
+<rect x="1800" y="320" width="150" height="80"/><rect x="1856" y="210" width="38" height="190"/><rect x="1850" y="204" width="50" height="10"/>
+<path d="M1856 204 L1875 150 L1894 204Z"/><rect x="1873.5" y="132" width="3" height="20"/>
+<!-- 多伦多 CN 塔 -->
+<path d="M2026 400 L2032 160 H2040 L2046 400Z"/><ellipse cx="2036" cy="176" rx="20" ry="9"/><rect x="2028" y="160" width="16" height="10"/>
+<rect x="2034" y="70" width="4" height="92"/><ellipse cx="2036" cy="126" rx="7" ry="4"/>
+<!-- 城市楼群 -->
+<rect x="1960" y="300" width="30" height="100"/><rect x="1994" y="270" width="26" height="130"/><rect x="2056" y="285" width="34" height="115"/><rect x="2094" y="310" width="28" height="90"/>
+<!-- 枫树 + 木屋 -->
+<rect x="2178" y="340" width="6" height="60"/><circle cx="2181" cy="326" r="26"/><circle cx="2163" cy="338" r="16"/><circle cx="2199" cy="338" r="16"/>
+<rect x="2228" y="340" width="70" height="60"/><path d="M2220 342 L2263 306 L2306 342Z"/>
+</g>
+<!-- 枫叶 -->
+<path d="M2340 250 l6 14 l8 -4 l-3 14 l10 -4 l-4 9 l10 4 l-14 8 l2 8 l-12 -4 l0 12 h-4 l0 -12 l-12 4 l2 -8 l-14 -8 l10 -4 l-4 -9 l10 4 l-3 -14 l8 4z" fill="#d5a8ab"/>
+<!-- 地面 / 街道 -->
+<rect x="0" y="398" width="2400" height="22" fill="#e3ecee"/>
+<path d="M0 409 H2400" stroke="#ffffff" stroke-width="2" stroke-dasharray="26 22"/>
+</svg>

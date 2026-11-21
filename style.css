@@ -15,7 +15,7 @@ img,svg{display:block}
 nav{display:flex;gap:4px;overflow-x:auto;scrollbar-width:none}nav::-webkit-scrollbar{display:none}
 nav a{color:var(--ink2);white-space:nowrap;padding:8px 12px;border-radius:8px;font-size:15px}nav a:hover{background:var(--line2);color:var(--ink)}
 nav a.on{color:var(--brand);background:var(--brand-soft);font-weight:600}
-.join{margin-left:auto;white-space:nowrap}
+.join{white-space:nowrap}
 /* 按钮、标签 */
 .btn{display:inline-flex;align-items:center;gap:8px;padding:10px 18px;border-radius:10px;background:var(--brand);color:#fff;font-weight:600;font-size:15px;border:0;cursor:pointer;transition:background .15s}
 .btn:hover{background:var(--brand-d);color:#fff}.btn.ghost{background:#fff;color:var(--ink);border:1px solid var(--line)}.btn.ghost:hover{border-color:#cbd5e1;color:var(--ink)}
@@ -118,8 +118,17 @@ footer{background:#fff;border-top:1px solid var(--line);margin-top:56px;padding:
 .fgrid h5{margin:0 0 10px;font-size:14px;color:var(--ink)}.fgrid a{display:block;color:var(--mute);padding:3px 0}.fgrid a:hover{color:var(--brand)}
 .fbot{border-top:1px solid var(--line);margin-top:28px;padding-top:18px;font-size:12.5px;line-height:1.7}
 @media(max-width:960px){.layout,.artgrid{grid-template-columns:1fr}.tocbox{display:none}.hero-x .wrap{grid-template-columns:1fr;gap:28px}.fgrid{grid-template-columns:1fr 1fr}}
+/* 背景：美英加地标长卷 */
+body:before{content:"";position:fixed;left:0;right:0;bottom:0;height:420px;background:url(skyline.svg) center bottom/2400px auto repeat-x;opacity:.4;pointer-events:none;z-index:-1}
+.hero-x{position:relative;overflow:hidden}.hero-x:after{content:"";position:absolute;left:0;right:0;bottom:0;height:220px;background:url(skyline.svg) center bottom/1800px auto repeat-x;opacity:.6;pointer-events:none}
+.hero-x .wrap{position:relative;z-index:1;padding-bottom:150px!important}
+/* 语言切换 */
+.lang{display:flex;border:1px solid var(--line);border-radius:9px;overflow:hidden;flex:none;margin-left:auto}
+.lang a{padding:5px 10px;font-size:13.5px;color:var(--ink2);background:#fff;border-left:1px solid var(--line)}.lang a:first-child{border-left:0}
+.lang a.on{background:var(--brand);color:#fff;font-weight:600}.lang+.join{margin-left:8px}
+nav{flex:1 1 auto;min-width:0}@media(max-width:1100px){.top .join{display:none}}
 @media(max-width:640px){.wrap{padding:0 16px}.top .wrap{gap:12px;height:auto;padding-top:10px;padding-bottom:6px;flex-wrap:wrap}.join{display:none}
-nav{width:100%;margin:0 -6px}nav a{padding:6px 10px;font-size:14.5px}.logo small{display:none}
+.lang{order:2}nav{width:100%;margin:0 -6px;order:3}nav a{padding:6px 10px;font-size:14.5px}.logo small{display:none}
 .hero-x .wrap{padding-top:28px;padding-bottom:28px}.hero-x h1{font-size:28px}.hero-x p.sub{font-size:16px}
 .cards{grid-template-columns:1fr}.pc.big h3{font-size:19px}.statbar{gap:20px}.statbar b{font-size:20px}
 .ph h1{font-size:25px}.prose{font-size:16px}.prose h2{font-size:20px}.cta{padding:22px}.fgrid{grid-template-columns:1fr 1fr;gap:20px}}
