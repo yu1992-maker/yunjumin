@@ -1,0 +1,35 @@
+{
+ "title": "给非公民配偶的赠与：$194,000上限与Form 709",
+ "desc": "配偶有绿卡也不享受无限额婚姻扣除：2026 年上限 $194,000、2027 年 $201,000，超出须报 Form 709。",
+ "body": "<p>先说结论：美国公民配偶之间的赠与享受无限额婚姻扣除，但只要受赠配偶不是美国公民（持绿卡也一样），这项扣除就不适用，取而代之的是一个年度上限：2026 年 $194,000，2027 年 $201,000。超过上限的部分要由赠与人在次年 4 月 15 日前提交 Form 709 申报，通常不必缴税，但必须申报。跨年分两次转账，是最简单的合规安排。</p>\n<p>本文依据 IRS 新闻稿 IR-2025-103（2026 税年通胀调整）与 IR-2026-133（2026 年 11 月 5 日发布，2027 税年通胀调整，对应 Revenue Procedure 2026-35）、Form 709 说明书（2025 年版）、IRS“赠与税常见问题”与“非居民外籍人士赠与税常见问题”页面整理，查询日期 2026 年 11 月 22 日。</p>\n\n<h2>一、三组数字：2025 至 2027 年</h2>\n<table>\n<tr><th>项目</th><th>2025</th><th>2026</th><th>2027</th></tr>\n<tr><td>年度赠与免税额（每位受赠人）</td><td>$19,000</td><td>$19,000</td><td>$20,000</td></tr>\n<tr><td>给非公民配偶的年度免税额</td><td>$190,000</td><td>$194,000</td><td>$201,000</td></tr>\n<tr><td>终身基本免除额（遗产与赠与合并）</td><td>$13,990,000</td><td>$15,000,000</td><td>$15,480,000</td></tr>\n</table>\n<p>2026 年数字见 IR-2025-103，2027 年数字见 IR-2026-133。Form 709 说明书 2025 年版仍印 $190,000，适用于 2025 年的赠与；2026 年的赠与在 2027 年申报时应以 $194,000 为准。</p>\n<p>决定适用哪一套规则的是受赠配偶的<b>国籍</b>，不是居民身份。绿卡持有人、H-1B、F-1 配偶都属于“非美国公民”。赠与人自己的身份则决定申报哪张表：美国公民或税务居民用 Form 709；非居民且非公民的赠与人只对美国境内的不动产和有形财产负有赠与税，用 Form 709-NA。</p>\n\n<h2>二、算例：首付款记在配偶名下</h2>\n<p>设定：丈夫持绿卡，妻子持 H-1B，两人在佛州买房，丈夫 2026 年 6 月从个人账户转 $250,000 到妻子个人账户，房产登记在妻子名下。</p>\n<ul>\n<li><b>非公民配偶免税额：</b>$194,000 以内免税，超出 $56,000 为应申报赠与。</li>\n<li><b>申报：</b>丈夫须在 2027 年 4 月 15 日前提交 2026 年 Form 709，$56,000 抵用终身免除额，剩余免除额约 $14,944,000，无需缴税。</li>\n<li><b>如果妻子是美国公民：</b>无限额婚姻扣除，完全不用申报。</li>\n</ul>\n<p>同样的 $250,000，若 2026 年 12 月转 $194,000、2027 年 1 月转 $56,000，两年都在各自上限之内，且都是现时权益（present interest），则两年都不需要提交 Form 709。Form 709 说明书写明：给非公民配偶的赠与全部为现时权益、全年合计不超过上限、且超过普通年度免税额的部分在配偶是公民时本可适用婚姻扣除，即无须在 Schedule A 上报告。</p>\n\n<h2>三、进阶技巧</h2>\n<ol>\n<li><b>跨年拆分。</b>12 月与 1 月各转一笔，两年合计可免申报转移 $395,000（$194,000 + $201,000）。前提是每笔都真正归对方所有，受赠人可以立即使用。</li>\n<li><b>直接付学费和医疗费。</b>Form 709 说明书列明，符合条件的教育费和医疗费若直接付给学校或医疗机构，不属于应税赠与，也不占用上述年度上限。替配偶付 MBA 学费，应直接付给学校，而不是先转给配偶。</li>\n<li><b>联名账户的计算时点。</b>说明书写明：开设联名银行账户本身不算赠与，受赠方为自身利益取款时才构成赠与，金额为取出的数额。大额资金存入联名账户后由配偶支取买房，赠与发生在支取当日。</li>\n<li><b>赠与对象是父母时，留意“分摊赠与”限制。</b>夫妻均为美国公民或居民时，可以选择 gift splitting，每位受赠人一年合计 $38,000（2026 年）。IRS 常见问题写明，任一方是非居民且非公民即不能分摊，两人须各自申报。</li>\n<li><b>保留证据链。</b>转账记录、产权文件和对应年度的 Form 709 副本应长期保存，日后出售房产计算成本基础、或配偶入籍后遗产规划时都会用到。</li>\n</ol>\n\n<h2>四、常见误区</h2>\n<ul>\n<li><b>“配偶有绿卡就和公民一样。”</b>婚姻扣除看国籍，绿卡持有人仍按 $194,000 上限处理。</li>\n<li><b>“赠与税只和富人有关。”</b>多数人确实不会缴税，但超过上限就有申报义务；申报与缴税是两回事。</li>\n<li><b>“夫妻可以合并提交 Form 709。”</b>Form 709 是个人申报表，不存在联合申报；需要申报时由赠与人各自提交。</li>\n<li><b>“这和 Form 3520 是一回事。”</b>Form 3520 是收到外国个人超过 $100,000 赠与时由受赠人申报；Form 709 是美国赠与人申报自己送出的赠与。夫妻间转账一般只涉及后者。</li>\n<li><b>“设个信托给配偶就行。”</b>给非公民配偶的未来权益（future interest）不能使用年度免税额，有任何未来权益赠与，就必须申报全年所有给配偶的赠与。</li>\n</ul>\n\n<h2>常见问题</h2>\n<h3>问：申报截止日能延期吗？</h3>\n<p>Form 709 一般须在赠与次年 1 月 1 日至 4 月 15 日之间提交。说明书写明，为个人所得税申请的延期（Form 4868）同时延长 Form 709 的提交期限，也可以单独用 Form 8892 申请。</p>\n<h3>问：配偶之后入籍，过去的赠与还要补报吗？</h3>\n<p>入籍前的赠与按当时规则处理，已经在上限内的无需补报；入籍后的赠与适用无限额婚姻扣除。超过上限却未申报的年份，应尽早补交并咨询专业人士。</p>\n<h3>问：我是非居民、非公民，给在美国的配偶转钱要申报吗？</h3>\n<p>IRS 非居民赠与税常见问题写明，非居民且非公民的赠与人只就美国境内的不动产和有形财产负有赠与税，无形财产一般不在范围内；现金和银行存款如何定性，各方解读不一，涉及大额时应先咨询律师。</p>\n<blockquote>提醒：以 IRS 官网为准；复杂情况（信托、共有房产、跨境遗产规划）请咨询 CPA 或律师。</blockquote>",
+ "sources": [
+  [
+   "IRS – IR-2026-133: Tax inflation adjustments for tax year 2027",
+   "https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2027-taxpayers-continue-to-benefit-from-the-working-families-tax-cuts"
+  ],
+  [
+   "IRS – IR-2025-103: Tax inflation adjustments for tax year 2026",
+   "https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2026-including-amendments-from-the-one-big-beautiful-bill"
+  ],
+  [
+   "IRS – Revenue Procedure 2026-35 (PDF)",
+   "https://www.irs.gov/pub/irs-drop/rp-26-35.pdf"
+  ],
+  [
+   "IRS – Instructions for Form 709",
+   "https://www.irs.gov/instructions/i709"
+  ],
+  [
+   "IRS – Frequently asked questions on gift taxes",
+   "https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-gift-taxes"
+  ],
+  [
+   "IRS – FAQs on gift taxes for nonresidents not citizens of the United States",
+   "https://www.irs.gov/businesses/small-businesses-self-employed/frequently-asked-questions-on-gift-taxes-for-nonresidents-not-citizens-of-the-united-states"
+  ]
+ ],
+ "cat": "报税",
+ "topic": "美国赠与税：非公民配偶年度免税额 $194,000（2026）/$201,000（2027）、Form 709 申报、跨年拆分、学费医疗费直付、联名账户、gift splitting 限制",
+ "date": "2026-11-22",
+ "slug": "20261122-tax-gift-noncitizen-spouse-1"
+}
