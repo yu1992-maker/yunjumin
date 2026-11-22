@@ -1,0 +1,47 @@
+{
+ "title": "加拿大RRSP新移民：首年额度为零与$2,000缓冲",
+ "desc": "RRSP按上年收入18%计，新移民首年多为零，超,000按月罚1%；附,000算例与HBP、FHSA叠加。",
+ "body": "<p>先说结论：RRSP 额度按「上一年」在加拿大的 earned income 的 18% 计算，2026 年上限 $33,810，所以多数新移民落地当年的额度为零，与落地即得全年额度的 TFSA 正好相反。落地当年最多可先存 $2,000 而不被罚，超出部分按每月 1% 征税；真正的额度从第二年才开始积累。</p>\n<p>资料来源：加拿大税务局（CRA）「How contributions affect your RRSP deduction limit」「Excess Contributions」「MP, DB, RRSP, DPSP, ALDA, TFSA limits」、Home Buyers' Plan 系列页面、FHSA 供款页面及 Guide T4040；查询日期 2026 年 11 月 21 日。</p>\n\n<h2>一、额度公式：为什么新移民第一年是零</h2>\n<p>CRA 给出的 RRSP 抵扣额度公式是：上年末未用额度，加上「上一年 earned income 的 18%」与「当年 RRSP 年度上限」二者中较小者，减去养老金调整额（PA），加上养老金调整撤回额（PAR），减去净追溯服务养老金调整额（PSPA）。</p>\n<table>\n<tr><th>年份</th><th>RRSP 年度上限</th><th>对应上一年收入（÷18%）</th></tr>\n<tr><td>2024</td><td>$31,560</td><td>约 $175,333</td></tr>\n<tr><td>2025</td><td>$32,490</td><td>$180,500</td></tr>\n<tr><td>2026</td><td>$33,810</td><td>$187,833</td></tr>\n<tr><td>2027</td><td>$35,390</td><td>约 $196,611</td></tr>\n</table>\n<p>上限数字来自 CRA 的年度限额表。关键在「上一年」：落地当年的额度取决于落地前一年在加拿大的 earned income，大多数新移民这一项为零。Guide T4040 的脚注写明，非居民期间取得的某些收入也可计入 earned income，具体类型需向 CRA 国际个人与信托查询处确认，不能自行假定。</p>\n\n<h2>二、新移民时间线</h2>\n<table>\n<tr><th>时间</th><th>RRSP</th><th>相关规则</th></tr>\n<tr><td>落地当年（例：2026 年）</td><td>新额度通常为 $0；可利用 $2,000 缓冲</td><td>须当年任何时候年满 18 岁才有 $2,000 缓冲</td></tr>\n<tr><td>2027 年 3 月 1 日</td><td>2026 税年抵扣的最后供款日</td><td>CRA 页面写明 2027 年 3 月 1 日前的供款可用于 2026 年申报</td></tr>\n<tr><td>2027 年春季</td><td>报 2026 年税后，评估通知书显示 2027 年额度</td><td>额度 = 2026 年 earned income × 18%，上限 $35,390</td></tr>\n<tr><td>有超额供款的次年 3 月 31 日前</td><td>提交 T1-OVP 并缴纳 1% 月税</td><td>CRA：年度结束后 90 天内</td></tr>\n</table>\n\n<h2>三、算例：2026 年 3 月落地、年薪 $70,000</h2>\n<p>设一名新移民 2026 年 3 月落地，2026 年工资收入 $70,000，无雇主养老金计划，2025 年无可计入的 earned income。</p>\n<ul>\n<li><b>2026 年额度：$0。</b>此时存入 $2,000 不产生罚税，但当年不能抵扣。</li>\n<li><b>若 2026 年 6 月一次存入 $10,000：</b>超出 $2,000 缓冲的 $8,000 按每月 1% 计税，即每月 $80。6 月至 12 月共 7 个月，合计 $560，并须在 2027 年 3 月 31 日前提交 T1-OVP。2027 年 1 月 1 日新额度到账后超额才消除。</li>\n<li><b>2027 年额度：</b>18% × $70,000 = $12,600，低于 $35,390 上限，取 $12,600。2026 年已存的 $2,000 可在 2027 年或以后年度申报抵扣，不必再存一次。</li>\n<li><b>2028 年额度：</b>若 2027 年收入 $80,000，新增 18% × $80,000 = $14,400，加上 2027 年未用部分滚存。</li>\n</ul>\n<p>CRA 特别说明，如果超额部分在供款当月结束前取出，可不缴该月的 1% 税；但用 Home Buyers' Plan 或 Lifelong Learning Plan 取出超额部分，仍可能需要缴纳全部 1% 税。</p>\n\n<h2>四、Home Buyers' Plan 与 FHSA 叠加</h2>\n<table>\n<tr><th>项目</th><th>Home Buyers' Plan（HBP）</th><th>FHSA</th></tr>\n<tr><td>额度</td><td>每人最多从 RRSP 取 $60,000</td><td>开户当年 $8,000，终身 $40,000</td></tr>\n<tr><td>首次购房者定义</td><td>当年及前 4 个日历年内未住过自己或配偶拥有的房屋</td><td>首次购房者（细则见 CRA FHSA 页面）</td></tr>\n<tr><td>是否需偿还</td><td>需在 15 年内还回 RRSP</td><td>合格取款无需偿还</td></tr>\n<tr><td>同一套房能否同时用</td><td>可以，与 FHSA 用于同一合格住房</td><td>可以，CRA HBP 页面写明每次取款时各自满足条件即可</td></tr>\n</table>\n<p>HBP 的硬性条件还包括：须有书面购房或建房协议；从首次取款到购房期间须一直是加拿大居民；房屋须在首次取款次年的 10 月 1 日前取得或建成。还款方面，CRA 将临时宽限延长至 2026 年 1 月 1 日至 2028 年 12 月 31 日间首次取款者：15 年还款期从首次取款后的第 5 年开始，例如 2026 年首次取款，第一个还款年为 2031 年。每年应还而未还的部分计入当年收入。</p>\n<p>对夫妻双方都符合条件的新移民家庭，理论上限为每人 HBP $60,000 加 FHSA $40,000，合计 $200,000；但 FHSA 的 $40,000 需要多年累积，RRSP 里也必须先有足够余额，落地头几年实际可用金额远低于此。</p>\n\n<h2>五、进阶技巧</h2>\n<ul>\n<li><b>「先存后扣」。</b>CRA 允许以前年度存入而未抵扣的供款在以后年度申报。落地初期收入低、税率低时可以只存不扣，待收入进入更高税档的年份再申报抵扣。</li>\n<li><b>用好 $2,000 缓冲。</b>落地当年额度为零，但 18 岁以上可先放入 $2,000，让资金提前在税收庇护下增长。</li>\n<li><b>次年头 60 天。</b>2027 年 1 月 1 日至 3 月 1 日的供款可选择计入 2026 年，适合年底才确定全年收入的人。</li>\n<li><b>配偶 RRSP。</b>向配偶或同居伴侣的 RRSP 供款占用的是供款人自己的额度，可在收入差距大的家庭中平衡未来退休收入。</li>\n<li><b>HBP 提前还款不缩短期限。</b>CRA 写明提前还款不改变 15 年还款期，但会减少首个还款年的应还金额。</li>\n</ul>\n\n<h2>六、常见误区</h2>\n<ul>\n<li><b>误区一：RRSP 和 TFSA 一样落地就有额度。</b>TFSA 从成为税务居民的当年起给全年额度；RRSP 看的是上一年的 earned income。</li>\n<li><b>误区二：额度等于年度上限 $33,810。</b>上限只是封顶，实际额度是 18% 上年收入与上限中较小者，还要扣减 PA。</li>\n<li><b>误区三：按今年收入算。</b>公式用的是上一年收入，今年的收入影响的是明年的额度。</li>\n<li><b>误区四：HBP 取出就是免税提款。</b>不符合首次购房者条件的取款按普通 RRSP 取款计入收入；CRA 举例称，曾在过去 4 年内住过自有房屋者不能使用 HBP。</li>\n<li><b>误区五：配偶的房子与我无关。</b>CRA 写明，住在现任配偶或同居伴侣拥有的房屋中，同样会让你失去首次购房者资格。</li>\n</ul>\n\n<h2>常见问题</h2>\n<h3>问：怎么知道自己今年的准确额度？</h3>\n<p>以 CRA 评估通知书或 CRA 在线账户中显示的 RRSP deduction limit 为准；新移民落地第一年通常还没有评估通知书，可按上文公式自行估算。</p>\n<h3>问：同时是美国税务居民怎么办？</h3>\n<p>RRSP 在美国税表上的处理另有规则，可参考本站《加拿大RRSP和TFSA怎么报美国税》一文。</p>\n<h3>问：超额后取出来就没事了吗？</h3>\n<p>取出可以停止后续月份计税，但已经发生的月份仍要通过 T1-OVP 申报并缴税。</p>\n<blockquote>提醒：以官网为准；复杂情况咨询 CPA/律师。</blockquote>",
+ "sources": [
+  [
+   "CRA – How contributions affect your RRSP deduction limit",
+   "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/contributing-a-rrsp-prpp/contributions-affect-your-rrsp-prpp-deduction-limit.html"
+  ],
+  [
+   "CRA – MP, DB, RRSP, DPSP, ALDA, TFSA limits, YMPE and the YAMPE",
+   "https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/pspa/mp-rrsp-dpsp-tfsa-limits-ympe.html"
+  ],
+  [
+   "CRA – Excess Contributions",
+   "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/contributing-a-rrsp-prpp/what-happens-you-over-your-rrsp-prpp-deduction-limit.html"
+  ],
+  [
+   "CRA – The Home Buyers' Plan",
+   "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/what-home-buyers-plan.html"
+  ],
+  [
+   "CRA – How to participate in the Home Buyers' Plan",
+   "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/what-home-buyers-plan/participate-home-buyers-plan.html"
+  ],
+  [
+   "CRA – HBP: Understanding eligibility and withdrawals",
+   "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/what-home-buyers-plan/avoid-common-home-buyers-plan-mistakes.html"
+  ],
+  [
+   "CRA – How to repay amounts withdrawn under the HBP",
+   "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/what-home-buyers-plan/repay-funds-withdrawn-rrsp-s-under-home-buyers-plan.html"
+  ],
+  [
+   "CRA – Participating in your FHSAs",
+   "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/first-home-savings-account/contributing-your-fhsa.html"
+  ],
+  [
+   "CRA – Guide T4040, RRSPs and Other Registered Plans for Retirement",
+   "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4040/rrsps-other-registered-plans-retirement.html"
+  ]
+ ],
+ "cat": "加拿大",
+ "topic": "RRSP 新移民额度",
+ "date": "2026-11-21",
+ "slug": "20261121-canada-rrsp-newcomer-1"
+}
