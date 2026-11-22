@@ -1,0 +1,47 @@
+{
+ "slug": "20261122-tax-tips-overtime-ssn-1",
+ "cat": "报税",
+ "date": "2026-11-22",
+ "topic": "美国小费与加班扣除（OBBBA）：$25,000/$12,500 上限、可用于工作的 SSN、ITIN 不适用、$150,000 递减、2026 年 W-2 代码 TP/TT",
+ "title": "小费与加班扣除：$25,000上限、SSN门槛与W-2新代码",
+ "desc": "小费、加班费2025–2028年可扣除；须有可工作的SSN，ITIN不适用，2026年W-2新增TP/TT代码。",
+ "body": "<p>先说结论：2025–2028 纳税年度，小费扣除每份报税表最多 $25,000，加班扣除最多 $12,500（夫妻合报 $25,000），两者都在 Schedule 1-A 上计算，标准扣除和逐项扣除的人都能用。门槛有三道：收到小费或加班费的人必须持有“可用于工作”的 SSN，已婚必须合报，MAGI 超过 $150,000（合报 $300,000）开始递减。只持 ITIN 的人不能申报；而从 2026 纳税年度起，W-2 第 12 栏新增代码 TP 和 TT，报税时可以直接引用。</p>\n<p>本文依据 IRS 2025 年 Form 1040 说明书中的 Schedule 1-A 部分、IRS 事实清单 FS-2025-03 与 FS-2026-04、加班扣除问答 FS-2026-01、2026 年 Form W-2/W-3 通用说明及 IRS 2026 年度通胀调整公告（IR-2025-103）整理，查询日期 2026 年 11 月 22 日。以官网为准。</p>\n\n<h2>一、规则全景：两项扣除对照</h2>\n<table>\n<tr><th>项目</th><th>小费扣除（No Tax on Tips）</th><th>加班扣除（No Tax on Overtime）</th></tr>\n<tr><td>适用年度</td><td>2025–2028</td><td>2025–2028</td></tr>\n<tr><td>上限</td><td>每份报税表 $25,000，夫妻合报也是 $25,000（合计，不是每人）</td><td>$12,500；夫妻合报 $25,000</td></tr>\n<tr><td>递减起点（MAGI）</td><td>$150,000；合报 $300,000</td><td>$150,000；合报 $300,000</td></tr>\n<tr><td>可扣金额</td><td>自愿、金额由顾客决定的现金类小费</td><td>只限《公平劳动标准法》（FLSA）要求的“一倍半”中的“半”</td></tr>\n<tr><td>身份要求</td><td>收到小费的人须有可用于工作的 SSN；已婚须合报</td><td>收到加班费的人须有可用于工作的 SSN；已婚须合报</td></tr>\n<tr><td>职业限制</td><td>须属于财政部公布的“通常收取小费”职业清单（TTOC 代码）</td><td>须是 FLSA 覆盖且不豁免加班的员工</td></tr>\n<tr><td>2026 年起 W-2</td><td>第 12 栏代码 TP；第 14b 栏填职业代码</td><td>第 12 栏代码 TT</td></tr>\n</table>\n<p>递减方式：IRS 内部手册（IRM 21.6.4）写明，MAGI 每超出门槛 $1,000，扣除上限减少 $100。另据 Form 1040 说明书，扣除额最终填入 Form 1040 第 13b 行，位于调整后总收入（AGI）之后。这意味着它降低的是联邦应税所得，而不是 AGI；以 AGI 为基础计算的其他项目不会因此变化。</p>\n\n<h2>二、“可用于工作的 SSN”：最容易被忽略的门槛</h2>\n<p>Form 1040 说明书对这一点写得很具体：</p>\n<ul>\n<li><b>定义。</b>SSN 必须可用于工作，且由社会安全局（SSA）在当年报税截止日（含延期）之前签发。美国公民身份下取得的 SSN 一律视为可用于工作。</li>\n<li><b>ITIN 不行。</b>ITIN 不是 SSN，持 ITIN 报税的人无法申报这两项扣除。</li>\n<li><b>卡面写着 “Not Valid for Employment”。</b>如果身份已转为公民或永久居民，应向 SSA 换发不带该字样的新卡。</li>\n<li><b>卡面写着 “Valid for Work Only with DHS Authorization”。</b>只在 DHS 工作许可有效期内算有效。</li>\n<li><b>夫妻合报。</b>说明书要求“收到小费的那一方”持有效 SSN。也就是说，一方持 SSN 在餐厅工作、另一方持 ITIN 的家庭，合报时仍可为持 SSN 一方的小费申报扣除；分开报（MFS）则两项都不能用。</li>\n</ul>\n<p>IRS 的 FS-2026-04 还写明，Schedule 1-A 可附在 Form 1040、1040-SR 或 1040-NR 之后。是否对某一非居民外籍人士适用，仍取决于上面的 SSN 条件和所在职业，复杂情况应咨询熟悉非居民报税的 CPA。</p>\n\n<h2>三、算例：一位单身服务员和一位时薪员工</h2>\n<p><b>情景一：小费。</b>单身服务员 A，2026 年 W-2 工资 $40,000，另有已向雇主申报的刷卡和现金小费 $20,000，总收入 $60,000，无其他收入，取标准扣除。据 IRS 2026 年度通胀调整公告，单身标准扣除为 $16,100，10% 税率档到 $12,400，12% 档到 $50,400。</p>\n<ul>\n<li>不申报小费扣除：应税所得 $60,000 − $16,100 = $43,900；联邦所得税 = $12,400 × 10% + $31,500 × 12% = $1,240 + $3,780 = <b>$5,020</b>。</li>\n<li>申报 $20,000 小费扣除：应税所得 $23,900；联邦所得税 = $1,240 + $11,500 × 12% = <b>$2,620</b>。</li>\n<li>节省 <b>$2,400</b>。但这项扣除只作用于联邦所得税，小费部分仍要照常缴纳社会安全税和医疗保险税（员工部分合计 7.65%，约 $1,530）。</li>\n</ul>\n<p><b>情景二：高收入递减。</b>单身调酒师 B，MAGI $165,000，合格小费 $25,000。超出门槛 $15,000，扣除上限减少 15 × $100 = $1,500，可扣 <b>$23,500</b>。</p>\n<p><b>情景三：加班。</b>时薪 $30 的仓库员工 C，2026 年加班 500 小时，按一倍半领到加班工资 $22,500。可扣部分只是“半”：$22,500 ÷ 3 = <b>$7,500</b>。如果雇主自愿发两倍工资，超出一倍半的部分不能算；IRS 说明书的示例 2 给出了同样的处理方式。</p>\n\n<h2>四、进阶技巧</h2>\n<ul>\n<li><b>2026 年 W-2 先看三个格子。</b>据 2026 年 Form W-2/W-3 通用说明，第 12 栏代码 TP 为向雇主申报的现金小费总额，代码 TT 为合格加班费总额，第 14b 栏为财政部小费职业代码（TTOC）。拿到 W-2 后核对这三项；空着或明显偏低，应在报税前请雇主出 W-2c。</li>\n<li><b>2025 年没有单列的，用 IRS 认可的方法补算。</b>2025 纳税年度雇主没有单列义务。说明书允许几种方法：工资单显示加班总额的，除以 3；雇主不提供信息的，可按正常时薪和每周超过 40 小时的工时合理估算，并保留依据。已经报完 2025 年税表的，IRS 说明可以用 Form 1040-X 修改。</li>\n<li><b>POS 机上的“小费选项”算，自动加收的服务费不算。</b>说明书举例：六人以上自动加收 18% 不是合格小费；但顾客在刷卡机上自己选了 18%（同时有“不给小费”选项）则算。</li>\n<li><b>没向雇主申报的现金小费，用 Form 4137 补报后也能扣。</b>补报同时要补缴社会安全税和医疗保险税，但相应小费可以进入扣除计算。</li>\n<li><b>自雇者受净利润限制。</b>Schedule C 上的小费只能在该业务的净利润范围内扣除；属于 199A 规定的“特定服务行业”（SSTB）的不能扣。说明书写明，在最终法规出台前，从事清单职业的人暂按非 SSTB 处理。</li>\n</ul>\n\n<h2>五、常见误区</h2>\n<ul>\n<li><b>“小费和加班费完全免税。”</b>只免联邦所得税的一部分，社会安全税和医疗保险税照缴；州所得税是否跟进，各州规定不同。</li>\n<li><b>“加班工资全额可扣。”</b>只有 FLSA 要求的那半倍溢价可扣。不受 FLSA 加班保护的豁免员工（例如多数领年薪的管理岗）即使雇主发了加班费，也不算合格加班费。</li>\n<li><b>“夫妻各扣 $25,000 小费。”</b>小费上限是每份报税表 $25,000，夫妻合计；加班才是合报 $25,000。</li>\n<li><b>“有 ITIN 也能申报，SSN 以后再补。”</b>SSN 必须在当年报税截止日（含延期）前由 SSA 签发；截止日之后才拿到的，当年不能申报。</li>\n</ul>\n\n<h2>常见问题</h2>\n<h3>F-1 学生或 H-1B 有加班费，能扣吗？</h3>\n<p>先看两点：SSN 是否在工作许可有效期内有效；本人报税时是居民还是非居民。Schedule 1-A 可附在 1040-NR 之后，但能否适用还要满足职业与 FLSA 条件，建议咨询熟悉非居民报税的 CPA。</p>\n<h3>小费在 Venmo、Zelle 上收的算不算？</h3>\n<p>说明书将“以现金计价的电子结算或移动支付”列入现金小费。前提仍是自愿给付、金额由顾客决定，并已在 W-2、1099 或 Form 4137 上申报。</p>\n<h3>2026 年报税什么时候用到这些规则？</h3>\n<p>2026 纳税年度的报税表在 2027 年提交，届时 W-2 会出现 TP、TT 两个新代码。</p>\n<p>提醒：以官网为准；复杂情况咨询 CPA/律师。</p>",
+ "sources": [
+  [
+   "IRS – 2025 Instructions for Form 1040（Schedule 1-A）",
+   "https://www.irs.gov/instructions/i1040gi"
+  ],
+  [
+   "IRS – FS-2025-03 One Big Beautiful Bill: deductions for working Americans and seniors",
+   "https://www.irs.gov/newsroom/one-big-beautiful-bill-act-tax-deductions-for-working-americans-and-seniors"
+  ],
+  [
+   "IRS – FS-2026-04 Schedule 1-A: What to know about the new form",
+   "https://www.irs.gov/newsroom/schedule-1-a-additional-deductions-what-to-know-about-the-new-form"
+  ],
+  [
+   "IRS – Questions and answers about the deduction for qualified overtime compensation",
+   "https://www.irs.gov/newsroom/questions-and-answers-about-the-new-deduction-for-qualified-overtime-compensation"
+  ],
+  [
+   "IRS – Occupations that customarily and regularly received tips",
+   "https://www.irs.gov/forms-pubs/occupations-that-customarily-and-regularly-received-tips-on-or-before-dec-31-2024"
+  ],
+  [
+   "IRS – 2026 General Instructions for Forms W-2 and W-3",
+   "https://www.irs.gov/instructions/iw2w3"
+  ],
+  [
+   "IRS – Tax inflation adjustments for tax year 2026 (IR-2025-103)",
+   "https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2026-including-amendments-from-the-one-big-beautiful-bill"
+  ],
+  [
+   "IRS – IRM 21.6.4 Tax Computation",
+   "https://www.irs.gov/irm/part21/irm_21-006-004r"
+  ],
+  [
+   "IRS – Claiming no tax on tips deduction may require an amended return",
+   "https://www.irs.gov/forms-pubs/claiming-no-tax-on-tips-deduction-for-occupations-that-customarily-and-regularly-receive-tips-may-require-an-amended-return"
+  ]
+ ]
+}
