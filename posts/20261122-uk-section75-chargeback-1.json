@@ -1,0 +1,35 @@
+{
+ "title": "英国Section 75与chargeback：£100门槛、全价覆盖与120天",
+ "desc": "信用卡付单件 £100–£30,000 商品，哪怕只刷定金也覆盖全价；借记卡只有约 120 天的 chargeback。",
+ "body": "<p>先说结论：在英国，信用卡支付的单件商品或服务现金价格在 <b>£100 以上、£30,000 以内</b>时，《1974 年消费信贷法》第 75 条让发卡机构与商家对违约和虚假陈述承担连带责任，而且只要有一部分用信用卡支付即可覆盖全价。借记卡、charge card 和 PayPal 等中间支付不享有这项法定权利，只能依赖卡组织的 chargeback，其期限通常约为 120 天，且不是法律义务。</p>\n<p>本文依据 legislation.gov.uk 上《Consumer Credit Act 1974》第 75 条与第 75A 条现行文本（截至 2026 年 11 月 20 日的修订）、《Consumer Rights Act 2015》第 22 条、金融申诉专员服务（Financial Ombudsman Service, FOS）“Section 75 and chargeback”指南，以及 Visa 英国官网的购物争议说明整理，查询日期 2026 年 11 月 22 日；Which? 的解读作为补充并注明出处。</p>\n\n<h2>一、两种机制的本质差异</h2>\n<table>\n<tr><th>维度</th><th>Section 75</th><th>Chargeback</th></tr>\n<tr><td>法律地位</td><td>成文法权利（CCA 1974 s.75）</td><td>卡组织规则，Visa 官网写明“不是法定权利”</td></tr>\n<tr><td>适用支付方式</td><td>信用卡、销售点贷款、部分目录购物账户</td><td>借记卡、信用卡、预付卡</td></tr>\n<tr><td>金额</td><td>单件现金价格 £100 以上、£30,000 以内</td><td>无法定下限</td></tr>\n<tr><td>责任性质</td><td>发卡机构与商家“连带责任”（jointly and severally liable）</td><td>发卡行向商家收单行追款，商家可抗辩</td></tr>\n<tr><td>时限</td><td>s.75 本身未设专门期限</td><td>FOS：通常约 120 天，视情形可长可短</td></tr>\n<tr><td>可索赔范围</td><td>违约或虚假陈述造成的损失，Visa 英国页面称可能包括合理的额外费用</td><td>通常以交易金额为限</td></tr>\n</table>\n<p>两者并非二选一。FOS 建议联系发卡机构时同时请其考虑 chargeback 与 Section 75，由机构判断走哪条路径。</p>\n\n<h2>二、Section 75 的门槛：条文里的四个细节</h2>\n<ul>\n<li><b>看“现金价格”，不看刷卡金额。</b>s.75(3)(b) 以商家对单件商品标注的现金价格为准。FOS 明确：即使只用信用卡付了一部分，Section 75 仍适用。</li>\n<li><b>“单件”而非“订单总额”。</b>一笔订单里 5 件各 £40 的商品，总额 £200，但每件都不超过 £100，不落入 s.75。</li>\n<li><b>超额刷卡不影响权利。</b>s.75(4) 规定，即使交易时超过信用额度或违反了信用协议其他条款，第 75 条仍然适用。</li>\n<li><b>charge card 被排除。</b>s.75(3)(c) 排除每期须一次性全额还清的循环信用协议，这正是 FOS 所说“charge card 不适用”的法律依据。</li>\n</ul>\n<h3>£30,000 以上：第 75A 条</h3>\n<p>对于专门为特定商品或服务融资的“关联信用协议”，若现金价格超过 £30,000 且信用额不超过 £60,260，第 75A 条在以下任一情形下允许向贷方追索：商家无法找到、不回应、已破产，或消费者已采取合理步骤（无须诉讼）仍未获满足。该条不适用于以土地担保的协议或主要用于经营的借贷。</p>\n\n<h2>三、三个情景算例</h2>\n<table>\n<tr><th>情景</th><th>支付方式</th><th>可用机制</th></tr>\n<tr><td>A：沙发现金价 £1,200，信用卡付 £200 定金，其余 £1,000 银行转账；商家倒闭未交货</td><td>部分信用卡</td><td>Section 75，可就 £1,200 全价向发卡机构主张（FOS：看现金价格、部分支付即可）</td></tr>\n<tr><td>B：同一张沙发全额用借记卡支付</td><td>借记卡</td><td>仅 chargeback；若从预计交货日起约 120 天内未提出，可能错过时限</td></tr>\n<tr><td>C：耳机 £80，信用卡支付，收货即损坏</td><td>信用卡</td><td>低于 £100，Section 75 不适用，只能 chargeback；同时可依 CRA 2015 向商家主张权利</td></tr>\n</table>\n<p>情景 A 是 Section 75 最被低估的用法：大额预付（装修、婚礼、课程、家具定制）只需把定金放在信用卡上，就把整笔合同纳入法定保护。</p>\n\n<h2>四、时间线：从发现问题到申诉专员</h2>\n<table>\n<tr><th>阶段</th><th>时限与要点</th><th>出处</th></tr>\n<tr><td>收货后拒收</td><td>CRA 2015 第 22 条：短期拒收权为交货等条件满足后次日起 30 天</td><td>legislation.gov.uk</td></tr>\n<tr><td>先联系商家</td><td>Visa 英国页面：未先联系商家，不能启动 chargeback</td><td>Visa UK</td></tr>\n<tr><td>提出 chargeback</td><td>通常约 120 天，可自预计交付日或发现缺陷之日起算；视情形可长可短</td><td>FOS</td></tr>\n<tr><td>发卡机构处理投诉</td><td>正式投诉后 8 周内未给最终答复或不满意，可转 FOS</td><td>FOS</td></tr>\n<tr><td>申诉专员</td><td>免费；审查机构是否不当拒绝 s.75、是否本应提起 chargeback、调查是否拖延</td><td>FOS</td></tr>\n</table>\n\n<h2>五、进阶技巧</h2>\n<ul>\n<li><b>Section 75 被拒时，留意 chargeback 窗口。</b>Section 75 审核可能耗时数周，期间 120 天的 chargeback 窗口可能关闭。提交时书面要求机构“同时考虑 chargeback”，FOS 审查时会看机构是否本应提起 chargeback。</li>\n<li><b>避免中间支付层。</b>FOS 指出，Section 75 需要“债务人—债权人—供应商”三方关系成立，购买方式和参与方会影响认定。通过第三方支付平台或代购中转时，这一链条可能断裂。大额消费直接用信用卡向实际商家付款更稳妥。</li>\n<li><b>以 CRA 2015 为论证基础。</b>FOS 指出机构评估 Section 75 时应考虑《2015 年消费者权益法》：商品须“质量合格”，服务须以“合理的谨慎与技能”提供。在申请中直接引用这两项标准，比描述“我不满意”更有效。</li>\n<li><b>证据一次备齐。</b>FOS 列出的材料包括收据、合同与条款、广告或页面截图、往来邮件、照片视频，以及必要时的独立评估报告。</li>\n</ul>\n\n<h2>六、常见误区</h2>\n<ul>\n<li><b>“刷卡金额要超过 £100。”</b>门槛看的是单件现金价格，不是刷卡金额。</li>\n<li><b>“借记卡也有 Section 75。”</b>FOS 明确：借记卡、charge card、透支、一般用途银行贷款、现金、信用卡支票和银行转账均不适用。</li>\n<li><b>“chargeback 是银行义务。”</b>FOS 写明银行没有义务提起 chargeback，只是在有正当理由时提起属于良好做法。</li>\n<li><b>“Section 75 只能退刷卡那部分。”</b>连带责任针对的是违约或虚假陈述的请求，不以刷卡金额为限。</li>\n<li><b>“120 天从消费日算。”</b>FOS 表述为可自预计交付日或收到缺陷商品之日起算；Which? 亦称“通常自交易处理日或预计交付日起 120 天”，各卡组织具体规则不一。</li>\n</ul>\n\n<h2>常见问题</h2>\n<h3>问：Section 75 有没有申请期限？</h3>\n<p>答：第 75 条本身没有设置专门期限，但越晚提出，证据越难补齐。英国一般合同索赔的诉讼时效问题较复杂，需要时请咨询律师。</p>\n<h3>问：海外网站购物用英国信用卡，适用吗？</h3>\n<p>答：条文本身未排除境外商家，但涉外交易的“三方关系”认定更复杂，以发卡机构判断和 FOS 的个案处理为准。</p>\n<h3>问：Klarna 等先买后付算不算？</h3>\n<p>答：取决于具体产品是否属于受监管的消费信贷协议，相关监管安排在调整中，本文不作结论，以各平台条款为准。</p>\n<blockquote>提醒：本文为一般性信息，不构成法律意见。卡组织规则和各发卡机构流程会调整，请以官网与 FOS 为准；金额较大或涉及诉讼时，请咨询律师。</blockquote>",
+ "sources": [
+  [
+   "legislation.gov.uk – Consumer Credit Act 1974, section 75",
+   "https://www.legislation.gov.uk/ukpga/1974/39/section/75"
+  ],
+  [
+   "legislation.gov.uk – Consumer Credit Act 1974, section 75A",
+   "https://www.legislation.gov.uk/ukpga/1974/39/section/75A"
+  ],
+  [
+   "legislation.gov.uk – Consumer Rights Act 2015, section 22",
+   "https://www.legislation.gov.uk/ukpga/2015/15/section/22"
+  ],
+  [
+   "Financial Ombudsman Service – Section 75 and chargeback",
+   "https://www.financial-ombudsman.org.uk/pay-it-safe/index.html"
+  ],
+  [
+   "Visa UK – Purchase disputes and chargeback",
+   "https://www.visa.com/en-gb/personal/security/chargeback-purchase-disputes"
+  ],
+  [
+   "Which? – How do I use chargeback?（第三方解读）",
+   "https://www.which.co.uk/consumer-rights/advice/how-do-i-use-chargeback"
+  ]
+ ],
+ "cat": "英国",
+ "topic": "英国 Section 75 与 chargeback：£100–£30,000 现金价格门槛、部分支付覆盖全价、75A、120 天时限、FOS 申诉",
+ "date": "2026-11-22",
+ "slug": "20261122-uk-section75-chargeback-1"
+}
