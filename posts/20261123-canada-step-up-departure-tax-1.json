@@ -1,0 +1,43 @@
+{
+ "title": "加拿大移民资产成本重置：落地市值入账与60个月离境例外",
+ "desc": "落地时海外股票按市值重新入账，日后只就增值部分纳税；住满60个月前离开，带来的资产免离境税。T1161门槛$25,000。",
+ "cat": "加拿大",
+ "topic": "加拿大新移民资产视同处置与视同取得（ITA 128.1(1)）、落地日公允市值成本、应税加拿大财产除外；离境税 deemed disposition、60 个月短期居民例外、T1161 $25,000 与罚款、T1243、T1244 延期与 $16,500 担保",
+ "date": "2026-11-23",
+ "slug": "20261123-canada-step-up-departure-tax-1",
+ "sources": [
+  [
+   "CRA – Newcomers to Canada (immigrants)",
+   "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/newcomers-canada-immigrants.html"
+  ],
+  [
+   "CRA – Completing your return for newcomers (property you owned before you arrived)",
+   "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/newcomers-canada-immigrants/completing-return-newcomers.html"
+  ],
+  [
+   "CRA – Dispositions of property for emigrants of Canada",
+   "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/dispositions-property.html"
+  ],
+  [
+   "CRA – Leaving Canada (emigrants)",
+   "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/leaving-canada-emigrants.html"
+  ],
+  [
+   "CRA – Form T1161, List of Properties by an Emigrant of Canada",
+   "https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t1161.html"
+  ],
+  [
+   "Justice Laws – Income Tax Act, section 128.1",
+   "https://laws-lois.justice.gc.ca/eng/acts/I-3.3/section-128.1.html"
+  ],
+  [
+   "CRA – Questions and answers about Form T1135",
+   "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/information-been-moved/foreign-reporting/questions-answers-about-form-t1135.html"
+  ],
+  [
+   "CRA – Line 12700, Taxable capital gains",
+   "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/about-your-tax-return/tax-return/completing-a-tax-return/personal-income/line-12700-capital-gains.html"
+  ]
+ ],
+ "body": "<p>先说结论：成为加拿大税务居民的那一刻，你持有的大多数海外资产（股票、基金、首饰、艺术品、收藏品）在加拿大税法下按当日公允市值“卖出再买回”，落地日市值就是你在加拿大的成本，落地前的增值加拿大不征税。反方向同样成立：离开加拿大时大多数资产按市值视同处置，即“离境税”；但如果离开前 10 年内居住不超过 60 个月，落地时带来的资产可以整体豁免。</p>\n<p>本文依据《所得税法》（Income Tax Act）第 128.1 条原文，以及加拿大税务局（CRA）关于新移民报税、移民离境资产处置、Form T1161 的页面整理（CRA 相关页面更新于 2026 年 1 月 20 日与 9 月 17 日），查询日期 2026 年 11 月 23 日。</p>\n\n<h2>一、入境：落地日市值就是新成本</h2>\n<p>第 128.1(1)(b) 条规定，个人成为加拿大居民时，视为在成为居民之前的瞬间按公允市值处置了所拥有的每一项财产；第 128.1(1)(c) 条规定，随后按同一价格视为重新取得。CRA 新移民报税页面的表述是：视为你已出售该财产，并以成为居民当日的公允市值立即重新取得，例子包括股票、首饰、画作和收藏品。</p>\n<p>法条列明的个人除外项有四类：</p>\n<ul>\n<li>应税加拿大财产（taxable Canadian property），典型如落地前已在加拿大买的房产；</li>\n<li>在加拿大经营业务的存货；</li>\n<li>在加拿大经营业务的 Class 14.1 财产；</li>\n<li>“排除权益”（excluded right or interest），主要是各类养老金、年金和注册计划权益。</li>\n</ul>\n<p>除外项没有成本重置，仍沿用原成本。另外两点同样重要：落地后才按部分年度申报全球收入；CRA 在新移民页面写明，落地前在海外赚取的收入不用缴加拿大税，但申请福利时可能需要申报落地前最多两年的境外收入。</p>\n\n<h2>二、算例：同一笔股票，加拿大只就落地后增值纳税</h2>\n<p>2026 年 3 月 1 日落地，持有一笔海外上市股票：原始成本折合 C$50,000，落地当日市值 C$120,000。2028 年以 C$150,000 卖出。</p>\n<table>\n<tr><th>项目</th><th>金额（加元）</th></tr>\n<tr><td>原始买入成本</td><td>50,000</td></tr>\n<tr><td>落地日公允市值（加拿大税法下的新成本）</td><td>120,000</td></tr>\n<tr><td>2028 年卖出价</td><td>150,000</td></tr>\n<tr><td>加拿大申报的资本利得</td><td>30,000</td></tr>\n<tr><td>若无成本重置的资本利得</td><td>100,000</td></tr>\n</table>\n<p>按现行 50% 计入率，应税资本利得为 C$15,000，而不是 C$50,000。反过来，如果落地时这笔股票已经浮亏，新成本同样是更低的市值，落地前的亏损不会带进加拿大。</p>\n<p>需要注意：这只是加拿大税法的处理。其他国家是否承认这个新成本，取决于该国法律；例如美国公民或绿卡持有人移居加拿大，美国税务上仍沿用原始成本，两国计算的利得会不一致，抵免安排需要单独核算。</p>\n\n<h2>三、离境：视同处置、60 个月例外与申报表</h2>\n<p>据 CRA 移民离境资产处置页面，离开加拿大时大多数财产按公允市值视同处置。主要例外：加拿大不动产、资源财产与林木财产；通过加拿大常设机构经营的业务财产；养老金、年金、RRSP、PRPP、RRIF、RESP、RDSP、TFSA 等计划权益；以及短期居民例外——离境前 10 年内居住不超过 60 个月的，最后一次成为居民时已拥有的财产（或此后继承的财产）不视同处置。</p>\n<table>\n<tr><th>节点</th><th>规则</th></tr>\n<tr><td>申报计算</td><td>用 Form T1243 计算视同处置的利得或损失，结果并入 Schedule 3</td></tr>\n<tr><td>T1161 资产清单</td><td>离境时全部财产公允市值超过 $25,000 须提交；现金与存款、注册计划、适用 60 个月例外的财产（应税加拿大财产除外）、单件低于 $10,000 的个人使用财产不计</td></tr>\n<tr><td>T1161 罚款</td><td>逾期每天 $25，最低 $100，最高 $2,500；即使无须报税也要在申报截止日前提交</td></tr>\n<tr><td>T1244 延期缴税</td><td>不论金额均可选择，免息延至实际出售时缴纳；须在离境次年 4 月 30 日前选择</td></tr>\n<tr><td>担保要求</td><td>联邦税超过 $16,500（魁北克前居民为 $13,777.50）须提供足额担保</td></tr>\n</table>\n<p>情景：2026 年落地、2030 年离开，居住 48 个月。落地时带来的海外股票适用 60 个月例外，不产生离境税；但落地后在加拿大非注册账户买入的 ETF 不在例外内，需要按离境日市值视同处置。TFSA、RRSP 不在视同处置范围，但离境后各自另有非居民规则。</p>\n\n<h2>四、进阶技巧</h2>\n<ul>\n<li><b>落地当天就固定证据：</b>下载券商在落地日（或最接近的交易日）的持仓与市值报表；首饰、艺术品、收藏品请具资质的评估师出具日期明确的估值。CRA 明确提示保存落地日市值记录，这将是多年后计算利得的唯一依据。</li>\n<li><b>把 60 个月当作硬性日历：</b>以最后一次成为居民的日期起算，计划离境的人应提前计算 10 年窗口内的累计居住月数，第 60 个月前后的离境税负担可能完全不同。</li>\n<li><b>新买入资产与带入资产分开账户：</b>带入的资产适用例外，落地后买入的不适用；分账户持有，离境时的 T1243 和 T1161 会清晰很多。</li>\n<li><b>大额离境税先谈担保：</b>联邦税超过 $16,500 时选择 T1244 需要担保，CRA 建议在 4 月 30 日前联系。</li>\n</ul>\n\n<h2>五、常见误区</h2>\n<ul>\n<li><b>“落地前的海外收入也要在加拿大交税”：</b>CRA 写明不用缴税，但福利申请可能要求申报最多两年的境外收入。</li>\n<li><b>“所有资产都能重置成本”：</b>应税加拿大财产（如落地前买的加拿大房产）不适用，仍用原成本。</li>\n<li><b>“离境税只针对富人”：</b>门槛不看收入，只看是否有未实现增值；T1161 的 $25,000 门槛按市值计算，普通投资账户就可能触发。</li>\n<li><b>“首年也要报 T1135”：</b>据 CRA 关于 T1135 的问答页面，个人首次成为加拿大居民的年度无须提交 T1135，次年起按境外财产成本是否超过 $100,000 判断。</li>\n</ul>\n\n<h2>常见问题</h2>\n<h3>落地日市值按哪个汇率换算？</h3>\n<p>以加元申报，一般按落地日汇率换算。具体做法请参照 CRA 资本利得指南 T4037 并咨询税务专业人士。</p>\n<h3>离开后又回到加拿大，已缴的离境税能退吗？</h3>\n<p>CRA 页面写明，1996 年 10 月 1 日之后离境的回流居民，可以就仍持有的财产选择撤销（unwind）先前的视同处置。</p>\n<h3>落地后才开的 TFSA 离境时要交离境税吗？</h3>\n<p>不视同处置，但非居民期间的新供款另有罚则，应在离境前确认。</p>\n<p>提醒：以 CRA 官网为准；复杂情况请咨询 CPA 或税务律师。</p>"
+}
