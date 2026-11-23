@@ -1,0 +1,47 @@
+{
+ "title": "返现免税、开户奖励要报税：2026年1099门槛升至$2,000",
+ "desc": "消费换来的返现按折扣处理，开户与推荐奖励是收入。1099-MISC 门槛 2026 年起升至 $2,000，没收到税表也要申报。",
+ "body": "<p>先说结论：在美国，<b>需要消费才能拿到的</b>信用卡返现和开卡奖励，一般被视为购物折扣，不计入应税收入；<b>不需要消费的</b>奖励——银行开户奖励、推荐奖励、开账户送的积分——通常是应税收入。2026 年起，1099-MISC 中“其他收入”的报送门槛由 $600 升至 $2,000，收到的税表会变少，但纳税义务不变。</p>\n<p>本文依据 IRS《Instructions for Forms 1099-MISC and 1099-NEC》（2026 年 12 月修订版）、《Instructions for Forms 1099-INT and 1099-OID》、IRS Publication 550（2025 年版）、IRS 2026 年税率与标准扣除额公告，以及美国税务法院 Shankar v. Commissioner, 143 T.C. 140 (2014) 与 Anikeev v. Commissioner, T.C. Memo. 2021-23 两案的公开资料整理，查询日期 2026 年 11 月 22 日。</p>\n\n<h2>一、区分标准：有没有“买东西”</h2>\n<p>税务上的核心问题是，奖励是对你一笔购买的价格减免，还是银行无对价地给你的钱。前者降低商品成本，后者属于收入。</p>\n<table>\n<tr><th>奖励类型</th><th>一般税务处理</th><th>常见税表</th><th>报送门槛</th></tr>\n<tr><td>消费返现、积分；“三个月刷 $4,000 得 $750”类开卡奖励</td><td>视为购物折扣，一般不计收入</td><td>通常不出税表</td><td>—</td></tr>\n<tr><td>支票/储蓄账户开户现金奖励</td><td>应税收入，多按利息处理</td><td>1099-INT（也有银行用 1099-MISC，做法不一）</td><td>1099-INT：$10</td></tr>\n<tr><td>开户赠送的非现金礼品或服务</td><td>Pub 550：按利息申报</td><td>1099-INT</td><td>存款 &lt;$5,000 时价值 &gt;$10；≥$5,000 时 &gt;$20</td></tr>\n<tr><td>推荐奖励、无消费要求的积分</td><td>多数税务评论认为属应税收入</td><td>1099-MISC 第 3 栏</td><td>2026 年起 $2,000（此前 $600）</td></tr>\n<tr><td>用信用卡购买汇票、给借记卡充值所得返现</td><td>Anikeev 案中被认定为应税</td><td>通常不出税表</td><td>—</td></tr>\n</table>\n<p>据 IRS 1099-MISC/NEC 说明“What's New”一节：自 2025 年之后开始的纳税年度起，部分信息申报表及后备预扣的最低门槛提高到 $2,000，并可自 2027 日历年起按通胀调整；奖金、奖励及“其他收入”（第 3 栏）均适用 $2,000。1099-INT 说明则规定，支付利息至少 $10 即须报送。</p>\n\n<h2>二、两个判例划出的边界</h2>\n<h3>Shankar（2014）：开户积分换机票，按票价计税</h3>\n<p>据公开报道及判决摘要，纳税人因在 Citibank 开立银行账户获得 50,000 点 ThankYou 积分，2009 年兑换了一张经济舱机票，Citibank 出具了金额为 $668 的 1099-MISC。税务法院认定机票价值应计入总收入。这里没有任何消费，积分是开户的对价，这正是它与刷卡返现的根本差别。判决脚注保留了一个问题：应税事件究竟是获得积分还是兑换积分，法院未作认定。</p>\n<h3>Anikeev（2021）：返现本身不征税，但买的是“现金等价物”就不同</h3>\n<p>纳税人通过 Amex Blue Cash 获得超过 $277,000 的返现，主要来自大量购买 Visa 礼品卡、为 Green Dot 借记卡充值和购买汇票。法院重申，返现一般不计入个人总收入；但对用信用卡购买现金等价物所得的部分，因为并未购买商品或服务、无从调整成本基础，认定为应税。各评论对礼品卡部分的边界表述<b>说法不一</b>：KPMG 公布的判决文本与 The Tax Adviser 的分析可作对照，但共识是汇票和借记卡充值所得返现被认定应税。</p>\n\n<h2>三、算例：2026 年一年拿了 $1,850 奖励，要交多少税</h2>\n<p>情景：单身报税，2026 年 W-2 工资 $70,000，住佛罗里达（无州所得税），使用标准扣除。据 IRS 公布的 2026 年数据，单身标准扣除额 $16,100；应税收入超过 $50,400 的部分适用 22% 税率，超过 $105,700 才进入 24%。</p>\n<ol>\n<li>应税工资收入：$70,000 − $16,100 = $53,900，已在 22% 档。</li>\n<li>当年奖励：信用卡开卡奖励 $750（需消费 $4,000）；银行支票账户开户奖励 $400（收到 1099-INT）；储蓄账户奖励 $200（收到 1099-INT）；信用卡推荐奖励 $500（2026 年起低于 $2,000，大概率收不到 1099-MISC）。合计 $1,850。</li>\n<li>应税部分：$400 + $200 + $500 = $1,100；$750 开卡奖励按购物折扣处理。</li>\n<li>联邦所得税增加：$1,100 × 22% = $242。佛州无州税；在征州税的州，还需另计州税。</li>\n</ol>\n<p>容易漏掉的是那 $500 推荐奖励：门槛提高后发卡行未必再出 1099-MISC，但 Pub 550 和一般收入原则都不以“是否收到税表”为纳税前提。</p>\n\n<h2>四、进阶技巧</h2>\n<ul>\n<li><b>自建奖励台账。</b>每笔开户奖励、推荐奖励记下入账日期、金额、机构和是否有消费门槛。2 月收到税表时逐项核对，银行发错或漏发时可要求更正，避免日后收到 CP2000 匹配通知。</li>\n<li><b>按入账年度计税。</b>开户奖励一般在入账当年计入收入。12 月满足条件、1 月才入账的奖励，通常属于下一年；以银行税表上的年度为准，两边不要重复申报。</li>\n<li><b>积分按机构申报的价值计。</b>Shankar 案以 Citibank 报告的 $668 为准。无消费要求的积分如以“点数”发放，留存发卡行在税表上使用的估值。</li>\n<li><b>商务卡返现的连带效应。</b>按“购物折扣”逻辑，商务支出所得返现降低该支出的实际成本，多数税务评论认为可扣除费用应相应减少；自雇人士应与 CPA 确认处理方式。</li>\n<li><b>远离现金等价物。</b>用信用卡买汇票、给借记卡充值所得的返现，Anikeev 案已认定为应税，且这类交易常被发卡行视为预借现金并收费或关户。</li>\n</ul>\n\n<h2>五、常见误区</h2>\n<ul>\n<li><b>“没收到 1099 就不用报。”</b>Pub 550 原文：即使没有收到 Form 1099-INT，也必须申报全部利息收入。2026 年门槛上调后，这一误区的代价会更常见。</li>\n<li><b>“开卡奖励都免税。”</b>只有以消费为条件的才按折扣处理；“批卡即送”“推荐即送”通常不在此列。</li>\n<li><b>“利息不足 $10 不算收入。”</b>$10 只是银行的报送门槛，不是纳税门槛。</li>\n<li><b>“$2,000 新门槛等于免税额。”</b>它约束的是付款方是否要出表，不改变收款人的收入认定。</li>\n</ul>\n\n<h2>常见问题</h2>\n<h3>问：持 ITIN 报税的人适用同样规则吗？</h3>\n<p>答：税务居民（无论用 SSN 还是 ITIN 报税）适用同样的收入认定。非居民外国人的利息与其他收入另有来源地和预扣规则，应单独咨询专业人士。</p>\n<h3>问：银行开户奖励应写在报税表哪里？</h3>\n<p>答：收到 1099-INT 的，按利息收入申报；收到 1099-MISC 第 3 栏的，一般作为“其他收入”申报在 Schedule 1。没有收到税表的，按奖励性质对应申报。</p>\n<h3>问：返现被商家退款冲回怎么办？</h3>\n<p>答：消费类返现本就不计收入，冲回也不影响报税；无消费门槛的奖励若被收回，应保存银行记录，与 CPA 确认调整方式。</p>\n<blockquote>提醒：本文为一般性信息，不构成税务或法律意见。判例与 IRS 指引可能更新，请以 IRS 官网和税表说明为准；金额较大或涉及自雇、商务卡、非居民身份时，请咨询 CPA 或税务律师。</blockquote>",
+ "sources": [
+  [
+   "IRS – Instructions for Forms 1099-MISC and 1099-NEC (Rev. 12/2026)",
+   "https://www.irs.gov/instructions/i1099mec"
+  ],
+  [
+   "IRS – Instructions for Forms 1099-INT and 1099-OID",
+   "https://www.irs.gov/instructions/i1099int"
+  ],
+  [
+   "IRS – Publication 550, Investment Income and Expenses",
+   "https://www.irs.gov/publications/p550"
+  ],
+  [
+   "IRS – Working Families Tax Cuts: 2026 brackets and standard deduction",
+   "https://www.irs.gov/newsroom/working-families-tax-cuts-individuals-and-workers"
+  ],
+  [
+   "IRS – Revenue Procedure 2025-32 (2026 inflation adjustments)",
+   "https://www.irs.gov/pub/irs-drop/rp-25-32.pdf"
+  ],
+  [
+   "Anikeev v. Commissioner, T.C. Memo. 2021-23 (opinion text, via KPMG)",
+   "https://assets.kpmg.com/content/dam/kpmg/us/pdf/2021/02/tc-memo-2021-23.pdf"
+  ],
+  [
+   "The Tax Adviser – Credit card rewards from purchases of gift cards",
+   "https://www.thetaxadviser.com/issues/2021/may/credit-card-rewards-purchases-gift-cards/"
+  ],
+  [
+   "Accounting Today – Bank 'Thank You Points' taxable when redeemed (Shankar)",
+   "https://www.accountingtoday.com/news/bank-thank-you-points-taxable-when-redeemed-for-airline-ticket"
+  ],
+  [
+   "University of Illinois Tax School – Tax issues with customer loyalty reward programs",
+   "https://taxschool.illinois.edu/post/tax-issues-with-customer-loyalty-reward-programs"
+  ]
+ ],
+ "cat": "美卡",
+ "topic": "信用卡返现与银行开户奖励的税务：购物折扣 vs 收入、1099-INT $10 与 1099-MISC $2,000 门槛、Shankar 与 Anikeev 判例、算例",
+ "date": "2026-11-22",
+ "slug": "20261122-card-rewards-tax-1099-1"
+}

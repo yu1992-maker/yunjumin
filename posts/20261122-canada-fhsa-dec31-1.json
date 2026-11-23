@@ -1,0 +1,39 @@
+{
+ "title": "加拿大FHSA：12月31日前开户，2027年额度可达$16,000",
+ "desc": "据 CRA：FHSA 额度从开户年起算，结转上限 $8,000。年底前开空账户，次年可存 $16,000；头 60 天供款不能抵上年。",
+ "body": "<p>先说结论：加拿大首次购房储蓄账户（FHSA）的额度不是从你符合条件那天起算，而是从<b>开户那一年</b>起算。据 CRA，开户当年的参与额度为 $8,000，未用部分最多结转 $8,000 到下一年。因此，2026 年 12 月 31 日前开户、哪怕一分钱不存，2027 年就能存入 $16,000；拖到 2027 年 1 月开户，2027 年只有 $8,000。</p>\n<p>本文依据加拿大税务局（CRA）FHSA 系列官方页面整理：Opening your FHSAs、Participating in your FHSAs、Tax deductions for FHSA contributions、Withdrawals and transfers out of your FHSAs、Closing your FHSAs 及 Definitions for FHSAs，查询日期 2026 年 11 月 22 日。以下金额均为加元。</p>\n\n<h2>一、开户资格：新移民最容易忽略的三个条件</h2>\n<p>据 CRA「Opening your FHSAs」页面，开户时必须同时满足：</p>\n<ul>\n<li><b>年龄：</b>年满 18 岁（法定成年年龄为 19 岁的省份为 19 岁），且开户当年 12 月 31 日时不超过 71 岁。</li>\n<li><b>居民身份：</b>开户时是加拿大税务居民。CRA 看的是税务居民身份，而非移民身份。</li>\n<li><b>首次购房者：</b>开户当年及之前 4 个日历年内，没有以主要住所身份居住过自己（或现任配偶、同居伴侣）拥有或共有的“合格住房”。CRA 原文特别注明，位于加拿大境外、若在加拿大即属合格住房的房屋同样计算。</li>\n</ul>\n<p>最后一条对新移民影响最大：落地前在原居住国自住过自有房产的人，要等满“当年加前 4 个日历年”的窗口才有资格。开户还需要 SIN，并在开户当年的报税表中填写 Schedule 15，即使当年没有供款，CRA 也要求申报。</p>\n\n<h2>二、额度时间线：为什么 12 月 31 日是硬节点</h2>\n<p>CRA「Participating in your FHSAs」写明：开户当年的参与额度为 $8,000；“参与额度结转”（participation room carryforward）在开户当年为 $0，此后每年取未用额度与 $8,000 的较小者；终身上限 $40,000。也就是说，额度只能从开户年开始累积，没有开户的年份不产生任何结转。</p>\n<table>\n<tr><th>情景</th><th>2026 年</th><th>2027 年可存</th><th>2028 年可存</th><th>最早存满 $40,000</th></tr>\n<tr><td>A：2026 年 12 月开户，当年不存</td><td>额度 $8,000，未用</td><td>$16,000</td><td>$8,000</td><td>2030 年（按每年用满计）</td></tr>\n<tr><td>B：2027 年 1 月开户</td><td>无账户，无额度</td><td>$8,000</td><td>$8,000（若 2027 年用满）</td><td>2031 年</td></tr>\n<tr><td>C：2026 年开户并存 $8,000</td><td>用满</td><td>$8,000</td><td>$8,000</td><td>2030 年</td></tr>\n</table>\n<p>情景 A 与 B 的差别是一整年的 $8,000 额度。另需注意，结转上限只有 $8,000：连续两年不存，第三年最多仍是 $16,000，多出的一年额度并不会叠加，而是推迟终身上限的到达时间。</p>\n\n<h2>三、算例：抵税时点可以自己选</h2>\n<p>CRA「Tax deductions for FHSA contributions」写明，FHSA 供款可在供款当年或<b>以后任何一年</b>扣除，未扣除的供款甚至在账户关闭后仍可结转。这一点与 TFSA 不同，也比 RRSP 更灵活，适合收入正在爬坡的新移民。</p>\n<p>情景：2026 年 5 月落地的新移民，2026 年在加拿大的收入约 $30,000，预计 2027 年起年收入 $95,000。</p>\n<ol>\n<li>2026 年 12 月开户，存入 $8,000，但 2026 年报税时<b>不申报扣除</b>，只在 Schedule 15 上登记开户和供款。</li>\n<li>2027 年存入 $8,000，并在 2027 年报税时一次扣除 $16,000。</li>\n<li>假设 2027 年联邦加省的合并边际税率为 30%（各省不同，此处仅为假设），扣除价值约 $16,000 × 30% = $4,800；若在 2026 年低收入时扣除 $8,000，按假设 20% 边际税率，价值约 $1,600。</li>\n</ol>\n<p>账户内的投资收益不占用参与额度，合格提取时全部免税。CRA 还写明，合格提取没有最短持有期，供款当天即可用于符合条件的购房提取。</p>\n\n<h2>四、进阶技巧</h2>\n<ul>\n<li><b>“空账户”开户。</b>开户本身就会启动额度计时。即使现金流紧张，也值得在 12 月 31 日前开一个 $0 余额的 FHSA，同时在次年报税表上填 Schedule 15。</li>\n<li><b>注意 60 天规则与 RRSP 不同。</b>CRA 明确：每年头 60 天的 FHSA 供款<b>不能</b>扣除到上一年。想计入 2026 年额度，资金必须在 2026 年 12 月 31 日前到账，而不是像 RRSP 那样可以拖到次年 3 月初。</li>\n<li><b>用 RRSP 余额“转仓”。</b>据 CRA「Transfers into your FHSAs」，通过 Form RC720 直接将 RRSP 资产转入 FHSA 不产生即时税负，但占用 FHSA 额度、不可再扣除，也不会恢复 RRSP 扣除额度。适合手头现金不足但 RRSP 已有余额的人。</li>\n<li><b>与 HBP 叠加。</b>CRA 写明，同一套合格住房可以同时进行 FHSA 合格提取和 RRSP 的 Home Buyers' Plan 提取，只要各自条件在提取时均满足。夫妻双方各自符合条件时，可分别从自己的 FHSA 提取。</li>\n<li><b>没买房也不亏。</b>参与期最长持续到以下最早者所在年度的 12 月 31 日：开户满 15 周年、年满 71 岁、首次合格提取的次年。期满前用 Form RC721 直接转入 RRSP/RRIF，CRA 写明一般既不影响未用的 RRSP 扣除额度，也不影响 FHSA 参与额度——相当于额外获得最多 $40,000 的 RRSP 空间。</li>\n</ul>\n\n<h2>五、常见误区</h2>\n<ul>\n<li><b>“符合首次购房者条件就自动有额度。”</b>没有开户的年份不产生额度，也不产生结转。</li>\n<li><b>“结转可以无限累积。”</b>参与额度结转上限为 $8,000，单年最多 $16,000。</li>\n<li><b>“超额一点没关系。”</b>据 CRA，超额部分按每月最高超额金额的 1% 征税，持续到纠正为止；而且合格提取不会消除超额，购房前要先用 Form RC727 处理。</li>\n<li><b>“开户时的首次购房者定义就是提取时的定义。”</b>CRA 特别提示两者不同：提取时要求当年（提取前 30 天除外）及前 4 年未自住自有房屋，并须在提取次年 10 月 1 日前完成购买或建造的书面协议，且从首次合格提取到购房期间保持加拿大税务居民身份，提交 Form RC725。</li>\n<li><b>“自己取出再存进 RRSP 也算转账。”</b>非直接转账会被视为应税提取，并占用 RRSP 额度。</li>\n</ul>\n\n<h2>常见问题</h2>\n<h3>问：持工签或学签的临时居民能开 FHSA 吗？</h3>\n<p>答：CRA 的条件是“加拿大居民”（税务意义上），并要求提供 SIN；是否构成税务居民按 CRA 的居民身份判定规则逐案确定。开户后若成为非居民，CRA 另有「Non-residents and FHSAs」页面说明后续处理。</p>\n<h3>问：可以开多个 FHSA 吗？</h3>\n<p>答：可以，但所有 FHSA 共用同一个参与额度，合计不得超过当年额度。</p>\n<h3>问：额度在哪里查？</h3>\n<p>答：提交含 Schedule 15 的报税表并获评估后，可在 CRA My Account 的 Savings and pension plans 栏目查看，也会显示在评税通知（Notice of Assessment）上。</p>\n<blockquote>提醒：本文为一般性信息，不构成税务或投资建议。规则与数字以 CRA 官网为准；涉及居民身份判定、海外房产或跨境税务（包括同时为美国税务人士的情况）时，请咨询注册会计师（CPA）。</blockquote>",
+ "sources": [
+  [
+   "CRA – Opening your FHSAs",
+   "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/first-home-savings-account/opening-your-fhsas.html"
+  ],
+  [
+   "CRA – Participating in your FHSAs",
+   "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/first-home-savings-account/contributing-your-fhsa.html"
+  ],
+  [
+   "CRA – Tax deductions for FHSA contributions",
+   "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/first-home-savings-account/tax-deductions-fhsa-contributions.html"
+  ],
+  [
+   "CRA – Withdrawals and transfers out of your FHSAs",
+   "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/first-home-savings-account/withdrawals-transfers-out-your-fhsas.html"
+  ],
+  [
+   "CRA – Transfers into your FHSAs",
+   "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/first-home-savings-account/transfers-into-your-fhsas.html"
+  ],
+  [
+   "CRA – Closing your FHSAs",
+   "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/first-home-savings-account/closing-your-fhsa.html"
+  ],
+  [
+   "CRA – Definitions for FHSAs",
+   "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/first-home-savings-account/definitions.html"
+  ]
+ ],
+ "cat": "加拿大",
+ "topic": "加拿大 FHSA：开户年起算额度、$8,000 结转、12 月 31 日节点、延后扣除、RRSP 转入与转出、合格提取条件",
+ "date": "2026-11-22",
+ "slug": "20261122-canada-fhsa-dec31-1"
+}
