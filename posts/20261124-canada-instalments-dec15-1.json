@@ -1,0 +1,59 @@
+{
+ "slug": "20261124-canada-instalments-dec15-1",
+ "title": "加拿大12月15日预缴税：$3,000门槛与7%利息",
+ "desc": "通知金额只是三种算法之一；落地首年免预缴，年底多代扣可压到门槛下。",
+ "cat": "加拿大",
+ "topic": "加拿大个人预缴税 instalments、12 月 15 日、$3,000 与魁北克 $1,800、三种算法、7% 利息与罚金、新移民首年、Budget 2026 提高至 $7,500",
+ "body": "<p>先说结论：加拿大个人 2026 年最后一笔预缴税的截止日是 12 月 15 日。只有当 2026 年的净欠税超过 $3,000（魁北克 $1,800），并且 2025 或 2024 年也超过同一门槛时，才必须预缴；落地第一年、前两年在加拿大没有净欠税的新移民，欠多少都不用预缴。CRA 通知上的金额只是三种算法之一，收入下降的人改用当年估算法，最后一笔可能是 $0；而漏缴的利率目前是 7%，按日复利。</p>\n<p>本文依据 CRA“Required tax instalments for individuals”各页（更新于 2026 年 1 月 20 日）、《Income Tax Act》第 156、156.1、161(4.01)、163.1 条、CRA 2026 年各季度规定利率公告以及 Budget 2026 税务补充资料整理，查询日期 2026 年 11 月 24 日。金额均为加元。</p>\n\n<h2>一、谁必须预缴：两道门槛同时成立</h2>\n<p>工资由雇主代扣，所以多数雇员不受影响。需要留意的是自雇、房租、投资收入、资本利得、多份工作或某些退休金。据第 156.1 条，净欠税大致等于联邦税加省税，减去全年已经代扣的税。判断分两步：</p>\n<table>\n<tr><th>情形</th><th>2024 年净欠税</th><th>2025 年净欠税</th><th>2026 年预计净欠税</th><th>2026 年要预缴吗</th></tr>\n<tr><td>持续自雇</td><td>$5,000</td><td>$6,000</td><td>$6,000</td><td>要</td></tr>\n<tr><td>今年停了副业</td><td>$5,000</td><td>$6,000</td><td>$2,500</td><td>不要，可不理会通知</td></tr>\n<tr><td>今年才开始自雇</td><td>$0</td><td>$800</td><td>$15,000</td><td>不要，2027 年 4 月 30 日一次付清</td></tr>\n<tr><td>2026 年落地的新移民</td><td>$0</td><td>$0</td><td>$10,000</td><td>不要</td></tr>\n<tr><td>2025 年落地，首年就欠 $4,000</td><td>$0</td><td>$4,000</td><td>$5,000</td><td>要</td></tr>\n</table>\n<p>省份以 12 月 31 日的居住地为准。魁北克门槛较低，是因为联邦政府不代收魁省所得税，财政部在 Budget 2026 中作了同样的解释。</p>\n<p>通知本身也有含义。CRA 写明 2 月的 INNS1 通知对应 3 月和 6 月的付款，8 月的通知对应 9 月和 12 月。收到通知但 2026 年净欠税不超过门槛的，不必付款；收到通知、确实应缴却不付的，才会产生预缴利息。</p>\n\n<h2>二、三种算法：同一个人，$12,000 与 $6,000 的差别</h2>\n<p>第 156(1) 条允许三种算法。假设某自雇者 2024 年净欠税 $4,000，2025 年 $12,000，2026 年预计 $6,000（为简化，不计 CPP 供款与自愿 EI 保费；实际计算须加入）：</p>\n<table>\n<tr><th>截止日</th><th>免计算法（通知金额）</th><th>上年法（2025）</th><th>当年法（2026 估算）</th></tr>\n<tr><td>3 月 15 日</td><td>$1,000</td><td>$3,000</td><td>$1,500</td></tr>\n<tr><td>6 月 15 日</td><td>$1,000</td><td>$3,000</td><td>$1,500</td></tr>\n<tr><td>9 月 15 日</td><td>$5,000</td><td>$3,000</td><td>$1,500</td></tr>\n<tr><td>12 月 15 日</td><td>$5,000</td><td>$3,000</td><td>$1,500</td></tr>\n<tr><td>合计</td><td>$12,000</td><td>$12,000</td><td>$6,000</td></tr>\n</table>\n<p>免计算法前两笔各为 2024 年的四分之一，后两笔各为“2025 年总额减去 2024 年一半”的一半，所以下半年会突然跳高。若此人照通知付了前三笔，已付 $7,000，超过当年估算的 $6,000，12 月 15 日便可不再付款。</p>\n<p>风险在于估低。若全年净欠税最后是 $9,000，到 12 月 15 日少付 $2,000，按 7% 日复利算到 2027 年 4 月 30 日约 $53（未计先前多付产生的抵扣利息）。CRA 写明，上年法和当年法若估得太低，仍会收利息。不过第 161(4.01) 条又规定，计算利息时采用使应付金额最少的方法，包括通知上的金额，因此选错算法本身不会多罚。</p>\n\n<h2>三、漏缴的代价：利息、$25 与 $1,000 两条线</h2>\n<p>CRA 2026 年四个季度对欠税的规定利率均为 7%，对个人多缴款的利率为 5%。预缴利息按日复利，从每笔截止日算到余额截止日（2027 年 4 月 30 日），超过 $25 才收取。罚金另算：只有预缴利息超过 $1,000 时才触发，金额为“实际利息减去 $1,000 或减去完全不缴时利息的 25%，以较高者为准”，再除以二。</p>\n<p>下表按当年法平均四笔、全部漏缴计算，并假设 2027 年第一、二季度利率仍为 7%（该利率查询时尚未公布）：</p>\n<table>\n<tr><th>2026 年净欠税</th><th>预缴利息约</th><th>罚金约</th></tr>\n<tr><td>$7,500</td><td>$405</td><td>$0</td></tr>\n<tr><td>$10,000</td><td>$540</td><td>$0</td></tr>\n<tr><td>$20,000</td><td>$1,079</td><td>$40</td></tr>\n<tr><td>$40,000</td><td>$2,158</td><td>$579</td></tr>\n</table>\n<p>以 $10,000 为例，若前三笔都漏了，但在 12 月 15 日一次补足，利息可从约 $540 降到约 $275。补缴没有失去意义，越早越好。</p>\n\n<h2>四、进阶技巧</h2>\n<ul>\n<li><b>用年底代扣把净欠税压到门槛以下。</b>第 156.1 条的净欠税按全年代扣总额计算，不看月份。有工资收入的人，可向雇主交新的 TD1，要求从 12 月工资或奖金中多扣税，但须先确认赶得上本年最后一次发薪。例如预计净欠税 $4,200，多扣 $1,300 后为 $2,900，不超过 $3,000，2026 年便不需要预缴，前几笔没付也不产生预缴利息。CRA 的 Hugh 案例用的正是这一逻辑，只是他从 1 月就开始扣。</li>\n<li><b>利用抵扣利息。</b>CRA 写明，多付或提前付下一笔可以产生 credit interest，抵销同一年度内其他迟付的利息；它不退现金，也不能跨年。之前漏了 9 月的人，12 月多付或提前几周付，就是在买这种抵扣。</li>\n<li><b>只收到 8 月通知的人按 75% / 25% 付。</b>若通知没有要求 3 月和 6 月付款，选上年法或当年法时，9 月付总额的 75%，12 月付 25%；选免计算法则照方框 2 付。</li>\n<li><b>留出到账时间。</b>CRA 建议网上付款等 3 个工作日、支票等 10 个工作日再核对。逢周末或法定假日顺延；2026 年 12 月 15 日是星期二，没有顺延。</li>\n<li><b>把付款分配正确。</b>款项若记成了欠税或其他年度，可在 CRA 账户“Accounts and payments”里用“Transfer payment(s)”更改。报税时把全年预缴总额填在第 47600 行。</li>\n<li><b>离开魁北克的人。</b>年内搬出魁省但已向 Revenu Québec 预缴的，可申请退款并索取列明付款日期的信，转交 CRA 后按原付款日期认账。</li>\n</ul>\n\n<h2>五、Budget 2026 的提案：门槛 $7,500，但要等到 2028</h2>\n<p>Budget 2026 提议把个人门槛由 $3,000 提高到 $7,500（魁北克由 $1,800 提高到 $4,500），并按通胀指数化；同时允许以营业收入为主的个人像农民、渔民一样，每年只在 12 月 31 日预缴一次，金额为净欠税的三分之二。两项都从 2028 年度起适用。另一项提案把个人报税与缴税截止日统一改为 5 月 15 日，适用于 2027 及以后年度。</p>\n<p>由此可知，2026 年度仍按旧规则：门槛 $3,000，余额截止日 2027 年 4 月 30 日。提案在立法完成之前也可能改动。</p>\n\n<h2>六、常见误区</h2>\n<ul>\n<li><b>“没收到通知也要按季付”。</b>CRA 列明，预缴利息须同时满足应预缴、收到通知、未足额准时付款三项条件。</li>\n<li><b>“收到通知就必须照付”。</b>通知基于过去的数据，不知道你今年的收入。</li>\n<li><b>“自雇者 6 月 15 日才报税，所以也到那时才缴”。</b>申报可以到 6 月 15 日，余额仍在 4 月 30 日到期。</li>\n<li><b>“有 $3,000 免预缴额度”。</b>这是门槛，不是免征额。净欠税 $3,100 的人，要预缴的是全部 $3,100。</li>\n</ul>\n\n<h2>常见问题</h2>\n<h3>新移民第二年要注意什么？</h3>\n<p>首年的净欠税会成为第二年的判断依据。首年若超过 $3,000，第二年又预计超过，就从第二年起预缴；第一封通知可能要到 8 月才寄出。</p>\n<h3>资本利得只有一次，明年还要预缴吗？</h3>\n<p>若次年净欠税回到 $3,000 以下，不需要，可以不理会通知。仍超过门槛但金额低得多的，改用当年法。</p>\n<h3>多缴了能退吗？</h3>\n<p>CRA 写明可以写信给税务中心或致电 1-800-959-8281 申请，个案审理；否则在报税时通过第 47600 行结算。</p>\n<p>提醒：以 CRA 官网与个人 CRA 账户为准；涉及魁北克、居民身份变动或大额资本利得的复杂情况，请咨询 CPA。</p>\n",
+ "sources": [
+  [
+   "CRA：Who has to pay",
+   "https://www.canada.ca/en/revenue-agency/services/payments/payments-cra/individual-payments/income-tax-instalments/who-pays-instalments.html"
+  ],
+  [
+   "CRA：Options to calculate",
+   "https://www.canada.ca/en/revenue-agency/services/payments/payments-cra/individual-payments/income-tax-instalments/options-calculate.html"
+  ],
+  [
+   "CRA：Payment due dates",
+   "https://www.canada.ca/en/revenue-agency/services/payments/payments-cra/individual-payments/income-tax-instalments/due-dates.html"
+  ],
+  [
+   "CRA：Interest and penalty charges",
+   "https://www.canada.ca/en/revenue-agency/services/payments/payments-cra/individual-payments/income-tax-instalments/interest-penalty-charges.html"
+  ],
+  [
+   "CRA：How to pay",
+   "https://www.canada.ca/en/revenue-agency/services/payments/payments-cra/individual-payments/income-tax-instalments/how-pay.html"
+  ],
+  [
+   "CRA：Claim amounts on your tax return",
+   "https://www.canada.ca/en/revenue-agency/services/payments/payments-cra/individual-payments/income-tax-instalments/claim-amounts-tax-return.html"
+  ],
+  [
+   "CRA：2026 年第四季度规定利率",
+   "https://www.canada.ca/en/revenue-agency/services/tax/prescribed-interest-rates/2026-q4.html"
+  ],
+  [
+   "司法部：Income Tax Act s.156",
+   "https://laws-lois.justice.gc.ca/eng/acts/I-3.3/section-156.html"
+  ],
+  [
+   "司法部：Income Tax Act s.156.1",
+   "https://laws-lois.justice.gc.ca/eng/acts/I-3.3/section-156.1.html"
+  ],
+  [
+   "司法部：Income Tax Act s.161",
+   "https://laws-lois.justice.gc.ca/eng/acts/I-3.3/section-161.html"
+  ],
+  [
+   "司法部：Income Tax Act s.163.1",
+   "https://laws-lois.justice.gc.ca/eng/acts/I-3.3/section-163.1.html"
+  ],
+  [
+   "Budget 2026：Tax measures",
+   "https://budget.canada.ca/2026/report-rapport/tm-mf-en.html"
+  ]
+ ],
+ "date": "2026-11-24"
+}
