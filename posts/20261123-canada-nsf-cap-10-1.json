@@ -1,0 +1,43 @@
+{
+ "title": "加拿大NSF费封顶$10：真正的大头是商户$20至$40",
+ "desc": "2026年3月12日起NSF费上限$10；商户退票费不在其内，新移民首年可享$0账户。",
+ "cat": "加拿大",
+ "topic": "加拿大 NSF 费 $10 上限、两个工作日规则、透支保护 $5 与 35% 刑事利率、商户退票费、新移民首年免月费账户、支票冻结",
+ "date": "2026-11-23",
+ "slug": "20261123-canada-nsf-cap-10-1",
+ "sources": [
+  [
+   "司法部：Financial Consumer Protection Framework Regulations 第 10.1 条",
+   "https://laws-lois.justice.gc.ca/eng/regulations/SOR-2021-181/FullText.html"
+  ],
+  [
+   "FCAC 新闻稿 2026-03-12：NSF 新规生效",
+   "https://www.canada.ca/en/financial-consumer-agency/news/2026/03/new-nsf-fee-regulations-bring-down-cost-of-banking-for-canadians.html"
+  ],
+  [
+   "财政部新闻稿 2026-03-11",
+   "https://www.canada.ca/en/department-finance/news/2026/03/minister-champagne-announces-new-10-cap-on-nsf-fees-and-other-measures-to-lower-banking-costs-for-canadians.html"
+  ],
+  [
+   "FCAC：银行收费审查报告 NSF 章",
+   "https://www.canada.ca/en/financial-consumer-agency/programs/research/banking-fees/non-sufficient-funds.html"
+  ],
+  [
+   "FCAC：银行收费审查报告 透支保护章",
+   "https://www.canada.ca/en/financial-consumer-agency/programs/research/banking-fees/overdraft-protection.html"
+  ],
+  [
+   "FCAC：Commitment on Low-Cost and No-Cost Accounts",
+   "https://www.canada.ca/en/financial-consumer-agency/services/industry/laws-regulations/low-cost-no-cost-accounts.html"
+  ],
+  [
+   "FCAC：Chequing accounts",
+   "https://www.canada.ca/en/financial-consumer-agency/services/banking/bank-accounts/chequing-accounts.html"
+  ],
+  [
+   "FCAC：Cashing a cheque",
+   "https://www.canada.ca/en/financial-consumer-agency/services/banking/cashing-cheques.html"
+  ]
+ ],
+ "body": "<p>先说结论：自 2026 年 3 月 12 日起，加拿大联邦监管的银行对个人账户收取的余额不足费（NSF fee）每次最多 $10，同一账户两个工作日内只能收一次，未经授权透支不足 $10 时不得收取。但一笔扣款失败的真正成本多半不在银行：据加拿大金融消费者管理局（FCAC），商户、房东、公用事业公司另收的退票费通常为每次 $20 至 $40，不受这条上限约束。偶尔会扣款失败的人，$5 的透支保护往往比 $10 的 NSF 费便宜；新移民落地首年还可要求 $0 月费账户。</p>\n<p>本文依据《Financial Consumer Protection Framework Regulations》第 10.1 条条文、FCAC 的银行收费审查报告（NSF 章与透支保护章）、《Commitment on Low-Cost and No-Cost Accounts》以及加拿大财政部 2026 年 3 月 11 日新闻稿整理，查询日期 2026 年 11 月 23 日。金额除注明外均为加元。</p>\n\n<h2>一、第 10.1 条到底写了什么</h2>\n<table>\n<tr><th>项目</th><th>2026 年 3 月 12 日之前</th><th>之后</th></tr>\n<tr><td>单次金额</td><td>约 $45 至 $48，最高可达 $50</td><td>不超过 $10</td></tr>\n<tr><td>重复收费</td><td>部分银行每次重试都收</td><td>同一个人存款账户，两个工作日内不得超过一次</td></tr>\n<tr><td>小额差额</td><td>差 $5 也照收</td><td>未经授权透支不足 $10，不得收取</td></tr>\n<tr><td>适用账户</td><td colspan=\"2\">自然人的个人存款账户（支票、储蓄）；企业账户不适用</td></tr>\n<tr><td>适用机构</td><td colspan=\"2\">联邦监管的银行与联邦信用社</td></tr>\n</table>\n<p>三个细节值得留意。第一，两个工作日的限制以账户为单位，不以付款为单位：周二的手机费与周三的保险费先后被退，同一账户只能收一次；但若两笔分别从两个账户扣，各自单独计算。第二，FCAC 说明，无论商户对同一笔付款重试多少次，两个工作日内只能收一次；过了这个窗口再重试失败，可以再收。第三，省级监管的信用社不在这条联邦规则的管辖之内，须查其自己的收费表。</p>\n<p>FCAC 估计，2025 年全国 NSF 费总额超过 10 亿加元，是其收集数据的各项账户服务费中消费者支出最大的一项；财政部预计上限每年为消费者节省逾 6 亿加元。</p>\n\n<h2>二、算例：FCAC 的 $80、$10 与 $5</h2>\n<p>FCAC 报告给出一个情景。Nadine 的支票账户有 $30，先有 $50 手机费预授权扣款，月底又有 $495 车贷扣款，两次都要等 $500 工资到账才够付。透支年利率按 22%、每次负余额 5 天、商户退票费按中位数 $30 计：</p>\n<table>\n<tr><th>项目</th><th>无透支保护</th><th>按月透支保护（$5/月）</th><th>按次透支保护（$5/次）</th></tr>\n<tr><td>银行 NSF 费</td><td>$20</td><td>无</td><td>无</td></tr>\n<tr><td>商户退票费</td><td>$60</td><td>无</td><td>无</td></tr>\n<tr><td>透支保护费</td><td>无</td><td>$5</td><td>$10</td></tr>\n<tr><td>透支利息</td><td>无</td><td>$0.11</td><td>$0.15</td></tr>\n<tr><td>合计</td><td>$80</td><td>$5.11</td><td>$10.15</td></tr>\n</table>\n<p>新规之后，银行部分只占 $80 中的 $20，四分之三是商户费用。由此可以推算选择透支方案的临界点：</p>\n<ul>\n<li>按月方案若不论是否使用都收费，一年 $60；按次方案 $5 一次，一年 12 次以内按次更便宜或打平。</li>\n<li>一年只失败 1 次：无保护约 $10 + $30 = $40；按次方案约 $5 加几分利息。</li>\n<li>若银行在未使用的月份免收月费，按月方案在任何使用次数下都不比按次贵。</li>\n</ul>\n<p>FCAC 写明，各行做法不一：有的未使用即免月费，有的照收；按次方案有的逐笔收，有的每日只收一次；部分学生、长者账户或高级套餐免收。多数银行要求在限期内（例如 89 天）补平透支，年利率约 19% 至 22%。</p>\n\n<h2>三、为什么透支费刚好是 $5</h2>\n<p>这并非行业默契。FCAC 解释，联邦法把透支费视为利息的一种，《Criminal Code》第 347 条规定年化利率超过 35% 即为刑事利率，这实际上把银行可收的透支费压到 $5。因此，如果某家银行的收费表上透支费高于 $5，值得先向银行书面询问依据。</p>\n<p>商户的退票费则由另一套零散的规则管辖：</p>\n<table>\n<tr><th>收费方</th><th>上限</th><th>依据</th></tr>\n<tr><td>联邦政府部门</td><td>$25</td><td>Interest and Administrative Charges Regulations</td></tr>\n<tr><td>发薪日贷款机构</td><td>$20</td><td>Criminal Interest Rate Regulations</td></tr>\n<tr><td>魁北克的收款方</td><td>一般限于其实际支付的银行费用</td><td>魁北克规则</td></tr>\n<tr><td>其他商户、房东</td><td>通常 $20 至 $40，看合同与省法</td><td>FCAC 报告的市场区间</td></tr>\n</table>\n\n<h2>四、新移民：首年 $0 账户与 90 天支票陷阱</h2>\n<p>FCAC 的 Commitment 自 2025 年 12 月 1 日生效，14 家联邦监管机构签署，包括六大银行。所有加拿大人可开月费不超过 $4 的低费账户，每月至少 18 笔借记交易，不得要求最低余额。对以下群体，签署行必须提供同等功能的 $0 账户：领取 GIS 的长者、RDSP 受益人、18 岁及以下青少年、学生，以及<b>在加拿大第一年的新移民</b>。</p>\n<p>“新移民”的定义比多数人以为的宽：永久居民（包括获 IRCC 原则批准者）、难民（受保护人士），以及持学签、工签或临时居民许可的临时居民，都在其内。开户时须出示证明文件。</p>\n<p><b>说法不一：</b>财政部 2026 年 3 月 11 日新闻稿列举 $0 账户对象时，只写了青少年、学生、GIS 长者与 RDSP 受益人，没有提新移民；FCAC 的 Commitment 正文与消费者页面都把新移民列为必须提供的群体。建议开户时直接引用 Commitment 原文。</p>\n<p>另一个与 NSF 直接相关的坑是支票冻结。FCAC 写明，合格支票当面存入可立即动用首 $100，其余最长冻结 4 至 8 个工作日；但账户开立不足 90 天时，银行可以不给这 $100，并可延长冻结。刚落地的人把第一张工资支票存进去，看到余额增加就设了房租自动扣款，结果钱尚未解冻，扣款失败。财政部称 Bill C-15 将把首 $100 提高到 $250，截至查询日 FCAC 页面仍写 $100。</p>\n\n<h2>五、进阶技巧</h2>\n<ul>\n<li><b>把余额提醒调高。</b>银行必须在余额低于 $100 时发电子提醒，这个门槛可以自己改。设成“最大一笔自动扣款 + $50”，提醒才有意义；提醒须说明如何避免收费以及还有多少时间。</li>\n<li><b>让扣款日落在发薪日之后两个工作日。</b>可询问房东、电信和公用事业公司能否更改扣款日；若能免费更改，比任何透支方案都便宜。</li>\n<li><b>用储蓄账户作关联保护前，先算每次 $5。</b>FCAC 说明关联账户方案通常每次转账收 $5；动用的是自己的存款，没有利息，但也没有省下那 $5。</li>\n<li><b>算总账。</b>FCAC 举例：月费 $12、须保持 $2,000 才免费的账户，余额一天跌到 $1,900 就收 $12。若全年都不达标，一年 $144，低费账户最多 $48，相差 $96，还不必压着 $2,000。</li>\n<li><b>首年结束前一个月换账户类型。</b>$0 资格只到在加第一年；Commitment 规定签署行内换账户不收转换费，到期前问清次年月费，需要时转为 $4 账户；仍在读的人可按学生身份继续申请 $0 账户。</li>\n<li><b>被多收时，引用条款。</b>向银行投诉时写明“SOR/2021-181, s. 10.1”，附两次收费的日期；仍不解决，可联系 FCAC（1-866-461-3222）。</li>\n</ul>\n\n<h2>六、常见误区</h2>\n<ul>\n<li><b>“现在扣款失败只损失 $10”。</b>商户费、服务中断与迟付罚金都在上限之外。</li>\n<li><b>“透支保护不用申请”。</b>FCAC 写明须先获银行批准，属于短期信贷。</li>\n<li><b>“只差一点不会收”。</b>豁免只看透支额是否不足 $10，差 $10 或以上即可收费。</li>\n<li><b>“$4 账户功能残缺”。</b>Commitment 要求至少 18 笔借记交易、免费电子月结单；在向其他客户提供的前提下，还包括开支票与联名账户。</li>\n</ul>\n\n<h2>常见问题</h2>\n<h3>金融科技账户会收 NSF 费吗？</h3>\n<p>FCAC 报告称多数金融科技公司不收 NSF 费，余额不足直接拒绝交易。但扣款失败后，商户照样可以收退票费。</p>\n<h3>工签持有人能要求 $0 账户吗？</h3>\n<p>Commitment 的定义包括工签持有人，限在加拿大第一年，并须提供证明。各行的具体新客套餐可能更优惠，也可能附带条件，应与 Commitment 账户分别比较。</p>\n<h3>美国账户也有 $10 上限吗？</h3>\n<p>没有，这是加拿大联邦条例。FCAC 引述美国 CFPB 的估计称，到 2023 年，资产超过 100 亿美元的银行已取消 97% 的 NSF 费收入。</p>\n<p>提醒：以 FCAC 与各银行官网为准；涉及合同争议或债务问题的复杂情况，请咨询律师或持牌信用顾问。</p>"
+}

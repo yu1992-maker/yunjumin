@@ -1,0 +1,39 @@
+{
+ "title": "Trump账户：$1,000须另申请，家长可填ITIN",
+ "desc": "2026年10月起自动开户，$1,000仍须递Form 4547；孩子要SSN，无SSN家长可填ITIN。",
+ "cat": "报税",
+ "topic": "Trump Account 自动开户、Form 4547、$1,000 试点供款、孩子 SSN 与家长 ITIN、2009 年出生者 12 月 31 日时限",
+ "date": "2026-11-23",
+ "slug": "20261123-tax-trump-account-itin-1",
+ "sources": [
+  [
+   "IRS：Trump Accounts（2026-10-21 更新）",
+   "https://www.irs.gov/trumpaccounts"
+  ],
+  [
+   "IRS：Trump Accounts 常见问题",
+   "https://www.irs.gov/faqs/trump-accounts-frequently-asked-questions"
+  ],
+  [
+   "IRS：Instructions for Form 4547（12/2025）",
+   "https://www.irs.gov/instructions/i4547"
+  ],
+  [
+   "联邦公报 2026-09-30：TD 10056 临时条例",
+   "https://www.govinfo.gov/content/pkg/FR-2026-09-30/html/2026-20026.htm"
+  ],
+  [
+   "IRS：Notice 2025-68",
+   "https://www.irs.gov/pub/irs-drop/n-25-68.pdf"
+  ],
+  [
+   "IRS IR-2026-31：$1,000 试点拟议条例",
+   "https://www.irs.gov/newsroom/treasury-irs-issue-proposed-regulations-for-trump-accounts-contribution-pilot-program-treasury-department-to-deposit-1000-into-the-account-of-each-eligible-child"
+  ],
+  [
+   "IRS IR-2026-90：雇主供款拟议条例",
+   "https://www.irs.gov/newsroom/treasury-irs-issue-proposed-regulations-on-employer-contributions-to-trump-accounts-under-the-working-families-tax-cuts"
+  ]
+ ],
+ "body": "<p>先说结论：自 2026 年 10 月 1 日起，美国财政部已为符合条件的孩子自动开立 Trump Account，但自动开户不会带来 $1,000，也不能让家人存钱。$1,000 政府供款仍须另递 Form 4547 申请，且只给 2025 至 2028 年出生的美国公民；家人要供款，须先认领并激活账户。对移民家庭最关键的一条写在 Form 4547 说明里：孩子必须有可用于工作的 SSN，而没有资格取得 SSN 的家长，可以填自己的 ITIN。</p>\n<p>本文依据 IRS 的 Trump Accounts 页面与常见问题（2026 年 10 月 21 日更新）、Form 4547 说明（2025 年 12 月版）、Notice 2025-68，以及 2026 年 9 月 30 日联邦公报刊登的临时条例 TD 10056 整理，查询日期 2026 年 11 月 23 日。临时条例适用于 2026 年 1 月 1 日及以后开始的税年，有效至 2029 年 9 月 30 日；$1,000 试点与雇主供款目前查到的仍是拟议条例，细节可能变动。</p>\n\n<h2>一、四件事要分开看：开户、认领、$1,000、供款</h2>\n<table>\n<tr><th>步骤</th><th>谁可以</th><th>怎么做</th><th>是否自动</th></tr>\n<tr><td>开户（auto account）</td><td>有有效 SSN，且当年年底前未满 18 岁</td><td>财政部自 2026 年 10 月 1 日起批量开立，之后定期补开</td><td>是</td></tr>\n<tr><td>认领与激活</td><td>依法有权管理孩子财产的监护人或法定保管人</td><td>Trump Accounts App 或网站，验证身份并签账户协议</td><td>否</td></tr>\n<tr><td>$1,000 试点供款</td><td>美国公民，2025 年 1 月 1 日至 2028 年 12 月 31 日出生，有有效 SSN</td><td>Form 4547 勾选试点供款，可经 App、网站或 IRS 个人账户递交</td><td>否</td></tr>\n<tr><td>家人、雇主供款</td><td>已激活的账户</td><td>每年合计上限 $5,000，其中雇主免税供款上限 $2,500</td><td>否</td></tr>\n</table>\n<p>许多家长把第一行当成全部。临时条例写得很清楚：自动账户在成长期内只能接收两类钱，一是由政府或慈善机构经财政部发放的 qualified general contributions，二是 $1,000 试点供款。祖父母想存入 $500，钱进不了未认领的自动账户。</p>\n<p>条例还规定，提出认领本身不算完成，须按受托人指示激活、签署账户协议，账户才成立，自动账户的余额随后整体转入。IRS 指定 BNY 为财务代理，Robinhood Securities LLC 为券商与初始受托人。</p>\n\n<h2>二、移民家庭的身份矩阵</h2>\n<table>\n<tr><th>孩子的情况</th><th>能否有账户</th><th>能否拿 $1,000</th></tr>\n<tr><td>美国公民，2025 至 2028 年出生，有 SSN</td><td>可以</td><td>可以，须申请</td></tr>\n<tr><td>美国公民，2009 至 2024 年出生，有 SSN</td><td>可以</td><td>不可以</td></tr>\n<tr><td>绿卡儿童，SSN 可用于工作</td><td>可以</td><td>不可以（非公民）</td></tr>\n<tr><td>SSN 卡注明 “Valid for Work Only with DHS Authorization”</td><td>DHS 许可有效期间，SSN 视为有效</td><td>不可以（非公民）</td></tr>\n<tr><td>SSN 卡注明 “Not Valid for Employment”</td><td>不符合</td><td>不可以</td></tr>\n<tr><td>只有 ITIN</td><td>不符合</td><td>不可以</td></tr>\n</table>\n<p>家长一侧的要求宽松得多。Form 4547 说明的 Part I 写明：非居民或居民外国人如果没有、也没有资格取得 SSN，可填 IRS 的 ITIN。这与儿童税收抵免等项目对家长号码的要求不应混为一谈，各项规则须分别查证。至于没有 SSN 的家长能否顺利通过 App 的身份验证，本站在上述 IRS 页面中没有查到说明；验证不通过时，可拨 866-USA-4547，或用纸表递交 Form 4547。</p>\n<p>还有两种容易被忽略的情形。其一，孩子的 SSN 卡上印有 “Not Valid for Employment”，但孩子现已成为公民或永久居民：说明要求先向 SSA 换发不带该字样的新卡。其二，SSN 必须在选择之前签发，先递表、后补号码不行。</p>\n\n<h2>三、12 月 31 日：2009 年出生的孩子只剩五周</h2>\n<p>账户的“成长期”从账户成立之日起，到孩子满 17 岁那一年的 12 月 31 日为止。2009 年出生的孩子 2026 年满 17 岁，成长期将在 2026 年 12 月 31 日结束，此后适用一般传统 IRA 规则，供款通常须有劳动收入。2008 年出生者 2026 年满 18 岁，已不符合开户条件。</p>\n<table>\n<tr><th>时点</th><th>含义</th></tr>\n<tr><td>2026 年 7 月 4 日</td><td>可供款的最早日期</td></tr>\n<tr><td>2026 年 10 月 1 日</td><td>财政部开始自动开户</td></tr>\n<tr><td>2026 年 12 月 31 日</td><td>2026 年度 $5,000 额度到期；2009 年出生者的成长期结束</td></tr>\n<tr><td>2028 年 12 月 31 日</td><td>$1,000 试点的出生日期截止</td></tr>\n<tr><td>满 17 岁当年</td><td>唯一可整体转入本人 ABLE 账户的年份</td></tr>\n<tr><td>满 18 岁当年 1 月 1 日</td><td>取款限制解除，适用传统 IRA 规则</td></tr>\n</table>\n<p>Notice 2025-68 特别说明，第 219(f)(3) 条（即普通 IRA 可在次年报税截止日前补存上年额度的规则）不适用于成长期内的供款。换言之，Trump Account 没有 4 月 15 日的宽限，2026 年的额度只能在 2026 年内用。</p>\n\n<h2>四、算例：供款来源不同，将来的税不同</h2>\n<p>供款没有税前扣除。区别在于是否形成“成本”（basis）：家人存的钱形成成本，政府的 $1,000、慈善与政府的一般供款、以及雇主第 128 条免税供款都不形成成本。满 18 岁后取款，按成本占账户总值的比例区分免税与应税部分。</p>\n<p>情景（数字为假设）：孩子满 18 岁后，账户价值 $40,000，其中父母历年存入 $16,000，政府 $1,000，雇主 $5,000，其余 $18,000 为增值。孩子取出 $10,000：</p>\n<ul>\n<li>成本比例：$16,000 ÷ $40,000 = 40%；</li>\n<li>免税部分：$10,000 × 40% = $4,000；</li>\n<li>计入普通收入：$6,000；</li>\n<li>若不符合例外，10% 提前取款附加税为 $6,000 × 10% = $600。Notice 2025-68 列举的例外包括合格高等教育费用与首次购房。</li>\n</ul>\n<p>因此，一个成本比例低的账户，表面上是“免费的钱”，取出时应税比例反而高。家长应自行保留每一笔供款的来源与日期。</p>\n\n<h2>五、进阶技巧</h2>\n<ul>\n<li><b>先申请 $1,000，再处理认领。</b>两件事互不替代。IRS 说明，已自动开户的孩子不必再用 Form 4547 开户，但 $1,000 仍须用这张表勾选；此前已申请过的不必重复。</li>\n<li><b>分居或离异家庭，看谁先激活。</b>条例规定，多人认领同一自动账户时，第一个有权认领且完成激活的人成为账户的 responsible party，之后由其选择投资与转账。$1,000 的申请人则另有标准：预期孩子当年是其 qualifying child 的人。</li>\n<li><b>供款前先问雇主。</b>雇主第 128 条供款每年上限 $2,500，不计入员工收入，但占用 $5,000 总额度，且不形成成本。若家人已先存满 $5,000，雇主的免税供款便放不进去。</li>\n<li><b>不影响孩子自己的 IRA。</b>成长期内的供款不占用其他 IRA 的限额；按 Notice 2025-68，IRA 合并计算规则对 Trump Account 单独适用，家长的 Backdoor Roth 比例计算不受孩子账户影响。</li>\n<li><b>想换受托人，可整户转出。</b>认领时可选择将余额直接转到其他受托人的 rollover Trump account，但必须全额转，同一时间只能有一个有余额的账户。</li>\n</ul>\n\n<h2>六、常见误区</h2>\n<ul>\n<li><b>“自动开户后就会收到 $1,000”。</b>IRS 页面明确：即使账户是自动开立的，也必须主动选择。</li>\n<li><b>“不需要可以关掉取出”。</b>有余额的账户在成长期内不能关闭，除非以条例允许的方式先转出；Notice 2025-68 明确没有困难取款（hardship distribution）。</li>\n<li><b>“只能父母都是公民才行”。</b>$1,000 的公民要求针对孩子，不针对家长。</li>\n<li><b>“填错了要改税表”。</b>IRS 说明不要用 1040-X 更正 Form 4547，应按收到的 CP318 通知重新递交。</li>\n<li><b>“说明书写必须用 4547 开户”。</b>2025 年 12 月版说明书早于自动开户，与 2026 年 10 月 21 日更新的 IRS 页面说法不一；以较新的页面为准，并留意说明书改版。</li>\n</ul>\n\n<h2>常见问题</h2>\n<h3>投资可以自己选吗？</h3>\n<p>成长期内只能投资追踪以美国公司为主的宽基股票指数、不用杠杆、年费不超过 0.1% 的基金。这是账户规则，不构成任何投资建议。</p>\n<h3>孩子跟我回国或去加拿大、英国，账户怎么办？</h3>\n<p>Form 4547 接受外国地址。但其他国家如何对待该账户的收益，本站没有查到各国税局的专门说明，移居前应咨询两国税务专业人士。</p>\n<h3>怎么知道孩子有没有被自动开户？</h3>\n<p>用官方 App 或 trumpaccounts.gov 查询。注意只使用 IRS 页面给出的 App Store 与 Google Play 链接，IRS 客服不能代为更正选择或认领。</p>\n<p>提醒：以 IRS 与 trumpaccounts.gov 官网为准；涉及身份、监护权或跨国税务的复杂情况，请咨询 CPA 或律师。</p>"
+}
