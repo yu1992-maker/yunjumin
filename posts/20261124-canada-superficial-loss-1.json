@@ -1,0 +1,71 @@
+{
+ "slug": "20261124-canada-superficial-loss-1",
+ "title": "加拿大年底卖亏损：12月30日截止与61天禁区",
+ "desc": "TFSA买回等于永久作废，30天内仍可补救；新移民按落地市价算亏损。",
+ "cat": "加拿大",
+ "topic": "tax-loss selling、superficial loss、T+1 结算、S/P/B 公式、配偶转移亏损、T1A",
+ "body": "<p>先说结论：要让亏损计入 2026 税年，加拿大和美国上市股票、ETF 的最后交易日是 2026 年 12 月 30 日，因为税务上看的是结算日而非下单日。日期对了只完成一半：卖出前后各 30 天内，本人、配偶或任何一方的 TFSA、RRSP 买入相同证券，并在第 30 天结束时仍持有，亏损就被认定为 superficial loss，当年归零。买回到自己的普通账户只是推迟，买进 TFSA 或 RRSP 则永久消失。</p>\n<p>本文依据加拿大《所得税法》（ITA）第 39、40、47、53、54、128.1、251.1 条（司法部网站，法规更新至 2026 年 10 月 29 日）、CRA 指南 T4037、CRA 技术解释 2021-0896031C6 与 2015-0588981C6、TMX 交易日历整理，并参考 CIBC、Questrade、TaxTips 与 BNN Bloomberg 的说明。查询日期 2026 年 11 月 24 日。T4037 目前为 2025 版，2026 版尚未发布。本文不涉及任何买卖建议。</p>\n\n<h2>一、日历：圣诞之后只剩两个有效交易日</h2>\n<p>CRA 在 2015 年的技术解释中确认，股票交易的处分日是结算日，外币成交额也按结算日汇率折算。加拿大自 2024 年 5 月起实行 T+1，即成交后一个工作日结算。据 TMX 日历，2026 年 12 月 24 日提前收市，12 月 25 日和 28 日休市。</p>\n<table>\n<tr><th>下单日</th><th>结算日</th><th>亏损归属</th></tr>\n<tr><td>12 月 24 日（周四，13:00 收市）</td><td>12 月 29 日</td><td>2026</td></tr>\n<tr><td>12 月 29 日（周二）</td><td>12 月 30 日</td><td>2026</td></tr>\n<tr><td>12 月 30 日（周三）</td><td>12 月 31 日</td><td>2026，最后一天</td></tr>\n<tr><td>12 月 31 日（周四）</td><td>2027 年 1 月 4 日</td><td>2027</td></tr>\n</table>\n<p>共同基金不能照搬这张表。Questrade 写明，基金结算可能为 T+1 至 T+3，且当日截单时间更早，应向券商确认。</p>\n\n<h2>二、61 天禁区：两个条件同时成立才算</h2>\n<p>ITA 第 54 条的定义有两半：其一，处分前 30 天至后 30 天之间，本人或关联人取得同一或相同财产；其二，期末时本人或关联人仍拥有该财产，或有权取得。第 40(2)(g)(i) 条把符合定义的亏损定为零，第 53(1)(f) 条再把被否认的金额加进替代财产的成本（ACB）。</p>\n<p>谁是关联人：第 251.1 条列明本人、配偶或同居伴侣、受控公司，以及本人为多数受益人的信托。CRA 在 2021-0896031C6 中据此认定，配偶的 RRSP 信托属于关联人。成年子女和父母不在个人条款之内。</p>\n<p>天数怎么数：同一份解释写明处分当天不计。9 月 1 日处分，10 月 1 日买回仍在禁区内，10 月 2 日才安全。按此推算，2026 年 12 月 31 日结算的卖出，禁区是 2026 年 12 月 1 日至 2027 年 1 月 30 日。1 月 30 日是周六，而“有权取得”也算持有，1 月 29 日下单、2 月 1 日结算的买单存在争议空间，审慎做法是 2 月 1 日起再下单。</p>\n<table>\n<tr><th>禁区内的动作</th><th>当年亏损</th><th>被否认的金额去哪里</th></tr>\n<tr><td>本人普通账户买回</td><td>否认</td><td>加进新买股份的 ACB，日后兑现</td></tr>\n<tr><td>配偶普通账户买入</td><td>否认</td><td>加进配偶股份的 ACB</td></tr>\n<tr><td>本人或配偶 TFSA、RRSP 买入</td><td>否认</td><td>账户内盈亏不计税，等于消失</td></tr>\n<tr><td>亏损股票实物转入 TFSA、RRSP、FHSA</td><td>否认（第 40(2)(g)(iv) 条）</td><td>消失</td></tr>\n<tr><td>买入不同证券，或等禁区结束</td><td>保留</td><td>不适用</td></tr>\n</table>\n\n<h2>三、算例：一笔 $4,000 的税值怎么保住或丢掉</h2>\n<p>情景一：某人 2026 年已实现资本收益 $20,000，另有一只股票浮亏 $20,000，边际税率假设为 40%。资本利得计入比例为 50%，亏损全额抵消可少缴 $20,000 × 50% × 40% = $4,000。若 12 月 30 日卖出，次年 1 月 11 日在 TFSA 买回同一只股票，这 $4,000 不是推迟，而是没有了。</p>\n<p>情景二，定投者最常中招：持有 300 份 ETF，每月自动买 10 份，12 月 30 日卖出 100 份，亏损 $2,500；12 月和 1 月各有一笔自动买入落在禁区内，期末尚存 220 份。CIBC 2026 年 3 月的文章给出 CRA 行政公式：否认额 =（S、P、B 三者最小）÷ S × 亏损，S 为卖出数，P 为禁区内买入数，B 为期末持有数。代入得 20 ÷ 100 × $2,500 = $500。也就是说 $2,000 可用，$500 加回 ACB。股息再投资（DRIP）同样计入 P。</p>\n<p>情景三，新移民：第 128.1(1)(c) 条规定，成为税务居民时视同按市价重新取得财产。某人落地前以 US$40 买入某股，落地日市价 US$80、汇率 1.40，ACB 即 C$112。12 月以 US$78 卖出，汇率 1.38，所得 C$107.64，每股亏损 C$4.36，500 股合计 C$2,180。账面涨了近一倍，加拿大税上却是亏损。反过来也成立：BNN Bloomberg 举例，US$100（汇率 1.30）买入、US$95（汇率 1.40）卖出，美元亏 5%，加元反而赚 C$3。</p>\n\n<h2>四、进阶技巧</h2>\n<ul>\n<li><b>30 天内可以补救。</b>2021-0896031C6 的案例中，丈夫 9 月 1 日卖出亏损 $20,000，妻子的 RRSP 于 9 月 7 日误买同一股票。CRA 确认，只要在 9 月 28 日前卖掉，第二个条件不成立，亏损照样可用；但若 10 月 1 日又买回，亏损再度归零。发现配偶账户误买，不必等到报税才认账。</li>\n<li><b>把亏损移给有收益的一方。</b>第 53(1)(f) 条把被否认的亏损加进配偶的 ACB。TaxTips 的示例：ACB $10,000 的股票以 $6,000 卖出，配偶随即以 $6,000 买入，配偶 ACB 变为 $10,000，持有超过 30 天后卖出，由配偶申报亏损。联名账户不适用；配偶应使用自己的资金，归属规则与一般反避税规则（GAAR）须由专业人士把关，CRA 在上述解释中对 GAAR 保留意见。</li>\n<li><b>当年抵消优于往回结转。</b>T4037 写明，把净资本亏损结转回前三年，只降低那一年的应税收入，不改变净收入，因此按净收入计算的福利不会增加。若领取 CCB 或 CGEB，把亏损与收益放在同一年兑现，净收入才会下降。</li>\n<li><b>往回结转不用改旧报税表。</b>2026 年的净亏损可用于 2023、2024、2025 年，填 T1A 第 5 部分即可，年份由自己挑。税率最高的那一年优先。</li>\n<li><b>核对全部账户的平均成本。</b>第 47 条要求相同财产按平均成本计算，跨券商合并。券商报表只显示本账户成本，T5008 的数字不等于报税数字。</li>\n</ul>\n\n<h2>五、常见误区</h2>\n<ul>\n<li><b>“先加仓再卖旧仓，可以避开 30 天”。</b>美国投资者可以指定卖出哪一批，加拿大不行。持有 100 股、ACB $140，现价 $100；11 月 27 日下单再买 100 股，11 月 30 日结算，确实落在禁区之外。但平均成本变为 $120，12 月 30 日卖出 100 股只能确认 $2,000 亏损，另外 $2,000 仍锁在剩余股份里。</li>\n<li><b>“没有买回就没事”。</b>CIBC 指出，禁区内先买入、再卖出其中一部分，即使之后不再买，也会触发。11 月 20 日买 100 股，12 月 1 日卖 25 股亏 $1,000，公式算出来是全额否认。</li>\n<li><b>“换成 CDR 就不是同一只股票”。</b>BNN Bloomberg 的文章提醒，CDR 代表对标的股份的直接权益，可能被视为相同财产。跟踪不同指数的 ETF 则通常不同。</li>\n<li><b>“美元现金的汇兑亏损也能全部抵”。</b>第 39(1.1) 条对个人的外币现金净盈亏设有 $200 门槛，只计超出部分。</li>\n<li><b>“离境时的视同处分会被 61 天规则否认”。</b>第 54 条 (c) 项把第 128.1 条的视同处分排除在外，T4037 也列明成为或终止居民的情形不算 superficial loss。</li>\n</ul>\n\n<h2>常见问题</h2>\n<h3>没有资本收益，卖亏损还有用吗？</h3>\n<p>资本亏损不能抵工资或利息。没有收益时，净亏损可往回结转三年，或无限期往后结转，在第 25300 行申请。</p>\n<h3>加密货币适用吗？</h3>\n<p>第 54 条针对“财产”，不限于股票；若按资本财产申报，同样受 61 天约束。结算日概念与交易所股票不同，应以实际处分时间为准。</p>\n<h3>我同时是美国税务居民，怎么办？</h3>\n<p>两国的成本基础、批次规则和禁区后果都不同，落地重置成本也不改变美国税基。应分别记账，并咨询熟悉跨境申报的 CPA。</p>\n<p>提醒：以 CRA 与加拿大司法部官网为准；涉及配偶转移、跨境身份或大额亏损的，请咨询 CPA 或税务律师。</p>\n",
+ "date": "2026-11-24",
+ "sources": [
+  [
+   "CRA T4037：Capital Gains",
+   "https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4037/capital-gains.html"
+  ],
+  [
+   "ITA s.54：superficial loss 定义",
+   "https://laws-lois.justice.gc.ca/eng/acts/I-3.3/section-54.html"
+  ],
+  [
+   "ITA s.40：40(2)(g)",
+   "https://laws-lois.justice.gc.ca/eng/acts/I-3.3/section-40.html"
+  ],
+  [
+   "ITA s.53：53(1)(f)",
+   "https://laws-lois.justice.gc.ca/eng/acts/I-3.3/section-53.html"
+  ],
+  [
+   "ITA s.251.1：关联人",
+   "https://laws-lois.justice.gc.ca/eng/acts/I-3.3/section-251.1.html"
+  ],
+  [
+   "ITA s.47：相同财产",
+   "https://laws-lois.justice.gc.ca/eng/acts/I-3.3/section-47.html"
+  ],
+  [
+   "ITA s.128.1：落地与离境",
+   "https://laws-lois.justice.gc.ca/eng/acts/I-3.3/section-128.1.html"
+  ],
+  [
+   "ITA s.39：外币 $200",
+   "https://laws-lois.justice.gc.ca/eng/acts/I-3.3/section-39.html"
+  ],
+  [
+   "CRA 技术解释 2021-0896031C6",
+   "https://taxinterpretations.com/cra/severed-letters/2021-0896031c6"
+  ],
+  [
+   "CRA 技术解释 2015-0588981C6（结算日）",
+   "https://www.taxtips.ca/documents/2015-0588981C6-foreign-currency-exchange-date.pdf"
+  ],
+  [
+   "TMX 交易日历",
+   "https://www.tsx.com/en/trading/calendars-and-trading-hours/calendar"
+  ],
+  [
+   "CIBC：部分卖出与 superficial loss（2026 年 3 月）",
+   "https://www.cibc.ca/content/dam/personal_banking/advice_centre/tax-savings/superficial-loss-partial-en.pdf"
+  ],
+  [
+   "TaxTips：superficial losses",
+   "https://www.taxtips.ca/personaltax/investing/taxtreatment/superficial-losses-and-other-disallowed-losses.htm"
+  ],
+  [
+   "Questrade：T+1 与年底",
+   "https://www.questrade.com/learning/accounts-taxes/tax-loss-harvesting-canada"
+  ],
+  [
+   "BNN Bloomberg（2026 年 11 月 19 日）",
+   "https://www.bnnbloomberg.ca/investing/opinion/2026/11/19/stan-wong-tax-loss-selling-when-does-it-make-sense-to-sell-at-a-loss/"
+  ]
+ ]
+}
