@@ -1,0 +1,59 @@
+{
+ "title": "英国Child Benefit：£60,000征回与NRPF",
+ "desc": "两孩一年£2,337；£60,000至£80,000逐级征回；FIG收入也计入；£80,000以上仍应登记保NI积分。",
+ "body": "<p>先说结论：英国 2026-27 税年 Child Benefit 为头胎每周 £27.05、其余每个孩子 £17.90，两孩家庭一年 £2,337.40。夫妻任一方“调整后净收入”超过 £60,000，每多 £200 征回 1%，到 £80,000 全部征回。两条线最易踩错：签证带 NRPF（不得动用公共资金）条件的人一般不能自己申领；而收入超过 £80,000 的合资格家庭，仍应申领登记、只是不收钱，以保住国民保险积分。</p>\n<p>本文依据 GOV.UK 的 Child Benefit 与 High Income Child Benefit Charge（HICBC）指南、HMRC 2026 年 11 月 10 日更新的费率表、HMRC 调整后净收入指引、内政部 Public funds 指引，以及 HMRC 2026 年 3 月 30 日关于补发积分延期的通知整理，查询日期 2026 年 11 月 25 日。</p>\n\n<h2>一、先过身份关，再谈收入</h2>\n<p>GOV.UK 对从境外搬来的人列了两项额外条件：以英国为主要住所，并享有居留权；孩子在多数情况下须与申领人同住，且不来自欧盟、瑞士、挪威、冰岛、列支敦士登的家庭，孩子留在海外通常不合资格。</p>\n<table>\n<tr><th>身份</th><th>能否自己申领</th><th>依据与注意</th></tr>\n<tr><td>英国公民、永居（ILR）、定居身份（EUSS settled）</td><td>可以</td><td>满足居住与抚养条件</td></tr>\n<tr><td>EUSS 预定居身份</td><td>附条件</td><td>须符合就业、求职、自给等附加规则之一</td></tr>\n<tr><td>工签、学签、配偶签等带 NRPF 条件</td><td>一般不可以</td><td>内政部称之为“受移民管制者”</td></tr>\n<tr><td>NRPF，但属例外国家</td><td>可能可以</td><td>阿尔巴尼亚、摩洛哥、突尼斯、土耳其国民且在英工作；或加拿大、新西兰、以色列、毛里求斯、塞尔维亚等协议国</td></tr>\n<tr><td>NRPF，配偶为公民或永居</td><td>由配偶以本人名义申领</td><td>见下</td></tr>\n</table>\n<p>内政部 Public funds 指引写明，若伴侣本身有资格并作为主申请人或领取人，受 NRPF 约束的一方被纳入联合评估，不视为违反签证条件。措辞的重点是“伴侣以自己的权利申领”：表格上的申领人写错，性质就变了。协议国的口径也值得留意：内政部文件写的是“该国国民，或从该国来英居住者”，GOV.UK 面向公众的页面只写“来自”这些国家。中国不在名单上，但先在加拿大居住、再到英国的家庭，可据此向 Child Benefit Office 询问，不宜自行推定。</p>\n\n<h2>二、征回怎么算</h2>\n<p>比较对象是个人收入，不是家庭收入。双方都超过 £60,000 的，由收入较高者缴。因此，夫妻各挣 £59,000 的家庭全额领取；一人挣 £80,000、另一人不工作的家庭分文不剩。</p>\n<table>\n<tr><th>调整后净收入（较高一方）</th><th>征回比例</th><th>两孩家庭征回</th><th>净得</th></tr>\n<tr><td>£60,000 及以下</td><td>0%</td><td>£0</td><td>£2,337</td></tr>\n<tr><td>£62,000</td><td>10%</td><td>约 £234</td><td>约 £2,104</td></tr>\n<tr><td>£66,000</td><td>30%</td><td>约 £701</td><td>约 £1,636</td></tr>\n<tr><td>£70,000</td><td>50%</td><td>约 £1,169</td><td>约 £1,169</td></tr>\n<tr><td>£80,000 及以上</td><td>100%</td><td>£2,337</td><td>£0</td></tr>\n</table>\n<p>换算成边际税率更直观。£60,000 至 £80,000 区间内，两孩家庭每多挣 £100，征回约 £11.69；叠加 40% 所得税与 2% 国民保险，英格兰、威尔士与北爱尔兰的实际边际税率约 53.7%。一孩约 49.0%，三孩约 58.3%。苏格兰税率不同，须另算。</p>\n<p>HMRC 已公布 2027-28 年度暂定费率：头胎 £28.00，其余 £18.55，两孩家庭折合一年 £2,420.60。£60,000 与 £80,000 两条线在 GOV.UK 现行页面上没有调整。</p>\n\n<h2>三、“调整后净收入”里有一项新移民专属陷阱</h2>\n<p>HMRC 指引列明，调整后净收入包括工资与实物福利、自雇利润、储蓄利息、股息、部分租金，以及境外收入，“包括已按境外收入与利得（FIG）制度提出申请的收入”。也就是说，FIG 让新居民头四年的境外收入免英国税，却不会让它从 HICBC 的计算里消失。</p>\n<p><b>情景一：</b>新到英国第二年，工资 £55,000，境外股息 £10,000，已申请 FIG。应税工资没有过线，但调整后净收入是 £65,000，征回 25%，两孩家庭约 £584。</p>\n<p><b>情景二：</b>工资 £66,000，无其他收入。若在 2027 年 4 月 5 日前向个人养老金净存 £4,800（relief at source 方式，供应商补 20% 基本税率后为 £6,000），HMRC 规则下从净收入中扣除的是总额 £6,000，调整后净收入降到 £60,000。两孩家庭省下约 £701 征回，另可申请 £1,200 高税率差额减免。£6,000 养老金的实际成本约 £2,899。养老金不能随时支取，须衡量流动性。</p>\n\n<h2>四、进阶技巧</h2>\n<ol>\n<li><b>£60,000 至 £80,000 之间不要退出。</b>GOV.UK 写明征回额不会超过领取额。在这一区间，收钱再缴回一部分，总有净得；退出则全数放弃。</li>\n<li><b>超过 £80,000，也要申领，但勾选“不支付”。</b>孩子未满 12 岁期间，登记人自动获得 Class 3 国民保险积分，不论是否实际收款；孩子在满 16 岁前通常自动获得 NI 号码。新州立养老金全额每周 £241.30，需 35 个合格年度，按此折算，一个年度约值每周 £6.89，即每年约 £358。</li>\n<li><b>由没有 NI 记录的一方申领。</b>积分归申领人。若登记在已满额缴费的高收入方名下，积分等于浪费；GOV.UK 允许伴侣申请转移，但一开始登记对更省事。</li>\n<li><b>错过 10 月 5 日，仍有 PAYE 通道。</b>2025-26 税年的征回若走自报税，应在 2026 年 10 月 5 日前登记。GOV.UK 同时写明，没有其他自报税理由的受雇者，可在 2027 年 1 月 31 日前改由税码扣缴；过了这一天，只能自报税。</li>\n<li><b>奖金年份可先退后开。</b>GOV.UK 写明可随时退出或恢复支付。征回按整个税年的收入计算，年末收入若低于预期，恢复后主管部门会书面告知可补付的金额（如有），首笔款项最长 28 天到账。</li>\n<li><b>以前没申领的积分，2027 年 4 月起可补。</b>HMRC 通知写明，自 2013 年 1 月 7 日起本有资格申领而未申领、孩子未满 12 岁的家长，可在补发积分（replacement credits）服务开通后申请。该服务原定 2026 年 4 月，已推迟一年。2027 年 4 月 6 日前到达退休年龄、因延误受损者，可按投诉程序提出，注明 RCPC。</li>\n</ol>\n\n<h2>五、申领时间线</h2>\n<table>\n<tr><th>时间</th><th>事项</th></tr>\n<tr><td>出生登记 48 小时后，或孩子来同住时</td><td>可在 HMRC App 或网上申领</td></tr>\n<tr><td>申领日往前 3 个月</td><td>最长追溯期；刚拿到永居的家庭应尽快申领</td></tr>\n<tr><td>境外出生的孩子</td><td>邮寄出生证原件与入境护照或旅行证件，一般 4 周内退回；仅有 eVisa 的，HMRC 自行核对，无须 share code</td></tr>\n<tr><td>2027 年 1 月 31 日</td><td>2025-26 税年改走 PAYE 的最后期限，也是自报税缴款日</td></tr>\n<tr><td>2027 年 4 月 5 日</td><td>2026-27 税年结束，养老金与 Gift Aid 调整收入的截止</td></tr>\n</table>\n\n<h2>六、常见误区</h2>\n<ul>\n<li><b>“两个孩子封顶。”</b>GOV.UK 写明 Child Benefit 没有孩子数量上限。</li>\n<li><b>“收入高就没必要申领。”</b>不申领失去的是积分，而且只能追溯 3 个月。</li>\n<li><b>“我没领，所以不用管征回。”</b>只要同住伴侣领取，收入较高的一方就要缴。伴侣包括未婚同居者；GOV.UK 允许写信询问 HMRC，对方只答“是”或“否”。</li>\n<li><b>“NRPF 只影响失业金之类。”</b>Child Benefit 明列在公共资金清单中，误领可能构成违反签证条件。</li>\n</ul>\n\n<h2>常见问题</h2>\n<h3>问：工签转永居后，能补领过去几年的吗？</h3>\n<p>答：不能。追溯最长 3 个月，且须在追溯期内已符合资格。</p>\n<h3>问：夫妻一方年中才搬来同住，征回怎么算？</h3>\n<p>答：GOV.UK 写明，征回从同住之日起算，到永久分开或停止支付为止；短期分居如住院、外地工作不算。</p>\n<h3>问：选择 PAYE 后还要不要自报税？</h3>\n<p>答：没有其他自报税理由的不用。自雇或因储蓄、投资利息须申报的，必须走自报税。</p>\n<p>提醒：以官网为准；签证条件与跨国情形咨询 HMRC、移民律师或特许税务师。本文为一般信息，不构成税务或移民建议。</p>\n",
+ "sources": [
+  [
+   "GOV.UK：Child Benefit",
+   "https://www.gov.uk/child-benefit"
+  ],
+  [
+   "GOV.UK：High Income Child Benefit Charge",
+   "https://www.gov.uk/child-benefit-tax-charge"
+  ],
+  [
+   "GOV.UK：Child Benefit if you move to the UK",
+   "https://www.gov.uk/child-benefit-move-to-uk"
+  ],
+  [
+   "HMRC：Child Benefit 费率（2026 年 11 月 10 日更新）",
+   "https://www.gov.uk/government/publications/rates-and-allowances-tax-credits-child-benefit-and-guardians-allowance/tax-credits-child-benefit-and-guardians-allowance"
+  ],
+  [
+   "HMRC：Adjusted net income",
+   "https://www.gov.uk/guidance/adjusted-net-income"
+  ],
+  [
+   "Home Office：Public funds（caseworker guidance）",
+   "https://www.gov.uk/government/publications/public-funds/public-funds-accessible"
+  ],
+  [
+   "HMRC：补发 NI 积分服务延期通知",
+   "https://www.gov.uk/guidance/report-a-financial-loss-from-the-delay-to-the-replacement-credits-service"
+  ],
+  [
+   "HMRC 新闻稿（2026 年 3 月 31 日）",
+   "https://www.gov.uk/government/news/millions-of-families-in-line-for-child-benefit-rate-increase"
+  ],
+  [
+   "GOV.UK：National Insurance credits",
+   "https://www.gov.uk/national-insurance-credits/eligibility"
+  ],
+  [
+   "GOV.UK：The new State Pension",
+   "https://www.gov.uk/new-state-pension/what-youll-get"
+  ],
+  [
+   "GOV.UK：National Insurance 费率",
+   "https://www.gov.uk/national-insurance/how-much-you-pay"
+  ],
+  [
+   "GOV.UK：Tax on your private pension contributions",
+   "https://www.gov.uk/tax-on-your-private-pension/pension-tax-relief"
+  ]
+ ],
+ "cat": "英国",
+ "topic": "Child Benefit 与高收入征回",
+ "date": "2026-11-25",
+ "slug": "20261125-uk-child-benefit-hicbc-1"
+}
