@@ -1,0 +1,59 @@
+{
+ "slug": "20261125-canada-resp-cesg-newcomer-1",
+ "title": "加拿大RESP新移民：15岁门槛与12月31日$1,000",
+ "desc": "CESG按居民年度累积$500，满15岁当年底前须存满$2,000，否则后两年归零。",
+ "cat": "加拿大",
+ "topic": "加拿大 RESP 新移民",
+ "body": "<p>先说结论：加拿大教育储蓄补助金（CESG）按存款的 20% 发放，每年新增额度 $500，补用往年额度时一年最多领 $1,000（对应存入 $5,000），终身上限 $7,200。新移民有两条容易错过的线：额度按居民年度累积，落地前的年份不应指望补发；孩子须在满 15 岁当年的 12 月 31 日前存够 $2,000，或至少四个年度各存 $100，否则 16、17 岁两年一分补助都拿不到。</p>\n<p>本文依据就业与社会发展部（ESDC）RESP 服务商指南第 4、5、10 章与 InfoCapsule 12，加拿大税务局（CRA）CESG 与供款页面，Canada.ca 教育储蓄页面，以及美国 IRS Rev. Proc. 2020-17 整理。除注明外金额均为加元，查询日期 2026 年 11 月 25 日。</p>\n\n<h2>一、三笔钱，三套资格</h2>\n<table>\n<tr><th>项目</th><th>金额</th><th>收入限制</th><th>能否补领</th></tr>\n<tr><td>基本 CESG</td><td>存款的 20%，每年 $500；有结转时 $1,000</td><td>无</td><td>能，至满 17 岁当年年底</td></tr>\n<tr><td>附加 CESG</td><td>首 $500 存款的 10% 或 20%，即 $50 或 $100</td><td>2026 年家庭净收入 $58,523 以下为 20%，至 $117,045 为 10%</td><td>不能，当年作废</td></tr>\n<tr><td>学习债券（CLB）</td><td>首年 $500，之后每年 $100，上限 $2,000，无须存款</td><td>1 至 3 孩家庭 $58,523 以下（2026 年 7 月至 2027 年 6 月）</td><td>能，追溯到合资格年份</td></tr>\n</table>\n<p>基本与附加 CESG 合计不超过 $7,200。附加档的门槛官方页面写法不一：Canada.ca 写 $58,523 至 $117,045，CRA 的 CESG 页中间档写成 $59,523 至 $114,750，上限一栏又写 $117,045，以 ESDC 系统核定为准。</p>\n<p>三者的身份要求并不相同。基本 CESG 只要求孩子在存款时是加拿大居民、有社会保险号（SIN）、被列为受益人且不超过 17 岁，资格清单里没有“永久居民”一项。附加 CESG 与 CLB 则要求主要照顾人有资格领取牛奶金（CCB）。因此，持学签、工签、尚未满足 CCB 18 个月条件的家庭，可能先拿得到基本 CESG，而拿不到另外两笔。临时居民的孩子能否取得 SIN，取决于其许可条件，须向 Service Canada 确认。</p>\n\n<h2>二、落地前的年份算不算</h2>\n<p>ESDC 指南一处写额度“自出生起每年累积”，InfoCapsule 12 也以出生年起算，网上不少文章据此推断新移民可以从孩子出生年补起。但 CRA 的表述是，“每一名未满 18 岁且为加拿大居民的孩子”每年累积 $500；ESDC 指南 5.3.1 节又写明，家庭移居国外导致税务居民身份改变期间，孩子不累积额度。silaws.com、bremo.io 等第三方指南均称只计居民年度。官方页面没有逐字回答“出生在海外、后来移民”的情形，稳妥的做法是按居民年度规划，再由 RESP 服务商向 ESDC 系统查询实际额度。</p>\n<p>由此得出一个不常见的推论：每年 $500，凑满 $7,200 需要 14.4 年，即 15 个居民年度。按居民年度口径，孩子在满 3 岁当年或之前落地，才有可能仅凭基本 CESG 拿满终身上限；更晚落地的家庭，真正的上限是“居民年度数 × $500”，存款目标也应相应下调，不必按 $36,000 去规划。</p>\n\n<h2>三、算例：两个落地年龄</h2>\n<p><b>情景一：2016 年出生，2023 年落地，至今未开户。</b>按居民年度口径，2023 至 2026 年累积 $2,000。下表假设每年存 $5,000，且不符合附加 CESG。</p>\n<table>\n<tr><th>年份</th><th>年初结转 + 当年 $500</th><th>存入</th><th>领取 CESG</th><th>剩余额度</th></tr>\n<tr><td>2026</td><td>$1,500 + $500 = $2,000</td><td>$5,000</td><td>$1,000</td><td>$1,000</td></tr>\n<tr><td>2027</td><td>$1,000 + $500 = $1,500</td><td>$5,000</td><td>$1,000</td><td>$500</td></tr>\n<tr><td>2028</td><td>$500 + $500 = $1,000</td><td>$5,000</td><td>$1,000</td><td>$0</td></tr>\n<tr><td>2029 至 2033</td><td>每年 $500</td><td>每年 $2,500</td><td>每年 $500</td><td>$0</td></tr>\n</table>\n<p>合计存入 $27,500，领取 $5,500，即 11 个居民年度乘 $500。再多存的部分没有补助。</p>\n<p><b>情景二：2011 年出生，2025 年落地，2026 年满 15 岁。</b>2026 年 12 月 31 日是唯一的窗口。</p>\n<ul>\n<li>年底前存入 $2,000：2026 年领 $400，剩余 $600；2027 年加 $500 共 $1,100，存 $5,000 领 $1,000；2028 年剩 $100 加 $500，存 $3,000 领 $600。三年合计 $2,000。</li>\n<li>年底前没有存满 $2,000，又不可能凑出四个年度各 $100：2027、2028 年的存款一律没有 CESG。错过这一步，损失最多 $2,000。</li>\n</ul>\n<p>满 16 岁当年或之后才落地的孩子，因供款前须已是居民并提供 SIN，无从满足 15 岁前的条件。据此推算，CESG 基本无望，开 RESP 的理由只剩递延增值，低收入家庭则另看 CLB。</p>\n\n<h2>进阶技巧</h2>\n<ul>\n<li><b>15 岁门槛用最低成本保住。</b>对 2014 年及以后出生的孩子，从 2026 年起四个年度各存 $100 即可保留 16、17 岁的资格，总成本 $400；存款不得中途提取。</li>\n<li><b>12 月 31 日看的是存款日。</b>Canada.ca 写明资格、存款额与额度均按公历年度计算；补助通常在合资格存款后 6 至 8 周入账。开户和 SIN 验证需要时间，不要留到最后一周。</li>\n<li><b>附加 CESG 先拿首 $500。</b>这部分不结转，哪怕今年没有余钱补往年额度，存 $500 也能拿到最多 $200（20% 基本加 20% 附加），相当于 40%。系统用的是两年前的收入，2026 年通常看 2024 年；首次在 7 月至 12 月领到 CCB 的，当年可改用上一年度。</li>\n<li><b>CLB 不存钱也要开户。</b>前提是照顾人每个申请年份都已报税。自 2028 年 4 月起，政府会为 2024 年及以后出生、4 岁前仍没有 RESP 的合资格孩子自动开户；更早出生的孩子自 2028 年起可请政府代开，此前须自行开户。</li>\n<li><b>海外祖父母不必当开户人。</b>开户人须有 SIN；由父母开户、祖父母赠款给父母，更容易执行。所有开户人的存款合计不得超过每孩 $50,000。</li>\n<li><b>家庭计划放兄弟姐妹最稳。</b>附加 CESG、CLB 只能进个人计划，或受益人全为兄弟姐妹的家庭计划；加入非兄弟姐妹可能触发退还补助。</li>\n<li><b>同时是美国税务居民的家庭。</b>Rev. Proc. 2020-17 豁免符合条件者就特定海外教育信托申报 Form 3520/3520-A，条件之一是当地法规把供款限制在每年 $10,000 或终身 $200,000 以内（均为美元），并且已按美国规则申报收益。豁免只针对第 6048 条申报，Form 8938、FBAR 与美国所得税须另行判断。</li>\n</ul>\n\n<h2>常见误区</h2>\n<ul>\n<li><b>“超存可以取出来就没事。”</b>超过 $50,000 的部分每月征 1% 税，须填 T1E-OVP；CRA 说明，取出能减少计税额，但判断终身上限时，已取出的存款仍计入。</li>\n<li><b>“一次存 $20,000 就能补完往年。”</b>补助每年封顶 $1,000，对应 $5,000，多出的当年不再产生补助。</li>\n<li><b>“回流后还能继续领。”</b>孩子不再是加拿大居民，就不能存款、不累积额度；将来领取教育补助金付款（EAP）时，若非居民，CESG 与 CLB 不能支付，累积收益在就读合资格课程时仍可支付。</li>\n<li><b>“去美国读书就得退补助。”</b>指南写明，在国外就读仍可能被 CRA 认定为加拿大居民，关键是领取当时的税务居民身份。</li>\n<li><b>“开学就能全部取光。”</b>全日制前 13 周，EAP 上限为 $8,000，非全日制每 13 周 $4,000；开户人取回本金不占这一额度。</li>\n</ul>\n\n<h2>常见问题</h2>\n<h3>问：各省还有别的补助吗？</h3>\n<p>Canada.ca 列出，不列颠哥伦比亚省可能有一次性 $1,200，魁北克省有终身最高 $3,600 的可退税额，申请由 RESP 服务商办理，条件以两省官方为准。</p>\n<h3>问：孩子不上大学怎么办？</h3>\n<p>CESG 退还政府，本金免税退给开户人，收益可作为累积收入付款计税领取，或在符合条件时转入开户人或配偶的 RRSP。</p>\n<h3>问：TFSA、RRSP 和 RESP 先存哪个？</h3>\n<p>单看补助，RESP 中能触发 20% 匹配的那部分存款回报确定；超出当年可补助额度之后，才需要与其他账户比较。本文不作投资建议。</p>\n<p><b>提醒：</b>以 ESDC、CRA 官网为准；涉及税务居民身份或美加双重申报的，请咨询 CPA 或律师。</p>",
+ "date": "2026-11-25",
+ "sources": [
+  [
+   "ESDC：RESP 服务商指南第 5 章（CESG）",
+   "https://www.canada.ca/en/employment-social-development/services/student-financial-aid/education-savings/resp/resp-promoters/user-guide/chapter-5.html"
+  ],
+  [
+   "ESDC：InfoCapsule 12 额度与结转",
+   "https://www.canada.ca/en/employment-social-development/services/student-financial-aid/education-savings/resp/resp-promoters/infocapsules/grant-room.html"
+  ],
+  [
+   "CRA：Canada Education Savings Grant",
+   "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/registered-education-savings-plans-resps/canada-education-savings-programs-cesp/canada-education-savings-grant-cesg.html"
+  ],
+  [
+   "Canada.ca：各项教育储蓄补助金额与资格",
+   "https://www.canada.ca/en/services/benefits/education/education-savings/estimating-amounts.html"
+  ],
+  [
+   "CRA：RESP contributions",
+   "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/registered-education-savings-plans-resps/resp-contributions.html"
+  ],
+  [
+   "ESDC：RESP 服务商指南第 4 章",
+   "https://www.canada.ca/en/employment-social-development/services/student-financial-aid/education-savings/resp/resp-promoters/user-guide/chapter-4.html"
+  ],
+  [
+   "ESDC：RESP 服务商指南第 10 章（EAP）",
+   "https://www.canada.ca/en/employment-social-development/services/student-financial-aid/education-savings/resp/resp-promoters/user-guide/chapter-10.html"
+  ],
+  [
+   "Canada.ca：CLB 自动开户",
+   "https://www.canada.ca/en/services/benefits/education/education-savings/canada-learning-bond.html"
+  ],
+  [
+   "Canada.ca：开立 RESP",
+   "https://www.canada.ca/en/services/benefits/education/education-savings/opening-plan.html"
+  ],
+  [
+   "IRS Rev. Proc. 2020-17",
+   "https://www.irs.gov/pub/irs-drop/rp-20-17.pdf"
+  ],
+  [
+   "silaws.com：2026 RESP 新移民指南（第三方）",
+   "https://silaws.com/2026/05/19/resp-newcomers-canada-2026-en/?lang=en"
+  ],
+  [
+   "bremo.io：RESP for newcomers（第三方）",
+   "https://bremo.io/resp-newcomers-canada"
+  ]
+ ]
+}
