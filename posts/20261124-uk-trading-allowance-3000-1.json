@@ -1,0 +1,55 @@
+{
+ "slug": "20261124-uk-trading-allowance-3000-1",
+ "title": "英国副业免税额升至£3,000：2027年4月6日才生效",
+ "desc": "本税年仍按£1,000申报；一笔雇主付款即可让全年额度作废。",
+ "cat": "英国",
+ "topic": "trading allowance、Self Assessment 申报门槛、Budget 2026、partial relief、Class 2、平台报送、签证自雇",
+ "body": "<p>先说结论：英国 2026 年预算宣布，个人交易免税额（trading allowance）由 £1,000 升至 £3,000，自报税（Self Assessment）的交易收入申报门槛同步升至 £3,000，两者都从 2027 年 4 月 6 日起适用。本税年（2026 年 4 月 6 日至 2027 年 4 月 5 日）仍按 £1,000 执行，超过者须在 2027 年 10 月 5 日前登记。还有一条少有人提的排除规则：副业收入里只要有一笔来自雇主或配偶的雇主，当年整个免税额作废。</p>\n<p>本文依据 HMRC 2026 年 10 月 28 日发布的政策文件、预算法案概览（OOTLAR）及其 Annex A、《2005 年所得税（交易及其他收入）法》（ITTOIA 2005）第 6A 编第 1 章，以及 GOV.UK 的签证、国民保险与数字平台指南整理，并参考 ACCA 的说明。查询日期 2026 年 11 月 24 日。新额度须经 Finance Bill 2026-27 立法，通过之前属于已公布的政策。</p>\n\n<h2>一、变的与不变的</h2>\n<table>\n<tr><th>项目</th><th>2026–27 税年</th><th>2027–28 税年（2027 年 4 月 6 日起）</th></tr>\n<tr><td>交易免税额</td><td>£1,000</td><td>£3,000</td></tr>\n<tr><td>交易收入的 Self Assessment 申报门槛</td><td>毛收入超过 £1,000</td><td>毛收入超过 £3,000</td></tr>\n<tr><td>物业免税额（property allowance）</td><td>£1,000</td><td>政策文件只涉及交易免税额，未宣布变动</td></tr>\n<tr><td>工资与交易利润税率</td><td>20% / 40% / 45%</td><td>20% / 40% / 45%</td></tr>\n<tr><td>物业收入税率</td><td>按主税率</td><td>24% / 44% / 49%</td></tr>\n<tr><td>平台向 HMRC 报送的豁免线</td><td>一个日历年内商品销售少于 30 笔且不到 2,000 欧元（约 £1,700）</td><td>政策文件未提及修改</td></tr>\n</table>\n<p>HMRC 估计最多 140 万人可能受益，其中约 40 万人税单平均减少 £380，约 10 万人不再需要为此申报。</p>\n\n<h2>二、毛收入口径，一人一份</h2>\n<p>门槛看的是毛收入，即扣除平台佣金、材料和邮费之前的总额。据 ITTOIA 第 783AC 条，相关收入是所有个人交易的收款加上杂项收入（miscellaneous income）之和。家教、外卖、转售与自媒体广告合并计算，只有一份额度，不是每个副业各一份。合伙企业的交易收入不适用。</p>\n<p>毛收入不超过额度是全额豁免（full relief），利润或亏损按零处理；超过则可选择部分豁免（partial relief），从毛收入中减去额度，但放弃全部实际费用。据第 783AI 与 783AK 条，部分豁免适用于本人的每一项相关交易，额度由本人在各项之间分配。不能在一项业务上用免税额，在另一项业务上扣费用。</p>\n\n<h2>三、算例</h2>\n<table>\n<tr><th>情景（已有工资，免税额已用完）</th><th>2026–27</th><th>2027–28</th><th>差额</th></tr>\n<tr><td>家教毛收入 £2,800，费用可忽略，20% 税率</td><td>应税 £1,800，税 £360，须申报</td><td>应税 £0，无须为此申报</td><td>£360</td></tr>\n<tr><td>设计毛收入 £5,000，费用 £600，20% 税率</td><td>用免税额：应税 £4,000，税 £800</td><td>用免税额：应税 £2,000，税 £400</td><td>£400</td></tr>\n<tr><td>同上，40% 税率</td><td>税 £1,600</td><td>税 £800</td><td>£800</td></tr>\n<tr><td>转售毛收入 £5,000，进货与运费 £3,500，20% 税率</td><td>扣实际费用：应税 £1,500，税 £300</td><td>仍应扣实际费用：税 £300</td><td>£0</td></tr>\n</table>\n<p>判断规则只有一句：2027–28 税年起，实际费用低于 £3,000 用免税额，高于 £3,000 扣费用。表中未计 Class 4 国民保险；它只在交易利润超过 £12,570 时才产生，上述情景都不涉及。</p>\n\n<h2>四、三条会让整份额度作废的规则</h2>\n<ul>\n<li><b>雇主付款（第 783AO 条）。</b>相关收入中包含雇主、或配偶及民事伴侣的雇主支付的款项，该税年完全不给豁免。法条的后果是“该税年不适用”，而不是只剔除那一笔。周末替自己公司做一单收费翻译，足以让全年家教收入失去免税。</li>\n<li><b>自己的公司付款（第 783AQ 条）。</b>款项来自本人或关联人持股的 close company，同样作废。</li>\n<li><b>合伙企业付款（第 783AP 条）。</b>款项来自本人或关联人任合伙人的合伙企业，同样作废。</li>\n</ul>\n\n<h2>五、进阶技巧</h2>\n<ol>\n<li><b>跨年的收款时点。</b>GOV.UK 写明，cash basis 是个体经营者的标准记账法，按实际收到款项的日期入账。2027 年 3 月开票、客户在 4 月 20 日正常付款，收入落在 2027–28 税年，适用 £3,000。前提是记账方法前后一致、付款时间真实。</li>\n<li><b>有亏损时主动放弃全额豁免。</b>全额豁免把亏损也归零。据第 783AL 条，可在正常申报截止日的一周年之前选择不适用：2026–27 税年的截止日为 2028 年 1 月 31 日，选择权到 2029 年 1 月 31 日。</li>\n<li><b>低收入自雇者保留 Class 2 资格。</b>GOV.UK 写明，自雇毛收入 £1,000 及以下，或毛收入超过 £1,000 但利润低于 £7,105 的人，可自愿缴 Class 2。2026–27 年 Class 2 为每周 £3.65，Class 3 为 £18.40，按 52 周计分别约 £190 与 £957。要缴 Class 2、申请 Maternity Allowance 或以自雇收入申请 Tax-Free Childcare，仍须登记 Self Assessment，即使收入低于免税额。</li>\n<li><b>夫妻各有一份。</b>免税额属于个人。两人真实地各自经营、各自收款，2027–28 年合计可覆盖 £6,000；仅把一人的收入挂到另一人名下不成立。</li>\n<li><b>部分豁免也会降低其他计算。</b>GOV.UK 列明，使用免税额后的较低收入用于高收入 Child Benefit Charge、学生贷款还款等计算；Universal Credit 不受影响。</li>\n</ol>\n\n<h2>六、常见误区</h2>\n<ul>\n<li><b>“平台把我报给了 HMRC，所以要交税。”</b>GOV.UK 明确说不是。反过来也成立：毛收入在 £1,700 至 £3,000 之间，2027 年 4 月后可能既被平台报送，又无须申报。报送按日历年，纳税按税年，两个数字通常对不上，应自留记录。</li>\n<li><b>“卖闲置也占额度。”</b>GOV.UK 写明，出售自用旧物一般不构成交易；单件售价超过 £6,000 才可能涉及资本利得税。</li>\n<li><b>“不超过 £3,000 就不用留记录。”</b>使用免税额仍须保存收入记录。</li>\n<li><b>“免税等于允许工作。”</b>税务豁免与签证条件无关。GOV.UK 写明 Student visa 不得自雇；Graduate visa 可以自雇；Skilled Worker 每周最多 20 小时兼职或自营，须符合职业条件，开票等行政工作也计入 20 小时。</li>\n</ul>\n\n<h2>常见问题</h2>\n<h3>2026–27 税年副业毛收入 £2,000，可以等新规再说吗？</h3>\n<p>不可以。新额度不追溯。毛收入超过 £1,000，须在 2027 年 10 月 5 日前登记，网上申报截止日为 2028 年 1 月 31 日。</p>\n<h3>毛收入 £3,200，是全部交税还是只交 £200？</h3>\n<p>选择部分豁免后只对 £200 征税，20% 税率为 £40，但须申报。选择期限同样是正常申报截止日后一年内（第 783AM 条）。</p>\n<h3>出租房间能用 £3,000 吗？</h3>\n<p>不能。出租属于物业收入，适用 £1,000 的物业免税额，或符合条件时适用每年 £7,500 的 Rent a Room Scheme。</p>\n<p>提醒：以 GOV.UK 与最终通过的法律为准；复杂情况请咨询会计师或律师。</p>",
+ "sources": [
+  [
+   "GOV.UK / HMRC：Increasing the trading allowance（2026年10月28日）",
+   "https://www.gov.uk/government/publications/income-tax-increasing-the-trading-allowance/increasing-the-trading-allowance"
+  ],
+  [
+   "GOV.UK：Budget 2026 OOTLAR（1.5 Trading Allowance Increase）",
+   "https://www.gov.uk/government/publications/budget-2026-overview-of-tax-legislation-and-rates-ootlar/budget-2026-overview-of-tax-legislation-and-rates-ootlar"
+  ],
+  [
+   "GOV.UK：Budget 2026 Annex A 税率与免税额",
+   "https://www.gov.uk/government/publications/budget-2026-overview-of-tax-legislation-and-rates-ootlar/annex-a-rates-and-allowances"
+  ],
+  [
+   "GOV.UK：Tax-free allowances on property and trading income",
+   "https://www.gov.uk/guidance/tax-free-allowances-on-property-and-trading-income"
+  ],
+  [
+   "legislation.gov.uk：ITTOIA 2005 Part 6A Chapter 1",
+   "https://www.legislation.gov.uk/ukpga/2005/5/part/6A/chapter/1"
+  ],
+  [
+   "GOV.UK：Selling goods or services on a digital platform",
+   "https://www.gov.uk/guidance/selling-goods-or-services-on-a-digital-platform"
+  ],
+  [
+   "GOV.UK：Voluntary National Insurance contributions",
+   "https://www.gov.uk/voluntary-national-insurance-contributions"
+  ],
+  [
+   "GOV.UK：Cash basis",
+   "https://www.gov.uk/simpler-income-tax-cash-basis"
+  ],
+  [
+   "GOV.UK：Skilled Worker visa – Taking on additional work",
+   "https://www.gov.uk/skilled-worker-visa/second-job"
+  ],
+  [
+   "GOV.UK：Student visa",
+   "https://www.gov.uk/student-visa"
+  ],
+  [
+   "ACCA：Trading and miscellaneous allowance triples",
+   "https://www.accaglobal.com/gb/en/technical-activities/technical-resources-search/2026/October/Trading-and-miscellaneous-allowance-triples.html"
+  ]
+ ],
+ "date": "2026-11-24"
+}
