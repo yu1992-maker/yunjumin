@@ -1,0 +1,39 @@
+{
+ "title": "英国储蓄利息税：£5,000起征额度与11月底自查",
+ "desc": "三层免税额度叠加、£50,270处PSA减半的悬崖、定期存款计税时点与2027年24%/44%/49%新税率。",
+ "body": "<p>先说结论：英国 2026-27 税年，储蓄利息有三层免税额度叠加：个人免税额 £12,570、最高 £5,000 的储蓄起征额度（其他应税收入低于 £17,570 时才有）、以及按税档给的个人储蓄免税额 £1,000/£500/£0。没有其他收入的人，一年最多可有 £18,570 利息不交税。超出部分由 HMRC 事后追收；GOV.UK 写明，有税要补却到 11 月底仍未收到计算信的，必须主动联系 HMRC。2027 年 4 月 6 日起，储蓄利息税率升至 24%/44%/49%。</p>\n<p>本文依据 GOV.UK《Tax on savings interest》各章节、GOV.UK《Income Tax rates and Personal Allowances》、HMRC《Tax-free savings newsletter 24（2026 年 10 月）》、HM Treasury《Budget 2026: Overview of tax legislation and rates》及 HMRC 内部手册 SAIM2440 整理，查询日期 2026 年 11 月 26 日。以下以英格兰、威尔士、北爱尔兰纳税人为例；苏格兰非储蓄收入的税档不同。</p>\n\n<h2>一、三层额度怎么叠加</h2>\n<p>GOV.UK 列出的利息免税额度依次是个人免税额、储蓄起征额度（starting rate for savings）和个人储蓄免税额（Personal Savings Allowance，PSA）。三者的适用条件各不相同：</p>\n<table>\n<tr><th>额度</th><th>金额（2026-27）</th><th>条件与递减规则</th></tr>\n<tr><td>个人免税额</td><td>£12,570</td><td>先被工资、养老金等收入占用，剩余部分才轮到利息</td></tr>\n<tr><td>储蓄起征额度</td><td>最高 £5,000</td><td>其他应税收入（不含利息和股息）低于 £17,570 才有；超出个人免税额的其他收入每 £1，额度减 £1</td></tr>\n<tr><td>个人储蓄免税额</td><td>基本税率 £1,000；高税率 £500；附加税率 £0</td><td>税档按「其他收入 + 全部利息」判定</td></tr>\n<tr><td>ISA 内利息</td><td>不计入</td><td>不占用上述任何额度</td></tr>\n</table>\n<p>两处细节决定结果。其一，储蓄起征额度看的是其他收入，利息本身不会让它递减；其二，PSA 的档位要把利息加进去再判断，所以利息本身可能把你推进高税率档。</p>\n\n<h2>二、算例：三种收入结构，2026-27 与 2027-28 对比</h2>\n<p>以下假设各人无其他收入、税档门槛在 2027-28 不变；2027-28 税率依据 Budget 2026 公布的 24%/44%/49%。</p>\n<table>\n<tr><th>情形</th><th>免税部分</th><th>应税利息</th><th>2026-27 税额</th><th>2027-28 税额</th></tr>\n<tr><td>A：工资 £14,000，利息 £6,000</td><td>起征额度 £3,570 + PSA £1,000</td><td>£1,430 × 基本税率</td><td>£286</td><td>£343.20</td></tr>\n<tr><td>B：工资 £48,000，利息 £3,000</td><td>PSA £500（总收入 £51,000，属高税率）</td><td>£1,770 × 基本税率 + £730 × 高税率</td><td>£646</td><td>£746</td></tr>\n<tr><td>C1：工资 £48,000，利息 £2,270</td><td>PSA £1,000（总收入恰为 £50,270）</td><td>£1,270 × 基本税率</td><td>£254</td><td>£304.80</td></tr>\n<tr><td>C2：工资 £48,000，利息 £2,271</td><td>PSA 降为 £500</td><td>£1,770 × 20% + £1 × 40%</td><td>£354.40</td><td>£425.24</td></tr>\n</table>\n<p>A 的算法与 GOV.UK 示例一致：工资先用掉 £12,570 个人免税额，剩余 £1,430 工资把起征额度从 £5,000 减到 £3,570。B 与 C 揭示的是 PSA 的「悬崖」：总收入一旦越过 £50,270，PSA 从 £1,000 跌到 £500。C1 与 C2 只差 £1 利息，税额却相差约 £100。对年收入接近高税率门槛、又持有较多定期存款的人，这是最值得算的一笔账。</p>\n\n<h2>三、HMRC 怎么收：时间线与「11 月底」规则</h2>\n<p>GOV.UK 写明，每年 4 月 5 日之后，银行和建房互助会会把上一税年支付的利息报给 HMRC。之后的处理取决于利息金额和你是否报税：</p>\n<table>\n<tr><th>时间或条件</th><th>发生什么</th><th>你要做什么</th></tr>\n<tr><td>4 月 5 日税年结束后</td><td>银行向 HMRC 报送利息</td><td>无需操作</td></tr>\n<tr><td>6 月至 11 月底</td><td>受雇者或领养老金者若有税要补，HMRC 寄出税款计算</td><td>核对计算信与对账单</td></tr>\n<tr><td>次一税年</td><td>通常通过税码（tax code）分摊收取，并可能预估当年利息</td><td>在 Personal Tax Account 核对预估利息</td></tr>\n<tr><td>无税码或无法调整</td><td>HMRC 寄 Simple Assessment</td><td>按信中日期缴纳</td></tr>\n<tr><td>有税要补但 11 月底未收到信</td><td>GOV.UK：必须联系 HMRC</td><td>2026 年 11 月 30 日前后自查</td></tr>\n<tr><td>利息超过 £10,000</td><td>须通过 Self Assessment 申报</td><td>未注册者须注册报税</td></tr>\n</table>\n<p>GOV.UK 的示例写得很清楚：2025-26 税年的利息税，HMRC 在 2026-27 税年内寄出计算，通常在 2027-28 税年通过税码收取，而 2026-27、2027-28 两年的税码还可能各自加入一笔按 2025-26 利息预估的当年利息。换言之，一笔利息可能在三个税年的税码中留下痕迹，核对不清容易重复扣或少扣。</p>\n\n<h2>四、利息何时计税：定期存款的时点问题</h2>\n<p>HMRC 手册 SAIM2440 写明，利息在「收到或可供支取」时产生纳税义务；记入一个可自由支取的账户即视为可供支取。对定期存款（fixed-term bond），手册的例子区分了两种条款：允许付违约金提前支取的，每年记息时即计税；到期前完全不能支取的，利息在到期时一次性计税。</p>\n<p>这在 2027 年有实际意义。一只两年期、到期一次付息的存款，若在 2027 年 4 月 6 日之后到期，两年的利息会全部按 24%/44%/49% 计税，且集中在一个税年，更容易冲破 PSA 档位与高税率门槛。同样的利息若每年付一次，可以使用两个年度的 PSA。</p>\n\n<h2>五、进阶技巧</h2>\n<ul>\n<li><b>选择付息方式而不只看利率。</b>年付息或月付息产品把利息摊入各税年，每年都能使用 PSA；到期一次付息的产品，在税率上调和收入接近门槛时成本更高。</li>\n<li><b>盯住 £50,270。</b>收入接近高税率门槛者，可把部分存款转入 ISA，或调整产品到期日，避免利息本身把 PSA 从 £1,000 削到 £500。</li>\n<li><b>夫妻之间按收入分配存款。</b>GOV.UK 写明联名账户利息默认由账户持有人平分；把存款放在收入较低一方名下，可能同时用上其储蓄起征额度和更高的 PSA。前提是资金在法律上真正归属对方。</li>\n<li><b>主动修正税码中的预估利息。</b>若利率下降或已取出存款，HMRC 按上一年数据预估的利息会偏高。GOV.UK 建议用月均利息乘以 12 估算，偏差明显时联系 HMRC 更新税码，由雇主或养老金机构退回多扣部分。</li>\n<li><b>低收入者追溯退税。</b>总收入低于个人免税额却交过利息税的，可在相关税年结束后 4 年内申请退税，不报税的人可用 R40 表。</li>\n</ul>\n\n<h2>六、常见误区</h2>\n<ul>\n<li><b>「没收到 HMRC 的信，就不用补税。」</b>GOV.UK 明确要求：有税要补而到 11 月底仍未收到信的，必须联系 HMRC。</li>\n<li><b>「PSA 按工资定档。」</b>税档要把全部利息加入其他收入后再判断。</li>\n<li><b>「定期存款到期才算收入。」</b>只有到期前完全不能支取的产品如此；允许付违约金提前支取的，每年记息即计税。</li>\n<li><b>「联名账户按各自出资比例计税。」</b>默认平分，认为应不同比例拆分的，须联系 HMRC。</li>\n<li><b>「储蓄起征额度人人都有。」</b>其他应税收入达到 £17,570 即降为零，多数全职受雇者用不上。</li>\n</ul>\n\n<h2>常见问题</h2>\n<h3>境外银行的利息适用同样的额度吗？</h3>\n<p>GOV.UK 指出境外储蓄另有规则。新到英国、适用四年 FIG 制度或汇款制度过渡安排的人，应先确认身份与选择，再判断是否申报。</p>\n<h3>2027 年 4 月起 PSA 和起征额度会变吗？</h3>\n<p>HMRC 第 24 期免税储蓄通讯写明，储蓄起征额度与 PSA 保持不变，变化的是税率：基本 24%、高 44%、附加 49%。</p>\n<h3>ISA 利息要不要算进 £50,270？</h3>\n<p>不需要。ISA 内利息免税，不计入应税收入，也不影响 PSA 档位。</p>\n<p>提醒：以官网为准；复杂情况咨询 CPA/律师。</p>",
+ "sources": [
+  [
+   "GOV.UK：Tax on savings interest – How much is tax free",
+   "https://www.gov.uk/apply-tax-free-interest-on-savings/how-much-is-tax-free"
+  ],
+  [
+   "GOV.UK：Tax on savings interest – How you pay tax on savings interest",
+   "https://www.gov.uk/apply-tax-free-interest-on-savings/how-you-pay-tax-on-savings-interest"
+  ],
+  [
+   "GOV.UK：Tax on savings interest – If you've paid too much tax",
+   "https://www.gov.uk/apply-tax-free-interest-on-savings/if-youve-paid-too-much-tax-on-your-savings"
+  ],
+  [
+   "GOV.UK：Income Tax rates and Personal Allowances",
+   "https://www.gov.uk/income-tax-rates"
+  ],
+  [
+   "HMRC：Tax-free savings newsletter 24（2026 年 10 月）",
+   "https://www.gov.uk/government/publications/tax-free-savings-newsletter-24/tax-free-savings-newsletter-24-october-2026"
+  ],
+  [
+   "HM Treasury：Budget 2026 Overview of tax legislation and rates",
+   "https://www.gov.uk/government/publications/budget-2026-overview-of-tax-legislation-and-rates-ootlar/budget-2026-overview-of-tax-legislation-and-rates-ootlar"
+  ],
+  [
+   "HMRC Savings and Investment Manual：SAIM2440 When interest arises",
+   "https://www.gov.uk/hmrc-internal-manuals/savings-and-investment-manual/saim2440"
+  ]
+ ],
+ "cat": "英国",
+ "topic": "英国储蓄利息税与PSA",
+ "date": "2026-11-26",
+ "slug": "20261126-uk-savings-interest-tax-1"
+}
