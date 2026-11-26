@@ -1,0 +1,39 @@
+{
+ "title": "加拿大HBP：$60,000、89天规则与2028年还款宽限",
+ "desc": "首次购房RRSP提款的五道门槛、89天不可抵税陷阱、2031年起还款的时间线与FHSA叠加用法。",
+ "body": "<p>先说结论：加拿大 Home Buyers' Plan（HBP）允许首次购房者从自己的 RRSP 免税提取最多 $60,000，15 年内还回即可。真正容易出错的是三条时间规则：提款前 89 天内存入 RRSP 的钱，如果提款后账户余额低于这笔存款，差额永久不可抵税；房子必须在首次提款次年的 10 月 1 日前买下或建成；首次提款在 2022 年 1 月 1 日至 2028 年 12 月 31 日之间的，还款从提款年之后的第五年才开始。</p>\n<p>本文依据加拿大税务局（CRA）《How to participate in the Home Buyers' Plan》《How to make withdrawals from your RRSPs under the HBP》《How to repay the amounts withdrawn from your RRSPs under the HBP》、CRA FHSA 提款页面及 CRA 2025 年报税季住房税务提示整理，TaxTips.ca 作补充，查询日期 2026 年 11 月 26 日。</p>\n\n<h2>一、资格条件：五道门槛</h2>\n<table>\n<tr><th>条件</th><th>CRA 原文要点</th><th>容易忽略之处</th></tr>\n<tr><td>首次购房者</td><td>提款当年（提款前 30 天除外）及此前 4 个日历年内，未曾居住在本人或现任配偶拥有的自住房</td><td>例：2025 年 7 月 31 日提款，则 2021 年 1 月 1 日至 2025 年 6 月 30 日不得住过自有住房</td></tr>\n<tr><td>书面购房或建房协议</td><td>提款时必须已签</td><td>CRA 写明，按揭预批（pre-approval）不算书面协议</td></tr>\n<tr><td>加拿大税务居民</td><td>提款时及至买到房期间须持续为居民</td><td>房屋须位于加拿大</td></tr>\n<tr><td>自住意向</td><td>购入或建成后 1 年内作为主要住所</td><td>纯投资房不符合</td></tr>\n<tr><td>此前参加过 HBP</td><td>提款当年 1 月 1 日 HBP 余额须为零</td><td>次年头 60 天内存入并指定为上一年还款的金额，可计入归零</td></tr>\n</table>\n<p>对新移民而言，首次购房者的判断看的是“是否住过自己拥有的住房”，CRA 的这段表述并未限定该住房所在国家；落地前在海外住过自有房产的人，提款前宜向 CRA 或税务师确认是否满足 4 年条件。此外，新移民落地首年通常没有 RRSP 供款额度，HBP 能取多少，取决于 RRSP 里实际有多少钱。</p>\n\n<h2>二、89 天规则：同样存 $50,000，结果相差一整笔抵税</h2>\n<p>CRA 写明：提款前 89 天内存入某个 RRSP 的金额，超过该 RRSP 提款后市值的部分，任何年度都不得抵税。计算按每个账户、每笔提款分别进行。</p>\n<table>\n<tr><th>情形</th><th>89 天前已有余额</th><th>89 天内新存</th><th>HBP 提款</th><th>提款后市值</th><th>不可抵税金额</th></tr>\n<tr><td>A：临时存入</td><td>$10,000</td><td>$50,000</td><td>$60,000</td><td>$0</td><td>$50,000</td></tr>\n<tr><td>B：提前 90 天以上存入</td><td>$60,000</td><td>$0</td><td>$60,000</td><td>$0</td><td>$0</td></tr>\n<tr><td>C：留有余量</td><td>$60,000</td><td>$20,000</td><td>$60,000</td><td>$20,000</td><td>$0</td></tr>\n</table>\n<p>假设边际税率 30%，情形 A 中 $50,000 不可抵税，意味着放弃约 $15,000 的退税。情形 C 说明另一条路：只要提款后账户市值不低于 89 天内的新存款，新存款仍可全额抵税。夫妻互存配偶 RRSP 的，同样适用；若双方都在 89 天内存过，CRA 规定最早的那几笔先被认定为不可抵税。</p>\n\n<h2>三、时间线：以 2026 年 12 月首次提款为例</h2>\n<table>\n<tr><th>节点</th><th>日期</th><th>依据</th></tr>\n<tr><td>最后一次补充提款</td><td>2027 年 1 月 31 日</td><td>只能在首次提款的同一日历年及次年 1 月提款</td></tr>\n<tr><td>买入或建成期限</td><td>2027 年 10 月 1 日前</td><td>符合条件可延长 1 年（另签替代房协议，或建房付款不少于提款总额）</td></tr>\n<tr><td>第一个还款年度</td><td>2031 年</td><td>2022 至 2028 年首次提款的临时宽限：第五年开始</td></tr>\n<tr><td>每年最低还款</td><td>$60,000 ÷ 15 = $4,000</td><td>当年或次年头 60 天内存入 RRSP，并在 Schedule 7 指定</td></tr>\n<tr><td>少还的后果</td><td>差额计入当年收入</td><td>报在第 12900 行</td></tr>\n</table>\n<p>关于宽限期的适用范围，CRA 还款页面正文写的是“2022 年 1 月 1 日至 2028 年 12 月 31 日”首次提款，而同一页面的示例标题仍写“2022 年 1 月 1 日至 2026 年 12 月 31 日”，两处说法不一。2026 年内提款的人两种说法都覆盖；计划 2027 年以后提款的，宜以 CRA 届时的通知和年度 HBP 对账单为准。</p>\n\n<h2>四、进阶技巧</h2>\n<ul>\n<li><b>与 FHSA 叠加用于同一套房。</b>CRA 的 FHSA 提款页面写明，可以为同一套合格住房同时做 HBP 提款和 FHSA 合格提款，只要每次提款时各自条件都满足。</li>\n<li><b>夫妻各取 $60,000。</b>CRA 的住房税务提示写明，配偶或同居伴侣可以为同一套房各自参加 HBP，合计最高 $120,000。</li>\n<li><b>还款不占 RRSP 额度。</b>CRA 写明，即使 RRSP 供款额度为零，仍可存入并指定为 HBP 还款；但指定为还款的金额不能再抵税。额度紧张的年份，可以先还 HBP，把新额度留给可抵税的供款。</li>\n<li><b>提前还清，提早再用。</b>HBP 余额在某年 1 月 1 日归零，即可再次参加；还款超过最低额，会按比例降低以后各年的最低还款。</li>\n</ul>\n\n<h2>五、常见误区</h2>\n<ul>\n<li><b>“有预批就能提款。”</b>CRA 明确按揭预批不算书面协议。</li>\n<li><b>“存入配偶 RRSP 也算还款。”</b>CRA 列明，存入配偶 RRSP、从 FHSA 或其他 RRSP 直接转入的金额，都不能指定为 HBP 还款。</li>\n<li><b>“取 $65,000，超出部分以后再说。”</b>超过 $60,000 的部分当年计入收入，RRSP 机构提款时即须预扣税。</li>\n<li><b>“买房后移居海外，慢慢还。”</b>买房后成为非居民的，须在“提交成为非居民当年的报税表之前”与“成为非居民后 60 天”两者中较早的日期前还清余额，否则余额计入当年收入。</li>\n<li><b>“所有 RRSP 都能提。”</b>CRA 写明，锁定 RRSP 和团体 RRSP 通常不允许 HBP 提款。</li>\n</ul>\n\n<h2>常见问题</h2>\n<h3>先买房、后提款可以吗？</h3>\n<p>CRA 的一般规则是，买入住房不得早于 HBP 提款前 30 天；分居后买断配偶份额等特定情形除外。</p>\n<h3>每年要做什么申报？</h3>\n<p>提款用 Form T1036 交给 RRSP 机构；还款年度在 Schedule 7 第 24600 行指定还款金额，直到余额还清或已计入收入为止，每年都须报税。</p>\n<h3>没买成房怎么办？</h3>\n<p>须通过 Form RC471 取消参加，并按 CRA 规定的期限把款项存回 RRSP，否则计入收入。</p>\n<p>提醒：以官网为准；复杂情况咨询 CPA/律师。</p>",
+ "sources": [
+  [
+   "CRA：How to participate in the Home Buyers' Plan",
+   "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/what-home-buyers-plan/participate-home-buyers-plan.html"
+  ],
+  [
+   "CRA：How to make withdrawals from your RRSPs under the HBP",
+   "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/what-home-buyers-plan/withdraw-funds-rrsp-s-under-home-buyers-plan.html"
+  ],
+  [
+   "CRA：How to repay the amounts withdrawn from your RRSPs under the HBP",
+   "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/what-home-buyers-plan/repay-funds-withdrawn-rrsp-s-under-home-buyers-plan.html"
+  ],
+  [
+   "CRA：Withdrawals and transfers out of your FHSAs",
+   "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/first-home-savings-account/withdrawing-money-from-your-fhsa.html"
+  ],
+  [
+   "CRA：Keys to unlocking housing-related tax savings this filing season",
+   "https://www.canada.ca/en/revenue-agency/news/newsroom/tax-tips/tax-tips-2025/keys-unlocking-housing-related-tax-savings-filing-season.html"
+  ],
+  [
+   "CRA：How to cancel a participation in the Home Buyers' Plan",
+   "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/what-home-buyers-plan/cancel-participation-home-buyers-plan.html"
+  ],
+  [
+   "TaxTips.ca：RRSP Home Buyers' Plan",
+   "https://www.taxtips.ca/rrsp/homebuyersplan.htm"
+  ]
+ ],
+ "cat": "加拿大",
+ "topic": "加拿大HBP首次购房RRSP提款",
+ "date": "2026-11-26",
+ "slug": "20261126-canada-hbp-89-day-1"
+}
