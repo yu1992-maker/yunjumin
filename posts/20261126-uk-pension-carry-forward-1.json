@@ -1,0 +1,39 @@
+{
+ "title": "英国养老金结转：2023/24额度2027年4月5日作废",
+ "desc": "£60,000年度额度可结转3年，本年最多£240,000；减税上限、MPAA与减额规则的边界，附£120,000年薪算例。",
+ "body": "<p>先说结论：英国 2026-27 税年的养老金年度额度（annual allowance）为 £60,000，前 3 个税年未用完的额度可以结转。2023-24、2024-25、2025-26 三年的额度都是 £60,000，理论上本税年最多可有 £240,000 的养老金储蓄不触发额度税。其中 2023-24 的剩余额度在 2027 年 4 月 5 日之后永久失效。但结转只扩大“额度”，不扩大个人缴款的减税上限，后者仍是当年英国应税收入的 100% 或 £3,600 取高。</p>\n<p>本文依据 GOV.UK《Tax on your private pension contributions》、HMRC《Check if you have unused annual allowances on your pension savings》《Work out your reduced (tapered) annual allowance》、HMRC《Pension schemes rates》及 Pensions Tax Manual PTM055100 整理，查询日期为 2026 年 11 月 26 日。</p>\n<h2>一、规则框架：额度、结转顺序与资格</h2>\n<ul><li><b>额度口径。</b>据 GOV.UK，年度额度覆盖所有私人养老金：缴费确定型（DC）计算本人、雇主及第三方的全部缴款；待遇确定型（DB）计算当年承诺待遇的增值。</li>\n<li><b>使用顺序。</b>先用满当年额度，再按“最早一年优先”使用结转额度（HMRC 结转指引、PTM055100）。这一顺序决定了 2023-24 的额度会被最先消耗，也最先过期。</li>\n<li><b>成员资格。</b>HMRC 写明，某一税年内从未是任何英国注册养老金计划（或合格海外计划）成员的，该年不能结转。新到英国、2025 年才被自动加入职场养老金的人，2023-24 与 2024-25 两年的额度不存在。</li>\n<li><b>无需申报。</b>使用结转额度本身不需要通知 HMRC；只有超出可用额度时，才须在 Self Assessment 的“Pension savings tax charges”部分申报。</li></ul>\n<h2>二、时间线：哪一年的额度何时作废</h2>\n<table><tr><th>税年</th><th>年度额度</th><th>减额起算线（threshold / adjusted income）</th><th>最后可结转使用的日期</th></tr>\n<tr><td>2023-24</td><td>£60,000</td><td>£200,000 / £260,000</td><td>2027 年 4 月 5 日</td></tr>\n<tr><td>2024-25</td><td>£60,000</td><td>£200,000 / £260,000</td><td>2028 年 4 月 5 日</td></tr>\n<tr><td>2025-26</td><td>£60,000</td><td>£200,000 / £260,000</td><td>2029 年 4 月 5 日</td></tr>\n<tr><td>2026-27（本年）</td><td>£60,000</td><td>£200,000 / £260,000</td><td>本年未用部分可结转至 2029-30</td></tr></table>\n<p>数字来自 HMRC《Pension schemes rates》（2026 年 4 月 6 日更新）。2022-23 及以前的年度额度为 £40,000，减额线为 £200,000 / £240,000，已不在本税年的结转窗口内。</p>\n<h2>三、算例：年薪 £120,000，三年各存 £10,000</h2>\n<p>设一位英格兰纳税人 2026-27 年薪 £120,000，过去三年每年养老金储蓄 £10,000，均为计划成员，没有其他收入，本年雇主不额外缴款。</p>\n<ul><li><b>可用额度：</b>本年 £60,000，加上三年各 £50,000 的剩余，共 £210,000。</li>\n<li><b>减税上限：</b>个人缴款的减税以当年英国应税收入 £120,000 为上限，因此结转额度在这里用不满。</li>\n<li><b>操作：</b>向 relief at source 个人养老金净缴 £60,000，养老金公司按 20% 补入 £15,000，毛额 £75,000。额度占用为本年 £60,000 加 2023-24 的 £15,000；2023-24 剩下的 £35,000 将于 2027 年 4 月 5 日作废。</li>\n<li><b>税负对比：</b>不缴款时，调整后净收入超过 £100,000 的部分每 £2 减少 £1 个人免税额（GOV.UK《Income Tax rates and Personal Allowances》），免税额降至 £2,570，所得税约 £39,432。毛缴 £75,000 后，基本税率带延长 £75,000，调整后净收入降至 £45,000，个人免税额恢复到 £12,570，所得税约 £21,486。</li>\n<li><b>结果：</b>Self Assessment 退税约 £17,946，加上养老金公司补入的 £15,000，£75,000 毛缴款对应的总税收减免约 £32,946，即约 43.9%。个人实际净成本约 £42,054。</li></ul>\n<p>上述计算未计国民保险（缴款不减少本人 NIC），也未计苏格兰税率，仅用于说明结构。</p>\n<h2>四、进阶技巧</h2>\n<ol><li><b>大额缴款走雇主。</b>个人缴款的减税上限受本人收入约束；雇主缴款不受该上限约束，但仍计入年度额度。有限公司董事、可选择工资牺牲（salary sacrifice）的雇员，可以借雇主缴款使用超出本年工资的结转额度。雇主缴款能否在公司税前扣除，另需满足公司税规则，应向会计师确认。</li>\n<li><b>先索取历年储蓄报表。</b>每家计划都能出具 pension savings statement。DB 计划成员的“储蓄”是待遇增值，而非实际缴款，加薪、晋升年份可能已占用大量额度，不能按缴款额估算。</li>\n<li><b>减额年份的结转按减额后计算。</b>据 PTM055100，若某一往年适用减额（tapered）额度，该年可结转的只是减额后的剩余部分。减额规则为调整后收入每超出 £260,000 £2 减 £1，最低 £10,000，且仅在 threshold income 超过 £200,000 时适用。</li>\n<li><b>赶在 4 月 5 日前完成到账。</b>DC 计划按税年内实际缴款计入；临近 4 月 5 日，银行转账与养老金公司入账可能有时差，应提前两周完成。</li>\n<li><b>与 £100,000 陷阱合并考虑。</b>收入在 £100,000–£125,140 之间的人，缴款同时恢复个人免税额，边际减免最高；这一区间是使用结转额度效率最高的位置。</li></ol>\n<h2>五、常见误区</h2>\n<ol><li><b>“结转后我可以缴 £240,000 并全额减税。”</b>减税上限是当年英国应税收入的 100% 或 £3,600 取高（HMRC《Pension schemes rates》）。年薪 £50,000 的人，个人缴款最多只有 £50,000 毛额能获得减税。</li>\n<li><b>“已经开始领取养老金也能结转。”</b>灵活提取后触发 money purchase annual allowance（MPAA，£10,000）。HMRC 写明，未用完的 MPAA 不能结转，只能结转 alternative annual allowance 的剩余。</li>\n<li><b>“刚来英国，三年额度都有。”</b>没有成员资格的税年不能结转。来英前在海外的养老金计划，除非属于合格海外计划，否则不构成英国意义上的成员资格。</li>\n<li><b>“超额了养老金公司会拦下。”</b>计划只会在本计划内超额时寄送报表；多计划合计超额，需要本人计算并在 Self Assessment 申报，超额部分按本人边际税率征收。</li></ol>\n<h2>常见问题</h2>\n<h3>问：不工作、没有收入的配偶能用结转吗？</h3><p>额度可以结转，但减税上限是 £3,600 毛额（净缴 £2,880），结转对无收入者意义有限。</p>\n<h3>问：结转额度需要向 HMRC 申请吗？</h3><p>不需要。HMRC 指引写明，使用结转额度无需申报；只有超出全部可用额度才需在 Self Assessment 中申报。</p>\n<h3>问：2023-24 的额度如果用不完会怎样？</h3><p>2027 年 4 月 5 日之后即失效，不能再结转。</p>\n<blockquote>提醒：以 GOV.UK 与 HMRC 官网为准；涉及 DB 计划、减额额度、雇主缴款或跨境养老金的情况，请咨询受监管的财务顾问或税务师。本文不构成投资建议。</blockquote>",
+ "sources": [
+  [
+   "GOV.UK：Tax on your private pension contributions – Annual allowance",
+   "https://www.gov.uk/tax-on-your-private-pension/annual-allowance"
+  ],
+  [
+   "GOV.UK：Tax on your private pension contributions – Tax relief",
+   "https://www.gov.uk/tax-on-your-private-pension/pension-tax-relief"
+  ],
+  [
+   "HMRC：Check if you have unused annual allowances on your pension savings",
+   "https://www.gov.uk/guidance/check-if-you-have-unused-annual-allowances-on-your-pension-savings"
+  ],
+  [
+   "HMRC：Work out your reduced (tapered) annual allowance",
+   "https://www.gov.uk/guidance/pension-schemes-work-out-your-tapered-annual-allowance"
+  ],
+  [
+   "HMRC：Pension schemes rates",
+   "https://www.gov.uk/government/publications/rates-and-allowances-pension-schemes/pension-schemes-rates"
+  ],
+  [
+   "HMRC Pensions Tax Manual：PTM055100 Annual allowance: carry forward",
+   "https://www.gov.uk/hmrc-internal-manuals/pensions-tax-manual/ptm055100"
+  ],
+  [
+   "GOV.UK：Income Tax rates and Personal Allowances",
+   "https://www.gov.uk/income-tax-rates"
+  ]
+ ],
+ "cat": "英国",
+ "topic": "英国养老金年度额度结转",
+ "date": "2026-11-26",
+ "slug": "20261126-uk-pension-carry-forward-1"
+}
