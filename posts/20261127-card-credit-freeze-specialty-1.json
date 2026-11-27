@@ -1,0 +1,39 @@
+{
+ "title": "信用冻结不止三家：NCTUE、Innovis与1小时解冻规则",
+ "desc": "三大信用局之外，Innovis、NCTUE、ChexSystems也可免费冻结；法定1个工作日生效、线上解冻1小时内完成。",
+ "cat": "美卡",
+ "topic": "信用冻结 security freeze FCRA 专业报告机构",
+ "date": "2026-11-27",
+ "slug": "20261127-card-credit-freeze-specialty-1",
+ "sources": [
+  [
+   "CFPB：What is a credit freeze or security freeze on my credit report?",
+   "https://www.consumerfinance.gov/ask-cfpb/what-is-a-credit-freeze-or-security-freeze-on-my-credit-report-en-1341/"
+  ],
+  [
+   "15 U.S.C. § 1681c-1（欺诈警示与安全冻结，含 2018 年修正注释）",
+   "https://www.law.cornell.edu/uscode/text/15/1681c-1"
+  ],
+  [
+   "Innovis：Security Freeze",
+   "https://www.innovis.com/personal/securityFreeze"
+  ],
+  [
+   "NCTUE：Consumers（电信、付费电视与公用事业报告）",
+   "https://www.nctue.com/consumers"
+  ],
+  [
+   "ChexSystems：Place a Security Freeze",
+   "https://www.chexsystems.com/security-freeze/place-freeze"
+  ],
+  [
+   "CFPB：List of Consumer Reporting Companies",
+   "https://files.consumerfinance.gov/f/documents/cfpb_consumer-reporting-companies-list.pdf"
+  ],
+  [
+   "FTC：IdentityTheft.gov",
+   "https://www.identitytheft.gov/"
+  ]
+ ],
+ "body": "<p>先说结论：在美国，安全冻结（security freeze）是免费的法定权利，但三大信用局只覆盖借贷数据；Innovis、电信与公用事业数据库 NCTUE、支票账户数据库 ChexSystems 各自独立，需要分别冻结。按 15 U.S.C. §1681c-1，线上或电话申请后，全国性信用局须在 1 个工作日内冻结、在 1 小时内解冻，并可按你指定的时间段临时解冻。冻结不影响信用分，也不阻止现有债权人查看你的档案。</p>\n<p>资料来源：CFPB 问答页《What is a credit freeze or security freeze》（2025 年 9 月 17 日更新）、《公平信用报告法》§1681c-1 原文及 2018 年《Economic Growth, Regulatory Relief, and Consumer Protection Act》（Pub. L. 115-174）修正注释、Innovis、NCTUE、ChexSystems 官网冻结页面。查询日期：2026 年 11 月 27 日。</p>\n<h2>一、法定时限：1 个工作日、5 个工作日与 1 小时</h2>\n<p>2018 年 5 月 24 日生效的 Pub. L. 115-174 第 301 条在 §1681c-1 中新增了 (i)、(j) 两款，把安全冻结从各州收费的做法统一为全国免费。时限要点如下：</p>\n<table>\n<tr><th>动作</th><th>线上或免费电话申请</th><th>邮寄申请</th><th>条文出处</th></tr>\n<tr><td>设置冻结</td><td>收到请求后 1 个工作日内</td><td>收到后 3 个工作日内</td><td>§1681c-1(i)(2)(A)</td></tr>\n<tr><td>书面确认</td><td colspan=\"2\">冻结后 5 个工作日内，并须说明如何解除</td><td>§1681c-1(i)(2)(B)</td></tr>\n<tr><td>解除或临时解除</td><td>收到请求后 1 小时内</td><td>收到后 3 个工作日内</td><td>§1681c-1(i)(2)(C)；CFPB</td></tr>\n<tr><td>初始欺诈警示</td><td colspan=\"2\">至少 1 年（2018 年前为 90 天）</td><td>§1681c-1(a)</td></tr>\n<tr><td>延长欺诈警示</td><td colspan=\"2\">7 年，须提交身份盗用报告</td><td>§1681c-1(b)</td></tr>\n</table>\n<p>上述时限约束的是 §1681a(p) 定义的全国性信用局，即 Equifax、Experian、TransUnion。Innovis、NCTUE、ChexSystems 也提供免费冻结，但处理流程以各自官网为准。</p>\n<h2>二、三大之外的三家：各管什么、怎么冻结</h2>\n<table>\n<tr><th>机构</th><th>数据内容</th><th>冻结方式</th><th>凭证</th></tr>\n<tr><td>Innovis</td><td>借贷类信用报告，被部分贷款机构使用</td><td>网上表格、电话 1-866-712-4546、邮寄</td><td>邮寄确认信内含 10 位冻结 PIN</td></tr>\n<tr><td>NCTUE</td><td>电信、付费电视、公用事业账户的历史、未付已关账户与开户申请</td><td>消费者门户网上办理，或电话、邮寄</td><td>以门户账户管理；可免费临时解冻或解除</td></tr>\n<tr><td>ChexSystems</td><td>支票与储蓄账户记录（强制关户、未付透支等）</td><td>消费者门户网上办理；替他人申请须书面邮寄</td><td>PIN 邮寄或发送到门户</td></tr>\n</table>\n<p>NCTUE 官网写明，冻结的作用是让“为开立新账户”目的的查询无法取得你的档案。这一点对身份盗用的常见形态很关键：冒名办手机合约、开水电燃气账户，查的往往不是三大信用局，而是电信与公用事业数据库。ChexSystems 的冻结则针对冒名开支票账户。CFPB 维护的《List of Consumer Reporting Companies》列出了更多专业报告机构，可按需要逐一核对。</p>\n<h2>三、情景：年底数据泄露后，一个人要做几步</h2>\n<p>假设 2026 年 11 月下旬，一位 H-1B 持有人收到某零售商的数据泄露通知，姓名、地址、出生日期可能外泄；他计划 2027 年 1 月申请一张新信用卡。</p>\n<ol>\n<li>11 月 27 日在线冻结 Equifax、Experian、TransUnion。按法定时限，最迟下一个工作日生效，5 个工作日内收到书面确认。</li>\n<li>同日冻结 Innovis、NCTUE、ChexSystems，把 Innovis 寄来的 10 位 PIN 与 ChexSystems 的 PIN 分开保存。</li>\n<li>2027 年 1 月申卡前，先查发卡行的查询习惯；由于发卡行未必公开使用哪家信用局，较稳妥的做法是对三大信用局设定一个短期临时解冻窗口，例如 1 月 10 日至 1 月 13 日。线上申请后 1 小时内生效，窗口结束自动恢复冻结。</li>\n<li>如后续确认身份已被盗用，可向 IdentityTheft.gov 提交报告后申请 7 年延长欺诈警示。</li>\n</ol>\n<p>整个过程的法定费用为零。CFPB 在同一页面提示，信用局另售的“credit lock”通常需付费、常与其他收费服务捆绑，其效果并不优于免费的安全冻结。</p>\n<h2>四、进阶技巧</h2>\n<ul>\n<li><b>用临时解冻代替解除。</b>CFPB 说明，可以免费“按你指定的时间段”临时解冻，时限与完全解除相同。设定截止日期，可避免申卡后忘记重新冻结。</li>\n<li><b>未成年人的“保护性档案”。</b>§1681c-1(j) 把 16 岁以下儿童列为 protected consumer；若信用局尚无其档案，会在父母申请时专门建立一份记录并冻结，该记录不得用于授信。新移民家庭为孩子办 SSN 后即可办理。</li>\n<li><b>冻结电信数据库再签手机合约。</b>NCTUE 可免费临时解冻；签约前开放、签约后恢复，比长期开放更稳妥。</li>\n<li><b>预筛选邀约另行退出。</b>冻结不等于退出预先筛选的信用卡邀约；按 §1681c-1(b)，提交身份盗用报告并设置延长警示后，信用局须在 5 年内把你从预筛选名单中排除。Innovis 也设有单独的 Opt-Out 页面。</li>\n</ul>\n<h2>五、常见误区</h2>\n<ul>\n<li><b>“冻结会拉低信用分。”</b>CFPB 原话是冻结对信用分没有任何影响。</li>\n<li><b>“冻结后旧卡也不能用、不会被盗刷。”</b>现有债权人仍可查看档案，现有账户照常运作；已有卡被盗刷属于账单争议问题，冻结无法阻止。</li>\n<li><b>“冻一家就够了。”</b>CFPB 明确要求分别联系每家信用局；三大之外的专业机构更需单独办理。</li>\n<li><b>“冻结后雇主、房东、保险公司都查不到。”</b>CFPB 指出，联邦免费冻结规定不适用于雇佣、租房审查和保险用途的报告请求。</li>\n<li><b>“锁定（lock）与冻结一样受法律保护。”</b>锁定是信用局的商业产品，适用其合同条款；冻结的时限与免费性质写在联邦法律里。</li>\n</ul>\n<h2>常见问题</h2>\n<h3>只有 ITIN、没有 SSN，能冻结吗？</h3>\n<p>各机构的线上身份验证与邮寄表格多以 SSN 为默认字段，例如 NCTUE 的邮寄说明要求提供 SSN。只有 ITIN 的读者，建议先致电相关机构确认可接受的身份文件，再选择邮寄方式。</p>\n<h3>解冻后多久能申请信用卡？</h3>\n<p>对全国性信用局，线上申请的解冻法定须在 1 小时内完成。保守起见，可在申请前一天设置临时解冻窗口。</p>\n<h3>冻结会影响已经在审批中的申请吗？</h3>\n<p>若发卡行在冻结生效后才拉取报告，申请可能因无法查询而被暂缓或拒绝。建议在临时解冻窗口内完成申请与可能的补充审核。</p>\n<p>提醒：以各机构官网为准；涉及身份盗用的法律问题请咨询律师或当地法律援助机构。</p>"
+}

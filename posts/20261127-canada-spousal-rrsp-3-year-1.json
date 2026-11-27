@@ -1,0 +1,39 @@
+{
+ "title": "加拿大配偶RRSP：三年归属规则与12月31日的一天之差",
+ "desc": "配偶RRSP由出资方用自己的额度抵税；提款若落在出资当年及其后两年，要算回出资方收入。12月31日与1月2日供款，差出整整一年。",
+ "cat": "加拿大",
+ "topic": "配偶 RRSP spousal RRSP 归属规则 146(8.3) 养老金拆分",
+ "date": "2026-11-27",
+ "slug": "20261127-canada-spousal-rrsp-3-year-1",
+ "sources": [
+  [
+   "CRA：Withdrawing from spousal or common-law partner RRSPs",
+   "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/making-withdrawals/withdrawing-spousal-common-law-partner-rrsps.html"
+  ],
+  [
+   "CRA：How contributions affect your RRSP deduction limit",
+   "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/contributing-a-rrsp-prpp/contributions-affect-your-rrsp-prpp-deduction-limit.html"
+  ],
+  [
+   "CRA：Important dates for RRSP, RRIF, RDSP",
+   "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/rrsps-related-plans/important-dates-rrsp-rrif-rdsp.html"
+  ],
+  [
+   "CRA：MP, DB, RRSP, DPSP, ALDA, TFSA limits and YMPE",
+   "https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/pspa/mp-rrsp-dpsp-tfsa-limits-ympe.html"
+  ],
+  [
+   "CRA：Pension income splitting",
+   "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/pension-income-splitting.html"
+  ],
+  [
+   "Income Tax Act s.146（含 (8.3)、(8.5)、(8.6)、(8.7)）",
+   "https://laws-lois.justice.gc.ca/eng/acts/I-3.3/section-146.html"
+  ],
+  [
+   "CRA：Form T2205",
+   "https://www.canada.ca/en/revenue-agency/services/forms-publications/forms/t2205.html"
+  ]
+ ],
+ "body": "<p>先说结论：配偶 RRSP（spousal RRSP）由收入高的一方出资、用出资方自己的扣除额度抵税，账户与日后提款属于配偶。但《所得税法》第 146(8.3) 条规定，若配偶提款的那一年，或其前两个纳税年度内，出资方向任何配偶 RRSP 供过款，提款中相应部分要计入出资方的收入。由于归属规则按“付款所在年度”计算，2026 年 12 月 31 日的供款与 2027 年 1 月 2 日的供款，可以抵同一年的税，却让三年时钟相差整整一年。</p>\n<p>资料来源：CRA 配偶 RRSP 提款页、扣除额度页、RRSP 重要日期页（均为 2026 年 11 月 17 日版本）、CRA 养老金拆分页、CRA 年度限额表，以及司法部公布的《所得税法》第 146 条原文。查询日期：2026 年 11 月 27 日。</p>\n<h2>一、机制：谁抵税、谁拥有、谁纳税</h2>\n<p>CRA 扣除额度页写明，个人的 RRSP 扣除额度可用于本人 RRSP，也可用于“配偶或同居伴侣的 RRSP”的供款。换言之，配偶 RRSP 占用的是出资方的额度，抵税也在出资方的申报表上；账户的受益人（annuitant）是配偶。</p>\n<table>\n<tr><th>项目</th><th>规则</th><th>出处</th></tr>\n<tr><td>2026 年 RRSP 上限</td><td>$33,810（另受上一年收入 18% 及养老金调整限制）</td><td>CRA 年度限额表</td></tr>\n<tr><td>2026 纳税年度供款截止</td><td>2027 年 3 月 1 日</td><td>CRA 重要日期页</td></tr>\n<tr><td>向配偶 RRSP 供款的年龄上限</td><td>按配偶年龄计：至配偶满 71 岁当年 12 月 31 日</td><td>CRA 扣除额度页</td></tr>\n<tr><td>归属窗口</td><td>提款当年及前两个纳税年度内的配偶供款</td><td>ITA 146(8.3)</td></tr>\n<tr><td>归属金额</td><td>窗口内供款总额与提款额两者取较低</td><td>ITA 146(8.3)(a)(b)</td></tr>\n<tr><td>申报表格</td><td>Form T2205</td><td>CRA 提款页</td></tr>\n</table>\n<p>146(8.6) 同时规定，被归属到出资方的部分，可在配偶的收入中扣除，因此同一笔钱不会被双重计税；146(8.5) 规定多笔供款按时间先后归属。</p>\n<h2>二、12 月 31 日与 1 月 2 日：一天之差</h2>\n<p>前 60 天规则允许 2027 年 1 月 1 日至 3 月 1 日的供款在 2026 年申报表上扣除，这只解决“抵哪一年的税”。归属规则看的是 146(8.3) 中“premium paid by the taxpayer in the year”，即实际付款年度。</p>\n<table>\n<tr><th>供款日期</th><th>可抵税年度</th><th>计入归属窗口的年度</th><th>配偶提款不再归属的最早日期*</th></tr>\n<tr><td>2026 年 12 月 31 日</td><td>2026（或以后）</td><td>2026、2027、2028</td><td>2029 年 1 月 1 日</td></tr>\n<tr><td>2027 年 1 月 2 日</td><td>2026（或以后）</td><td>2027、2028、2029</td><td>2030 年 1 月 1 日</td></tr>\n</table>\n<p>*前提是出资方在随后年度不再向任何配偶 RRSP 供款。只要窗口内再有一笔配偶供款，时钟就按最新一笔重新覆盖。</p>\n<h2>三、算例：$10,000 的三种提款时点</h2>\n<p>设 A 为 2026 年的高收入方，有足够扣除额度；B 为配偶，2028 至 2029 年因育儿或进修收入很低。A 于 2026 年 12 月 30 日向 B 的配偶 RRSP 存入 $10,000，并在 2026 年申报表上扣除，此后不再向配偶 RRSP 供款。</p>\n<ul>\n<li><b>B 在 2028 年提取 $10,000：</b>2028 年的窗口为 2026 至 2028 年，窗口内配偶供款 $10,000，与提款额取低者为 $10,000，全部计入 A 的 2028 年收入；B 填 T2205。</li>\n<li><b>B 在 2028 年提取 $4,000：</b>归属额为 $4,000 与 $10,000 中的低者，即 $4,000 计入 A。</li>\n<li><b>B 在 2029 年 1 月提取 $10,000：</b>2029 年的窗口为 2027 至 2029 年，窗口内无配偶供款，提款按 B 的收入计税。A 当年按自己的边际税率扣除，B 以低收入年度的税率纳税，这正是配偶 RRSP 的设计用途。</li>\n</ul>\n<p>若 A 当初拖到 2027 年 1 月 2 日才存，同样抵 2026 年的税，但 B 要等到 2030 年才能无归属提款。</p>\n<h2>四、进阶技巧</h2>\n<ul>\n<li><b>年长一方超过 71 岁仍可供款。</b>CRA 写明，只要配偶未过满 71 岁当年年底，即可向其 RRSP 供款；出资方本人已满 71 岁、不能再供自己的 RRSP，但仍有扣除额度时，可继续用于配偶 RRSP。</li>\n<li><b>身故当年的最后一次供款。</b>CRA 规定，遗产法定代理人可在身故当年或其后 60 天内向在世配偶的 RRSP 供款，用于逝者最后一份申报表的扣除；146(8.7)(a) 同时规定，出资方身故当年不适用归属规则。</li>\n<li><b>65 岁前的“拆分”只能靠配偶 RRSP。</b>CRA 养老金拆分页显示，RRIF 与年金付款须转出方在年末满 65 岁（或因配偶身故取得）才算合格养老金收入，可拆分上限为 50%，须共同提交 T1032。计划在 60 岁前后提前退休的家庭，配偶 RRSP 是 65 岁前平衡两人收入的主要工具。</li>\n<li><b>RRIF 最低提款额不归属。</b>CRA 提款页说明，从配偶 RRIF 提取的金额中，超过当年最低提款额的部分才进入归属计算。</li>\n</ul>\n<h2>五、常见误区</h2>\n<ul>\n<li><b>“存进配偶 RRSP 就马上转移了税负。”</b>三年窗口内提款会被算回出资方，提前取用等于没有拆分。</li>\n<li><b>“1 月份存、抵去年的税，归属也按去年算。”</b>归属按实际付款年度，见上表。</li>\n<li><b>“配偶 RRSP 用的是配偶的额度。”</b>用的是出资方的扣除额度，配偶自己的额度不受影响。</li>\n<li><b>“离婚分居后仍要归属。”</b>146(8.3) 在双方因婚姻或同居关系破裂而分开居住时不适用。</li>\n<li><b>“新移民落地第一年就能做。”</b>出资方首年通常没有扣除额度，因为额度以上一年在加拿大申报的收入为基础；落地次年起才有实际空间。</li>\n</ul>\n<h2>常见问题</h2>\n<h3>任一方成为非居民后提款，还归属吗？</h3>\n<p>146(8.7)(b) 规定，提款时出资方或配偶任一方为非居民，归属规则不适用；但非居民提款另涉预扣税，应先咨询跨境税务专业人士。</p>\n<h3>配偶 RRSP 还能用于 HBP 或 FHSA 转入吗？</h3>\n<p>HBP 与相关计划另有专门规则，CRA 提款页将其指向单独页面，应按该页面核对，不宜套用本文的归属算例。</p>\n<h3>同居伴侣也适用吗？</h3>\n<p>适用。CRA 与《所得税法》的表述均为“spouse or common-law partner”。</p>\n<p>提醒：以 CRA 官网为准；复杂情况请咨询 CPA 或税务律师。</p>"
+}
