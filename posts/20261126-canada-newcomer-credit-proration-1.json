@@ -1,0 +1,35 @@
+{
+ "title": "加拿大新移民首年报税：抵免按天折算与90%规则",
+ "desc": "落地当年基本个人额按居住天数折算，2026年9月1日落地只剩约$5,499；落地前收入九成来自加拿大才可全额申报。",
+ "cat": "加拿大",
+ "topic": "新移民首年报税 非退还抵免折算",
+ "date": "2026-11-26",
+ "slug": "20261126-canada-newcomer-credit-proration-1",
+ "sources": [
+  [
+   "CRA：Federal non-refundable tax credits for newcomers and emigrants",
+   "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/federal-non-refundable-tax-credits-newcomers-emigrants.html"
+  ],
+  [
+   "CRA：Completing your return for newcomers",
+   "https://www.canada.ca/en/revenue-agency/services/tax/international-non-residents/individuals-leaving-entering-canada-non-residents/newcomers-canada-immigrants/completing-return-newcomers.html"
+  ],
+  [
+   "CRA：Indexation adjustment for personal income tax and benefit amounts",
+   "https://www.canada.ca/en/revenue-agency/services/tax/individuals/frequently-asked-questions-individuals/adjustment-personal-income-tax-benefit-amounts.html"
+  ],
+  [
+   "加拿大财政部：降低最低边际税率对非退还抵免影响的报告",
+   "https://www.canada.ca/en/department-finance/services/publications/report-impact-reducing-lowest-marginal-personal-income-tax-rate-non-refundable-tax-credits.html"
+  ],
+  [
+   "CRA：Newcomers to Canada and the CRA",
+   "https://www.canada.ca/benefits-newcomers"
+  ],
+  [
+   "QuickBooks 加拿大社区：part-year 抵免折算讨论（第三方）",
+   "https://quickbooks.intuit.com/learn-support/en-ca/prepare-review-a-return/immigrants-prorate-non-refundable-tax-credits-part-year/00/589731"
+  ]
+ ],
+ "body": "<p>先说结论：落地当年，加拿大联邦基本个人额（BPA）等大部分非退还抵免要按“成为税务居民的天数 ÷ 365”折算；2026 年 9 月 1 日成为居民的人，BPA 只能用 $16,452 的约三分之一，即 $5,499.02。例外有两类：医疗费、捐款、学费、CPP/EI 等十几项按居民期间实际发生额申报，不折算；如果落地前那段时间的加拿大来源收入占同期全球净收入 90% 或以上，其余抵免可以全额申报。</p>\n<p>资料来源：CRA“Federal non-refundable tax credits for newcomers and emigrants”与“Completing your return for newcomers”两页（页面以 2025 税年为例），CRA 指数化调整页与加拿大财政部报告（2026 年数字）。查询日期：2026 年 11 月 26 日。</p>\n<h2>一、规则框架：三类抵免，三种算法</h2>\n<p>CRA 把落地当年拆成“非居民期间”和“居民期间”两段，每项抵免分别计算后相加，但合计不得超过全年都是居民时可得的金额。</p>\n<table>\n<tr><th>类别</th><th>典型项目</th><th>算法</th></tr>\n<tr><td>按居民期间实际额申报</td><td>CPP/QPP 与 EI 缴费、Canada employment amount、医疗费、捐款、学费、学生贷款利息、养老金收入额、购房者额、无障碍改造、领养费、数字新闻订阅</td><td>只计居民期间实际发生或缴纳的金额，不按天折算</td></tr>\n<tr><td>按天折算</td><td>基本个人额（第 30000 行）、年龄额（第 30100 行）、配偶额（第 30300 行）等其余项目</td><td>全年金额 × 居民天数 ÷ 365</td></tr>\n<tr><td>非居民期间可申报</td><td>CPP/QPP、EI、本人残障额、学费、学生贷款利息、捐款</td><td>前提是该期间申报了加拿大来源收入；若加拿大来源收入 ≥ 同期全球净收入的 90%，其余抵免可全额申报</td></tr>\n</table>\n<p>居民天数的起点是申报表第 1 页“Residence information”填写的入境日期。CRA 的说明是：填写建立“重要居住联系”（significant residential ties）的日期，例如 6 月 8 日建立联系就写“0608”。CRA 在第 30000 行的示例中，5 月 6 日落地按 240 天计，即落地当天计入。</p>\n<h2>二、算例：同样年薪，不同落地日</h2>\n<p>2026 税年联邦 BPA 最高为 $16,452（CRA 指数化页面；高收入者递减至 $14,829），最低档税率为 14%（财政部报告）。假设申报人单身，落地后加拿大净收入 $50,000，无其他抵免：</p>\n<table>\n<tr><th>成为居民日期</th><th>居民天数</th><th>可申报 BPA</th><th>BPA 抵免税额（×14%）</th></tr>\n<tr><td>2026 年 1 月 1 日</td><td>365</td><td>$16,452.00</td><td>$2,303.28</td></tr>\n<tr><td>2026 年 5 月 6 日</td><td>240</td><td>$10,817.75</td><td>$1,514.49</td></tr>\n<tr><td>2026 年 9 月 1 日</td><td>122</td><td>$5,499.02</td><td>$769.86</td></tr>\n</table>\n<p>9 月 1 日落地者比全年居民少用 $1,533.42 的联邦抵免。省级 BPA 另有各省规则，本文只讨论联邦部分。</p>\n<p>情景二：一名工签持有人 2026 年 1 月至 8 月在加拿大短期工作、尚未建立居住联系（非居民），这段时间全球净收入 $40,000，其中加拿大雇佣收入 $38,000，占 95%。按 CRA 规则，他可以全额申报其余联邦抵免，BPA 不必折算。同样 $40,000 若全部来自海外工资，加拿大来源占比为 0%，只能折算。</p>\n<h2>三、进阶技巧</h2>\n<ul>\n<li><b>入境日期要有证据链。</b>居民起始日不等于签证页上的日期，而是建立住所、配偶家属随迁等重要联系的日期。租约、搬家单据、开户与省医保登记日期应留档，入境日期同时决定抵免折算、落地资产成本重置（见本站 2026 年 11 月 23 日文章）和 CCB、CGEB 的起算。</li>\n<li><b>不折算的项目，尽量让支出发生在落地之后。</b>捐款和医疗费按居民期间实际金额申报；同一笔捐款，落地后支付可全额计入，落地前支付则一般不能。</li>\n<li><b>90% 规则必须主动申报。</b>CRA 写明：纸质申报须附说明，列出非居民期间以加元计的全球净收入，并把加拿大境内与境外来源分开写；电子申报则按 NETFILE 软件提示填报。CRA 原话是没有这份说明“不能”给予全额抵免。</li>\n<li><b>非居民期间的全球收入照填，但不计税。</b>它用于计算福利和 90% 测试；居民期间的境外收入才要申报纳税，已在外国缴的税可申请外国税收抵免。</li>\n<li><b>没有 SIN 也按期申报。</b>CRA 建议在截止日前以纸质申报并附说明，避免逾期罚款与利息；没有 SIN 无法网上申报。2026 税年申报与缴税截止日为 2027 年 4 月 30 日。</li>\n</ul>\n<h2>四、常见误区</h2>\n<ul>\n<li><b>“落地前的海外工资也要在加拿大交税。”</b>不对。非居民期间只就特定加拿大来源收入纳税，海外收入只作为信息申报。</li>\n<li><b>“BPA 人人全额。”</b>落地当年不是，除非通过 90% 测试。</li>\n<li><b>“落地第一年 RRSP 供款可以抵税。”</b>CRA 说明：首次在加拿大申报的年份，一般不能扣除当年 RRSP 供款。</li>\n<li><b>“照着 CRA 示例的数字算就行。”</b>CRA 页面示例使用 2025 年金额（BPA $16,129）；2026 税年应改用 $16,452。</li>\n<li><b>“非居民期间零收入就自动满足 90%。”</b>说法不一：有报税软件社区帖子称，2024 税年起非居民期间无全球收入不再被视为满足 90% 测试；本站未在 CRA 页面查到这一表述，申报前应以当年 CRA 指南（5013 系列）为准。</li>\n</ul>\n<h2>常见问题</h2>\n<h3>问：配偶还在国内，第一年能申报配偶额吗？</h3>\n<p>答：可以申报，但同样按天折算，并减去配偶在你居民期间的净收入。CRA 示例：9 月 23 日落地，100 天，配偶额 $16,129 × 100/365 = $4,418.90，减去配偶同期净收入 $800，可申报 $3,618.90（2025 年数字）。</p>\n<h3>问：折算用 365 天还是 366 天？</h3>\n<p>答：CRA 示例按当年天数计算；2026 年为 365 天。</p>\n<h3>问：省税也一样折算吗？</h3>\n<p>答：各省规则不同，魁北克另有规定，请查所在省 12 月 31 日适用的申报包。</p>\n<blockquote>提醒：以 CRA 官网为准；跨境收入、税务居民身份判断等复杂情况请咨询 CPA 或律师。</blockquote>"
+}

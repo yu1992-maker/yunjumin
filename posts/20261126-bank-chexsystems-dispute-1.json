@@ -1,0 +1,43 @@
+{
+ "title": "ChexSystems被拒：5年记录与30天争议",
+ "desc": "被拒开支票账户多因ChexSystems或EWS记录：60天内免费调报告，30天争议时限，真实记录一般保留5年。",
+ "cat": "美卡",
+ "topic": "ChexSystems 支票账户报告 FCRA 争议",
+ "date": "2026-11-26",
+ "slug": "20261126-bank-chexsystems-dispute-1",
+ "sources": [
+  [
+   "CFPB：Consumer guide to checking account denials（PDF）",
+   "https://files.consumerfinance.gov/f/201602_cfpb_consumer-guide-to-being-denied-a-checking-account.pdf"
+  ],
+  [
+   "OCC HelpWithMyBank：负面信息在 ChexSystems/EWS 保留多久",
+   "https://helpwithmybank.gov/help-topics/debt-credit-scores/credit-scores-reports/credit-reports/credit-report-chex.html"
+  ],
+  [
+   "15 U.S.C. § 1681i（FCRA 争议程序）",
+   "https://www.law.cornell.edu/uscode/text/15/1681i"
+  ],
+  [
+   "15 U.S.C. § 1681j（免费报告）",
+   "https://www.law.cornell.edu/uscode/text/15/1681j"
+  ],
+  [
+   "15 U.S.C. § 1681c（7 年报告期限）",
+   "https://www.law.cornell.edu/uscode/text/15/1681c"
+  ],
+  [
+   "Cities for Financial Empowerment Fund：Bank On National Account Standards 2025–2026",
+   "https://cfefund.org/bankon/"
+  ],
+  [
+   "CFPB：List of Consumer Reporting Companies",
+   "https://files.consumerfinance.gov/f/documents/cfpb_consumer-reporting-companies-list.pdf"
+  ],
+  [
+   "ChexSystems 消费者门户",
+   "https://www.chexsystems.com/"
+  ]
+ ],
+ "body": "<p>先说结论：在美国开支票账户被拒，多数原因不在信用分，而在 ChexSystems 或 Early Warning Services（EWS）的“支票账户报告”。银行据此拒绝时必须书面告知报告公司名称；你在收到通知 60 天内可免费调取报告，对不实记录提争议后，报告公司一般须在 30 天内完成调查。真实的负面记录不能靠争议删除，OCC 的说明是这类记录通常保留 5 年，法律上限为 7 年。</p>\n<p>资料来源：CFPB《Consumer guide to checking account denials》、OCC HelpWithMyBank、《公平信用报告法》（FCRA，15 U.S.C. §1681c、§1681i、§1681j）原文、Bank On 2025–2026 国家账户标准。查询日期：2026 年 11 月 26 日。</p>\n<h2>一、两套数据库：为什么信用分 780 也会被拒</h2>\n<p>Equifax、Experian、TransUnion 记录借贷；ChexSystems 和 EWS 记录存款账户行为。CFPB 列出的典型负面事项包括：透支或欠费未还、账户被银行强制关闭（involuntary closure）、涉嫌与支票账户相关的欺诈，以及联名账户另一方的上述问题。</p>\n<table>\n<tr><th>项目</th><th>ChexSystems / EWS</th><th>三大信用局</th></tr>\n<tr><td>主要内容</td><td>强制关户、未还透支、欺诈嫌疑、查询记录</td><td>信用卡、贷款的还款记录与余额</td></tr>\n<tr><td>负面信息保留</td><td>通常 5 年（OCC）；法律上限 7 年（FCRA §1681c）</td><td>多数负面信息 7 年</td></tr>\n<tr><td>免费报告</td><td>每 12 个月 1 次（全国性专业报告机构）；被拒后 60 天内另有 1 次</td><td>annualcreditreport.com</td></tr>\n<tr><td>谁在用</td><td>银行与信用社开户审核</td><td>发卡与放贷审核</td></tr>\n</table>\n<p>CFPB 特别指出：即使事后还清透支，强制关户记录仍可能按报告公司政策保留至 7 年；还款只会让记录状态更新为已付。</p>\n<h2>二、情景：$480 透支的五年账</h2>\n<p>假设 2022 年 3 月，一名留学生毕业回国前未处理账户，透支与费用累计 $480，银行于当年 5 月强制关户并上报。2026 年 11 月，他以 H-1B 身份回美在另一家银行申请支票账户被拒。</p>\n<ol>\n<li>被拒时索取书面 adverse action 通知，确认报告公司是 ChexSystems 还是 EWS。</li>\n<li>60 天内（即 2027 年 1 月下旬前）免费调取报告，核对金额、日期、关户银行。</li>\n<li>若金额或日期有误，同时向报告公司和原银行提争议；若记录属实，联系原银行还清并取得书面“已付”确认。</li>\n<li>按 OCC“通常 5 年”的口径，该记录约在 2027 年 3 月至 5 月间到期；在此之前，可申请下文的低风险账户。</li>\n</ol>\n<h2>三、进阶技巧</h2>\n<ul>\n<li><b>争议的两个时钟。</b>FCRA §1681i 规定：报告公司须在收到争议后 30 天内完成重新调查；若你在此期间补交材料，可延长最多 15 天；调查结果须在完成后 5 个工作日内书面通知你。无法核实的信息必须删除或更正。</li>\n<li><b>两头同时争议。</b>CFPB 建议同时向报告公司和提供信息的银行提出争议；银行作为信息提供方，同样负有调查和更正义务。CFPB 网站提供两类样信。</li>\n<li><b>优先选 Bank On 认证账户。</b>Bank On 2025–2026 标准要求：开户存款不超过 $25、不可免除的月费不超过 $5、零透支费和零 NSF 费；并“强烈建议”只因真实欺诈记录拒绝开户，接受 ITIN 与领事证件作为主要证件。这对 ChexSystems 有旧账、或尚无 SSN 的新移民尤其实用。</li>\n<li><b>冻结防盗用开户。</b>ChexSystems 消费者门户提供 security freeze 和安全提示。冻结后，你自己开新账户前也需临时解冻。</li>\n<li><b>索取报告不影响开户审核。</b>你调取自己的报告属于本人查询，不同于银行的开户查询。</li>\n</ul>\n<h2>四、常见误区</h2>\n<ul>\n<li><b>“还清了就会自动删除。”</b>不会。状态改为已付，记录仍保留至到期；是否提前删除取决于原银行是否愿意更新，没有法定义务。</li>\n<li><b>“争议可以删掉真实记录。”</b>FCRA 只要求删除不准确或无法核实的信息。</li>\n<li><b>“自己销户也会上黑名单。”</b>CFPB 列出的负面事项是强制关户、未还欠款和欺诈嫌疑，正常自愿销户不在其列。</li>\n<li><b>“被一家拒，其他银行也会拒。”</b>CFPB 写明各银行使用报告的政策差异很大，被一家拒绝后可以换一家。</li>\n</ul>\n<h2>常见问题</h2>\n<h3>问：怎么联系 ChexSystems 和 EWS？</h3>\n<p>答：CFPB 指南列出的电话为 ChexSystems (800) 428-9623、EWS (800) 325-7775；地址以 CFPB 最新的 List of Consumer Reporting Companies 为准。</p>\n<h3>问：记录是身份被盗造成的怎么办？</h3>\n<p>答：CFPB 建议同时检查三大信用报告，并附上 FTC 身份盗用声明（identity theft affidavit）提出争议。</p>\n<h3>问：被拒会降低信用分吗？</h3>\n<p>答：支票账户报告与信用分是不同系统；但部分银行开户时也会查信用报告，具体以银行披露为准。</p>\n<blockquote>提醒：以官网为准；复杂情况咨询 CPA 或律师。</blockquote>"
+}
