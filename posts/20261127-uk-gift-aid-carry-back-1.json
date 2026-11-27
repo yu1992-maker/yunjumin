@@ -1,0 +1,39 @@
+{
+ "body": "<p>先说结论：Gift Aid 的 25% 加码归慈善机构，捐款人本人只有在缴高税率或附加税率时才有额外退税。真正少有人用的是结转：在 2027 年 1 月 31 日前在线提交 2025/26 年度自报税表的人，可以把 2026 年 4 月 6 日至提交日之间的捐款当作 2025/26 年度的捐款申报，前提是两年捐款合计不超过上一年所缴税款的 4 倍。</p>\n<p>资料来源：GOV.UK「Tax relief when you donate to a charity」、HMRC「Adjusted net income」、GOV.UK 个人免税额与 High Income Child Benefit Charge 页面、GOV.UK「Claiming Gift Aid as a charity or CASC」。查询日期：2026 年 11 月 27 日。下文税率以英格兰、威尔士、北爱尔兰为例；GOV.UK 写明苏格兰纳税人同样可以申领差额。</p>\n<h2>一、机制：钱分三份走</h2>\n<p>据 GOV.UK，通过 Gift Aid 捐款，慈善机构或社区业余体育俱乐部（CASC）每收到 £1 可以向 HMRC 多申领 25p，捐款人无需多付。这 25p 对应的是基本税率 20% 的税：你捐 £100，视为税前 £125，其中 £25 已由你以基本税率缴过。</p>\n<table>\n<tr><th>捐款人税率档</th><th>净捐 £100 时慈善机构收到</th><th>捐款人可自行申领</th><th>捐款人实际成本</th></tr>\n<tr><td>基本税率 20%</td><td>£125</td><td>£0</td><td>£100</td></tr>\n<tr><td>高税率 40%</td><td>£125</td><td>£25（£125 × 20%）</td><td>£75</td></tr>\n<tr><td>附加税率 45%</td><td>£125</td><td>£31.25（£125 × 25%）</td><td>£68.75</td></tr>\n</table>\n<p>高税率一行的数字直接取自 GOV.UK 的示例；附加税率一行按同一方法计算。领取方式有两种：在自报税表（Self Assessment）中申报，或联系 HMRC 调整税码。不报税的人通过电话可申领 £5,000 及以下，超过 £5,000 要书面申请；单笔或合计 £10,000 以上还需提供捐款日期和受捐机构。</p>\n<h2>二、结转规则与时间线</h2>\n<p>GOV.UK 写明：自报税表通常只申报上一税年的事项，但 Gift Aid 例外，可以把当前税年中、截至你提交税表当天的捐款一并计入上一年。适用于两类人：想更早拿到退税的人；当前税年不再是高税率、但上一税年是高税率的人。</p>\n<table>\n<tr><th>日期</th><th>意义</th></tr>\n<tr><td>2026 年 4 月 6 日</td><td>2026/27 税年开始，此后的捐款可考虑结转到 2025/26</td></tr>\n<tr><td>2026 年 10 月 31 日</td><td>2025/26 纸质税表截止，已过；纸质申报者本年度无法再结转</td></tr>\n<tr><td>提交 2025/26 税表当天</td><td>可结转捐款的截止点，之后的捐款不能再计入 2025/26</td></tr>\n<tr><td>2027 年 1 月 31 日</td><td>2025/26 在线税表截止；逾期提交即失去结转资格</td></tr>\n<tr><td>2027 年 4 月 5 日</td><td>2026/27 税年结束</td></tr>\n</table>\n<p>限制有两条：一是必须按时提交税表；二是两个税年的捐款合计不得超过你在上一税年所缴所得税与资本利得税之和的 4 倍。结转后，这部分捐款就不再计入 2026/27。</p>\n<h2>三、算例：一笔捐款，两层收益</h2>\n<p>假设 2025/26 年度工资收入 £110,000，未做养老金或其他扣减，2027 年 1 月提交税表前净捐 £8,000，并选择结转到 2025/26。</p>\n<ol>\n<li><b>Gift Aid 部分。</b>慈善机构收到 £10,000（£8,000 加 HMRC 补的 £2,000）。</li>\n<li><b>高税率退税。</b>基本税率档按毛额 £10,000 扩大，这 £10,000 从 40% 改按 20% 计税，退税 £2,000。</li>\n<li><b>恢复个人免税额。</b>据 HMRC，adjusted net income 要减去 Gift Aid 毛额。£110,000 减 £10,000 为 £100,000。GOV.UK 写明，超过 £100,000 的部分每 £2 减少 £1 免税额；原本被削减的 £5,000 免税额全部恢复，按 40% 计少缴 £2,000。</li>\n</ol>\n<p>合计：捐款人少缴 £4,000，净成本 £4,000，慈善机构收到 £10,000。按完整税表口径核算，应纳所得税从 £33,432 降至 £29,432，差额同为 £4,000。同一逻辑适用于 High Income Child Benefit Charge：GOV.UK 写明，adjusted net income 超过 £60,000 后每 £200 收回 1% 的 Child Benefit，£80,000 起全额收回。若 adjusted net income 为 £68,000，净捐 £6,400（毛额 £8,000）可把它降回 £60,000，收回比例从 40% 降为零。</p>\n<h2>四、进阶技巧</h2>\n<ul>\n<li><b>收入下降的年份，把捐款往回放。</b>离开英国、休学术假、转兼职或退休的第一年，当年可能只缴基本税率。把这一年 4 月以后的捐款结转到上一个高税率年份，退税从零变为 20% 或 25%。</li>\n<li><b>与养老金供款组合使用。</b>HMRC 计算 adjusted net income 时，Gift Aid 毛额和已获基本税率减免的个人养老金供款毛额都要扣除。两者叠加，是把收入压回 £100,000 或 £60,000 以下的两种合规工具。</li>\n<li><b>追溯声明。</b>GOV.UK 写明，一份 Gift Aid 声明可以覆盖当前及未来的捐款，以及过去 4 年内的捐款。过去捐给某机构但没勾选 Gift Aid 的，可以补签声明，让机构补领那 25%。</li>\n<li><b>夫妻之间由高税率一方出资。</b>Gift Aid 的个人退税跟随捐款人的税率档。同样的捐款，由缴 40% 税的一方以自己名义捐出，才有高税率退税。</li>\n<li><b>小额现金不必纠结声明。</b>慈善机构对 £30 及以下的现金或非接触式刷卡捐款，可通过 Gift Aid 小额捐款计划（GASDS）申领加码，不需要捐款人签声明；该计划每个税年的加码上限为 £2,000。</li>\n</ul>\n<h2>五、常见误区</h2>\n<table>\n<tr><th>误区</th><th>实际规则</th></tr>\n<tr><td>勾了 Gift Aid，自己就能省 25%</td><td>25% 归慈善机构；只有高税率、附加税率纳税人才有个人退税</td></tr>\n<tr><td>收入不高也可以随手勾选</td><td>捐款不得超过当年所缴税款的 4 倍；若机构领回的税多于你实际缴的，HMRC 可能要求你补缴差额</td></tr>\n<tr><td>高税率退税会自动到账</td><td>需要在自报税表中申报或联系 HMRC 调整税码，不会自动处理</td></tr>\n<tr><td>Payroll Giving 也能再勾 Gift Aid</td><td>Payroll Giving 在扣所得税前扣款，本身已获全额所得税减免，不能再申领 Gift Aid；国民保险仍照缴</td></tr>\n<tr><td>买慈善晚宴门票、义卖商品也算捐款</td><td>购买商品或服务的付款、获得超过限额利益的捐款、CAF 代金券等均不适用 Gift Aid</td></tr>\n</table>\n<p>对新到英国的人尤其要注意第二条：抵英首个税年在英国缴税很少时，大额捐款勾选 Gift Aid 容易超过 4 倍上限。</p>\n<h2>六、常见问题</h2>\n<h3>1. 已经提交了 2025/26 税表，还能把 12 月的捐款结转吗？</h3>\n<p>不能。GOV.UK 写明可结转的是截至提交税表当天的捐款。若有大额捐款计划，应先捐款、再提交税表。</p>\n<h3>2. 不在英国居住，还能勾 Gift Aid 吗？</h3>\n<p>关键是你在该税年是否缴了足够的英国所得税或资本利得税，而不是居住地。GOV.UK 的声明要求中专门列有“non-UK donor”的填写方式。</p>\n<h3>3. 结转之后，2026/27 年度还要再报这笔捐款吗？</h3>\n<p>不用。已结转到 2025/26 的捐款不再计入 2026/27，避免重复申报。</p>\n<p>提醒：以 GOV.UK 和 HMRC 官网为准；复杂情况请咨询持牌税务顾问或会计师。</p>",
+ "title": "英国Gift Aid结转：1月31日前捐款抵上一税年",
+ "desc": "Gift Aid的25%归慈善机构，高税率者可再退20%至25%；2027年1月31日前报税，可把今年捐款算进2025/26。",
+ "cat": "英国",
+ "topic": "Gift Aid 慈善捐款 高税率退税 结转 carry back adjusted net income £100,000 HICBC",
+ "date": "2026-11-27",
+ "slug": "20261127-uk-gift-aid-carry-back-1",
+ "sources": [
+  [
+   "GOV.UK：Tax relief when you donate to a charity – Gift Aid",
+   "https://www.gov.uk/donating-to-charity/gift-aid"
+  ],
+  [
+   "HMRC：Adjusted net income",
+   "https://www.gov.uk/guidance/adjusted-net-income"
+  ],
+  [
+   "GOV.UK：Income Tax rates and Personal Allowances",
+   "https://www.gov.uk/income-tax-rates/income-over-100000"
+  ],
+  [
+   "GOV.UK：High Income Child Benefit Charge",
+   "https://www.gov.uk/child-benefit-tax-charge"
+  ],
+  [
+   "GOV.UK：Claiming Gift Aid – what you can claim it on",
+   "https://www.gov.uk/claim-gift-aid/what-you-can-claim-it-on"
+  ],
+  [
+   "GOV.UK：Claiming Gift Aid – Gift Aid declarations",
+   "https://www.gov.uk/claim-gift-aid/gift-aid-declarations"
+  ],
+  [
+   "GOV.UK：Gift Aid small donations scheme",
+   "https://www.gov.uk/claim-gift-aid/small-donations-scheme"
+  ]
+ ]
+}
